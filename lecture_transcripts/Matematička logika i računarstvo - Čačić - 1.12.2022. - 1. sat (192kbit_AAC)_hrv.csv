@@ -1,0 +1,471 @@
+Speech;Timestamp
+Prošli put smo dokazali Levenheim-Skulemove teoreme i vidjeli zapravo ima ih raznih verzija.;0:00:00 - 0:00:10
+Najvažnije su negako one koje povećavaju kardinalnost strukture i one koje smanjuju kardinalnost strukture.;0:00:10 - 0:00:20
+i jedno i drugo zapravo uglavnom se bave beskonačnim strukturama.;0:00:20 - 0:00:25
+Dakle, možemo se donekle baviti i konačnim strukturama, ali onda moramo nekako reći da teorija mora imati proizvoljno velike modele.;0:00:25 - 0:00:38
+Znači konačne, ali proizvoljno velike, pa onda iz toga slijedi da također ima i beskonačni model.;0:00:38 - 0:00:46
+Naravno, to je sve bitno ako pričamo o normalnim strukturama.;0:00:46 - 0:00:52
+Ako pričamo o nenužnom normalnim strukturama, onda nekako kardinalnost strukture uopće nije bitna jer se uopće ni ne može uloviti u teoriji.;0:00:52 - 0:01:02
+Dakle, ono što je još možda malo čudno, Levenheim-Skulemove teoreme smo izrekli u obliku da nismo zapravo govorili o teorijama,;0:01:02 - 0:01:13
+jer kao teoriju još zna sad nemam uopće definiranu, nego smo zapravo govorili samo o strukturama.;0:01:13 - 0:01:18
+Dakle, na neki način, evo sad, na primjer ovako nešto.;0:01:18 - 0:01:23
+Ono što bismo vjerojatno rekli, da imamo ovu nomenklaturu sa teorijama,;0:01:25 - 0:01:31
+onda bismo rekli aha, neka je te nekakva teorija i onda ovdje postoji nekakva struktura koja je model za tu teoriju,;0:01:31 - 0:01:37
+kardinalnost je ovako. Dakle, ovdje ne možemo to reći,;0:01:37 - 0:01:40
+ne možemo reći umjesto imaš teoriju, imaš nekakvu strukturu i onda naravno struktura u kojoj vrijedi ta teorija je zapravo elementarni nadmodel te strukture.;0:01:40 - 0:01:53
+Tak da, kažem, to ćemo zapravo u buduće nekako pomes pod tepih,;0:01:54 - 0:01:59
+tako što ćemo jednostavno teorijom za sad zvati nekakav skup rečenica, dakle, nad istom signaturom.;0:01:59 - 0:02:07
+Dakle, opet čisto za sad nomenklaturno, a poslije ćemo naravno kad budemo radili teoriju dokaza,;0:02:07 - 0:02:14
+onda ćemo vidjeti da su logičke teorije zapravo ipak mrvico komplicirane od toga,;0:02:14 - 0:02:18
+ali za sad ćemo jednostavno reći aha, teorija to je bilo kakav skup rečenica nad istom signaturom se ima.;0:02:18 - 0:02:26
+I onda, dakle, za ispunjivu teoriju kažemo da je kategorična,;0:02:27 - 0:02:34
+ako, nekako intuitivno bismo rekli, ako ima jedinstveni model.;0:02:34 - 0:02:39
+Ali naravno to ne možemo reći, jer sasvim je jasno da u teoriji ne piše ništa o prirodi elementa strukture;0:02:39 - 0:02:48
+na kojoj je ta teorija istinita, dakle, naravno da mogu uzeti neki element i zamijeniti ga nekim drugim elementom;0:02:48 - 0:02:55
+i redefinirati interpretacije nelogičkih simbola u teoriji tako da i dalje dobijem model.;0:02:55 - 0:03:02
+Ali, naravno, matematičar će reći ali to nije bitno jer na taj način si dobio kao fold drugu strukturu,;0:03:02 - 0:03:09
+ali ona je izomorfna, ovo je početno i da, dakle, ako gledamo jednakost struktura dona izomorfizam,;0:03:09 - 0:03:14
+onda zapravo možemo reći da je teorija kategorična ako ima jedinstveni model.;0:03:14 - 0:03:18
+Ali formalno kažemo da je kategorična ako su svi njezini modeli izomorfni.;0:03:18 - 0:03:23
+Primijetite, ovdje zapravo nije doslovno isto ovo što sam rekao jer kao nije uopće rečeno da ima model,;0:03:24 - 0:03:29
+da je konzistentna, da je kao skup rečenica jednostavno ispunjiv, ali sad iskreno da li ćemo neispunjive teorije zvat kategoričnima;0:03:29 - 0:03:40
+ili ne, mislim da je, nije pretjerano sanimljivo pitanje. Dakle, svakako, ono što je važno kada teoriju kažemo da nije kategorična,;0:03:40 - 0:03:50
+prvenstveno pritom mislimo da ima više neizomorfnih modela.;0:03:50 - 0:03:54
+Dakle, ne želimo ove neispunjive zapravo niti zvati kategoričnima, niti zvati nekategoričnima,;0:03:54 - 0:04:01
+ali ako baš moramo, onda ćemo ih zvati kategoričnima.;0:04:01 - 0:04:04
+Dakle, nekategorično znači da može na više, na više modela, na više neizomorfnih modela biti ispunjeno.;0:04:04 - 0:04:13
+Naravno, ne samo da je pojam kategoričnosti s obzirom na jednakost modela prestrog,;0:04:14 - 0:04:21
+nego je s obzirom na izomorfnost modela isto nema baš puno smisla, budući da za logiku prvo vreda, za neke druge logike naravno ima,;0:04:21 - 0:04:29
+ali iz Levenhez-Kuhlemovog teorema na gore, znači zapravo mi možemo uvijek napuhati model,;0:04:29 - 0:04:37
+beskonačni model, do proizvodne kategorije, do proizvodne kardinalnosti,;0:04:37 - 0:04:43
+pa onda zapravo bi ispalo da nijedna ispunjiva teorija nije kategorična.;0:04:45 - 0:04:51
+Well, to nisam baš siguran da je potpuno istina, dakle,;0:04:51 - 0:04:55
+probajmo opet sa ovima koje imaju samo konačne modele.;0:04:56 - 0:04:59
+Dakle, naravno, ako ima konačne modele proizvodne kardinalnosti, onda opet mogu primijeniti Levenhez-Kuhlemovog teorema,;0:05:00 - 0:05:08
+ali, dobro, pretpostavljam da znači kad bi čovjek, evo, dajme probati nešto skroz trivialno,;0:05:08 - 0:05:16
+dakle, postoji x takav da za svaki y, y jednak x,;0:05:16 - 0:05:24
+Dakle, ako ovo gledam kao skup rečenica, onda to je svakako skup od jedne rečenice,;0:05:30 - 0:05:36
+rečenice svakako jeste jer obje variable su vezane.;0:05:36 - 0:05:39
+Što bi čovjek rekao? Svi normalni modeli, zato kažem, ova napomena je možda bila malo preuranjena,;0:05:42 - 0:05:51
+ali, jednako, od nekog trenutka daje ćemo morati pretpostaviti da su sve strukture normalne.;0:05:51 - 0:05:56
+Dakle, ako gledamo samo normalne strukture, onda ovo jest kategorična teorija,;0:05:57 - 0:06:04
+dakle, ona očito ima model negahav jednoelementni skup, sigurno jest model za takvu rečenicu.;0:06:04 - 0:06:19
+Ne trebam ništa, nikakvu interpretaciju davati jer samo je jednakost od nelogičkih simbola,;0:06:19 - 0:06:24
+a jednakost smo rekli u normalnim strukturama, interpretiramo jednakošću u samom nosaču.;0:06:24 - 0:06:30
+Dakle, ne znam jesam li nešto još trebao reći, ali nisam.;0:06:31 - 0:06:37
+Dakle, rekao sam da postoji točka i da su svi elementi njoj jednaki.;0:06:37 - 0:06:44
+Dakle, ako bi nešto drugo bilo, bilo ovaj model, onda bi moralo biti istog tog oblika.;0:06:44 - 0:06:51
+Dakle, ali naravno, ove dvije stvari su izomorfne, jer opet kažem, nemam nikakve interpretacije,;0:06:52 - 0:06:59
+dakle, radit se samo u skupu, a za skup izomorfnost je zapravo objekcija,;0:06:59 - 0:07:03
+svaka dva jednočlana skupa su uvek fipotentne.;0:07:03 - 0:07:07
+Dakle, ja bih rekao da, ono, ipak postoji ispunjive teorije koje jesu kategorične,;0:07:07 - 0:07:12
+ali su jako trivialne, dakle, moraju na neki način odozgo ograničiti kardinalnost.;0:07:12 - 0:07:21
+A čak i na to nisam siguran, ovo je samo funkcioniralo zato što je kardinalnost 1,;0:07:22 - 0:07:26
+da je kardinalnost 2, šta bih rekao?;0:07:26 - 0:07:32
+Postoji y1, postoji y2, tako da y1 nije y2 i za svaki x, x je y1 ili x je x2.;0:07:33 - 0:07:50
+To je opet nekakva, mislim kažem, skup rečenica je zapravo uvijek dovoljno uzeti jednu rečenicu,;0:07:53 - 0:07:59
+jer zakonačne skupove mogu konjunkciju staviti, ali ovdje mi je važno da imam kvantificirane y1, y2;0:07:59 - 0:08:08
+i u jednoj i drugoj formuli, da bude jasno da su to ista dvojica.;0:08:08 - 0:08:12
+Dakle, ja bih naivno rekao da i ova teorija je istokategorična,;0:08:14 - 0:08:19
+dakle nema nikakvih drugih, esencijalno drugih struktura,;0:08:19 - 0:08:27
+osim ovakve nekakve, kažem opet, gledano iz perspektive normalnosti.;0:08:28 - 0:08:37
+Naravno da kad bi gledali nenormalne struktura, onda naravno da mogu i ovdje proizvodno napuhati kardinalnost.;0:08:37 - 0:08:47
+Da li svakom se želi? Dakle, kategoričnost nije ono što bi smo htjeli, odnosno nije ono što zapravo mislimo;0:08:48 - 0:08:54
+kad hoćemo reći da logička teorija ima jedinstveni model, odnosno da nekako u potpunosti opisuje nekakav koncept.;0:08:54 - 0:09:03
+Jednostavan način da se to popravi, u smislu da se barem izbjegne ova priča koju Levenhajnsk ulevam na gore kaže,;0:09:05 - 0:09:13
+je da se stratificira stvar po kardinalnostima, odnosno po kardinalnim brojima.;0:09:13 - 0:09:18
+Dakle, kažemo da je lambda kategorična, gdje je lambda nekakav kardinalni broj, naravno najčešće je beskonacno,;0:09:18 - 0:09:24
+ali ne mora biti, ako, evo ovdje piše, dakle, ako ima barem jedan model kardinalnosti lambda,;0:09:24 - 0:09:30
+dakle, za razliku od ovo gore, evo ovdje, stvarno želimo da bude ispunjiva na modelima kardinalnosti lambda;0:09:30 - 0:09:37
+i ako su svi njezini modeli koji su kardinalnosti lambda, međusobno, izobražamo.;0:09:37 - 0:09:42
+Naravno, najvažniji primjer, dakle, primjer po kojem je zapravo modeliran ovaj,;0:09:44 - 0:09:49
+modeliran ova definicija je nešto na što ćemo se još vraćat,;0:09:49 - 0:09:55
+dakle, teorija koja se ponekad zove DLONE, kao dense linear orders with no endpoints.;0:09:55 - 0:10:05
+Dakle, naravno, to su znači gusti;0:10:08 - 0:10:11
+linearni, ili ovo više kažemo, totalni uređaji;0:10:14 - 0:10:18
+bez krajeva, hoću reći bez najmanjeg i najvećeg elementa,;0:10:26 - 0:10:34
+evo gledajte, totalni ovdje, znači bez minimuma i maksimuma;0:10:34 - 0:10:37
+i naravno da sama teorija DLONE kao teorija na koju se sigurno može primijeniti,;0:10:37 - 0:10:48
+gledajte, spomnim na gore, nije kategorična, općenito,;0:10:48 - 0:10:53
+ali jest alef nula kategorična i to je težak teorema.;0:10:53 - 0:10:56
+Dakle, ako imam dva gusta prebrojiva, totalno uređena skupa;0:10:57 - 0:11:02
+koji nemoje ni najmanji ni najveći element,;0:11:02 - 0:11:05
+onda postoji u teoriji skupova nešto što se zove uređena karakterizacija skupa racionalnih brojeva;0:11:05 - 0:11:09
+koje kaže svaki takav je zapravo sličan sa Q, pa su onda i međusobno slični.;0:11:09 - 0:11:14
+A sličnost nije ništa drugo nego izomorfizam u ovom logičkom smislu,;0:11:14 - 0:11:18
+jer naravno ako signatura bude samo ovo, onda je to točno totalno uređen skup.;0:11:18 - 0:11:28
+Dakle, naravno, to je sad opet nekakav skup rješenica,;0:11:31 - 0:11:33
+sam moraš u nekakve dvije formule reći da se radi o i refleksivnom,;0:11:33 - 0:11:39
+transitivnom skupu, još jedna formula da kažeš da su svaka dva elementa usporediva,;0:11:40 - 0:11:45
+još jedna koja kaže da je sve gusto, da između svake dvojice imaš nekog trećeg,;0:11:45 - 0:11:52
+da nema najmanji element i da nema najveći element.;0:11:53 - 0:11:56
+Dakle, nekakvi šest rješenica, naravno onda možete to i sve zapisati u jednoj rješenici;0:11:56 - 0:12:01
+kao konjunkciju, ali u svakom slučaju konačno je aksimat izrebeljna teorija;0:12:01 - 0:12:06
+i zgodna je za neke stvari poslije.;0:12:06 - 0:12:09
+Dakle, ponekad ćemo maknuti ovo, onda će se to jednostavno zvat teorija DLO,;0:12:09 - 0:12:15
+dakle kada neće biti bitno ovo, jel ima krajeva,;0:12:16 - 0:12:20
+ali naravno za ovaj primjer je jako važno, jer ako dopustite da ima krajeve,;0:12:20 - 0:12:25
+onda naravno više nije, jel, na primjer, šta ja znam,;0:12:25 - 0:12:27
+ovo je jedan presjek Q, to je svakako model za DLO, ali nije model za DLO-NE.;0:12:28 - 0:12:38
+I naravno nije izomorfno sa Q, između ostalog, jer nije elementarno ekvivalentno sa Q,;0:12:40 - 0:12:50
+dakle tvrdnja da ima najmanji element je svakako nekakva rješenica prvog reda,;0:12:50 - 0:12:56
+koja vrijedi gore, a ne vrijedi dalje.;0:12:56 - 0:12:59
+Dobro, dakle, sigurno nećemo sad ovaj dokazivati ovaj teorijem,;0:13:00 - 0:13:04
+to je iz teorije skupova se zna, ali primijetite da to točno znači ovo gore,;0:13:04 - 0:13:09
+za lambda jednako alef 0.;0:13:09 - 0:13:11
+Dakle, naravno, teorija DLO-NE ima i drugih modela,;0:13:12 - 0:13:16
+na primjer, mislim, svakako ima ove iz Levenhans-Coulombovog teorijema,;0:13:16 - 0:13:20
+ali ima i jedan jako poznati model koji smo isto već vidjeli,;0:13:20 - 0:13:25
+dakle, koji sigurno nije izomorfan sa Q, iz trivialnog razloga što uopće nije iste kardinalnost.;0:13:27 - 0:13:34
+Nema bijekcija koja čuva uređaj jer uopće nema bijekcije.;0:13:35 - 0:13:38
+Ali, kažemo, ovo ograničenje na kardinalnost upravo služi tome da izbaci ovakve neprebrojive skupove iz igre.;0:13:41 - 0:13:49
+Sjetimo se samo još da smo bili rekli, znači ovdje jeste elementarno-ekvivalentno,;0:13:49 - 0:13:53
+dakle, nekako možemo reći jedino što R diskvalificira, ovo je prećijenje u kardinalni broj.;0:13:53 - 0:13:58
+Dakle, to je upravo ideja ove stratifikacije kategoričnosti po kardinalnim brojivima.;0:13:58 - 0:14:05
+Dobro, još jedna važna, važno svojstvo teorije, za sad kao skupa rečenica,;0:14:20 - 0:14:28
+ali kažem, poslije kao nekog možda dokaznog sustava ili tako nešto,;0:14:28 - 0:14:32
+sigma teorija T je potpuna ako nekako ima sad logičku posteljicu,;0:14:33 - 0:14:39
+svaku moguću, odnosno, na neki način, odlučuje svaku moguću rečenicu;0:14:40 - 0:14:45
+nad signaturom nad kojem jeste. Dakle, naravno da ja uvijek mogu zamisliti nekakvu rečenicu;0:14:45 - 0:14:51
+koja nije odlučiva u nekoj teoriji, ako mi je dozvoljeno koristiti simbole;0:14:51 - 0:14:56
+koje ta teorija uopšte nema. Ali, nekako, ako imam teoriju nad nekom signaturom sigma;0:14:56 - 0:15:01
+i imam nekakvu sigma rečenicu koja nije odlučena od strane te teorije,;0:15:01 - 0:15:06
+onda ću reći da je teorija nepotpuna. Dakle, što znači odlučena rečenica?;0:15:06 - 0:15:12
+Znači da ili ona ili njezina negacija su logičke posteljice,;0:15:12 - 0:15:17
+znači jedna od njih je logička posteljica od te.;0:15:17 - 0:15:21
+I, naravno, veza sa onim prije, znači nekako teorija bi bila kategorična;0:15:22 - 0:15:28
+ako su svi modeli izomorfni, a teorija je potpuna samo ako su svi njezini modeli;0:15:28 - 0:15:34
+elementarno ekvivalenti. Znači, nekako u tom smislu, sva nekako potpunost je,;0:15:34 - 0:15:39
+slabije svojstvo, gledamo čisto u smislu teorije modela, od kategoričnosti.;0:15:39 - 0:15:45
+Dobro, jel treba uopće ovo dokazivati? Stvarno mislim da je jasno.;0:15:47 - 0:15:51
+Dakle, jedan smjer, ako je teorija potpuna i imam dva modela,;0:15:51 - 0:15:57
+onda na oba ta modela vrijedi ta teorija.;0:15:58 - 0:16:03
+I sad uzmeš bilo kakvu rečenicu zbog potpunosti, ona je ili logička posteljica od te,;0:16:04 - 0:16:11
+pa vrijedi u svakom od modela od te, pa se poduzeraju na toj rečenici,;0:16:12 - 0:16:17
+ili je njena negacija logička posteljica od te, pa njena negacija mora vrijediti u oba modela,;0:16:17 - 0:16:23
+to znači da ona sama ne vrijedi ni u jednom, ni u drugom, pa su opet ekvivalenti.;0:16:23 - 0:16:27
+To je bio jedan smjer, s lijeva na desno.;0:16:28 - 0:16:31
+S desta na lijevo, znači svi modeli su elementarno ekvivalenti,;0:16:31 - 0:16:35
+kako to povlači da je teorija te potpuna?;0:16:35 - 0:16:37
+Pa uzmeš bilo koju formulu i pogledaš je li vrijedi u modelu.;0:16:37 - 0:16:42
+Kojem modelu? Svejedno je, jer su elementarno ekvivalenti.;0:16:42 - 0:16:45
+Dakle, fiksiraš neki model, svejedno je koji,;0:16:45 - 0:16:48
+i onda jednostavno gledaš za svaku pojedinu rečenicu,;0:16:48 - 0:16:51
+je li vrijedi u tom modelu ili ne vrijedi.;0:16:51 - 0:16:53
+Naopče, u ovom modelu je ne vrijedi.;0:16:53 - 0:16:55
+Formula za općenite formula nije dovoljna, moraš propisati valuaciju.;0:16:55 - 0:16:59
+A za rečenicu je sasvim dobro definirano pitanje;0:16:59 - 0:17:02
+je li rečenica istina u ovom modelu ili nije.;0:17:02 - 0:17:05
+E sad, zašto je to dobro uopće definirano?;0:17:05 - 0:17:07
+Zbog toga što su svi modeli elementarno ekvivalenti.;0:17:07 - 0:17:10
+Dakle, koji god model ja odabrao, oni će se pudodarati u odgovoru;0:17:10 - 0:17:15
+na pitanje je li neka formula vrijedi ili ne vrijedi na njima,;0:17:15 - 0:17:19
+i na taj način zapravo ja mogu shvatiti šta su logičke postirice.;0:17:19 - 0:17:24
+Na primjer, šta ja znam, ako dobijem da u tom nekom fiksiranom modelu vrijedi;0:17:24 - 0:17:28
+nekakva formula F, onda čisto iz činjenica da su svi modeli;0:17:28 - 0:17:34
+elementarno ekvivalenti, zapravo dobijem da ta ista je vrijedi u svakom modelu od T.;0:17:34 - 0:17:39
+A to točno po definiciji znači da je F logička postirica od T.;0:17:39 - 0:17:42
+Isto tako, ako za neki fiksirani model dobijem da F ne vrijedi u T,;0:17:42 - 0:17:46
+onda opet budućnja je rečenica, znači da je njezina negacija vrijedi u T,;0:17:46 - 0:17:50
+a onda svi su modeli elementarno ekvivalenti, negacija je također rečenica,;0:17:50 - 0:17:56
+dakle negacija vrijedi u svim modelima od T, točno znači da je negacija;0:17:56 - 0:18:00
+logička postirica od T.;0:18:00 - 0:18:02
+Primjeri potpunih i nepotpunih teorija, dakle svakako puno je lakše smisliti;0:18:05 - 0:18:09
+primjer nepotpune teorije jer nekako nepotpunost je samo nešto što nisi opisao,;0:18:09 - 0:18:15
+nekakva odrednica tvoje strukture koju nisi ulovio u teoriju.;0:18:16 - 0:18:21
+Na primjer, teorija grupa sigurno nije potpuna jer to je valjda ono najprimitivniji,;0:18:24 - 0:18:29
+ono što se valjda prvo napravi na nekoj ozbiljnoj algebri,;0:18:31 - 0:18:35
+kao ha, definira se teorija grupa i onda se baš kaže,;0:18:35 - 0:18:39
+ono, teorija grupa je ponosna na to što nije potpuna u smislu,;0:18:39 - 0:18:43
+ima jako puno, jako različitih grupa,;0:18:43 - 0:18:46
+jako puno stvari se u matematici ponaša na taj način,;0:18:46 - 0:18:51
+dakle ima nekakvu asocijativnu operaciju, ima nekakve inverze,;0:18:51 - 0:18:54
+ima nekakve jedinični elementi i tako to,;0:18:54 - 0:18:59
+dakle hrpa toga matematički bitno različitog,;0:18:59 - 0:19:03
+hoću reći ne izomorflog, se može modelirati u teoriji grupa.;0:19:03 - 0:19:07
+Čitava poanta teorije grupa je da bude stravično primjenjiva;0:19:07 - 0:19:11
+na razna područja matematike, a ovdje je samo vrlo trivialno,;0:19:11 - 0:19:16
+recimo Z2 i Z3 sigurno nisu izomorfne.;0:19:16 - 0:19:20
+Ineče, naravno ovdje recimo priča o, naravno nije da sam definirao,;0:19:20 - 0:19:27
+ali jasno je kako bi se definirao lambda potpunosti,;0:19:27 - 0:19:29
+dakle svi modeli kardinalnosti lambda su elementarno ekvalentni,;0:19:29 - 0:19:35
+naravno onda ovo ne bi bio kontraprimjer, jer naravno Z2 i Z3;0:19:35 - 0:19:39
+su različite kardinalnosti. Znate li koja je prva kardinalnost;0:19:39 - 0:19:44
+gdje teorija grupa stvarno ima međusobno ne elementarno ekvivalentne modele?;0:19:44 - 0:19:51
+Četiri. Četiri, da. A teorija abelovih grupa?;0:19:51 - 0:19:55
+Jer za četiri je problem u tome što su i dalje sve...;0:19:57 - 0:20:01
+A, ne, ne, da, sve su komutativne.;0:20:02 - 0:20:05
+A, da, ok, onda je isto četiri, da.;0:20:07 - 0:20:09
+Ali ono što sam zapravo htio pitat je, ali to se ne može u terminima potpunosti reći,;0:20:09 - 0:20:15
+znači teorija ne abelovih grupa bi se mogla možda reći,;0:20:15 - 0:20:19
+dakle naravno to nitko ne proučava.;0:20:19 - 0:20:22
+To je šeste, dakle na šeste prvi put pojavi nekomutativnost,;0:20:22 - 0:20:26
+odnosno možete imati grupu koja nije komutativna.;0:20:26 - 0:20:30
+Ali, da, četiri je svakako ono gdje bismo prvi put dobili dva modela iste kardinalnosti,;0:20:30 - 0:20:36
+ali ne elementarno ekvivalentne, jer valjda jedna od njih je z4 koja je ciklička,;0:20:36 - 0:20:40
+a druga je ona z2 na kvadrat koja nije ciklička.;0:20:40 - 0:20:44
+Ali cikličko zapravo ne možete zapisati u teoriji prvog reda,;0:20:46 - 0:20:51
+dakle trebali biste nekak preciznije reći.;0:20:51 - 0:20:54
+Ali dobro, možete reći, recimo, svaki element je reda 2,;0:20:54 - 0:20:57
+to je ono što vrijedi u z2 na kvadrat, a ne vrijedi u z4.;0:20:57 - 0:21:01
+Zašto cikličkost ne možete, jer nekako treba vam onaj n,;0:21:01 - 0:21:04
+dakle nekako pišem, aha, tako, za svaki, za svaki element grupa,;0:21:04 - 0:21:08
+okej, postoji element grupe, to je onaj jedinstveni, jedan generator,;0:21:08 - 0:21:13
+takav da svaki element grupe je ovaj na neki prirodni broj.;0:21:13 - 0:21:17
+Ali sad, naravno, nemate prirodne brojeve interno,;0:21:17 - 0:21:21
+znači morate ih modelirati pomeću nekakve beskonačne funkcije.;0:21:21 - 0:21:25
+Ili je ta, ili je njegov kvadrat, ili je njegova treća potencija,;0:21:25 - 0:21:28
+i tako dalje, to naravno ne možete.;0:21:28 - 0:21:30
+Da imate beskonačnu konjunkciju, to biste mogli sa skupom formula,;0:21:30 - 0:21:33
+to smo već radili hrva puta, ali beskonačnu konjunkciju ne možete.;0:21:33 - 0:21:36
+Ali kažem, to, naravno, nije nam sad toliko bitno,;0:21:36 - 0:21:39
+samo da se malo prisijetimo nekih stvari iz algebre.;0:21:39 - 0:21:42
+Teorija polja, karakteristika 0.;0:21:43 - 0:21:45
+Dakle, sjećate se ono što smo pričali prošli put,;0:21:45 - 0:21:47
+dakle imam nekakvu teoriju, nekakvih 9 aksijoma,;0:21:47 - 0:21:50
+ili koliko već, koja opisuje zakone polja.;0:21:50 - 0:21:53
+I onda još na to dodam sve one, znači to je sad beskonačno aksijoma,;0:21:54 - 0:21:58
+teorija, dodam da nije karakteristike 2, nije karakteristike 3,;0:21:58 - 0:22:03
+nije karakteristike 5, nije karakteristike 7,;0:22:03 - 0:22:06
+i tako za svaki prim broj dodam da nije, jednostavno da 1 plus 1 plus 1 plus 1 plus 1,;0:22:06 - 0:22:12
+na primjer, da nije karakteristike 5, da je to različito od 0.;0:22:12 - 0:22:15
+Međutim, ta teorija i dalje nije potpuna, jer, hvala Bogu, imamo dva različita,;0:22:16 - 0:22:22
+u smislu neizomorfna, čak i iste kardinalnosti ovdje, polja karakteristike 0.;0:22:22 - 0:22:29
+Dakle, polje kompleksnih brojeva i polje realnih brojeva su oba polja,;0:22:29 - 0:22:34
+oba su kardinaliteta kontinuum i oba su karakteristike 0,;0:22:34 - 0:22:40
+ali ipak, na primjer, u C imate i.;0:22:40 - 0:22:45
+Navrhno sam variablu nazvao i, ali...;0:22:50 - 0:22:53
+Dobro, s druge strane, ako hoćeš baš, ali ga bar si zatvore na polja,;0:23:03 - 0:23:08
+onda, opet, ta teorija nije potpuna, ali sad malo teže.;0:23:09 - 0:23:14
+Dakle, naravno, s jedne strane možemo uzeti C,;0:23:14 - 0:23:16
+a s druge strane nam treba nekakvo algebarsko polje,;0:23:16 - 0:23:19
+koje će se pokazati zbog ovog četvrtog rezultata,;0:23:19 - 0:23:22
+da ne spije biti karakteristike 0.;0:23:22 - 0:23:24
+Dakle, ali naravno, onda je nekak teško to lijepo reći,;0:23:25 - 0:23:31
+ali naravno znamo da je 2 prim broj, pa je onda ovo sigurno polje,;0:23:31 - 0:23:35
+ono, konačno polje, a sad ga možemo algebarski zatvoriti.;0:23:35 - 0:23:38
+Naravno, to je sad komplicirana nekakva limes produktna,;0:23:38 - 0:23:42
+odnosno, koacijentna konstrukcija u algebri koja se radi,;0:23:42 - 0:23:45
+ali negak intuitivno što radim?;0:23:45 - 0:23:47
+Samo dodajem nultočke polinoma, dakle, jednostavno, što ovdje dobijem?;0:23:47 - 0:23:51
+Dobijem, valjda, da x, baš ovaj isti x, dakle, plus 1,;0:23:51 - 0:23:55
+nema nultočku, odnosno, ne, da je...;0:23:55 - 0:23:58
+Znači, z2 ima svojstvo da je x na kvadrat uvijek 1, dakle, nikad...;0:24:05 - 0:24:13
+Ne, x na kvadrat je x, dobro?;0:24:16 - 0:24:21
+Znači, x na kvadrat minus x, odnosno, isto što i plus x,;0:24:22 - 0:24:26
+i onda još, recimo, plus 1.;0:24:28 - 0:24:30
+Dakle, to je, valjda, najjednostavniji polinom koji nema nultočku,;0:24:30 - 0:24:34
+onda jednostavno dodam, dakle, smislim nekakav algebarski zakon koji sve stvari;0:24:35 - 0:24:43
+koje bih smo htjeli zvati nultočkama, toga treba zadovoljava, dakle,;0:24:43 - 0:24:46
+najčešće se gleda nekakav prstem polinoma, pa ga se onda pocijepa;0:24:46 - 0:24:51
+po idealu generiranog stime, na taj način zapravo maknem iz priče sve višeg radnike;0:24:51 - 0:24:59
+od x na kvadrat plus x plus 1, i onda zapravo ono što mi ostane;0:24:59 - 0:25:02
+na neki način mogu zvati nultočkom.;0:25:02 - 0:25:05
+Naravno, nije tako jednostavno jer ovo je polinom stupnja 2, pa bi trebao imati dvije nultočke,;0:25:05 - 0:25:09
+pa onda nekako još, ovaj, i to rješim.;0:25:09 - 0:25:12
+I što je najgore, to time proces nije gotov jer sam sad dobio nekakav novi groj,;0:25:12 - 0:25:17
+da ga nazvati i2, kao to je i u z2, naravno, ali sad imam nove polinome,;0:25:17 - 0:25:24
+recimo, ovako nešto što vjerojatno opet nema nultočku,;0:25:26 - 0:25:29
+pa onda moram dalje proširivati.;0:25:29 - 0:25:32
+Znači, to je nekakav iterativni proces u kojem se uvijek iznova dodaju nultočke polinoma;0:25:32 - 0:25:38
+sako eficijentima iz onog prethodnog i može se vidjeti, naravno,;0:25:38 - 0:25:43
+da to ostane u prebrojivu mnogo koraka i onda nakon što smo sve to napravili,;0:25:43 - 0:25:48
+stvarno dobijemo nešto što se zove jednostavno algeborsko zatvorenje od z2.;0:25:48 - 0:25:53
+I ono što je važno je da se karakteristika prije toga čuva.;0:25:53 - 0:25:56
+Nekako, ako je ovo karakteristike 2, onda ovaj novi kojem dodam će također imat svojstvo;0:25:56 - 0:26:02
+da je on plus on jednako nula. Zašto? Jer, naravno, jedinica je takva.;0:26:02 - 0:26:08
+A jedinica je z2, znači, na primjer, i2 plus i2 uvijek mogu zapisati kao i2 puta 1 plus i2 puta 1,;0:26:09 - 0:26:18
+odnosno distributivnost i sad svojstvo nule.;0:26:18 - 0:26:24
+Znači, ljepota polja je da imaju jedinicu. To uopće nije, to ne možete napraviti uopće nijetim prstanovima,;0:26:24 - 0:26:32
+ali kod polja je dovoljno gledat' koliko puta jedinica se mora zbrojiti samo sa sobom da dobijete nulu.;0:26:32 - 0:26:38
+Onda, naravno, svi ostali elementi moraju se dovoljavati to isto.;0:26:38 - 0:26:42
+Dobro, e, ali, znači, ovo smo mogli jer nisu, ono, nisu jednako zatvorena.;0:26:44 - 0:26:52
+Ovo smo mogli jer nisu jednake karakteristike. Ako propišemo i jedno i drugo, onda zapravo dobijemo potpuno teoriju.;0:26:52 - 0:26:59
+Dakle, algebarski zatvorena polja, karakteristike nula.;0:26:59 - 0:27:02
+I sad ću neko reći, čekaj, kak je to uopće teorija? Dakle, da su karakteristike nula?;0:27:02 - 0:27:06
+To sam rekao, znači, imamo onih devet akcijela polja i još beskonačno mnogo njih koji kažu da nije karakteristike 2, 3, 5, 7, 11 itd.;0:27:06 - 0:27:15
+A kak da je algebarski zatvoreno? Pa opet moram nekako reći, svi polinomi, naravno ne svi, svi valjda stupnja 1 ili većeg imaju nulje točke.;0:27:16 - 0:27:25
+I onda to, naravno, na primjer, jedna takva rečenica je za svaki a, za svaki b, za svaki c.;0:27:26 - 0:27:34
+E sad, nešto sam pričao sam to prošli put, ali sam zaboravio jednu stvar reći.;0:27:36 - 0:27:39
+Naravno, a nije nula, povlači postoji x.;0:27:39 - 0:27:43
+Znači, ovo je naravno množenje u polju. Dakle, ovo je sad nekakva rečenica u toj teoriji polja koja zapravo kaže da svaki kvadratni polinom,;0:27:50 - 0:28:00
+ima nul točku i sad naravno, ovaj, tako nešto za svaki pojedini stupanj.;0:28:00 - 0:28:05
+Opet, beskonašno mnogo rečenica, ali to je u redu. Opet, nekakav skup rečenica koji kaže točno da je polje algebarski zatvoreno.;0:28:05 - 0:28:13
+Stvarno, napisati nekakav skup rečenica koji kaže da se radi o algebarski zatvorenom polju,;0:28:15 - 0:28:20
+karakteristike nula i ta teorija, sad sam stvarno toga natrpao hrpu, ali sam natrpao dovoljno u smislu da sam dobio potpunu teoriju.;0:28:20 - 0:28:28
+Naravno, nećemo napraviti čitav dokaz, ali napravit ćemo, ajmo reći, onaj dio dokaza koji se odnosi na logiku,;0:28:28 - 0:28:35
+dakle dio koji se odnosi na algebru ćemo više manje preskočiti.;0:28:35 - 0:28:39
+Dobro, i sad jedna relativno zgodna stvarčica, dakle, Walsh-Wattov test potpunosti,;0:28:43 - 0:28:51
+kako možemo, kako ful, provjeriti da je teorija potpuna, mada, kažem, vidjet ćemo postiri da to nije baš tak primjenjivo,;0:28:51 - 0:29:01
+ali teorijski dijelo je zanimljivo. Za početak samo da, dakle, ova lema je valjda očita postirica;0:29:01 - 0:29:11
+Lehmann-Hans Kulemovog teorema na gore, dakle, čim imaš beskonačnu strukturu,;0:29:11 - 0:29:19
+onda ju možeš napuhat do bilo koje beskonačne kardinalnosti, dakle, ona ima nekakav beskonačni kardinalni broj,;0:29:20 - 0:29:29
+a za bilo koji drugi beskonačni kardinalni broj postoji elementarno ekvivalentna struktura koja je te kardinalnosti.;0:29:29 - 0:29:38
+Mislim, to je više manje Lehmann-Hans Kulemov na gore, samo kaže, aha, Lehmann-Hans Kulemov na gore,;0:29:38 - 0:29:45
+odnosno formulo kaže da se radi o podskupu, aha, dobro, ok.;0:29:45 - 0:29:53
+Znači, ovo je isto stvar koja će nam trebat u budućnji, dakle, TH od M,;0:29:53 - 0:30:01
+dakle, TH dolazi od theory of M, dakle, teorija strukture M. Šta bi to bilo?;0:30:01 - 0:30:07
+To bi bilo skup svih rečenica koje su istinite na M.;0:30:07 - 0:30:11
+Dakle, naravno, opet, nad nekom fiksnom signaturom, ovom koje je interpretirana u M.;0:30:12 - 0:30:19
+Dakle, ono što svakako trivialno vrijedi je da na M vrijedi teorija od M, praktički po definiciji.;0:30:21 - 0:30:30
+Svaka rečenica iz TH od M vrijedi u M, jer inače se ne bi našlo u tom skupu.;0:30:31 - 0:30:35
+Ej, sad kaže, to je nekakav skup rečenica, dobro, i M je nekakav beskonačni model za njega,;0:30:36 - 0:30:44
+točno, jer piše u predpostavci da je beskonačan, i sad mogu primijeniti;0:30:45 - 0:30:50
+Lehmannsku ulovu od teorija M na gore i dobiti, znači, nekakav M;0:30:50 - 0:30:55
+koji je također model za TH od M, i kardinalnost nosača od M je upravo lambda.;0:30:55 - 0:31:12
+Lambda je nekakav, Lehmannsku ulovu na gore kaže, za svaki beskonačni kardinalni broj imaš elementarni nadmodel;0:31:13 - 0:31:22
+istog tog propisanog kardinalniteta. Znači, svakako to znači da...;0:31:22 - 0:31:35
+To znači ovo.;0:31:36 - 0:31:38
+Hm...;0:31:38 - 0:31:39
+Ma da, ali nisam siguran da ovo treba zapravo toliko komplicirano dokazivati, jer valjda smo...;0:31:44 - 0:31:49
+Valjda smo dokazali da...;0:31:54 - 0:31:56
+Mislim...;0:31:57 - 0:31:58
+Znači, ako su... Ako je elementarni podmodel, onda mu je sigurno elementarno ekvalentan,;0:32:03 - 0:32:08
+tako da, ne znam, zašto je ovo sad tako zaobilazno.;0:32:08 - 0:32:13
+Ali dobro, sigurno je istina, samo imam dojavnost da može lakše.;0:32:13 - 0:32:18
+Znači, ovo zapravo kaže da je TH od M podskup od TH od N, jer, dakle,;0:32:19 - 0:32:24
+sve rečenjice iz TH od M vrijede na N, pa se nalaze u teoriji strukture N.;0:32:24 - 0:32:31
+A za obratnu inkluziju, kao uzmeš...;0:32:32 - 0:32:35
+Pretpostaviš suprotno, znači, uzmeš nešto u teoriji od N,;0:32:37 - 0:32:41
+koje nije, koje ne vrijedi u M, i sad, naravno, negacija onda vrijedi u M,;0:32:41 - 0:32:46
+ali onda je negacija u teoriji od M, koja je podskup od teoriji od N,;0:32:46 - 0:32:50
+jel, dakle, ljepota ovoga je da možete to gledati za sve formule,;0:32:50 - 0:32:53
+pa tako i za njihove, za sve rečenjice, pa tako i za njihove negacije,;0:32:53 - 0:32:56
+koje su isto rečenjice, i onda bi ispalo da u N vrijedi negacija od F,;0:32:56 - 0:33:00
+što je, naravno, nemoguće jer sam pretpostavio da u N vrijedi F.;0:33:00 - 0:33:04
+Ali kažem, imam dojam da se ovo može lakše, ali dobro.;0:33:04 - 0:33:10
+Možda, možda nešto propustam, ali fakat ne vidim sad što.;0:33:13 - 0:33:16
+Dobro.;0:33:16 - 0:33:17
+Uglavnom, dakle, sad ide taj teorem, Voš-Votov, koji kaže zapravo ovo.;0:33:23 - 0:33:30
+Dakle, nekako ono što smo već bili, rekli, kategoričnost propisuje izomorfnost različitih modela,;0:33:30 - 0:33:39
+a potpunost propisuje samo elementarnu ekvivalentnost.;0:33:39 - 0:33:44
+Dakle, svakako je kategoričnost jače svojstvo, ali, naravno, vidjeli smo da je u tom smislu prejako,;0:33:44 - 0:33:53
+da ga skoro nijedna zanimljiva teorija nema, pa smo onda ipak kategoričnost oslabili na lambda kategoričnost.;0:33:53 - 0:33:59
+Onda je pitanje, kad lambda kategoričnost, kao ipak malo slabiji pojam,;0:33:59 - 0:34:03
+doista povodeći potpunost i jedan kriterij je ovaj.;0:34:03 - 0:34:06
+Dakle, ako je teorija lambda kategorična za neki beskonačni lambda,;0:34:06 - 0:34:11
+kažem, mogli smo definirati lambda kategoričnost za konačne, ali ovdje baš hoćemo da bude za neki beskonačni lambda,;0:34:11 - 0:34:18
+i svaki model od te je beskonačan. Dakle, to je možda malo čudno na prvi pogled,;0:34:18 - 0:34:23
+ono kao, ne smije imat' konačnih modela, jesam danas on je na neki način ne zanima,;0:34:23 - 0:34:29
+ali baš zato, tada je te potpuna teorija.;0:34:29 - 0:34:32
+I sad, dokaz je zapravo, ono, prilično zanimljiv, a i dosta jednostavan.;0:34:33 - 0:34:39
+Dakle, kak' ćeš dokazati da je nešto potpuna teorija, koristit ćemo onu lemu koja je rekla,;0:34:39 - 0:34:44
+teorija je potpuna ako i samo ako su svaka dva njezina modela elementarno ekvalentna.;0:34:44 - 0:34:48
+Uzmeš proizvodne dva modela, oni moraju bit' beskonačni,;0:34:48 - 0:34:53
+a ova lema koju sam tamo dokazao, ili jednostavno, dakle,;0:34:54 - 0:34:58
+Levene-Skuleov teorem na gore, kaže da ih, te m i n, možeš napuhat' do m' i n',;0:34:59 - 0:35:07
+koji će bit' kardinalnosti nosača lambda.;0:35:07 - 0:35:09
+I bit' će pritom elementarno ekvalentni ovima, dakle, m će bit' elementarno ekvalentan sa m';0:35:10 - 0:35:14
+n sa n'. I sada, napokon sam se dočepao kardinalnosti lambda,;0:35:14 - 0:35:21
+te je lambda kategorična, dakle, m' i n' su izomorfni.;0:35:22 - 0:35:26
+A onda naravno, či ak' su izomorfni, onda su elementarno ekvalentni,;0:35:26 - 0:35:30
+a ovo je relacija ekvalencije i sad, dakle, sva četiri su zapravo međusobno;0:35:30 - 0:35:35
+elementarno ekvalentni, pa tako i ova dvojica od kojeg smo krenuli.;0:35:35 - 0:35:39
+Dakle, po onoj tamo, pred prethodnoj lembi smo dokazali ono što treba da bismo dokazali da je te potpuna.;0:35:39 - 0:35:47
+Evo, i sad kaže, na primjer, teorija DL-O-N-E je svakako potpuna jer svakako;0:35:47 - 0:35:58
+jest alef nula kategorično, dakle, alef nula je taj lambda koji je beskonačan kardinalni broj.;0:35:59 - 0:36:05
+To smo rekli slijedi iz teorema urođenoj karakterizaciji skupa Q.;0:36:06 - 0:36:11
+I svaki model od DL-O-N-E jest beskonačan. Kak' to vidite? Pa, nema, znači,;0:36:11 - 0:36:19
+hm, dobro, ajmo, znači, model,;0:36:20 - 0:36:24
+znači, ovo sigurno ne smije biti prazno,;0:36:31 - 0:36:35
+modeli, nosači su nama uvijek ne prazni, dakle, postoji nekakav A element.;0:36:37 - 0:36:42
+Ovo je, ok? Onda, no endpoints, znači, a da, to je to,;0:36:43 - 0:36:49
+mislim, čak i netra gustoća, mislite da sam neko, kak' ću naći dva elementa pa onda između njih gusto i tako,;0:36:49 - 0:36:54
+ali ključno je ovo da nema, nema kranjih točnika.;0:36:54 - 0:36:58
+Jel onda naravno, ovaj, za taj A, na primjer, A nije najmanji,;0:36:58 - 0:37:03
+pa postoji neko koje je manje od njega, znači, postoji B,;0:37:05 - 0:37:08
+takav da je B manji od A.;0:37:09 - 0:37:13
+I naravno, onda je B različit od A zbog irrefleksivnosti.;0:37:14 - 0:37:20
+Uređaj je takav da nitko nije manji od samog sebe.;0:37:22 - 0:37:24
+I onda opet, znači, B nije najmanji, pa postoji nekakav C, takav da je C manji od B.;0:37:25 - 0:37:35
+I sad, naravno, iz toga zbog irrefleksivnosti slijedi da je C različit od B,;0:37:35 - 0:37:39
+međutim, po transitivnosti slijedi C manji od A, pa onda opet C je različit od A.;0:37:39 - 0:37:49
+Dakle, A, B i C su svi različiti.;0:37:49 - 0:37:51
+I onda jasno je da zapravo to mogu raditi proizvodno daleko,;0:37:51 - 0:37:55
+znači, na taj način zapravo dobijem beskonačno mnogo elementa u nosaču;0:37:55 - 0:37:59
+i svi su oni različiti, dakle, nosač je beskonačni.;0:37:59 - 0:38:02
+Dobro, znači, primjerom ovog teorema odmah dobijem da se radi o potpunoj teoriji.;0:38:03 - 0:38:11
+Dobro, e sad, naravno, ograničenost primjene, nije sad to možda baš jasno;0:38:18 - 0:38:27
+zašto je to nekako bitno ograničenje.;0:38:27 - 0:38:29
+Nije bitno da postoje takve teorije, nego zapravo da ih ima puno,;0:38:29 - 0:38:34
+koje su, znači, potpune i imaju samo beskonačne modele,;0:38:34 - 0:38:39
+ali nisu lambda kategorične, ni za koji beskonačni kajad je na ovoj broji.;0:38:39 - 0:38:45
+Dakle, nekako, mislim, možete zamislit u teoriji grupa,;0:38:45 - 0:38:49
+ali, ono, teoriji beskonačnih grupa, jel?;0:38:49 - 0:38:51
+Dakle, ja nekakim jašim propješem da ima samo beskonačne modele,;0:38:51 - 0:38:58
+ali nekako sama matematička primjenjivost te teorije zapravo kaže da možda;0:38:58 - 0:39:03
+eventualno na dovoljno malim, kažem, na grupama kardinalnosti 2 ili 3;0:39:03 - 0:39:09
+su doista elementarne kvalitete, ali kad odete dovoljno daleko,;0:39:09 - 0:39:13
+a beskonačno jeste dovoljno daleko u većini slučajeva,;0:39:13 - 0:39:16
+onda sigurno dobijete neizomorfne modele.;0:39:16 - 0:39:21
+Dobro, sad ovaj Morlev teorem nije prećerano bitan tu,;0:39:22 - 0:39:26
+ali koristi ove iste termine, pa onda možemo ga sada izreći.;0:39:26 - 0:39:33
+Ne možemo ga dokazati još, ali...;0:39:33 - 0:39:36
+Da, nisam siguran kako bi to točno išlo.;0:39:40 - 0:39:43
+Uglavnom, dakle, ako teorija nema konačnih modela,;0:39:43 - 0:39:47
+dakle opet radimo u ovoj sferi gdje teorije imaju samo beskonačne modele,;0:39:47 - 0:39:52
+potpuna je i lambda kategorična za neki neprebrojivi kardinalni broj.;0:39:52 - 0:39:58
+Dakle, pazite, to se ne odnosi na ovu koju je alef mula kategorična,;0:39:58 - 0:40:03
+mislim, ne znamo, ali sad možda je i kategorična za neki drugi,;0:40:03 - 0:40:08
+za neki veći kardinalni broj, neprebrojiv, ali to za sad ne znamo.;0:40:08 - 0:40:14
+Ako imaš takvu teoriju koja je potpuna i lambda kategorična za neki neprebrojivi kardinalni broj,;0:40:14 - 0:40:20
+onda je mi kategorična za svaki neprebrojivi kardinalni broj.;0:40:20 - 0:40:24
+Dakle, naravno, onda zapravo nekako iz perspektive kategoričnosti;0:40:24 - 0:40:31
+svi neprebrojivi kardinalni brojevi su isti.;0:40:31 - 0:40:35
+Dakle, ne možeš, na primjer, biti teorija prvog reda tako da budeš;0:40:35 - 0:40:40
+alef 17 kategoričan, a alef 23 ne budeš kategoričan.;0:40:40 - 0:40:45
+Dakle, ovo je nekako...;0:40:45 - 0:40:47
+Može se razlikovat po pitanju prebrojive kategoričnosti i to je zapravo ono što je zanimljivo,;0:40:49 - 0:40:54
+a za sve neprebrojive je više manje isto.;0:40:54 - 0:40:58
+Pod ovom dodatnom predopstavkom da teorija nema konečno.;0:40:58 - 0:41:02
+Dobro, ajmo nekakvu zanimljiviju primjenu u ošpot ovog testa napraviti.;0:41:03 - 0:41:10
+Dakle, mislim, opet kažem, tu će biti nekakvi rezultate iz algibre;0:41:10 - 0:41:15
+koje ćemo jednostavno preskočiti, ali nekakve ovakve stvari;0:41:15 - 0:41:19
+koje možda možemo smatrati općom kulturom ćemo spomenuti.;0:41:19 - 0:41:23
+Dakle, dobro, ovo sam već više manje rekao.;0:41:23 - 0:41:28
+Dakle, ACFP je jednostavno teorija algebarski zatvorenih polja karakteristike P.;0:41:28 - 0:41:34
+Činjenica da se radi o polju, to je nekakvih 9 komada.;0:41:40 - 0:41:44
+Činjenica da se radi o algebarski zatvorenom, to je alef 0 komada.;0:41:44 - 0:41:52
+Alef 0 komada, evo, za svaki pojedini stupanj polinoma.;0:41:52 - 0:41:57
+Činjenice da je karakteristike 0.;0:41:57 - 0:42:01
+To je još alef 0 komada koji kažu da 1 plus 1 plus 1,;0:42:03 - 0:42:09
+proizvodan prosti broj puta, nije jednako 0.;0:42:09 - 0:42:12
+Dakle, e sad, ako uzmem samo jednu od ovih rečenica,;0:42:12 - 0:42:19
+dakle, i negiram je, znači, koja kaže 1 plus 1 plus 1,;0:42:19 - 0:42:24
+to mi piše da radiš to 0, ali ako negiram i dobijem još 1 plus 1 plus 1,;0:42:25 - 0:42:32
+1 jeko 0, sa 5 komada.;0:42:33 - 0:42:36
+To plus ovo će mi dati teoriju ACFP.;0:42:37 - 0:42:42
+Znači, za 5 iz, naravno, za 5 iz 5.;0:42:43 - 0:42:51
+A ako je ACF 0, naravno, onda to je ovo dvoje skupa.;0:42:52 - 0:42:57
+Aha, ne, ne, ne, sorry, sorry, sorry.;0:43:04 - 0:43:06
+Još uz to gledam algebarsku zatvornost.;0:43:07 - 0:43:10
+Algebarska zatvornost, činjenica da se radi u polju i negacija jedne od ovih formula.;0:43:12 - 0:43:16
+To je ACFP.;0:43:16 - 0:43:17
+A sve skupa...;0:43:18 - 0:43:20
+Sve skupa se zove ACFP, svih tih koliko veća aksijona.;0:43:27 - 0:43:33
+Ok.;0:43:33 - 0:43:34
+E, i ono što ćemo sad napraviti, zapravo za svaki pojedini p,;0:43:35 - 0:43:38
+dakle i ovakve i ovakve, ćemo, malo da kažem, dokazati,;0:43:38 - 0:43:42
+nije baš, ali pokazati da je ta teorija potpuna.;0:43:42 - 0:43:47
+Zanimljiva postoji se toga, nešto što se zove Lefšicov princip,;0:43:48 - 0:43:51
+što je zapravo teorem iz, mislim, teorem,;0:43:51 - 0:43:55
+nije teorem, ali je metateorem u kompleksnoj analizi,;0:43:55 - 0:43:59
+koji kaže više manjak.;0:43:59 - 0:44:00
+Ak' možeš nešto formulirat' u logici prvog reda,;0:44:00 - 0:44:04
+dakle, i to provjerit' u c, onda ćeš to zapravo isto tako imat';0:44:04 - 0:44:09
+u svakom algebarskom zatvorenom polju karakteristika nula.;0:44:09 - 0:44:12
+Dakle, neko krivo reć' da je c jedino algebarski zatvoreno polje;0:44:12 - 0:44:17
+karakteristika nula, naravno, ali što se tiče onoga što;0:44:17 - 0:44:21
+logika prvog reda vidi, možemo se pravit' da je tako.;0:44:21 - 0:44:25
+Poslije ćemo vidjet' još neke varijante Lefšicovog principa,;0:44:26 - 0:44:29
+dakle, ima ih, valjda, četiri moguće načine da to iskažete.;0:44:29 - 0:44:33
+Signatura teorije polja, dobro, znači sve smo već to vidjeli,;0:44:34 - 0:44:37
+imamo jednakost, imamo dva binarna funkcijska simbola;0:44:37 - 0:44:40
+za zbrajanje i množenje, imamo dva konstantska simbola;0:44:40 - 0:44:43
+za neutralni element s obzirom na zbrajanje i množenje;0:44:43 - 0:44:46
+i algabarski zatvoreno polje, to je ovo što sam tu pisao,;0:44:46 - 0:44:51
+dakle, moram, ne smijem te zaboraviti ovu tu stvar,;0:44:51 - 0:44:55
+dakle, ovaj vodeći koji je c jednoj ne smijeo bit' nula.;0:44:55 - 0:44:58
+Dobro, ajmo na pauzu, pa ćemo nakon pauze dokaza' da je;0:44:59 - 0:45:02
+svako algabarski zatvoreno polje beskonačno.;0:45:02 - 0:45:04
+A to je vrlo jednostavno.;0:45:04 - 0:45:06

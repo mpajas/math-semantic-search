@@ -1,0 +1,635 @@
+Speech;Timestamp
+Dakle, na ovom prošnom slajdu smo imali jedan primjer koji će se često pojavljivati.;0:00:00 - 0:00:10.700000
+Dakle, imamo dvije strukture i onda zapravo homomorfizam nije;0:00:10.700000 - 0:00:15.500000
+nekako stvarno, da tako kažem, praslikavanje gdje ja uzmem broj 3;0:00:15.500000 - 0:00:20
+pa ga praslikamo u broj 7, nego uzmem broj 3 pa ga praslikamo u isto broj 3.;0:00:20 - 0:00:24.500000
+Dakle, nekako imam, htio bih reći da je ova N svakako podskupodze,;0:00:24.500000 - 0:00:29
+ali ne samo da je podskup, nego ono što smo rekli, dakle,;0:00:29 - 0:00:32
+za bilo kakav neologički simbol, ono što vrijedi ovdje, vrijedi i ovdje.;0:00:32 - 0:00:37.500000
+Naravno, ne u suprtnom smjeru jer za nekakve atomarne formule;0:00:37.500000 - 0:00:43
+se može dogoditi da jednostavno nemam interpretacije u ovom manjem skupu;0:00:43 - 0:00:50.500000
+koje imam u većem, ali nekako ako tu imam nekakva dva broja, 3 i 7,;0:00:50.500000 - 0:00:57
+i njihov, ne znam, zbroj je 10, onda će njihov zbroj i ovdje biti 10.;0:00:57 - 0:01:01.500000
+Dakle, takvu vezu između dvije strukture zapravo zovemo podmodel.;0:01:01.500000 - 0:01:07
+Htjeli bih smo zapravo reći podstruktura, ali opet niko tak ne govori.;0:01:07 - 0:01:11.500000
+Kaže se jednostavno da je jedna struktura podmodel druge strukture;0:01:11.500000 - 0:01:15.500000
+ili u drugom smjeru da je N proširenje od M.;0:01:15.500000 - 0:01:19
+Piše se ovaj standardni znak za podskup jer na kraju krajeva to jest isti taj odnos,;0:01:19 - 0:01:24.500000
+samo naravno ne u kategoriji skupova nego u kategoriji struktura prvog reda.;0:01:24.500000 - 0:01:29
+Ako vrijedi ono što biste očekivali, dakle, na nosačima vrijedi upravo podskup.;0:01:30 - 0:01:35
+Ovaj tu lijevi, ovaj manji nosač sam označio sa M čisto da mogu lakše opisati;0:01:35 - 0:01:41.500000
+što se zbiva sa nelogičkim simbolima.;0:01:41.500000 - 0:01:45
+A što se zbiva? Dakle, naravno konstantki simboli su jednaki,;0:01:45 - 0:01:49
+to je ono što baš hoću, dakle, nekako ako mi oznaka 3 predstavlja broj 3,;0:01:49.500000 - 0:01:57
+onda hoću da predstavlja broj 3 i u onom drugom modelu u ovom proširenju.;0:01:57 - 0:02:02.500000
+Dakle, to sigurno. Ovo isto jer nekako, mislim, sad ja sam rekao;0:02:05.500000 - 0:02:10.500000
+više u smjeru ovog pralazka sa manje strukture na veću,;0:02:10.500000 - 0:02:15.500000
+ali možda je lakše razmišljati kako pralazim sa veća na manju,;0:02:16 - 0:02:19
+tako da jednostavno restringiram funkciju.;0:02:19 - 0:02:21
+Uzmem interpretaciju funkcije u većoj strukturi i restringiram je;0:02:21 - 0:02:27
+na manju strukturu, dakle, naravno na mjesnost i dobijem time;0:02:27 - 0:02:33
+upravo interpretaciju funkcije u manjoj strukturi.;0:02:33 - 0:02:36
+Dakle, na primjer, što ja znam? Množenje prirodnih brojeva;0:02:36 - 0:02:39
+je upravo restrikcija množenja cijelih brojeva na n puta n.;0:02:39 - 0:02:44
+I naravno, relaciju samo presjećem sa m na n.;0:02:45 - 0:02:48.500000
+To neki isto zovu restrikcije relacije, ali ja bih rekao da je lakše;0:02:48.500000 - 0:02:52.500000
+razmišljati o tome kao presjeku. Mislim, stvarno nije ista vrsta operacije;0:02:52.500000 - 0:02:56
+kao i ova restrikcija funkcije, a već imamo lijepo ime za to;0:02:56 - 0:02:59.500000
+i to ime je presjek. Uzmem jednostavno relacija manje;0:02:59.500000 - 0:03:03
+ili jednako na z. Kad je presječem sa n puta n,;0:03:03 - 0:03:07.500000
+dobijem upravo relaciju manje ili jednako na n.;0:03:07.500000 - 0:03:10.500000
+Ako to troje vrijedi i još vrijedi inkluzija među nosačima,;0:03:11.500000 - 0:03:16
+onda kažem da je n pod model od n ili da je n proširenje od n.;0:03:16 - 0:03:20
+Naravno, ovo tu sad priča o konkretnim neologijskim simbolima,;0:03:21 - 0:03:25
+ali zapravo ovo vrijedi puno više. Dakle, indukcijom po izgradnji terma;0:03:25 - 0:03:29
+se može dokazati da onda svaki term ima istu vrijednost.;0:03:29 - 0:03:33
+Dakle, kad se nekako, možemo reći, term se izračuna;0:03:33 - 0:03:36
+kao da imam 2 plus 3 puta 1 ili što već, to će biti 5.;0:03:36 - 0:03:44
+I bit će 5, bez obzira na to računao ja to kao cijeli broj;0:03:44.500000 - 0:03:48.500000
+ili kao prirodni broj.;0:03:48.500000 - 0:03:54
+To kaže ova tvrdnja A. A tvrdnja B onda kaže,;0:03:55 - 0:03:58
+naravno, kad imaš bilo kakvu otvorenu formulu,;0:03:58 - 0:04:00
+dakle, za početak atomarnu, a onda i logičke veznike to čuva,;0:04:00 - 0:04:03.500000
+vrijedi ekvivalencija, s obzirom na fiksnu valuaciju.;0:04:04.500000 - 0:04:10
+Naravno, ta otvorena formula smije imat slobodne varijable,;0:04:10 - 0:04:13
+ali ne smije imat plantifikator, ali onda moram reći kako se varijable valuiraju.;0:04:13 - 0:04:20
+I ako se valuiraju jednako, znači, ja imam šta da znam,;0:04:20 - 0:04:23
+2x, ok, v od x je 3, onda 2x u strukturi N je isto što i 2x u strukturi Z,;0:04:23 - 0:04:33
+i jedno i drugo je 6.;0:04:33.500000 - 0:04:35.500000
+To je ova priča o termijima, a sad kažem što se tiče formule.;0:04:38.500000 - 0:04:41.500000
+Naravno, znači, ako imam šta da znam, x je manje ili jednako 5 u N,;0:04:41.500000 - 0:04:48
+ako i samo ako x je manje ili jednako 5 u Z.;0:04:48.500000 - 0:04:54.500000
+Naravno, to je samo za otvorene formule.;0:04:55.500000 - 0:04:58
+Opet, plantifikatori mogu pobrgati stvari, ali dokaz je sasvim jasno,;0:04:58 - 0:05:02.500000
+a dokaz je isti kao i u onom primjeru.;0:05:03 - 0:05:05
+Jednostavno, sama inkluzija između M i N je,;0:05:05 - 0:05:08
+jest jaki homomorfizam i iz toga onda sve ovo slijedi.;0:05:08 - 0:05:12
+Dobro, e sad, šta još imam?;0:05:14 - 0:05:17
+Kad imam, znači, rekli smo homomorfizam, ima neka svojstva,;0:05:19 - 0:05:23
+ali najčešće nisu dovoljna, onda ga mogu pojačati,;0:05:23 - 0:05:26
+mogu reći jaki homomorfizam, to je onda malo bolje,;0:05:26 - 0:05:29.500000
+ali još uvijek ne mora nužno biti.;0:05:30 - 0:05:33
+Doboljno dobro. Ponekad želim jaki homomorfizam koji je injekcija.;0:05:35 - 0:05:38.500000
+To je ono što se obišno zove u matematičkim,;0:05:38.500000 - 0:05:41
+u algebri, na primjer, smještenje, embedding.;0:05:41 - 0:05:43.500000
+Dakle, imam jednu strukturu i smjestim je,;0:05:43.500000 - 0:05:46
+representiram je unutar druge strukture.;0:05:46 - 0:05:48
+Onda, naravno, želim da to smještenje bude injekcija,;0:05:48 - 0:05:50.500000
+jer želim moć razlikovati elemente od kojih sam krenuo.;0:05:50.500000 - 0:05:53.500000
+Dakle, kad bih nekako stavio N unutar Z,;0:05:53.500000 - 0:05:57.500000
+a da pritom slijepim 3 i 7, onda na onoj tamo strani;0:05:58 - 0:06:02
+ne bih nekako mogao više razlikovati 3 i 7.;0:06:02 - 0:06:05.500000
+Primijetite samo da ovo nije dodatno svojstvo da je injekcija.;0:06:06.500000 - 0:06:12
+Je dodatno svojstvo samo ako strukture nisu normalne.;0:06:12 - 0:06:15
+Ako su strukture normalne, onda već činjenica da je;0:06:15 - 0:06:18.500000
+jaki homomorfizam zapravo znači smještenje, jer,;0:06:18.500000 - 0:06:21.500000
+sjetimo se, jaki homomorfizam zahtjeva ovdje u oba smjera.;0:06:21.500000 - 0:06:26
+Za bilo koju relaciju, pa specijalno i za relaciju jednakosti.;0:06:26.500000 - 0:06:30
+Znači za relacijski simbol koji je interpretiran jednakošću.;0:06:30 - 0:06:33
+A onda tu zapravo piše X1 jednako je X2.;0:06:33 - 0:06:37
+Ako i samo ako je, H od X1 jednako je H od X2.;0:06:37 - 0:06:40
+To točno znači da je H injekcija.;0:06:40 - 0:06:43
+Dakle, kažem, injektivnost je ponekad potrebno zasebno zahtjevat,;0:06:43 - 0:06:48
+ali ako su strukture normalne, onda nikad nije.;0:06:48 - 0:06:52
+Ovo sad piše napokon ta definicija normalnosti.;0:06:53 - 0:06:59
+E, međutim, ono drugo što bi smo mogli zahtjevati je bijektivnost.;0:06:59 - 0:07:03
+Dakle, činjenica je da ništa od ovoga što smo dosta navjeli,;0:07:03 - 0:07:08
+nam nije rekla da su svi elementi u onom desnom pogođeni.;0:07:08 - 0:07:13
+Dakle, ako to imamo još, imamo sujektivnost, onda to naravno zovemo izomorfizam.;0:07:13 - 0:07:18.500000
+To je ono što zapravo opet odgovara u algebri pojmu izomorfizma;0:07:18.500000 - 0:07:23.500000
+između dvije strukture. I naravno pišemo ovaj znakić za izomorfne strukture.;0:07:23.500000 - 0:07:28.500000
+M je izomorfno sa N ako postoji izomorfizam između njih.;0:07:28.500000 - 0:07:32.500000
+Ovo je sad samo, više manje ponavljanje,;0:07:34.500000 - 0:07:37.500000
+čisto da se vidi jeste li ulovili riječi.;0:07:37.500000 - 0:07:40.500000
+Dakle, postoji smještenje, postoji injekcija koja je jakni homorfizam,;0:07:40.500000 - 0:07:45.500000
+ako i samo ako postoji podmodel od ove veće strukture,;0:07:45.500000 - 0:07:50.500000
+koji je izomorfan ovoj manjej strukturi.;0:07:50.500000 - 0:07:52.500000
+Naravno, taj podmodel će onda biti upravo slika ovog smještenja.;0:07:52.500000 - 0:07:56.500000
+Sašim jasno je to funkcionirane.;0:07:58.500000 - 0:08:00.500000
+To ste u teoriji skupova odavno imali, jel?;0:08:00.500000 - 0:08:02.500000
+Dakle, imate injekciju s jednog skupa u drugi,;0:08:02.500000 - 0:08:05.500000
+ako i samo ako slika te injekcije je zapravo ekfipotentna;0:08:05.500000 - 0:08:10.500000
+sa ovim skupom od kojeg ste krenuli.;0:08:10.500000 - 0:08:13.500000
+Ali vidimo da zapravo ne mora to biti samo za skupove,;0:08:13.500000 - 0:08:16.500000
+može biti i za projeđevane strukture.;0:08:16.500000 - 0:08:18.500000
+Svakako važan teorem je da izomorfne strukture,;0:08:20.500000 - 0:08:24.500000
+na izomorfnim strukturama vrijede iste stvari,;0:08:24.500000 - 0:08:27.500000
+pa specijalno vrijede iste rečenice.;0:08:27.500000 - 0:08:29.500000
+Izomorfne strukture jesu elementarno ekvivalente.;0:08:29.500000 - 0:08:32.500000
+Izomorfizam je valjda najjača veza između dvije različite strukture;0:08:34.500000 - 0:08:40.500000
+kakva može postojati.;0:08:41.500000 - 0:08:43.500000
+A sve ove ostale veze su nekako slabije od toga.;0:08:43.500000 - 0:08:47.500000
+Dakle, svakako biste očekivali da izomorfizam povlači;0:08:47.500000 - 0:08:50.500000
+bilo kakvu drugu slabiju vezu između njih,;0:08:50.500000 - 0:08:53.500000
+pa tako je elementarno ekvivalenciju.;0:08:53.500000 - 0:08:55.500000
+Ali opet, možete samo raspisati što to znači;0:08:55.500000 - 0:08:59.500000
+i stvarno ne bi trebalo biti ništa teško.;0:08:59.500000 - 0:09:02.500000
+Naravno, rekli smo za atomarne formule je jasno,;0:09:02.500000 - 0:09:08.500000
+to je sad ova priča o relativskim simbolima,;0:09:08.500000 - 0:09:11.500000
+za otvorene formule isto vrijedi, to smo već dokazali;0:09:11.500000 - 0:09:14.500000
+ili barem ispričali kako se dokaže.;0:09:14.500000 - 0:09:16.500000
+Jedini problem su formule sa kvantifikatorima.;0:09:16.500000 - 0:09:18.500000
+Međutim, formula sa univerzalnim kvantifikatorom;0:09:18.500000 - 0:09:23.500000
+to je zapravo posljedica surjektivnosti.;0:09:23.500000 - 0:09:28.500000
+Dakle, ako na lijevoj strani vrijedi za svaki x nešto,;0:09:28.500000 - 0:09:37.500000
+onda će i na desnoj strani vrijedi za svaki y nešto,;0:09:38.500000 - 0:09:41.500000
+jer će svaki y biti slika nekog x-a.;0:09:41.500000 - 0:09:44.500000
+I vrlo slično se vidi da su egzistencijalni kvantifikatori;0:09:44.500000 - 0:09:48.500000
+posljedice injektivnosti.;0:09:48.500000 - 0:09:50.500000
+Neka preslikavanja nisu u onom smislu,;0:10:00.500000 - 0:10:05.500000
+znači niti homomorfizmi, niti jaki homomorfizmi, niti išta takvo.;0:10:05.500000 - 0:10:09.500000
+Ali svejedno imaju ovo sintaksno svojstvo da nekako mogu;0:10:09.500000 - 0:10:17.500000
+u formuli samo preslikati elemente u valuaciji nekamo;0:10:17.500000 - 0:10:23.500000
+po tom preslikavanju i da prije tom vrijedi ekvivalencija.;0:10:23.500000 - 0:10:28.500000
+Za sve formule. Dakle, jednostavno takvo nešto;0:10:28.500000 - 0:10:32.500000
+onda zovemo elementarno preslikavanje.;0:10:32.500000 - 0:10:34.500000
+Dakle, ono što smo vidjeli je svakako homomorfizam,;0:10:35.500000 - 0:10:38.500000
+pa niti jaki homomorfizam, ne mora biti elementarno preslikavanje,;0:10:38.500000 - 0:10:42.500000
+jer opet formule s kvantifikatorima mogu biti problem.;0:10:42.500000 - 0:10:45.500000
+Izomorfizmi uvijek jesu elementarna preslikavanja,;0:10:46.500000 - 0:10:49.500000
+jer naravno, opet, izomorfizam je najjača moguća veze između struktura.;0:10:49.500000 - 0:10:54.500000
+Ako između dvije strukture imate elementarno preslikavanje,;0:10:55.500000 - 0:10:58.500000
+onda svakako imate i elementarnu ekvivalenciju.;0:10:58.500000 - 0:11:00.500000
+Jer što je elementarna ekvivalencija?;0:11:00.500000 - 0:11:02.500000
+To je specijalni slučaj ovoga kad je n jednak nula.;0:11:02.500000 - 0:11:05.500000
+Dakle, kad nema ovih haova.;0:11:05.500000 - 0:11:07.500000
+Kad imate zatvorenu formulu, rečenicu, onda je ona ista,;0:11:07.500000 - 0:11:11.500000
+i lijevo i desno. Dakle, ovih haova onda isto nema.;0:11:11.500000 - 0:11:14.500000
+I to je točno elementarna ekvivalencija.;0:11:14.500000 - 0:11:16.500000
+Elementarno preslikavanje općenito ne mora biti jaki homomorfizam,;0:11:18.500000 - 0:11:21.500000
+ali na normalnim strukturama mora.;0:11:21.500000 - 0:11:23.500000
+Normalnost treba zapravo za, ne za ono što biste očekivali,;0:11:25.500000 - 0:11:29.500000
+za relacijske simbole je dovoljno ovo, jer naravno samo stavite ovdje;0:11:29.500000 - 0:11:32.500000
+atomarnu formulu i stvar štima. Ali za funkcijske i konstantske simbole;0:11:32.500000 - 0:11:36.500000
+zapravo vam treba normalnost struktura da biste dobili da je;0:11:36.500000 - 0:11:41.500000
+elementarno preslikavanje jakih homomorfiza.;0:11:41.500000 - 0:11:43.500000
+Opet kažem, nijedna od ovih tvrnji nije komplicirana.;0:11:43.500000 - 0:11:46.500000
+Svako od njih trebali biste moći raspisati dokaz vrlo jednostavno,;0:11:47.500000 - 0:11:51.500000
+ne znam, pet minuta. Razlog zbog kojeg su one tu je samo da vam;0:11:51.500000 - 0:11:55.500000
+približe te pojmove. Dakle, da jednostavno sad morate prisjetiti;0:11:55.500000 - 0:11:58.500000
+šta je elementarno preslikavanje, šta je jakih homomorfiza,;0:11:58.500000 - 0:12:00.500000
+šta su normalne strukture. Dakle, da jednostavno vježbate govor.;0:12:00.500000 - 0:12:04.500000
+To je ono kad učite brojeve na njemačkom pa vas pitaju koliko je 7 plus 3;0:12:04.500000 - 0:12:09.500000
+onda nije ideja da vi sad razmišljate koliko je 7 plus 3,;0:12:09.500000 - 0:12:12.500000
+nego šta je Siben, šta je Drei i kak se kaže 10 na njemačkom.;0:12:12.500000 - 0:12:18.500000
+Dakle, slična stvar je i ovdje. Učimo novi jezik,;0:12:18.500000 - 0:12:25.500000
+dakle tvrdnje su same po sebi izuzetno jednostavne, ali je cilj naučiti jezik.;0:12:25.500000 - 0:12:31.500000
+E sad, dakle, važna kombinacija tog dvojeg je elementarni podmodel,;0:12:36.500000 - 0:12:43.500000
+odnosno opet u drugom smjeru elementarno proširenje.;0:12:43.500000 - 0:12:47.500000
+Dakle, ako imam podmodel, tu piše M, ovaj tu znakić,;0:12:47.500000 - 0:12:57.500000
+smo rekli da je na skupovima znači biti podskupa,;0:12:57.500000 - 0:13:00.500000
+ali na podmodelima znači, na strukturama znači biti podmodel.;0:13:00.500000 - 0:13:05.500000
+Pri tome kažemo da je elementarni podmodel, opet,;0:13:05.500000 - 0:13:09.500000
+ili elementarno proširenje u drugom smjeru.;0:13:09.500000 - 0:13:11.500000
+Oznaka je ova, dakle, malo je čudna oznaka jer kao, ne,;0:13:11.500000 - 0:13:15.500000
+ne implicira da je relacija refleksivna, iako svako jeste,;0:13:15.500000 - 0:13:18.500000
+dakle, svaka struktura je elementarno proširenje od same sebe.;0:13:18.500000 - 0:13:22.500000
+Ali ono što je važnije je da zapravo imam ovaj isti,;0:13:22.500000 - 0:13:28.500000
+na prvi pogled, isti uvjet kao kod elementarnog preslikavanja.;0:13:28.500000 - 0:13:33.500000
+Jedino što nemam preslikavanja, evo dakle, vidite ovdje,;0:13:33.500000 - 0:13:35.500000
+ovdje nema haova. Zašto to smijem napraviti?;0:13:35.500000 - 0:13:38.500000
+Pa upravo zbog toga što je M podmodel ovdje,;0:13:38.500000 - 0:13:40.500000
+dakle, meni ima smisla ovaj F u većoj strukturi;0:13:40.500000 - 0:13:43.500000
+interpretirati sa istim elementima s kojima sam interpretirao u manjoj strukturi.;0:13:43.500000 - 0:13:48.500000
+Naravno, to što imam pravo to interpretirati, ne znači da će to vrijediti,;0:13:48.500000 - 0:13:50.500000
+ako i samo ako, ali ako vrijedi, ako i samo ako,;0:13:50.500000 - 0:13:53.500000
+onda kažem da je to elementarni podmodel.;0:13:53.500000 - 0:13:56.500000
+Dakle, može se dogoditi da imam podmodel koji nije elementarni.;0:13:56.500000 - 0:14:00.500000
+Ali, dakle, vidjeli smo, vidjeli smo primjere sa kvantificiranim formulama i tako,;0:14:00.500000 - 0:14:05.500000
+dakle, ovdje piše fakat za svaku formulu.;0:14:05.500000 - 0:14:08.500000
+Može se čak i dogoditi, nisam sad siguran da znamo primjer,;0:14:09.500000 - 0:14:13.500000
+ali možda bude u zadaći, dakle, može se dogoditi da imate podmodel;0:14:13.500000 - 0:14:18.500000
+i da imate elementarno preslikavanje, ali da nemate elementarni podmodel.;0:14:18.500000 - 0:14:23.500000
+Dakle, da ovo elementarno preslikavanje mora nekako drugačije preslikati elemente,;0:14:23.500000 - 0:14:27.500000
+da biste zapravo dobili ovu equivalenciju.;0:14:27.500000 - 0:14:29.500000
+Dakle, može se svašto dogoditi.;0:14:29.500000 - 0:14:31.500000
+Dakle, ovdje smo zahtjevali da je n-podmodel, plus još ovu činjenicu,;0:14:32.500000 - 0:14:37.500000
+da bi bio elementarni podmodel.;0:14:37.500000 - 0:14:39.500000
+Međutim, napomena kaže, a ako su strukture normalne, onda ovo ne treba zahtjevat.;0:14:39.500000 - 0:14:44.500000
+Zašto? Jer je posljedica ovog ovdje.;0:14:44.500000 - 0:14:47.500000
+Opet, za konstantske simbole imate dokazano u skripti, čisto da malo otvorite skriptu.;0:14:47.500000 - 0:14:52.500000
+Ali, ovaj, naravno, to je lakši dio.;0:14:52.500000 - 0:14:55.500000
+Još ima priča o funkcijskim simbolima.;0:14:55.500000 - 0:14:57.500000
+Opet, priča o relacijskim simbolima je jednostavna, jer samo za uf staviti datumarnu formulu i stvar prođe.;0:14:57.500000 - 0:15:02.500000
+Ali za funkcijske simbole možda treba malo misliti.;0:15:02.500000 - 0:15:06.500000
+Dobro, svakako element, opet sad, učimo jezik, ne, tvrdnje su totalno trivialne.;0:15:08.500000 - 0:15:15.500000
+Jednom kad skužite šta kažu, dakle, ako imate elementarni podmodel,;0:15:15.500000 - 0:15:19.500000
+onda je on sigurno elementarno-equivalentan.;0:15:19.500000 - 0:15:22.500000
+Jer, opet, specijalni slučaj ovoga, za n jednako nula.;0:15:22.500000 - 0:15:25.500000
+Ako stavite rečenicu, onda će biti isto.;0:15:25.500000 - 0:15:28.500000
+E, ovo je možda zanimljivo.;0:15:28.500000 - 0:15:30.500000
+Znači, ako imate dva elementarna podmodela jedne te iste strukture,;0:15:30.500000 - 0:15:34.500000
+i jedan je podmodel od drugog, onda je on također elementarni podmodel od ovog drugog.;0:15:34.500000 - 0:15:40.500000
+Dakle, nekako ne može se dogoditi da između dva, ispod jednog te istog,;0:15:40.500000 - 0:15:46.500000
+vrijede nekakva slabija relacija.;0:15:46.500000 - 0:15:48.500000
+Čim vrijedi ova, onda zapravo vrijedi ova, jer naravno, cijelo vrijeme vrijede;0:15:48.500000 - 0:15:51.500000
+vrijede jedne te iste formule.;0:15:51.500000 - 0:15:53.500000
+Dobro, e, i sad, naravno, elementarni podmodeli, rekao sam,;0:15:59.500000 - 0:16:03.500000
+dosta su važni, često se pojavljaju, često trebaju za nekakve stvari.;0:16:03.500000 - 0:16:07.500000
+Kasnije, dobro je imati nekakav jednostavan kriterij što zapravo treba provjeriti;0:16:07.500000 - 0:16:14.500000
+da bi podmodel bio elementarni.;0:16:14.500000 - 0:16:16.500000
+Jer, pazite, ovdje zapravo kaže za svaku formulu.;0:16:16.500000 - 0:16:19.500000
+Ne možeš sad iči stvarno provjeravati za svaku formulu,;0:16:19.500000 - 0:16:21.500000
+formula ima razno raznih.;0:16:21.500000 - 0:16:22.500000
+I zapravo, nekako smo vidjeli da dosta tih formula nekako prirodno;0:16:22.500000 - 0:16:26.500000
+se preslikavaju između jedno i drugo.;0:16:26.500000 - 0:16:31.500000
+Možda nekako samo kvantifikatori su problem.;0:16:31.500000 - 0:16:33.500000
+Možda čak samo jedna vrsta kvantifikatora i takve neke stvari;0:16:33.500000 - 0:16:37.500000
+su ono što zapravo treba provjeriti.;0:16:37.500000 - 0:16:41.500000
+I o tom je zapravo govorit Tarski-Votov kriterij za elementarne podmodele.;0:16:41.500000 - 0:16:46.500000
+Dakle, kaže više manje ovo.;0:16:46.500000 - 0:16:48.500000
+Ako na većem modelu, m je podmodel od n,;0:16:48.500000 - 0:16:53.500000
+pretpostavka je da je podmodel i još treba vrijediti nešto;0:16:53.500000 - 0:16:57.500000
+da bi bio elementarni podmodel.;0:16:57.500000 - 0:16:59.500000
+I to nešto zapravo je vrlo, vrlo malo.;0:16:59.500000 - 0:17:01.500000
+To nešto je samo da se u izvjesnom smislu čuvaju;0:17:01.500000 - 0:17:04.500000
+egzistencijalni kvantifikatori.;0:17:04.500000 - 0:17:06.500000
+Jer, naravno, onda sa negiranjem dobijete i čuvanje;0:17:06.500000 - 0:17:08.500000
+univerzalnih kvantifikatora, a za formule bez kvantifikatora;0:17:08.500000 - 0:17:11.500000
+smo to dobili već prije.;0:17:11.500000 - 0:17:14.500000
+Dakle, ako u većoj strukturi, u proširenju, da tako kažem,;0:17:14.500000 - 0:17:21.500000
+vrijedi nekakva egzistencijalno kvantificirana formula;0:17:21.500000 - 0:17:25.500000
+sa nekakvim variabloma interpretiranim sa a1 do ak,;0:17:25.500000 - 0:17:32.500000
+onda ona u izvjesnom smislu vrijedi i u ovom manjem.;0:17:32.500000 - 0:17:41.500000
+Ali šta je dovoljno? Ne moram ja sad provjeravati;0:17:41.500000 - 0:17:44.500000
+tu formulu u manjem modelu.;0:17:44.500000 - 0:17:46.500000
+Jedino što moram provjeriti je da, ovo tu zapravo kaže;0:17:46.500000 - 0:17:50.500000
+da postoji nekakav svjedok, postoji nekakav a,;0:17:50.500000 - 0:17:53.500000
+koji se nalazi u nosaču ovoj veće, u proširenju,;0:17:53.500000 - 0:17:56.500000
+koji zadovoljava to sve skupa zajedno sa još ovim ovdje.;0:17:56.500000 - 0:18:00.500000
+E sad, kad god se tako nešto dogodi, onda trebam provjeriti;0:18:00.500000 - 0:18:05.500000
+da postoji a u ovoj manjoj, koji također to zadovoljava.;0:18:05.500000 - 0:18:09.500000
+I to je dovoljno. Tad je elementarni podlog dovoljen.;0:18:09.500000 - 0:18:13.500000
+Vrlo, vrlo jednostavan primjer koji zapravo pokazuje;0:18:13.500000 - 0:18:17.500000
+kak je nastao tarski vodno kriterij,;0:18:17.500000 - 0:18:20.500000
+odnosno šta zapravo tu je bilo važno zapravo primijediti.;0:18:20.500000 - 0:18:25.500000
+Ako imam teorija tusova, dakle totalno uređenih skupova,;0:18:27.500000 - 0:18:33.500000
+i sad gledam Q, dakle poljeracionalnih brojeva i poljerealnih brojeva.;0:18:33.500000 - 0:18:38.500000
+Poljeracionalnih brojeva je elementarni podmodel.;0:18:38.500000 - 0:18:41.500000
+Dakle, naravno da je podmodel, jeli isto kao što je, šta ja znam,;0:18:41.500000 - 0:18:44.500000
+tamo smo imali, N je podmodel od Z, ali nije elementarni podmodel.;0:18:44.500000 - 0:18:47.500000
+Naravno, vidjeli smo one kvantificirane formule, šta ja znam,;0:18:47.500000 - 0:18:50.500000
+N ima najmanji element, Z nema. Međutim, ovo zapravo kaže da bilo kakvu formulu,;0:18:50.500000 - 0:18:54.500000
+bilo što što ja mogu iskazati u jeziku tusova, što vrijedi na Q,;0:18:54.500000 - 0:18:59.500000
+vrijedi i na R. Sad će neko reći, ček malo, pa kak?;0:18:59.500000 - 0:19:02.500000
+Dakle, prvo što ću reći, pa u R imaš korijen iz 2.;0:19:02.500000 - 0:19:05.500000
+Da, je, ali korijen iz 2 ne možeš karakterizirati samo pomoći uređaja.;0:19:05.500000 - 0:19:08.500000
+Onda će neko pametni reći, ali čekaj, čekaj, u R imaš aksijum potpunosti.;0:19:08.500000 - 0:19:12.500000
+Aksijum potpunosti možeš karakterizirati pomoći uređaja, slažem se,;0:19:12.500000 - 0:19:15.500000
+ali aksijum potpunosti nije formula prvog reda.;0:19:15.500000 - 0:19:18.500000
+Aksijum potpunosti je formula drugog reda, jer ona zapravo priča o podskupovima.;0:19:18.500000 - 0:19:22.500000
+Dakle, naravno, formule, zbog čega se ovo zove elementarna logika,;0:19:22.500000 - 0:19:26.500000
+znači, zašto se logika prvog reda prije zvala elementarna?;0:19:26.500000 - 0:19:29.500000
+Znači, zato što priča o elementima, a ne o kolekcijama objekata.;0:19:29.500000 - 0:19:32.500000
+Možemo reći, logika drugog reda bi se onda u toj formulaciji zvala klasna logika.;0:19:32.500000 - 0:19:38.500000
+Govorim o klasama, tako su se prije zvali skupovi.;0:19:39.500000 - 0:19:42.500000
+Ali, kažem, ne možeš čak ni formulirati aksijum potpunosti,;0:19:44.500000 - 0:19:47.500000
+jer ti za to treba ideja skupa, odnosno treba ti ideja zapravo u logici drugog reda,;0:19:47.500000 - 0:19:54.500000
+jer se to zove relacijska varijabla. Možemo reći, podskup je nekakva unara relacija,;0:19:54.500000 - 0:20:01.500000
+jednomjasna, ali je promjenjiva. Dakle, ja bih ih htio valuirati za svaku relaciju,;0:20:01.500000 - 0:20:06.500000
+za svaki podskup, a to nemam. Nemam nekakve varijable relacijske.;0:20:06.500000 - 0:20:10.500000
+Imam samo individualne ili elementarne varijable.;0:20:12.500000 - 0:20:14.500000
+I sad, ovi prigovori koji nam prvi padnu na pamet ne funkcioniraju,;0:20:17.500000 - 0:20:22.500000
+a ne funkcioniraju, zato što stvarno je elementarni podmodel.;0:20:22.500000 - 0:20:25.500000
+I sad kažem kako se to može vrlo jednostavno dokazati ovdje.;0:20:25.500000 - 0:20:28.500000
+Pa tako da zapravo primjerim tarski ovato kriterij.;0:20:28.500000 - 0:20:30.500000
+Mislim, samo vrlo okvirno. Ako imam nekakvu formulu koja bi kaže nešto;0:20:30.500000 - 0:20:36.500000
+o nekakvim odnosima između nekakvih realnih brojeva.;0:20:36.500000 - 0:20:45.500000
+Evo me, šta ja znam tu? Postoji x za svaki y, x je manji od y.;0:20:45.500000 - 0:20:54.500000
+I šta ja znam? Dakle, jednom kad valuiram sve...;0:20:54.500000 - 0:21:01.500000
+Dobro, sve slobodne varijable, znači sa nekim konkretnim realnim brojevima.;0:21:08.500000 - 0:21:12.500000
+Znači tu mi je nekakav a1, tu mi je nekakav a2, tu mi je možda a3 itd.;0:21:12.500000 - 0:21:17.500000
+Onda ona gornja formula kaže, jedino što ovo uopće može reći,;0:21:20.500000 - 0:21:24.500000
+je da postoji nekakav x koji je prema svima njima u nekakvim odnosima.;0:21:24.500000 - 0:21:29.500000
+Znači, od nekih je veći, od nekih je manji.;0:21:29.500000 - 0:21:32.500000
+I to je više ili manje sve što mogu reći u ovom jeziku.;0:21:32.500000 - 0:21:35.500000
+Znači, postoji x i sad takav da je, na primjer, x je manji od a1,;0:21:35.500000 - 0:21:41.500000
+i a2 je manji od x, i x je manji od a3.;0:21:41.500000 - 0:21:47.500000
+Najbolje, mogu napisati i gluposti, mogu napisati nešto tipa x je manji od x,;0:21:48.500000 - 0:21:53.500000
+ili a1 je manji od a3, ili tako nešto.;0:21:53.500000 - 0:21:56.500000
+Ali to ne ovisi o x-et, to je jasno da će preživjeti sa zamjenom u q.;0:21:56.500000 - 0:22:01.500000
+Znači, jedini zanimljivi su ovakvi.;0:22:01.500000 - 0:22:03.500000
+I sad ja pokupim sve ove, znači, na primjer da je a1 veći od a3.;0:22:03.500000 - 0:22:09.500000
+Onda x je manji od a1, x je manji od a3.;0:22:09.500000 - 0:22:11.500000
+Mogu zamijeniti sa jednom formulom, x je manji od a3.;0:22:11.500000 - 0:22:18.500000
+To mi je dovoljno.;0:22:20.500000 - 0:22:21.500000
+Zato sam rekao, teorija tustala, znači totalno uređeno iskupovo.;0:22:21.500000 - 0:22:25.500000
+Onda zapravo mogu uvijek usporediti svaka dva elementa.;0:22:25.500000 - 0:22:28.500000
+Dakle, sve formule oblika x je manji od nečega,;0:22:28.500000 - 0:22:34.500000
+sve atomarne formule tog oblika, ja mogu zamijeniti sa jednom formulom.;0:22:34.500000 - 0:22:39.500000
+I isto tako sve ove, x je veći od nečega, mogu zamijeniti sa jednom formulom.;0:22:39.500000 - 0:22:44.500000
+x je veći od a1.;0:22:44.500000 - 0:22:48.500000
+I sad što imam?;0:22:49.500000 - 0:22:50.500000
+Posto x, takav da je x manji od nečeg i x veći od nečeg.;0:22:50.500000 - 0:22:54.500000
+To hoće reći zapravo da se između dva realna broja nalazi neki realni broj.;0:22:54.500000 - 0:22:59.500000
+I što kaže Tarski Vod?;0:22:59.500000 - 0:23:01.500000
+Kaže, kad god ti to vrijedi, ti možeš naći neki racionalni broj;0:23:01.500000 - 0:23:07.500000
+koji se također nalazi između njih, onda si gotov.;0:23:07.500000 - 0:23:10.500000
+Naravno, to je ona gustoća racionalnih brojeva u realnima.;0:23:10.500000 - 0:23:15.500000
+I sad ono što je zanimljivo, naravno, kažem, Tarski Vod ovog kriterija;0:23:17.500000 - 0:23:20.500000
+je modeliran prema toj ideji da je Q podmodel od R tus,;0:23:20.500000 - 0:23:25.500000
+ali zapravo primjenjajući skroz općenitu, znači bilo kakve strukture prvog reda.;0:23:25.500000 - 0:23:31.500000
+Ovo je dovoljno provjeriti da stvar vrijedi.;0:23:33.500000 - 0:23:38.500000
+Da bude elementarni podmodel.;0:23:40.500000 - 0:23:42.500000
+Dobro, naravno, budući da je elementarni podmodel, onda je elementarno ekvalentan,;0:23:42.500000 - 0:23:46.500000
+dakle, to stvarno vrijedi.;0:23:46.500000 - 0:23:48.500000
+Evo, očita postilica, na primjer, aksijom potpunosti za skup R;0:23:49.500000 - 0:23:53.500000
+ne možemo izraziti nekom rečenicom prvog reda.;0:23:53.500000 - 0:23:55.500000
+Dakle, naravno, ja sam nekad tamo, prigovor ne stoji jer ona uobičajena je;0:23:55.500000 - 0:24:00.500000
+izreka aksijoma potpunosti je drugog reda, ali sad znamo i više.;0:24:00.500000 - 0:24:03.500000
+Znači, sad znamo da ne možemo napisati nikakvu formulu koja je ekvalentna;0:24:03.500000 - 0:24:07.500000
+aksijomu potpunosti, na primjer, možda samo na R,;0:24:07.500000 - 0:24:09.500000
+možda nas ne zanima potpunost općenitih skupova,;0:24:09.500000 - 0:24:12.500000
+nego samo na R će biti ekvalentna, ni to nije moguće,;0:24:12.500000 - 0:24:16.500000
+nikakvom rečenicom prvog reda.;0:24:16.500000 - 0:24:19.500000
+Dobro, naravno da podmodeli ne moraju biti elementarni podmodeli,;0:24:21.500000 - 0:24:24.500000
+to je valjda sasvim jasno, ali najbolje je vidjeti neke zgodne primjere.;0:24:24.500000 - 0:24:29.500000
+Z je podmodel od Q, ako gledam šta je ovo, adjetivna grupa valjda,;0:24:29.500000 - 0:24:34.500000
+adjetivna grupa cijelih brojeva je podmodel od adjetivne grupe,;0:24:34.500000 - 0:24:38.500000
+ili od struktura adjetivne grupe racionalnih brojeva,;0:24:38.500000 - 0:24:44.500000
+ali svakako nije elementarna, jer valjda, šta ja znam,;0:24:44.500000 - 0:24:47.500000
+postoji, šta bih rekao, htio bih reći ako u Q imam jednu polovinu,;0:24:50.500000 - 0:24:55.500000
+ali to ne mogu jer, mislim, nemam uopće jedinicu,;0:24:55.500000 - 0:24:58.500000
+dakle kako, pomoću nula i plusa ne mogu ništa pametno reći.;0:24:58.500000 - 0:25:01.500000
+Čekaj malo.;0:25:01.500000 - 0:25:02.500000
+Ha, mogao bih reći recimo svaki broj ima polovicu,;0:25:03.500000 - 0:25:07.500000
+pa onda mi ne treba jedinice, jednostavno svaki broj ja mogu podijeliti s dva,;0:25:08.500000 - 0:25:11.500000
+a u Z ne mogu, jel?;0:25:11.500000 - 0:25:12.500000
+Dakle, valjda ovako, nešto bih htio reći,;0:25:12.500000 - 0:25:14.500000
+za svaki X postoji Y, takav da je Y plus Y jednako X.;0:25:14.500000 - 0:25:20.500000
+To je formula koja jest formula prvog reda, ne vrijedi u Z, a vrijedi u Q.;0:25:20.500000 - 0:25:26.500000
+Znači, možda to. Nije elementarni podmodel.;0:25:27.500000 - 0:25:30.500000
+Aha, ne, ne, to sad ja pričam o rečenicama, dakle nije elementarno ekvivalentno.;0:25:31.500000 - 0:25:35.500000
+Ali nije elementarni podmodel, jer kao što rekao, nemam jedinicu u strukturi,;0:25:35.500000 - 0:25:40.500000
+ali ja mogu staviti uglate zagrade, dakle mogu jednostavno izraziti izvana.;0:25:40.500000 - 0:25:44.500000
+Dakle mogu jednostavno reći, baš, Tarski Vod kaže,;0:25:44.500000 - 0:25:49.500000
+dovoljno ti je provjeriti ovak nešto.;0:25:49.500000 - 0:25:51.500000
+Kako se ovdje piše? X1, pa onda X1 malo idem sa 1.;0:25:54.500000 - 0:25:59.500000
+Da, to vrijedi u Q, ali ne vrijedi u Z.;0:25:59.500000 - 0:26:11.500000
+Što više, dakle, ne postoji cijeli broj takav da bi uopće u Q,;0:26:15.500000 - 0:26:20.500000
+kad ga uvrstim ovdje, to vrijedi.;0:26:20.500000 - 0:26:23.500000
+Dobro, opet, Q je elementarni podmodel, jer ako pričamo o tusovima,;0:26:24.500000 - 0:26:35.500000
+ali nije, na primjer, ako pričamo o teoriji polja.;0:26:35.500000 - 0:26:38.500000
+Dakle, naravno, onda mogu pričati o korijenu iz 2.;0:26:38.500000 - 0:26:41.500000
+U polju ja imam jedinicu, onda imam i 1 plus 1 i onda imam,;0:26:41.500000 - 0:26:46.500000
+kako bi to izgledalo, postoji X, X puta X jednako 1 plus 1.;0:26:46.500000 - 0:26:54.500000
+To je formula koja je, koja je formula u teoriji polja,;0:26:55.500000 - 0:26:59.500000
+koristi samo stvari koje znamo da postoje u svim poljima.;0:26:59.500000 - 0:27:03.500000
+I istinita je u R, a nije istinita u Q.;0:27:03.500000 - 0:27:07.500000
+Evo, ovdje je možda zanimljiv primjer.;0:27:09.500000 - 0:27:12.500000
+Dakle, u izvijesnom smislu, izomorfizam, sam rekao da je najjača moguća relacija;0:27:12.500000 - 0:27:19.500000
+među različitim strukturama, ali ovdje je kvaka upravo u tome da strukture;0:27:19.500000 - 0:27:23.500000
+nisu dovoljno različite, nisu na različitim krajevima,;0:27:23.500000 - 0:27:27.500000
+nego je jedna stvarno podmodela od druge.;0:27:27.500000 - 0:27:29.500000
+To zapravo kvari situaciju, jer, naravno, elementarni podmodel;0:27:29.500000 - 0:27:33.500000
+može biti samo među podmodelima.;0:27:33.500000 - 0:27:35.500000
+Onda izomorfizam je nešto drugo. Izomorfizam je nešto što zamješljate;0:27:35.500000 - 0:27:39.500000
+između dvije totalno disjunkne strukture.;0:27:39.500000 - 0:27:42.500000
+Ovo je baš primjer koji je namješten tako da se baš isprepliču krivo.;0:27:42.500000 - 0:27:46.500000
+Ima 2Z, adjetivnu grupu 2Z, adjetivna grupa parnih brojeva,;0:27:47.500000 - 0:27:51.500000
+i adjetivna grupa cijelih brojeva.;0:27:51.500000 - 0:27:53.500000
+Dakle, sasvim je jasno da je podmodel, zbroj 2 parna je paran,;0:27:53.500000 - 0:27:56.500000
+to je više menje sve što treba provjeriti.;0:27:56.500000 - 0:27:58.500000
+Aha, e, ali krivo je reći grupa. Dakle, to je jednostavno struktura sa 0 i plusom.;0:28:01.500000 - 0:28:05.500000
+Dakle, nije, šta je, kako se to zapravo zove, polugrupa, evo.;0:28:05.500000 - 0:28:10.500000
+Dakle, kad imate samo zatvornost i adjetivnost.;0:28:10.500000 - 0:28:14.500000
+Semigrup, polugrupa, da. Dakle, teorija polugrupa zapravo.;0:28:14.500000 - 0:28:18.500000
+Jer nema, foro je o tome da ovaj nema jedinicu.;0:28:18.500000 - 0:28:21.500000
+A čak je veliko izomorfno, jer naravno možeš svaki parnih broja;0:28:21.500000 - 0:28:24.500000
+podijeliti dva i dobiješ, to je homomorfizam grupa, polugrupa,;0:28:24.500000 - 0:28:30.500000
+koji je zapravo čak i izomorfizam.;0:28:30.500000 - 0:28:32.500000
+Međutim, naravno, nije elementarni podmodel, upravo kažem, jer,;0:28:32.500000 - 0:28:36.500000
+naprimjer, dvojka jest i tu i ovdje, ali znači jako različito.;0:28:41.500000 - 0:28:46.500000
+Naprimjer, ovdje ona nema polovicu u ovom smislu, a ovdje ima.;0:28:46.500000 - 0:28:51.500000
+Dajmo ga da izgledamo.;0:28:51.500000 - 0:28:53.500000
+Dobro, kao što imamo elementarne podmodele,;0:28:59.500000 - 0:29:02.500000
+sad imamo i elementarna smještenja. Elementarna smještenja je;0:29:02.500000 - 0:29:05.500000
+smještenje koje je elementarno u smislu da je slika elementarni podmodel.;0:29:05.500000 - 0:29:11.500000
+Dakle, ja bih rekao opet, prilično je lako vidjeti da je slika;0:29:11.500000 - 0:29:17.500000
+bilo kakvog jakog homomorfizma podmodel, a ako je taj podmodel;0:29:17.500000 - 0:29:24.500000
+još i elementarn, onda kažemo da je smještenje elementarno.;0:29:24.500000 - 0:29:30.500000
+Jel mi treba da je smještenje, ili mi je dovoljno jakih homomorfizma?;0:29:30.500000 - 0:29:34.500000
+Nisam siguran, ali uglavnom, dakle, svakako je slika svakog smještenja podmodel,;0:29:34.500000 - 0:29:39.500000
+a ako je ta slika elementarni podmodel, onda smještenje također zovemo elementarni.;0:29:39.500000 - 0:29:44.500000
+Ovo je nekakva karakterizacija smještenja pomoću formula,;0:29:47.500000 - 0:29:54.500000
+pomoću ove semantike. Za smještenje je nužno i dovoljno,;0:29:54.500000 - 0:30:03.500000
+što je zgodno, znači stvarnima tako i samo ako, zahtijevati da ovo tu,;0:30:03.500000 - 0:30:07.500000
+znači ova priča sa valuacijama, samo sa H-ovima na desne strani,;0:30:07.500000 - 0:30:11.500000
+vrijedite svaku otvorenu formulu, a za elementarno smještenje je opet;0:30:11.500000 - 0:30:16.500000
+nužno i dovoljno, to zahtijevati da vrijedi za svaku formulu.;0:30:16.500000 - 0:30:20.500000
+Dakle, to je kao elementarno preslikavanje, samo što mora imati ovaj H;0:30:20.500000 - 0:30:28.500000
+s desne strane, jer naravno mogu pričati o to u nekoj drugoj strukturi.;0:30:28.500000 - 0:30:33.500000
+Ne mora imati veze po elementima sa ovom prvom.;0:30:33.500000 - 0:30:37.500000
+I sad opet, kao što smo imali, ako se sjećate, imali smo onu propoziciju,;0:30:39.500000 - 0:30:44.500000
+postoji smještenje ako i samo ako postoji podmodel izomorfa na ovom početnom,;0:30:44.500000 - 0:30:49.500000
+a postoji elementarno smještenje ako i samo ako postoji elementarni podmodel;0:30:49.500000 - 0:30:55.500000
+koji je izomorfa na ovom početnom. Ja bih rekao da je dokaz potpuno isti,;0:30:55.500000 - 0:30:59.500000
+to je, mislim, slika toga elementarnog smještenja,;0:30:59.500000 - 0:31:02.500000
+samo treba provjeriti Tarski-Votov kriteriji, na primjer.;0:31:02.500000 - 0:31:07.500000
+A ne, ne treba ništa provjeriti, tu piše elementarno smještenje,;0:31:15.500000 - 0:31:19.500000
+znači slika je elementarni podmodel, jedan smjer je po definiciji,;0:31:19.500000 - 0:31:23.500000
+a drugi smjer je lagan.;0:31:23.500000 - 0:31:25.500000
+E sad, još nekakve operacije koje možete raditi na vašim strukturama prvog reda;0:31:28.500000 - 0:31:36.500000
+je recimo unijalanca. Unijalanca ste sigurno upoznali,;0:31:36.500000 - 0:31:42.500000
+ako ništa drugo, na teoriji skupova kad ste rješavali zadatke sa cornovom levom.;0:31:42.500000 - 0:31:47.500000
+One su bile uvijek tog tipa, znači imate nekakve skupove sa nekakvim;0:31:47.500000 - 0:31:51.500000
+možda dodatnim relacijama, operacijama, što god, znači strukture prvog reda.;0:31:51.500000 - 0:31:55.500000
+I onda biste trebali dokazati, nekako uvesti nekakav skup takvih životinja,;0:31:56.500000 - 0:32:01.500000
+urediti ga parcijalno s inkluzijom, dokazati da postoji neka takva životinja;0:32:01.500000 - 0:32:07.500000
+i dokazati da je unijalanca takvih životinja ponovno takva životinja.;0:32:07.500000 - 0:32:11.500000
+Da se nalazi u ovoj početnoj familiji.;0:32:11.500000 - 0:32:15.500000
+To idemo formalizirati ovdje.;0:32:18.500000 - 0:32:20.500000
+Lanac struktura je jednostavno onaj...;0:32:22.500000 - 0:32:25.500000
+Lanac u teoriji skupova je zapravo bio samo bilo kakav totalno uređen skup;0:32:29.500000 - 0:32:33.500000
+s obzirom na inkluziju. E sad ovdje isto imam totalno uređen skup,;0:32:33.500000 - 0:32:38.500000
+ali bilo kakav, znači skup indeksa. Moje strukture su na neki način onda;0:32:38.500000 - 0:32:43.500000
+indeksirane tim indeksima iz veliko I. Dakle, ovo je moja indeksirana;0:32:43.500000 - 0:32:49.500000
+familija sigma struktura, opet svešena distom signaturom.;0:32:49.500000 - 0:32:53.500000
+I kažemo da je ona lanac struktura ako je svaka kasnija struktura,;0:32:53.500000 - 0:32:58.500000
+u smislu ovom sa većim indeksom, proširenje ove ranije,;0:32:58.500000 - 0:33:05.500000
+odnosno ranije je podmodel od kasnije.;0:33:05.500000 - 0:33:08.500000
+A kažemo da se radi o elementarnom lancu struktura,;0:33:10.500000 - 0:33:13.500000
+ako je to elementarni podmodel. Dakle, opet vrlo logično.;0:33:13.500000 - 0:33:18.500000
+I sad, nakle, najčešće zapravo kad gledate u teoriji skupova,;0:33:20.500000 - 0:33:24.500000
+najčešće ste imali lanac. Niste imali elementarni lanac.;0:33:24.500000 - 0:33:27.500000
+Elementarni lanac zahtjeva puno više. Elementarni lanac zahtjeva da ja imam;0:33:27.500000 - 0:33:31.500000
+nekakve kvantifikatore da i dalje mogu čuvati, a onda nekako ta unija neće biti;0:33:31.500000 - 0:33:36.500000
+pretjerana, različita od pojedinih. Ali svejedno, teorem je, kaže i jedno i drugo.;0:33:36.500000 - 0:33:43.500000
+Dakle, što bi bila unija sigma struktura? Ono što biste očekivali.;0:33:44.500000 - 0:33:50.500000
+Dakle, za nosač stavite uniju nosača.;0:33:50.500000 - 0:33:53.500000
+Nosač od unije i definirate kao uniju nosača pojedinih mi.;0:33:54.500000 - 0:34:05.500000
+Interpretaciju... E sad, dobro, ovdje piše svakog ne logičnog simbola,;0:34:07.500000 - 0:34:13.500000
+nije zapravo istina. Dakle, interpretacija relacijskog simbola;0:34:13.500000 - 0:34:16.500000
+je svakog unija odgovarajućih interpretacija relacijskog simbola.;0:34:16.500000 - 0:34:20.500000
+Dakle, što ja znam? Imate nekakav simbol r i njega interpretirate u ovoj uniji;0:34:20.500000 - 0:34:27.500000
+kao uniju interpretacija od r u pojedinom mi.;0:34:31.500000 - 0:34:38.500000
+Dobro? To je jasno. Funkciju također, dakle, možete reći,;0:34:40.500000 - 0:34:44.500000
+da interpretiram funkciju u uniji kao uniju funkciji interpretacija;0:34:44.500000 - 0:34:53.500000
+pojedinih funkcija i iz nje. E sad, ovdje bi svakako trebalo provjeriti;0:34:53.500000 - 0:34:58.500000
+da ovakva unija stvarno ima funkcijsko svojstvo.;0:34:58.500000 - 0:35:01.500000
+Ali ima, zato što su ovo podmodeli. Znači, ako imam dvojcu, što ja znam?;0:35:01.500000 - 0:35:07.500000
+X, Y i X, Y crtica elementi ovog tu. E onda što će se dogoditi?;0:35:07.500000 - 0:35:19.500000
+A X, Y će biti u nekakvoj FM5, a X, Y, Y crtica će biti u FM17.;0:35:19.500000 - 0:35:27.500000
+E sad, budući da je 5 manji od 17, M5 će biti podmodel od M17.;0:35:27.500000 - 0:35:35.500000
+Dakle, ova struktura FM17, kad se restringira na nosač od M5,;0:35:35.500000 - 0:35:44.500000
+odnavod govarajućim mjestom, dobit će se ista funkcija od M5.;0:35:44.500000 - 0:35:47.500000
+Drugim rječima, ova unija je zapravo ništa druga nego upravo FM17.;0:35:47.500000 - 0:35:51.500000
+Nema ništa od funkcije FM5. Nije preživjelo što već nije bilo ovdje.;0:35:51.500000 - 0:35:56.500000
+Znači, ovo što ima. E, a naravno, zašto ne mogu reći svakog;0:35:56.500000 - 0:35:59.500000
+ili ove što bih si mogao, naravno, za konstantski simbol nema nikve unije,;0:35:59.500000 - 0:36:02.500000
+nego jednostavno samo treba shvatiti da je to zapravo isto.;0:36:02.500000 - 0:36:05.500000
+Nakle, konstantski simbol se interpretira kao jedan te isti u svima njima,;0:36:05.500000 - 0:36:10.500000
+pa će onda biti istim time interpretiran i u ovoj uniji.;0:36:10.500000 - 0:36:16.500000
+Sad bi čovjek najredije rekao, konstantski simbol se interpretira;0:36:16.500000 - 0:36:20.500000
+onakav kao se interpretira u najmanjoj strukturi.;0:36:20.500000 - 0:36:23.500000
+Ali primijete, ne mora biti uopšte postojat najmanja.;0:36:23.500000 - 0:36:26.500000
+Samo kaže delovinar uradiovi skup.;0:36:26.500000 - 0:36:28.500000
+Znači, će bio da uzme nekav niz ili tako nešto, ali definicija je skroz uopšte nijeta.;0:36:28.500000 - 0:36:32.500000
+Dakle, ako je niz, onda naravno mogu reći uzmeš prvi član tog niza;0:36:32.500000 - 0:36:36.500000
+i tako preslikaš ovoga. Ali uopšte nije to, ne mora postojat najmanja.;0:36:36.500000 - 0:36:40.500000
+Dobro, znači, uglavnom tako se definira unija struktura na očit način.;0:36:44.500000 - 0:36:48.500000
+E, i ono što teorem sad uopšte tvrdi je da ako se radilo o lancu struktura,;0:36:48.500000 - 0:36:53.500000
+onda je svaki pojedini unand, dakle svaki operand unije,;0:36:53.500000 - 0:37:00.500000
+jest podmodel ove unije. A ako se radilo o elementarnom lancu,;0:37:00.500000 - 0:37:06.500000
+onda je čak i elementarni podmodel. Mislim, prilično je jasno,;0:37:06.500000 - 0:37:11.500000
+ali jedino što zapravo treba doklasati je za elementarne podmodele,;0:37:11.500000 - 0:37:15.500000
+a za podmodele je, samo raspišete definitično,;0:37:15.500000 - 0:37:20.500000
+šta je, ne znam šta. Ako uzmete ovako nešto i sad presječete sa nosačem od M,;0:37:20.500000 - 0:37:28.500000
+ne znam, J na N tu, onda ćete naravno dobiti, mislim, unija presječena;0:37:28.500000 - 0:37:34.500000
+sa jednim od elementa je upravo taj njezini element.;0:37:34.500000 - 0:37:37.500000
+I isto tako i za funkcije, za konstantske je trivialno.;0:37:37.500000 - 0:37:41.500000
+Ovo je stvarno, često ljudi na slajdovima napišu da je nešto trivialno kad nije,;0:37:41.500000 - 0:37:45.500000
+ali ovo stvarno je. Tek smo na početku. Na takve stvari pazite tamo negdje,;0:37:45.500000 - 0:37:51.500000
+nakon 100. slajda. Evo, kažem, za elementarni podmodel treba tu indukcija posloženosti;0:37:51.500000 - 0:37:57.500000
+i Tarski-Votov kriterije, ali ide.;0:37:57.500000 - 0:38:02.500000
+Dobro, i sad.;0:38:08.500000 - 0:38:10.500000
+Opet vratimo se malo na naši riječnih pojmova.;0:38:16.500000 - 0:38:19.500000
+Izomorfizam povlači elementarnu ekvivalenciju, naravno.;0:38:22.500000 - 0:38:25.500000
+Znači, strukture koje su elementarni jesu elementarno ekvivalentne,;0:38:25.500000 - 0:38:28.500000
+ali strukture koje su elementarno ekvivalente ne moraju biti izomorfne.;0:38:28.500000 - 0:38:32.500000
+I sad možemo se pitat, jel' postoji nekakav pojam strukturalni?;0:38:32.500000 - 0:38:39.500000
+Naravno, elementarna ekvivalencija je semantički pojam,;0:38:39.500000 - 0:38:42.500000
+ali je ono što je zaneseno s formulama.;0:38:42.500000 - 0:38:44.500000
+Postoji nekako praslikavanje među strukturama koja bi odgovarala;0:38:44.500000 - 0:38:48.500000
+elementarnoj ekvivalenciji na formulama.;0:38:48.500000 - 0:38:51.500000
+I da, to je ono što se zove parcijalni izomorfizam.;0:38:51.500000 - 0:38:55.500000
+Dakle, parcijalni izomorfizam je opet nekako praslikavanje između nosača,;0:38:55.500000 - 0:39:00.500000
+ali ovaj put parcijalna funkcija.;0:39:00.500000 - 0:39:02.500000
+Dakle, njezina domena je neki podskup od nosača ove lijeve strukture;0:39:02.500000 - 0:39:08.500000
+i pritom je injekcija.;0:39:08.500000 - 0:39:10.500000
+Dakle, naravno, želimo da različite praslika u različite,;0:39:10.500000 - 0:39:14.500000
+i u jednom i drugom smjeru.;0:39:14.500000 - 0:39:16.500000
+Takva da, znači, ovo što tu piše je nekakvo vrlo slično ideji;0:39:18.500000 - 0:39:23.500000
+jakog homomorfizma. Dakle, imam ako i samo ako.;0:39:23.500000 - 0:39:26.500000
+I imam nekakve ove lijevo, a nekakve njihove slike;0:39:26.500000 - 0:39:33.500000
+po ovom parcijalnom izomorfizmu desno.;0:39:33.500000 - 0:39:37.500000
+I opet, znači, komutira sa funkcijskim simbolima.;0:39:38.500000 - 0:39:43.500000
+Znači, P od funkcijskog terma interpretiranog u M,;0:39:43.500000 - 0:39:50.500000
+ali samo s tim a ovima, jel' dakle?;0:39:51.500000 - 0:39:54.500000
+A ovi moraju biti iz S, naravno, tako da mogu uopće primijeniti ovaj P na njih.;0:39:54.500000 - 0:40:00.500000
+Je F interpretiran u N, naravno, na odgovarajuće preslikanima ovima.;0:40:01.500000 - 0:40:07.500000
+Naravno, htio bih reći i da konstantke simbole praslikava jednako,;0:40:09.500000 - 0:40:13.500000
+ali tu moram imati uvjet da uopće ovo je zdefinirano.;0:40:13.500000 - 0:40:17.500000
+Niko ne kaže da ova interpretacija C u ovoj lijevoj strukturi;0:40:17.500000 - 0:40:21.500000
+mora biti element od S.;0:40:21.500000 - 0:40:23.500000
+Ali ako je, onda ga P mora čuvati.;0:40:23.500000 - 0:40:26.500000
+Dakle, ovdje kaže parcijalni izomorfizam,;0:40:26.500000 - 0:40:29.500000
+izgleda kao izomorfizam nekih podmodela i on to stvarno jest;0:40:29.500000 - 0:40:32.500000
+ako je ovaj S baš nosač nekog podmodela.;0:40:32.500000 - 0:40:35.500000
+Ali ne mora biti. Znači, S može biti bilo kakav skup.;0:40:35.500000 - 0:40:38.500000
+Ja mogu jednostavno uzeti sve neparne brojeve;0:40:38.500000 - 0:40:41.500000
+ili sve razlomke s nazivom njegovim sedam;0:40:41.500000 - 0:40:44.500000
+i na njemu definirati izomorfizam.;0:40:44.500000 - 0:40:47.500000
+Kao izomorfizam, samo kažem parcijalni,;0:40:47.500000 - 0:40:50.500000
+tako da zadovoljava ovo tu i to što ima.;0:40:50.500000 - 0:40:54.500000
+S svakako ne mora sadržavati interpretaciju svih konstantskih simbola;0:40:56.500000 - 0:41:00.500000
+niti mora biti zatvoren na interpretaciju funkcijskog simbola.;0:41:00.500000 - 0:41:03.500000
+Znači, ako je ovo, onda vrijedi ovo,;0:41:03.500000 - 0:41:06.500000
+ali ako B nije element iz S, niko ne kaže.;0:41:06.500000 - 0:41:09.500000
+Ne mora nikakav uvjet biti zadovoljen.;0:41:09.500000 - 0:41:12.500000
+Naravno, ovaj prvi uvjet ima i dalje veze sa S-om.;0:41:12.500000 - 0:41:15.500000
+Ako je sprazan, onda ovo niš ne kaže.;0:41:15.500000 - 0:41:18.500000
+Ali uvjet ima smisla za bilo kakav skup S.;0:41:18.500000 - 0:41:22.500000
+Dobro, e sad, jedna lema koja zapravo kaže kako mogu na neki način;0:41:27.500000 - 0:41:40.500000
+provjeriti da je nešto parcijalni izomorfizam.;0:41:40.500000 - 0:41:43.500000
+Mislim, ne doslovno, ali barim da ne moramo gledati po slučajima,;0:41:43.500000 - 0:41:49.500000
+nego da mogu jednostavno gledati kako smo navedli po formulama.;0:41:49.500000 - 0:41:54.500000
+Za relacijsku signaturu. E sad, što znači relacijska signatura?;0:41:56.500000 - 0:42:00.500000
+To ćemo na par mjesta još poslije vidjeti.;0:42:00.500000 - 0:42:03.500000
+Znači, ponekad je puno lakše iskazati nekakve stvari za relacijske strukture.;0:42:03.500000 - 0:42:08.500000
+Što su relacijske strukture? To su naravno one koje imaju samo relacije.;0:42:08.500000 - 0:42:12.500000
+Znači, nemaju konstantke simbole interpretirane,;0:42:12.500000 - 0:42:15.500000
+niti uopće imaju signature, niti je funkcijske.;0:42:15.500000 - 0:42:18.500000
+E sad, če neko reće, ali čekaj, to je onda puno siromašnije.;0:42:18.500000 - 0:42:22.500000
+I onda ne možeš imati nikakve konstante, ne možeš imati nikakve funkcije.;0:42:22.500000 - 0:42:26.500000
+To nije zapravo istina. Znači, relacije su dovoljno općeni;0:42:26.500000 - 0:42:29.500000
+da pomoću njih vi možete modelirati funkcije.;0:42:29.500000 - 0:42:32.500000
+To, na kraju kraja, radite u teoriji skupova svaki put kad radite funkcije;0:42:32.500000 - 0:42:36.500000
+u teoriji skupova, nisu ništa drugo nego specijalne relacije.;0:42:36.500000 - 0:42:39.500000
+Znači, vi možete uvijek umjesto funkcije promatrati njezin graf.;0:42:39.500000 - 0:42:42.500000
+Znači, što je to? Imate F, M. To je sad nekakva funkcija.;0:42:42.500000 - 0:42:48.500000
+I sad promatrate graf od toga. To je nekakva relacija.;0:42:49.500000 - 0:42:53.500000
+Znači, to je nekakav podskup od F, neka je F, ne znam, tromjesna.;0:42:53.500000 - 0:42:58.500000
+I sad se to interpretira na M kao nekakva funkcija.;0:42:59.500000 - 0:43:02.500000
+Znači, ovo tu je funkcija sa nosača od M na treću u nosač od M.;0:43:02.500000 - 0:43:09.500000
+A graf će biti, naravno, nekakav podskup od nosača od M na šetvrtu.;0:43:09.500000 - 0:43:14.500000
+I sad ako tu to označim sa nekakvim R-om,;0:43:14.500000 - 0:43:23.500000
+onda ćemo jednostavno vrijediti R od x1, x2, x3, y,;0:43:23.500000 - 0:43:28.500000
+ako i samo ako je y jednak F od x1, x2, x3.;0:43:28.500000 - 0:43:34.500000
+Dakle, mogu jednostavno činjenicu da je funkcijska vrijednost jednaka nečem;0:43:34.500000 - 0:43:39.500000
+zapisati kao nekakvu relaciju.;0:43:39.500000 - 0:43:41.500000
+To naravno nije dovoljno.;0:43:41.500000 - 0:43:42.500000
+Onda moram na popis axijoma još dodati nekakve stvari tipa, šta ja znam,;0:43:42.500000 - 0:43:46.500000
+za svaki x1, za svaki x2, za svaki x3 postoji jedinstveni y;0:43:46.500000 - 0:43:52.500000
+takav da je R od x1, x2, x3, y.;0:43:52.500000 - 0:43:56.500000
+Naravno, s tim da još postoji jedinstveni, isto trebam napisati;0:43:57.500000 - 0:44:00.500000
+pomoću jednakosti i pomoću kvantifikatora i tak.;0:44:00.500000 - 0:44:03.500000
+Dosta se stvari kompliciraju, ali jasno je da takve stvari mogu napraviti.;0:44:03.500000 - 0:44:08.500000
+E onda, konstantski simboli su više manje isto to, samo puno jednostavniji.;0:44:08.500000 - 0:44:13.500000
+Dakle, ako imate nekakav konstantski simbol u M-u,;0:44:13.500000 - 0:44:17.500000
+onda ćete ga jednostavno praciti kao tu relaciju koja će u N-u;0:44:17.500000 - 0:44:25.500000
+biti interpretirana sa singletonom.;0:44:25.500000 - 0:44:28.500000
+Kaj bi to čovjek onda opet napisao?;0:44:30.500000 - 0:44:32.500000
+Jednostavno, postoji jedinstveni y takav da je R od R2.;0:44:33.500000 - 0:44:39.500000
+Ovo je obični R, a R2 od y.;0:44:43.500000 - 0:44:46.500000
+Ako imam takav neki aksijum, onda mogu reći, aha,;0:44:47.500000 - 0:44:50.500000
+to mi je isto kao da imam konstantski simbol.;0:44:50.500000 - 0:44:52.500000
+Jer zapravo, ovo mi na metalogičkoj razini omogućava da ja zapravo;0:44:52.500000 - 0:44:56.500000
+govorim o tom jedinstvenom y kao o nekom točno određenom objektu.;0:44:56.500000 - 0:45:02.500000
+Dobro, dakle, uglavnom nije tako veliko, mislim,;0:45:04.500000 - 0:45:07.500000
+jest smanjenje izražajnosti, ali nije tako strašno.;0:45:07.500000 - 0:45:11.500000
+Ovo je promatra relacijske signature i ova lema se odnosi na relacijske signature.;0:45:11.500000 - 0:45:15.500000
+Dakle, u relacijskim signaturama ovakva neka parcijalna funkcija,;0:45:15.500000 - 0:45:21.500000
+da je mi jednostavno, aha, nije zapravo rečeno, samo malo.;0:45:21.500000 - 0:45:25.500000
+Da, nije nikde rečeno da je mijen morao biti konačni.;0:45:27.500000 - 0:45:30.500000
+Dakle, ali najčešće će u primjerama biti konačni.;0:45:30.500000 - 0:45:33.500000
+Znači, parcijalna funkcija je definirana sa nekakvim konkretnim.;0:45:33.500000 - 0:45:37.500000
+Dakle, tu imam nekakvih n lamenata u m i preslikao sam ih u nekih n lamenata u n.;0:45:37.500000 - 0:45:41.500000
+I pritom sam dobio parcijalni izolafizam, ako i samo ako za svaku atomarnu formulu,;0:45:44.500000 - 0:45:49.500000
+znači dovoljno mi glada atomarne formule, ne treba mi kao što ovdje,;0:45:49.500000 - 0:45:53.500000
+bi čovjek moja mogao nekako misliti da opet moram za svaku formulu to provjeriti.;0:45:53.500000 - 0:45:57.500000
+Za svaku atomarnu formulu vrijedi ovo ovdje, s tim da sad treba nekako pametno to napisati.;0:45:57.500000 - 0:46:03.500000
+Naravno, ja sad moram interpretirati svaku variablu od x1 do xn;0:46:03.500000 - 0:46:08.500000
+sa bilo kojim od simbola a1 do an.;0:46:08.500000 - 0:46:13.500000
+Neću to valjati, čekaj, ovdje sam, zeznu sam.;0:46:14.500000 - 0:46:19.500000
+Da, htio sam valjda reći i ovi su od 1 do n, a ovih variabli ima m.;0:46:22.500000 - 0:46:30.500000
+Dobro, to trebam popravit. Uglavnom, znači, formulu koja ima m variabli,;0:46:30.500000 - 0:46:36.500000
+bilo koji od tih m variabli, ja mogu na lijevoj strani interpretirati;0:46:36.500000 - 0:46:41.500000
+sa bilo kojim aom, ali onda naravno na desnoj strani moram,;0:46:41.500000 - 0:46:45.500000
+odgovarajući na primjer x3, sam interpretirao sa a7,;0:46:45.500000 - 0:46:49.500000
+ali onda na desnoj strani x3 moram interpretirati sa b7.;0:46:49.500000 - 0:46:53.500000
+Dakle, zapravo imam neku permutaciju, čak ne mogu reći ni permutaciju,;0:46:53.500000 - 0:46:56.500000
+jer m i n nisu jednake, ali nekakvu...;0:46:56.500000 - 0:46:58.500000
+A je, to se po modernom sad isto zove permutacija,;0:46:58.500000 - 0:47:01.500000
+kad nisu jednake. Prije se to zvalo variacija,;0:47:01.500000 - 0:47:04.500000
+ali mislim da se sad u diskretnoj to isto zove permutacija.;0:47:04.500000 - 0:47:07.500000
+Uglavnom, znači, m permutaciju od n lamenata.;0:47:08.500000 - 0:47:14.500000
+Zašto to? Zato da kako sam permutirao ove,;0:47:17.500000 - 0:47:20.500000
+tako i jednako moram permutirati i ove i to sad mora vrijediti.;0:47:20.500000 - 0:47:23.500000
+Ako i samo ako. I to mi je nužno i dovoljno;0:47:23.500000 - 0:47:27.500000
+da ovako nešto bude parcijalni izomorfizam.;0:47:27.500000 - 0:47:31.500000
+Dakle, možemo reći to je karakterizacija;0:47:32.500000 - 0:47:35.500000
+konačnih parcijalnih izomorfizama.;0:47:35.500000 - 0:47:37.500000
+Naravno, ne priča ništa o beskonačnim parcijalnim izomorfizmima,;0:47:37.500000 - 0:47:40.500000
+ali u konačnima kaže sve što nas zanima.;0:47:40.500000 - 0:47:43.500000
+Dobro, evo, sad sam skužio da je 3 prošlo, pa ćemo tu stati.;0:47:43.500000 - 0:47:49.500000

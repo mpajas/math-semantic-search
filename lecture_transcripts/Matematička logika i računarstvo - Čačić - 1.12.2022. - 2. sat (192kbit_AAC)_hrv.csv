@@ -1,0 +1,586 @@
+Speech;Timestamp
+Dobro, dakle, ipak je malo zanimljivija situacija sa ovom dokazivošću,;0:00:00 - 0:00:07
+jer zapravo ispadne da možete vi naći dokaze,;0:00:07 - 0:00:13
+odnosno možete vi čak u konstruktivnom smislu odlučiti;0:00:13 - 0:00:18
+je li nešto istina u C ili nije,;0:00:18 - 0:00:21
+zbog toga što ovaj tu skup aksijoma koji sam tu napisao;0:00:23 - 0:00:28
+je zapravo rekurzivan, odlučivo je u koraka za nekakav string;0:00:28 - 0:00:35
+je li to instans za nekog aksijoma.;0:00:35 - 0:00:38
+Naravno puno više o tome ćemo reći kad budemo govorili o algoritmima;0:00:38 - 0:00:41
+ali za sad je možda zgodno već tu spomenuti o čemu se radi.;0:00:41 - 0:00:45
+Dakle, kolega je bio pitao online u pauzi,;0:00:45 - 0:00:51
+je li to onda zapravo znači da ja mogu za bilo kakvu formulu u prvog reda;0:00:52 - 0:00:59
+u konačnom koraka utvrditi je li ona vrijedi u C ili ne.;0:00:59 - 0:01:04
+Dakle, ispada da po ovome što smo rekli da zapravo da,;0:01:04 - 0:01:08
+zato što ako ništa drugo ja mogu, s obzirom na to da imam rekurzivan skup aksijoma,;0:01:08 - 0:01:13
+mogu jednostavno enumerirati sve moguće dokaze.;0:01:13 - 0:01:17
+I naravno u općenitim, nepotpunim teorijama ono što je problem je što vi,;0:01:18 - 0:01:22
+sašim se može dogoditi da vaša potraga nikad ne nađe dokaze;0:01:22 - 0:01:26
+i onda vi ne znate je li to zato što formula ne vrijedi;0:01:26 - 0:01:29
+ili zato što negacija te formule je stvarno nekakav teorem ili...;0:01:29 - 0:01:37
+Ili, znači, u nekakvoj konkretnoj strukturi vaša formula ne vrijedi;0:01:37 - 0:01:49
+zbog toga što nije teorem ili zato što jednostavno negacija je teorem;0:01:49 - 0:01:56
+ili zato što jednostavno se radi o formuli koja u nekim strukturama vrijedi,;0:01:56 - 0:02:01
+u nekima ne, pa eto u vašoj konkretno ne.;0:02:01 - 0:02:04
+Dakle, to se ne može dogoditi ovdje jer se radi o potpunoj teoriji.;0:02:05 - 0:02:11
+Dakle, ono što ja zapravo sigurno mogu je enumerirati sve dokaze;0:02:11 - 0:02:15
+i čekati da mi se pojavi ili formula F ili njezina negacija.;0:02:15 - 0:02:19
+Dakle, to je vrlo glupa procedura, naravno postoji puno pametnije procedure.;0:02:19 - 0:02:24
+Jedna dosta važna, ako se dobro sjećam, se zove cilindrička dekompozicija.;0:02:24 - 0:02:29
+Dakle, možete možda pogledat malo po internetu,;0:02:29 - 0:02:33
+koja zapravo na puno pametniji način odlučuje tvrdnje u kompleksnim brojovima.;0:02:33 - 0:02:40
+Naravno, iskazana je samo pomoću teorije polja.;0:02:40 - 0:02:43
+Naravno, možete vi sad reći, aha, u teoriji polja nije moguće definirati, ne znam, sinus,;0:02:43 - 0:02:49
+pa onda opet stvari, formule koje spominju funkciju sinus,;0:02:49 - 0:02:54
+sigurno ne možete na taj način modulirati.;0:02:54 - 0:02:56
+Ali, zgodno je vidjeti da već u teoriji polja ima dosta prelišno netrivijalnih tvrdnji;0:02:56 - 0:03:02
+i stvarno postoji algoritam odluke za takvo nešto na primjer nad poljem C.;0:03:02 - 0:03:11
+Ali kažem, cilindrička dekompozicija je, ja bih rekao, najpoznatiji takav algoritam.;0:03:11 - 0:03:17
+Još ćemo nešto o tome reći kad budemo govorili o eliminaciji kvantifikatora.;0:03:17 - 0:03:21
+To je još jedan način na koji se može u ovaj stvari pristupiti,;0:03:21 - 0:03:24
+jer nekako opet vidjeli smo ove bulovske kombinacije,;0:03:24 - 0:03:28
+atomarnih načinnica su najčešće trivialno odlučive,;0:03:28 - 0:03:31
+jer bulovski veznici su sve kardinalnosti dva na neku potenciju,;0:03:31 - 0:03:37
+a atomarne formule nekako za njih, obično imate nekakve algoritme, odluke,;0:03:37 - 0:03:43
+tipa je li neki broj manji ili veći od nekog i tako, ili jesu li jedna.;0:03:43 - 0:03:49
+Naravno da to isto može biti komplicirano kad imate nekakve realne brojeve,;0:03:49 - 0:03:53
+onda opet imate neprilu brojevi skup i tako.;0:03:53 - 0:03:57
+Je li uopće jednakost na realnim brojevima odlučiva?;0:03:57 - 0:04:00
+To sad ovisi u tome kako precizno definirate realne brojeve.;0:04:00 - 0:04:03
+Samo kažete ko šijevi nizovi, onda nije, ali to je ona priča;0:04:03 - 0:04:08
+zašto morate imati dodatne uvjete na brzinu konvergencije i tako,;0:04:08 - 0:04:15
+ali to ćemo kad za to dođe vrijeme.;0:04:15 - 0:04:19
+Za sad samo da kažem, ovdje je zgodno, čovjek je stvarno popisao,;0:04:19 - 0:04:23
+iako ima par greškica malih, ali sve moguće odnose između odlučivosti;0:04:23 - 0:04:31
+i potpunosti teorije.;0:04:31 - 0:04:34
+Da, to je jedna od greškica, trebalo je pisati bez ovog;0:04:34 - 0:04:42
+of characteristic zero i onda zapravo ako gledam samo algebarski;0:04:42 - 0:04:45
+zatvorena polja bez specificirane karakteristike,;0:04:45 - 0:04:48
+to je naravno primjer teorije koja je odlučiva,;0:04:48 - 0:04:52
+opet jer jednostavno mogu enumerirati sve dokaze i vidjeti;0:04:52 - 0:04:59
+je li nešto teoreem ili je negacija teoreem,;0:04:59 - 0:05:05
+ali nepotpuno razumijem što sad mogu govorit o karakteristici;0:05:05 - 0:05:10
+i mogu jednostavno reći da tvrdnjana primjer daje karakteristike tri,;0:05:10 - 0:05:15
+niti ona niti njezina negacija postijeli s aksijom.;0:05:15 - 0:05:20
+Naravno primjer potpune teorije koja ne odlučiva je najpoznatiji;0:05:20 - 0:05:25
+naravno teorija prirodnih brojeva.;0:05:25 - 0:05:28
+Ne sve ono što je dokazivo u planu ovardmensi,;0:05:32 - 0:05:35
+nego ono što je stvarno istinito na prirodnim brojevima;0:05:35 - 0:05:38
+i to naravno po gledalovim teoremima neće biti odlučivo.;0:05:38 - 0:05:43
+Ovo je ono što je važno što smo zapravo tu primijenili.;0:05:46 - 0:05:50
+Ako je teorija potpuna i ima rekursivansku aksijomadu,;0:05:52 - 0:05:55
+to je važno, da stvarno mogu efektivno enumerirati sve dokaze,;0:05:55 - 0:05:59
+onda će biti odlučivo.;0:05:59 - 0:06:02
+Primjeri odlučivih potpunih teorija, naravno to su negako;0:06:05 - 0:06:09
+prilično jednostavne teorije, ali ima ih.;0:06:09 - 0:06:12
+Uglavnom se sastoji u tome da uzmete prirodne brojeve;0:06:13 - 0:06:15
+i onda im nešto skinete iz signature, tako da o tome ne možete više pričati.;0:06:15 - 0:06:19
+Najpoznatiji primjer se sastoji u tome da skinete množenje,;0:06:19 - 0:06:22
+onda dobijete nešto uzme Prezburgerova aritmetika.;0:06:22 - 0:06:24
+Dakle, ona ima samo prirodne brojeve, zbrajanje i eventualno uređaj.;0:06:24 - 0:06:28
+Uređaj nije problem.;0:06:28 - 0:06:30
+Pokazuje se da je ta teorija također potpuna i odlučiva,;0:06:31 - 0:06:36
+jer tajna je zapravo u tome da ima dovoljno siromašnu signaturu.;0:06:37 - 0:06:42
+Kaj je to? To remis je odnose samo na teorije koje imaju;0:06:42 - 0:06:45
+dovoljno bogatu signaturu da mogu zapravo govoriti o prirodnim brojima;0:06:45 - 0:06:49
+sa zbrajanjem i množenjem.;0:06:49 - 0:06:51
+Prezburgerova aritmetika ne može.;0:06:52 - 0:06:54
+I ovo je isto greška, mislim greška je ovisno o tome kako se točno;0:06:55 - 0:06:59
+definira potpunost, ali onako kako je on definirao potpunost,;0:06:59 - 0:07:02
+dakle ovaj prvi zapravo komentar se odnosi na ovo što ste i vi primijetili,;0:07:03 - 0:07:09
+a zadnji komentar je malo kompliciraniji.;0:07:11 - 0:07:14
+Kaže, naravno da vi možete Gedela interpretirati kao da peanova aritmetika;0:07:16 - 0:07:20
+nije potpuna, ali primijetimo da to se ne odnosi na nepotpunost u ovom smislu.;0:07:20 - 0:07:26
+To se baš odnosi na nekakvu dokaznu nepotpunost,;0:07:26 - 0:07:30
+nepotpunost dokaznog sustava da dokaže ono što je istina i negaciju onog što je neistina.;0:07:30 - 0:07:38
+Ovdje je naravno u ovom konkretnom smislu peanova aritmetika,;0:07:40 - 0:07:45
+mislim je isto nepotpuna tako, ali je zapravo ako je shvatite doslovno;0:07:45 - 0:07:50
+kao skup rečenica onda je odlučiva jer naravno vi možete za svaku rečenicu;0:07:50 - 0:07:56
+jednostavno u korašu mnogog koraka odlučiti je li ona unutar.;0:07:56 - 0:08:00
+Ako ona jest posljedica peanova aritmetika, onda ja mogu enumerirati sve dokaze;0:08:10 - 0:08:15
+u peanovoj aritmetici i prije ili kasnije ću inaći, ali ako nije,;0:08:15 - 0:08:19
+onda ne znam je li to zato što je zapravo njezina negacija;0:08:19 - 0:08:22
+ili jednostavno se radi o tvrdnji koja je istinita na prirodnim brojima,;0:08:22 - 0:08:27
+i zbog toga je peanova aritmetika sigurno ne dokazuje njezinu negaciju jer je konzistentna,;0:08:28 - 0:08:33
+ili se radi stvarno tvrdnji koja potpada pod gedelove teorema.;0:08:34 - 0:08:42
+Ovaj komentar malo detaljnije priča o tome, još ćemo se naravno vratiti;0:08:46 - 0:08:51
+na to kad budemo govorili o gedelovim teorema.;0:08:51 - 0:08:54
+Uglavnom, samo da kažem, općenito gledano, potpunost i odlučivost nemaju ništa zajedničko,;0:08:54 - 0:08:59
+ali najčešće zapravo teoriju zadajem nekako popisom aksijoma i taj popis aksijoma je onda nekako lijep,;0:09:00 - 0:09:06
+odlučiv, dakle moram moći u konačno mnogo koraka bar je vidjeti je li nešto aksijome;0:09:06 - 0:09:11
+ili nije, pa onda ovo treće je važno. Znači ako je potpuna i ima rekordzivne aksijome,;0:09:11 - 0:09:18
+onda je odlučivan, kao što je na primjer ACF 0.;0:09:18 - 0:09:23
+Dobro, ajmo se vratiti u to. Znači, dobro, želimo vidjeti da zapravo je teorija;0:09:25 - 0:09:34
+algebraća i zatvorenih polja sa nekom fiksnom karakteristikom,;0:09:34 - 0:09:40
+dakle može biti 0, može biti nekakav prim broj, ali za sad nije bitno,;0:09:40 - 0:09:44
+da se na nju može primijeniti voš fotov test. Dakle, jedan od kriterija je bio da je svaki;0:09:44 - 0:09:51
+model u tebe bezkonačan. Dakle, moram provjeriti da teorija algebraća i zatvorenih polja;0:09:51 - 0:09:56
+nema konačne modele i to je zapravo ova momenta.;0:09:56 - 0:10:00
+A dokaz je zapravo, ono, sigurno ga poznate, to je zapravo ukljudov dokaz da primi;0:10:00 - 0:10:05
+broj ove bezkonačno mnogo. Kaže, ako imaš popis svih i njemu je konačno mnogo,;0:10:05 - 0:10:10
+onda pomnožiš sve, dodaš jedan i uzmiš prostog dijelitelja.;0:10:10 - 0:10:14
+Iše manje, istu stvar napravite ovdje. Imate sve moguće elemente vašeg polja K,;0:10:16 - 0:10:24
+predpostavite suprotno da je konačno i onda što? Znači, tretirate ih kao polinomer.;0:10:24 - 0:10:29
+Morate reći, aha, one koje imaju te nul točke, jel, dakle, to je isto kao u teoriji brojovaka kažete,;0:10:29 - 0:10:34
+one koje ima te dijelitelje, to je produkt, jel. Dakle, ovdje je to produkt ovih šiftova,;0:10:34 - 0:10:39
+ovdje je to, da svaki pojedini A i, shiftate X za A i, lijevo, i na taj način dobijete polinome;0:10:39 - 0:10:48
+koje imaju svaku pojedinu od tih nul točaka.;0:10:48 - 0:10:51
+Ako ih pomnožite, dobit ćete polinom koji ima sve te nul točke,;0:10:52 - 0:10:55
+ključno je tu da ih ima konačno mnogo.;0:10:55 - 0:10:58
+I onda, ako dodate jedan, dobit ćete polinom koji više nema nijednu od tih nul točaka.;0:10:58 - 0:11:02
+To je opet ista ona priča iz teorije brojeva, kad bi neki od njih dijelio ovo sve,;0:11:03 - 0:11:10
+a sigurno dijelio ovo, onda bi dijelio i jedan, što je nemoguće.;0:11:10 - 0:11:14
+Dakle, kao i u teoriji brojeva, prim broj koji bi dijelio ovaj produkt,;0:11:14 - 0:11:18
+znači, bio na ovom popisu, i dijelio ovaj veliki, bi dijelio i jedan, što je nemoguće.;0:11:18 - 0:11:26
+Ovo je tu nekakav polinom, međutim, ispalo bi, to je očito stupnja većer ili jednako i jedan,;0:11:27 - 0:11:35
+jer ima, u k se nalazi bar jedinica, pa onda sigurno ima unutra elementa.;0:11:35 - 0:11:42
+Dakle, po algebračkoj zatvornosti postojala bi nul točka.;0:11:43 - 0:11:47
+Međutim, ta nul točka onda mora biti različita od svih ovih a-ova i kontradikcionala.;0:11:47 - 0:11:52
+Ne, ne, tu se još koristi ova činjenica da je polje netrivijalno,;0:11:52 - 0:11:59
+jedinica i nula su različite.;0:11:59 - 0:12:03
+Dobro, to je bio dovoljno jednostavan algabarski dokaz da ga stvarno možemo provjesti.;0:12:05 - 0:12:10
+Kompliciran algabarski dokaz je ovaj Štajnicovog teorema koji kaže zapravo da je;0:12:10 - 0:12:15
+svaka teorija ACF sa nekom fiksnom karakteristikom je lambda;0:12:15 - 0:12:21
+kategorična za svaki neprebrojivi lambda.;0:12:21 - 0:12:24
+Dakle, mislim ovo zapravo nije skica dokaza, ovo je samo pupis pojmova koji se pojavljuju u dokazu.;0:12:24 - 0:12:29
+Dakle, zapravo treba definirati stupenj transcendentnosti, to je ključna stvar.;0:12:30 - 0:12:37
+A da bi se definirao stupenj transcendentnosti zapravo treba provjesti istu onu stvar;0:12:37 - 0:12:43
+koju provodite kad definirate dimenziju vektorskog prostora.;0:12:43 - 0:12:47
+Dakle, morate definirati nezavisne skupove, sad naravno tamo slovo linarno nezavisano,;0:12:47 - 0:12:52
+ovo ću reći algabarski nezavisan, ali više manje iste stvari.;0:12:52 - 0:12:55
+Znači, kad god imaš alfa1 x1 plus alfa n xn je nul vektor, za neke x1 xn is x,;0:12:55 - 0:13:11
+za neke alfa1 alfa n iz polja, već čupate skalare, tada je alfa1 i svi ostali su nula.;0:13:12 - 0:13:29
+Kako se to kaže ovdje, naravno jedina razlika je što je ovo poljenom stupnje 1,;0:13:30 - 0:13:35
+a ovdje sad možete imati poljenome većeg stupnje.;0:13:35 - 0:13:38
+Kad god imate nekakav poljenom u n variabli, kad gotovo da berete nekakve xn iz x,;0:13:38 - 0:13:45
+dakle ovdje pišem aove iz x, i sad naravno ovdje su,;0:13:45 - 0:13:50
+onda berete bilo kakav poljenom, u ovom slučaju linarno, u ovom slučaju općeniti,;0:13:51 - 0:13:56
+ako je ta n-torka zapravo nultočka od tog q, onda je q nul poljenom.;0:13:57 - 0:14:04
+Svi koeficijenti su mu nula.;0:14:05 - 0:14:07
+Maksimalan algebarski nezavisan podskup, naravno da,;0:14:11 - 0:14:15
+cornova lema recimo vam kaže da lanac algebarski nezavisnih skupova je ponovno algebarski nezavisan,;0:14:18 - 0:14:25
+zapravo to je ono što se zove Tajš-Miller-Kijeva lema u teoriji skupova,;0:14:26 - 0:14:31
+koja je na neki način specijalni slučaj cornove leme,;0:14:31 - 0:14:36
+ali zapravo je puno primjenjenija na ovakve stvari,;0:14:36 - 0:14:38
+ali ono, više manje isti onaj dokaz kojim se dokazuje da svaki vektorski prostor ima bazu,;0:14:38 - 0:14:43
+ovdje pokazuje da svako polje ima maksimalan algebarski nezavisan podskup.;0:14:43 - 0:14:48
+E, i sad ono što je teško, dakle sigurno strogo teže nego u linarnoj algebriji,;0:14:49 - 0:14:53
+a i tamo je već bilo dosta teško, je dokazat da sve baze imaju jednaku kardinalnost.;0:14:53 - 0:14:58
+Ovdje je da svaki maksimalan algebarski nezavisan podskup ima jednaku kardinalnost.;0:14:58 - 0:15:03
+To je sad priča o nekakvim rezolventama ovih polinoma i tako,;0:15:03 - 0:15:08
+dakle, nekako u slučaju linarnih polinoma je to dosta jednostavno,;0:15:08 - 0:15:13
+jer prvo možete bilo koje god njih izraziti pomoću ovih ostalih pa ga uvrstiti,;0:15:13 - 0:15:17
+a ovdje sad trebate paziti na nekakve minimalne stupnjeve i tako,;0:15:17 - 0:15:20
+ali, kažem, to sigurno nećemo s time baviti sad,;0:15:20 - 0:15:24
+možemo jednostavno reći, aha, onda se nekako dokaze da svaki maksimalan algebarski nezavisan podskup;0:15:24 - 0:15:30
+ima istu kardinalnost, pa se to može definirati kao algebarska dimenzija;0:15:30 - 0:15:35
+ili ovdje se kaže stupanj transcendentnosti.;0:15:35 - 0:15:38
+E, i sad ono što je isto ključno, dakle, nekako vrlo slično, ali opet subtilno različito;0:15:40 - 0:15:48
+i zapravo puno kompliciranije za to kazati, u linarnoj algebriji imate teorem koji kaže,;0:15:48 - 0:15:52
+ako dva vektorska prostora imaju istu dimenziju i nad istim su poljem, onda su izomorfone.;0:15:52 - 0:15:58
+Tako i ovdje, jel, ako dva algebarski zatvorena polja imaju istu karakteristiku,;0:16:01 - 0:16:06
+što ovo će reći zapravo isto polje, ali, zasad kao to još ne znamo da je to dovoljno,;0:16:06 - 0:16:12
+i imaju isti stupanj transcendentnosti, kao imaju istu dimenziju, onda su izomorfone.;0:16:12 - 0:16:19
+Ali kažemo da je to sigurno, isto nećemo dokazivati.;0:16:19 - 0:16:24
+Ono što je važno, sad samo da kažemo, Voshwotov test kaže, aha, imaš onu prethodnu lemu koja kaže da;0:16:24 - 0:16:30
+općenitu teoriju ACF, pa onda specijalno ACFP za svaki pojedini p, ima samo beskonačne modele,;0:16:30 - 0:16:36
+a ovo kaže da je lambda kategorična za svaki neprebrojivi lambda, dakle, ta teorija je potpuno.;0:16:36 - 0:16:45
+Ovo gore je samo ovaj opis kak se dobije teorije, ali to smo već pričali.;0:16:46 - 0:16:51
+Dobro, i sad, dakle, ovaj Lešica princip koji je zapravo nekakav pentagram ovih raznih tvrdnji;0:16:53 - 0:17:02
+koje kažu gdje nešto vrijedi nekakva rečenica iz teorije polja.;0:17:05 - 0:17:14
+Dakle, rečenica s signaturom teorije polja.;0:17:14 - 0:17:17
+A kaže da jednostavno vrijedi u C, to je najlakše.;0:17:18 - 0:17:23
+B kaže da vrijedi za svako algebarski zatvoreno polje, karakteristike 0.;0:17:24 - 0:17:29
+C kaže da vrijedi za neko algebarski zatvoreno polje karakteristike.;0:17:37 - 0:17:41
+Dakle, možemo reći možda nekako izvorni Lešica princip je zapravo ekvivalencije među A i B.;0:17:41 - 0:17:46
+Ali, možemo razne druge stvari tu reći i pokazuje da su sve ekvivalentne.;0:17:47 - 0:17:52
+D i E su zanimljive. D zapravo kaže da za svaki M postoji P veći od M.;0:17:54 - 0:18:03
+Naravno, ne mogu sad baš reći za svaki M karakteristike M, budući da, naravno,;0:18:03 - 0:18:08
+ne postoji polja karakteristike 16.;0:18:08 - 0:18:11
+Ali za svaki M postoji prim broj veći od toga, takav da za svako algebarski zatvoreno polje;0:18:11 - 0:18:17
+karakteristike T vrijedi ta tvrdnja.;0:18:18 - 0:18:23
+Dakle, nekako možemo reći, ima beskonačno mnogo različitih karakteristika polja u kojima vrijedi F.;0:18:24 - 0:18:36
+Možemo ovako reći.;0:18:38 - 0:18:40
+A ovaj E zapravo kaže obrnuto, kaže zapravo za skoro sve, za sve osim konačno mnogo prostih karakteristika,;0:18:48 - 0:18:56
+vrijedi ta F.;0:18:59 - 0:19:01
+To je naravno dualan kvantifikator ovome dolje.;0:19:02 - 0:19:07
+I to je sve ekvalentno.;0:19:08 - 0:19:10
+Dakle, sad.;0:19:12 - 0:19:16
+Dokaz. Dokaz je relativno i pristojan, ali ima raspisivanja.;0:19:20 - 0:19:26
+Dobro, znači ono što sigurno trivialno vrijedi, dakle, B povlači A.;0:19:27 - 0:19:33
+Zašto? Zato što C je algebarski zatvoreno polje karakteristike 0.;0:19:33 - 0:19:37
+I A povlači C, opet jer C je algebarski zatvoreno polje karakteristike 0.;0:19:38 - 0:19:45
+Pa onda vrijedi za neko.;0:19:46 - 0:19:47
+Očito E povlači D. Zašto? Jer, naravno, jer je ovaj kvantifikator jači od ovoga.;0:19:49 - 0:19:55
+Ako vrijedi za sve, skoro sve, sve osim konačno mnogo,;0:19:55 - 0:19:58
+onda je njih sigurno beskonačno, pa vrijedi za beskonačno mnogo njih karakteristika.;0:19:59 - 0:20:03
+Dakle, to su ove trivialne implikacije.;0:20:05 - 0:20:07
+E sad, znači, ono što treba dokazati još je, valjda, da B povlači E.;0:20:08 - 0:20:17
+I da ne C povlači ne D, što oću reći zapravo D povlači C.;0:20:17 - 0:20:30
+E, E povlači C.;0:20:30 - 0:20:31
+Dobro, ako to sve skupa uspijem dokazati, onda, valjda, imam to, to, to,;0:20:39 - 0:20:45
+kako dođemo od C do B?;0:20:48 - 0:20:50
+E, ne znam.;0:20:51 - 0:20:53
+Aha, da, jedna netrivialna implikacija, ali također kao dokazana,;0:20:55 - 0:21:01
+C povlači A, to je potpunošenje.;0:21:05 - 0:21:10
+Dovoljno ti je da fiksirati jedan model, i onda, precizno, uzmeš negakvo;0:21:21 - 0:21:27
+algebarski zatvoreno polje karakteristike nula i sad na njemu vrijedi ACF 0,;0:21:28 - 0:21:32
+ACF 0 je potpuna, vrijedi očito i na C, dakle, ta dva modela su elementarno;0:21:33 - 0:21:37
+ekvivalentni, pa onda, varam, na njima vrijede iste formule.;0:21:37 - 0:21:41
+Da, ali, htio sam zapravo reći C u B, ali, dakle, mislim, i ovo vrijedi, ali,;0:21:50 - 0:22:01
+ali mogu i bolje, mogu za svaki, za svaku algebarski zatvoreno polje;0:22:02 - 0:22:08
+karakteristike nula, to je već.;0:22:09 - 0:22:11
+Ok. Dobro, znači, ove tri su mi sigurno ekvivalentne,;0:22:11 - 0:22:23
+a ako dokažem i ovo i ovo, onda ću zapravo dobiti da su ove ekvivalentne s njima.;0:22:23 - 0:22:27
+Evo, to je, tamo još treba promjeriti da C u B je zapravo.;0:22:28 - 0:22:31
+Ok, i još treba dokazati ova dva uputnika.;0:22:32 - 0:22:34
+E sad, kako to ide, veli, teorem kompaktnosti.;0:22:35 - 0:22:37
+Dobro, znači, B pomoći N.;0:22:37 - 0:22:44
+Ako, znači, predpostavka je B.;0:22:48 - 0:22:56
+B kaže, za svaku algebarski zatvoreno polje karakteristike nula.;0:22:56 - 0:23:02
+Aha, to točno kaže zapravo.;0:23:02 - 0:23:04
+B zapravo možemo zapisati u obliku ACF nula ima za lovičku posjedicu F.;0:23:05 - 0:23:12
+Kao skup formula.;0:23:12 - 0:23:14
+Za svaki model od ACF nula vrijedi F na njem.;0:23:14 - 0:23:19
+E sad, dakle, naravno, teorem kompaktnosti.;0:23:20 - 0:23:23
+Sad, ključno je da ovo bez kvalčnog skupnja,;0:23:28 - 0:23:30
+smo rekli da je ovo nula zapravo došlo od toga da kažemo;0:23:30 - 0:23:32
+nije karakteristike 1, 2, nije karakteristike 3, nije karakteristike 5, i tako dalje.;0:23:32 - 0:23:37
+Teorem kompaktnosti kaže, ovdje ti je dovoljno korašenog formula.;0:23:45 - 0:23:49
+Dakle, da ovo već poglači je.;0:24:00 - 0:24:02
+Ne moram gledati ove ispod.;0:24:04 - 0:24:07
+To odnačimo sa B.;0:24:08 - 0:24:10
+Zadnja od njih će biti sama komada jedinica.;0:24:17 - 0:24:26
+Da.;0:24:27 - 0:24:28
+Mislim, naravno, ne moraju ga uzeti sve, ali nebitno.;0:24:29 - 0:24:32
+Ona najveća od njih, nekima m jedinica,;0:24:32 - 0:24:35
+i onda, naravno, ove negacije sad mogu strpati u konjumciju.;0:24:36 - 0:24:39
+Više nije trebao bez korašenog formula.;0:24:39 - 0:24:41
+Mogu korašenog formula, a onda mogu i jednu formulu.;0:24:41 - 0:24:44
+I što sad kaže?;0:24:47 - 0:24:48
+Kakvo god algebarski zatvoreno polje karakteristike P odabrao,;0:24:50 - 0:24:55
+dakle,;0:24:57 - 0:24:58
+kakvo je k algebarski zatvoreno polje;0:24:59 - 0:25:06
+karakteristike P koji je veći od njega.;0:25:08 - 0:25:12
+Tada,;0:25:13 - 0:25:14
+na k vrijedi ta konjunkcija tih negacija.;0:25:19 - 0:25:25
+Nije to?;0:25:27 - 0:25:28
+Ne, ne, ne.;0:25:32 - 0:25:33
+Gem je bila.;0:25:33 - 0:25:34
+To.;0:25:38 - 0:25:39
+Dakle, s tim da je sad ključno da je to jedna formula,;0:25:40 - 0:25:44
+a ta formula je dovoljna da dokažem F.;0:25:46 - 0:25:50
+Znači, 8g.;0:25:54 - 0:25:55
+A ovaj,;0:25:57 - 0:25:58
+a ovaj,;0:25:59 - 0:26:00
+a ovaj,;0:26:01 - 0:26:02
+a ovaj,;0:26:03 - 0:26:04
+a ovaj,;0:26:05 - 0:26:06
+znači 8g.;0:26:06 - 0:26:07
+Ovaj.;0:26:08 - 0:26:09
+I gotova priča.;0:26:14 - 0:26:15
+Rekla bi bilo proizvodno algebarski zatvoreno polje karakteristike P,;0:26:15 - 0:26:19
+dakle, na h vrijedi c,;0:26:19 - 0:26:23
+ovaj,;0:26:23 - 0:26:24
+i to je točno otvarnja E.;0:26:26 - 0:26:28
+E sad,;0:26:30 - 0:26:31
+obrnuto, odnosno ovaj,;0:26:32 - 0:26:34
+ne c povlači ne d,;0:26:35 - 0:26:37
+je više manje to isto samo za negaciju od F.;0:26:38 - 0:26:41
+Kad se negira ovaj kvantifikator, zapravo se dobije ovaj kvantifikator.;0:26:42 - 0:26:46
+Nema ih beskonačno,;0:26:47 - 0:26:49
+zapravo znači da ih je konačno,;0:26:49 - 0:26:52
+pa onda od svih njih postoji najveći,;0:26:53 - 0:26:55
+a onda od toga nadalje su svi takvi.;0:26:55 - 0:26:58
+Ako je svaki prirodni broj crven ili zelen,;0:27:00 - 0:27:02
+onda nema beskonačno crvenih,;0:27:02 - 0:27:04
+znači skoro svi su zeleni.;0:27:04 - 0:27:06
+Ta dualnost između tih kvantifikatora sa beskonačnošću.;0:27:11 - 0:27:15
+I kažem, to plus, činjenje se da,;0:27:17 - 0:27:19
+jednostavno, umjesto formule F gledate formulu ne F,;0:27:19 - 0:27:22
+zapravo znači da više manje isto stvar dokazujete.;0:27:22 - 0:27:26
+Dobro.;0:27:28 - 0:27:29
+Dakle, to je bilo što su u principu.;0:27:32 - 0:27:34
+I sad idemo na Vaxoff teorijama.;0:27:37 - 0:27:40
+Dakle, u čemu se tu radi?;0:27:42 - 0:27:45
+To je isto nešto iz kompleksne analize.;0:27:45 - 0:27:48
+Opet se o nekom polenom ne govori.;0:27:49 - 0:27:51
+Oni su jednostavni zamodelirati pomoću formula,;0:27:51 - 0:27:53
+zato što ih možete zapisati pomoću teorije polja.;0:27:53 - 0:27:56
+Analitičke funkcije uopće nije to ne možete,;0:27:57 - 0:27:59
+pa je to onda puno manje primjenjivo,;0:27:59 - 0:28:01
+ali ima ovakvih zanimljivih stvari.;0:28:01 - 0:28:04
+Recimo, na primjer, kaže X ovako.;0:28:04 - 0:28:07
+Ako imaš polenomnu injekciju s Cn u Cn,;0:28:09 - 0:28:15
+dakle, specijalno već s C u C,;0:28:15 - 0:28:17
+nije uopće tako trivialno skužiti.;0:28:17 - 0:28:19
+Ha, možda i je.;0:28:23 - 0:28:24
+Dakle, s C u C, to je zapravo osnovni teorijem algebre.;0:28:24 - 0:28:29
+Imaš...;0:28:31 - 0:28:32
+Dobro, osnovni teorij algebre je komplicirani,;0:28:33 - 0:28:36
+jer on govori i za neinjektivne,;0:28:36 - 0:28:39
+ali recimo kad bi imao neinjektivni polenom,;0:28:39 - 0:28:42
+onda, znači, da je on surjekcija,;0:28:47 - 0:28:49
+zapravo, mislim, bilo koju vrijednost mogu prebasti;0:28:49 - 0:28:52
+s desne strane na lijevu,;0:28:52 - 0:28:53
+i onda zapravo dobijem da ima nul točku.;0:28:53 - 0:28:55
+Ja sam ovdje, moram paziti da taj polenom,;0:28:55 - 0:28:57
+da on bude,;0:28:57 - 0:28:58
+bude, ovaj,;0:28:58 - 0:28:59
+slupnja barem 1,;0:29:00 - 0:29:01
+da mi ovako konstanta ne poništi vodeći,;0:29:01 - 0:29:03
+vodeći koeficijent.;0:29:03 - 0:29:04
+Ali dobro, lako za to.;0:29:05 - 0:29:06
+Ovaj, EXOFTEOREM zapravo govori o općenitim,;0:29:06 - 0:29:09
+znači, n-dimenzijalnim,;0:29:09 - 0:29:11
+odnosno, skupovima n-torki kompleksnih brojeva;0:29:12 - 0:29:15
+i također injekcija, dakle, jasno je što je injekcija.;0:29:15 - 0:29:18
+Ovdje su različiti tu,;0:29:18 - 0:29:19
+onda su različiti ovdje.;0:29:19 - 0:29:20
+S tim da različiti, mogu biti različiti na jednom mjestu, dovoljno.;0:29:20 - 0:29:23
+Dobro, i polenomna znači, naravno, svaka koordinatna funkcija je;0:29:25 - 0:29:28
+polenom u n varijalnoj.;0:29:28 - 0:29:30
+Znači, tu imam n polenoma svaki sa n varijalnoj.;0:29:30 - 0:29:33
+N je pozitivan prijatelj.;0:29:34 - 0:29:36
+I EXOFTEOREM kaže, kad god imaš takvu funkciju,;0:29:37 - 0:29:40
+polenomnu injekciju,;0:29:41 - 0:29:43
+Cn u isti taj skup,;0:29:43 - 0:29:45
+ona mora biti u sfere injekcije.;0:29:45 - 0:29:46
+Naravno, to vas vjerojatno podsiča na teorem iz kombinatorike,;0:29:46 - 0:29:49
+koji je rekao da,;0:29:49 - 0:29:51
+ak imaš konačno skup,;0:29:51 - 0:29:52
+onda je Cn elementa,;0:29:52 - 0:29:53
+i bilo kakvu injekciju sa tog skupa u samog sebe,;0:29:53 - 0:29:57
+onda će ona biti u suje injekcije.;0:29:57 - 0:29:59
+Naravno, ovdje to ne vredi za bilo kakve funkcije, očito,;0:29:59 - 0:30:02
+jer Cn elemento je bezkonačno skup,;0:30:02 - 0:30:04
+ali vredi za polenomne funkcije.;0:30:04 - 0:30:07
+Ok, sad kak se to može dokazati?;0:30:08 - 0:30:10
+Dakle, može se dokazati, naravno, sredstvo kompleksne analize,;0:30:10 - 0:30:13
+ali se može dokazati i ovako,;0:30:13 - 0:30:15
+pomoću logičke.;0:30:15 - 0:30:17
+Logičkih aparata.;0:30:19 - 0:30:20
+Dakle, kažem ovako,;0:30:21 - 0:30:22
+CnD je rečenica,;0:30:22 - 0:30:24
+najkompleziranije je napisati,;0:30:25 - 0:30:28
+ali nekako opet jasno je da se može napisati,;0:30:28 - 0:30:31
+koja kaže da, znači, n je parametar koji kaže ovo tu,;0:30:32 - 0:30:36
+znači kolika je dimenzija ovih prostora,;0:30:36 - 0:30:41
+a D je stupanje, dakle degree,;0:30:41 - 0:30:43
+polenoma u kojem se radi.;0:30:43 - 0:30:46
+Dakle, CnD vrijedi na nekom polju k,;0:30:46 - 0:30:50
+znači da svaka polenomna injekcija,;0:30:50 - 0:30:52
+čija domena i kodomena su k na entu,;0:30:52 - 0:30:55
+čije su koordinatne funkcije polenomi stupnje najviše D,;0:30:56 - 0:30:59
+dakle D ili manjeg,;0:30:59 - 0:31:01
+su reakcija.;0:31:01 - 0:31:03
+CnD je, ne mogu baš reći ova formula,;0:31:04 - 0:31:06
+jer u toj formuli još uvijek ima ovakvih nekih a-ova,;0:31:06 - 0:31:10
+a, k, e, znači, koje su eficijenata,;0:31:11 - 0:31:14
+ali onda napravite još univerzalno zatvorenje,;0:31:14 - 0:31:17
+dakle napravite za svaki a šta veće ovdje,;0:31:17 - 0:31:23
+dakle, je k ide od s,;0:31:23 - 0:31:30
+dakle, dokle, k ide od 1 do n,;0:31:31 - 0:31:34
+a, e, dakle svaki pojedini e,;0:31:37 - 0:31:41
+dakle, i ide između 1 i D,;0:31:41 - 0:31:47
+za svaki i koji ide od 1 do n.;0:31:49 - 0:31:56
+Sve te kvantifikatore natrpam na početak ove formule ovdje.;0:31:59 - 0:32:03
+Šta one zapravo kaže?;0:32:03 - 0:32:04
+Više meni kaže za svaki mogući polenom,;0:32:04 - 0:32:06
+samo kažem ste, tu ima jako, jako puno koeficijenata,;0:32:06 - 0:32:09
+ali konačno mnogo.;0:32:10 - 0:32:11
+Ako, šta ovo kaže, ako su p-ovi jednaki,;0:32:13 - 0:32:17
+dakle, ako su sve koordinate jednake,;0:32:18 - 0:32:20
+ta funkcija je izračunata u x-evima,;0:32:22 - 0:32:24
+je jednaka vrijednosti te funkcije izračunata u y-ovima,;0:32:25 - 0:32:28
+naravno ovo je jednakost na c,;0:32:28 - 0:32:30
+odnosno jednakost na k,;0:32:30 - 0:32:31
+ali ja sad želim jednakost na nekakvih n-torki,;0:32:32 - 0:32:34
+ali to mogu zapisati konjunkcijom od n ovih jednakosti u k.;0:32:34 - 0:32:38
+Iz toga slijedi da su x-evi i y-ovi jednaki kao k-torke,;0:32:39 - 0:32:46
+kao n-torke, dakle to je opet nekakva konjunkcija n jednakosti u k.;0:32:46 - 0:32:50
+Znači, ovo tu, i ako to sad zatvorim za sve x-eve,;0:32:51 - 0:32:54
+tu ima ne dva kvantifikatora, nego dva n kvantifikatora,;0:32:54 - 0:32:58
+onda ću dobiti, znači ovdje zapravo piše da je ta funkcija injekcija.;0:32:59 - 0:33:03
+A ovdje piše da je surjekcija, opet, za svaku n-torku;0:33:04 - 0:33:08
+postoji n-torka koja se preslika u nju,;0:33:08 - 0:33:11
+u smislu da kad uvrstiš svih tih n u pojedini k ti polinom,;0:33:11 - 0:33:16
+dobiješ k u koordinatu od ovih y.;0:33:16 - 0:33:19
+Dakle, sasvim jasno da je to.;0:33:19 - 0:33:21
+To je nekakva formula prvog reda, naravno da je ogromna, ogromna.;0:33:21 - 0:33:25
+Za k i n jednaka ne znam četiri, to su već formule sa desetak tisuća simbola,;0:33:25 - 0:33:30
+ali nije bitno, bitno je da su formule prvog reda.;0:33:30 - 0:33:33
+Dobro, e sad kaže ovako, znači k je konačno pojedan.;0:33:38 - 0:33:46
+Sa k potezu značimo njegovo algebarsko zatvorenje.;0:33:51 - 0:33:54
+E sad tu treba malo misliti onome što sam bio rekao,;0:33:54 - 0:33:57
+kako se zapravo dobije algebarsko zatvorenje.;0:33:57 - 0:33:59
+Tak da, ja zapravo uzmem k i onda uzmem k od x, recimo reku varijablu,;0:33:59 - 0:34:08
+formalnu varijablu x i onda to pocijepam po nekakvim idealima;0:34:08 - 0:34:14
+i onda to mi dade nekakve nultočke.;0:34:14 - 0:34:17
+Ne mogu doslovno reći da je to jer kažem svaki od njih nema jednu nultočku;0:34:21 - 0:34:24
+nego ih ima više, povisno odstupnju, ali nema veze.;0:34:24 - 0:34:27
+I onda ih ubacim unutra i dobijem ne znam k1.;0:34:28 - 0:34:30
+I onda opet znači, polinomi u toj istoj varijabli x,;0:34:30 - 0:34:35
+ali sa koeficijentima iz k1, opet ih mogu po takvim nekakvim glavnim idealima cijepat;0:34:35 - 0:34:42
+i dobiti nove nultočke i tako dalje.;0:34:42 - 0:34:45
+Onda dobijem naravno k2.;0:34:45 - 0:34:47
+I tako dalje.;0:34:47 - 0:34:53
+I onda kažem kakv potest će mi zapravo biti limas tih svih.;0:34:53 - 0:35:01
+Dakle, s tim da treba valjda, da naravno,;0:35:06 - 0:35:09
+među ovim polinomima su sigurno i linearni polinomi,;0:35:09 - 0:35:12
+znači ako imam broj 2, onda među njima imam polinom x-2,;0:35:12 - 0:35:16
+dakle kad dodam njegovu nultočku, on je stupnja 1,;0:35:16 - 0:35:18
+pa ću dodati točno jednu njegovu nultočku;0:35:18 - 0:35:20
+i njom mogu identificirati s ovom brojkom od prije.;0:35:20 - 0:35:23
+Dakle, ovo je stvarno rastući niz polja.;0:35:23 - 0:35:29
+I znači, ima nekakav teorema, opet Cornova lema i tako to,;0:35:29 - 0:35:35
+unija rastućeg niza polja s obzirom na iste operacije opet polja.;0:35:35 - 0:35:39
+Zatvornost je najvažnija.;0:35:39 - 0:35:41
+Dakle, šta je važno?;0:35:41 - 0:35:45
+Na primjer, egzistencija inverza.;0:35:45 - 0:35:48
+Ako je netko ovo unij, onda je u nekom ki,;0:35:48 - 0:35:51
+a pojedini ki je polje pa u ki ima inverz,;0:35:51 - 0:35:54
+jer tamo nije nula, onda će i ovo biti ok.;0:35:54 - 0:35:57
+Ili ako imaš dvojicu, onda je važno da je ovo rastući niz.;0:35:57 - 0:36:02
+Dakle, jedan je u njih u k17, a drugi u k28,;0:36:02 - 0:36:06
+a onda su obojice u k28 jer je ovo rastući niz.;0:36:06 - 0:36:08
+A k28 je polje, pa je, na primjer, zbroj ili umnožak,;0:36:08 - 0:36:11
+ili šta već svam treba, njihov također unutra.;0:36:11 - 0:36:14
+Znači, to stvarno štima.;0:36:14 - 0:36:17
+To je tu napisano.;0:36:17 - 0:36:20
+E sad kaže ovako, F je sa zatvorenje od k na n tu;0:36:20 - 0:36:24
+u to isto proizvodnog poljenomna injekcija;0:36:24 - 0:36:28
+i neka je D najveći stupanj koorginatnog poljenomna od F.;0:36:28 - 0:36:31
+Dakle, sad uzmem neki konkretni F.;0:36:31 - 0:36:34
+Zašto konkretni? Zato da onda mogu konkretnu formulu upotrijebiti.;0:36:34 - 0:36:37
+Za y, uzmem n y-ova iz zatvorenja od k.;0:36:38 - 0:36:44
+Za njih sigurno postoje,;0:36:46 - 0:36:49
+aha, dakle sad koristimo ovo.;0:36:50 - 0:36:52
+Dakle, ako uzmem y1, y2, y3 iz ovoga,;0:36:53 - 0:36:58
+onda naravno y1 je element nekog k i 1.;0:36:58 - 0:37:02
+y2 je element nekog k i 2.;0:37:02 - 0:37:05
+y3 je element nekog k i 3.;0:37:05 - 0:37:07
+I sad opet, ovo je različit niz, pa od svih ovih postoji najveći.;0:37:07 - 0:37:11
+Na prve, k i 2.;0:37:14 - 0:37:17
+Neki od njih.;0:37:18 - 0:37:19
+Aha, ovdje j.;0:37:19 - 0:37:21
+Znači, onda su svi y1, y2, y3;0:37:23 - 0:37:27
+elementi od tu jednog konkretnog.;0:37:27 - 0:37:31
+Dobro?;0:37:31 - 0:37:32
+I sad je ovo ključno.;0:37:32 - 0:37:34
+F restringirana na samo takve,;0:37:35 - 0:37:38
+ono da je F, F zna zapravo računat sa puno većim,;0:37:38 - 0:37:42
+puno kompliciranijim nutočkama,;0:37:42 - 0:37:44
+ali ako ga restringiram samo na taj k i 2,;0:37:44 - 0:37:47
+onda je to konačno skup.;0:37:47 - 0:37:49
+A i njegova n-ta potencija je konačno skup.;0:37:49 - 0:37:51
+Što sam zapravo napravio?;0:37:51 - 0:37:53
+Uzem ovo konačno polje;0:37:53 - 0:37:55
+i ovdje sam u svakom trenutku dodavao neke nove nutočke,;0:37:55 - 0:37:59
+ali sam mi to dodao konačno mnogo,;0:37:59 - 0:38:00
+jer o šemu se radi?;0:38:00 - 0:38:01
+O šemu se radi?;0:38:01 - 0:38:02
+Kad ovo, ovo je beskonaca skup,;0:38:02 - 0:38:04
+ali kad ga ja podsjepam po idealu,;0:38:04 - 0:38:06
+naravno unutra će se završit samo oni dovoljno malog stupnja.;0:38:06 - 0:38:10
+Jel sad naravno točno koja je to stupnja,;0:38:10 - 0:38:12
+ovisi od tome što došlo radite,;0:38:12 - 0:38:14
+ako radite sa R-om onda će biti stupnja 2,;0:38:14 - 0:38:16
+a kod nekih malo kompliciranijih će možda bit nekog većeg stupnja,;0:38:16 - 0:38:20
+ali nije bitno, to je sad algebra,;0:38:20 - 0:38:22
+ali u svakom slučaju, u svakom koraku;0:38:22 - 0:38:24
+dodajem samo konačno mnogo ovih nove nutočka.;0:38:24 - 0:38:28
+Jer za svaki pojedini polinom naravno dodajem konačno mnogo.;0:38:28 - 0:38:31
+A sad, treba nekog algebra, nešto algebra da se vidi;0:38:31 - 0:38:35
+da tih polinoma dona tu ekvivalenciju,;0:38:35 - 0:38:38
+modulo ima konačno mnogo.;0:38:38 - 0:38:40
+U svakom slučaju, dakle, u svakom trenutku;0:38:40 - 0:38:43
+dodajem samo konačno mnogo, počeo sam od konačnog skupa,;0:38:43 - 0:38:46
+znači ovo tu svaki pojedini je konačno mnogo.;0:38:46 - 0:38:50
+Okej.;0:38:52 - 0:38:53
+E, ali to zapravo znači i ovo.;0:38:53 - 0:38:55
+Na treću, a on je također konačan.;0:38:56 - 0:38:58
+Naravno, svih trojki od konačnog mnoga elementa opet ima konačno mnogo.;0:38:58 - 0:39:03
+E, i sad primjenjujem ovaj rezultat iz kombinatorike,;0:39:03 - 0:39:06
+koji kaže F je injekcija na tom skupu,;0:39:06 - 0:39:11
+a taj skup je konačan.;0:39:11 - 0:39:12
+E, i ono što je isto važno, dakle, stvarno ide u njega.;0:39:12 - 0:39:16
+Znači, F općenika ide s K u K,;0:39:16 - 0:39:21
+ali F restrikcija na K i 2 ide naravno s K i 2,;0:39:22 - 0:39:29
+ali ide i u K i 2.;0:39:29 - 0:39:31
+Zašto? Zato što je K i 2 polje.;0:39:31 - 0:39:33
+Dakle, šta god ja radio, nekakve entorke,;0:39:33 - 0:39:36
+nekakve poljeno me računao,;0:39:36 - 0:39:43
+ako to sve radim s elementima iz K i 2,;0:39:43 - 0:39:45
+a ovi jesu takvi, onda ću i dalje ostati u K i 2.;0:39:45 - 0:39:48
+Dakle, dobro, s tim da treba još ove Aove,;0:39:49 - 0:39:53
+ali Aove su u redu, Aove su iz K,;0:39:53 - 0:39:58
+a K je poljensko pod svakog od njih, dakle, to što imam.;0:39:58 - 0:40:01
+Dobro, dakle, po ovom kombinatoričkom rezultatu,;0:40:03 - 0:40:06
+F je i ta restrikcija od F-a, jedin su rijekcije.;0:40:06 - 0:40:09
+I sad smo na konju, jer to zapravo znači da,;0:40:09 - 0:40:12
+kad god ja odaberem nekakve Y-ove,;0:40:12 - 0:40:15
+oni mogu istrpati u nekakvo konačno polje,;0:40:15 - 0:40:18
+na tome upotrebio je ovaj rezultat,;0:40:18 - 0:40:21
+znači, postoji X-evi odavdje,;0:40:21 - 0:40:25
+iz tog konkretnog, a oni su,;0:40:25 - 0:40:28
+ara go podskup od ovog zatvorenja.;0:40:28 - 0:40:30
+Šta sam dobio?;0:40:32 - 0:40:33
+Dobio sam, kad malo bolje pogledam,;0:40:33 - 0:40:35
+za svaki M, postoji prosti broj veći od M;0:40:35 - 0:40:38
+i postoji algebarski zatvoreno polje karakteristike P,;0:40:38 - 0:40:41
+recimo, naprimjer, algebarski zatvorim ZP,;0:40:42 - 0:40:46
+ovo smo napravili za proizvodnog konačnog polja,;0:40:49 - 0:40:53
+ali mislim, nismo morali, mogli smo, jednostavno,;0:40:53 - 0:40:55
+uzeti neko konkretno konačno polje,;0:40:55 - 0:40:57
+dovoljno velike karakteristike, recimo, naprimjer, ZP,;0:40:57 - 0:41:00
+i onda ga algebarski zatvoriti,;0:41:00 - 0:41:02
+i na njemu vrijedi FiND.;0:41:02 - 0:41:04
+To smo točno tu dokazali.;0:41:04 - 0:41:07
+I Lefšacov princip, D povlači A,;0:41:08 - 0:41:11
+kaže da ak ti to vrijedi za ovo,;0:41:11 - 0:41:14
+onda ti vrijedi i za ovo.;0:41:14 - 0:41:16
+A naravno, Deni i De su bili proizvodni,;0:41:18 - 0:41:20
+dakle, vrijedi za proizvodne entorke;0:41:21 - 0:41:24
+i proizvodne stupnjeve poljenoma,;0:41:24 - 0:41:26
+dakle, zapravo, vrijedi za sve poljenome,;0:41:26 - 0:41:28
+i to je Axe of Terror.;0:41:28 - 0:41:30
+Dobro.;0:41:31 - 0:41:32
+Dobro, samo, znači, da definiramo;0:41:36 - 0:41:39
+i da kažemo nekako u čemu je kvaka,;0:41:39 - 0:41:41
+s ovom konzistencošću.;0:41:41 - 0:41:43
+Dakle, naravno, definicija je šašava,;0:41:43 - 0:41:46
+definicija je zapravo ista kao i;0:41:46 - 0:41:48
+definicija ispunjivosti,;0:41:48 - 0:41:50
+ali zasad je takva samo zbog toga što radimo teoriju modela.;0:41:50 - 0:41:52
+Kad budemo radili dokazne sustave,;0:41:52 - 0:41:54
+onda, naravno, konzistencošće znači nešto drugo,;0:41:54 - 0:41:56
+ali, zasad, samo, ono, kažem,;0:41:56 - 0:41:58
+je teorija, samo nekakav skup rečenica,;0:41:58 - 0:42:00
+onda jedini pametni način,;0:42:00 - 0:42:02
+jedini uopšte način da kažemo da je;0:42:02 - 0:42:04
+konzistentno je ovo, da je ispunjivo.;0:42:04 - 0:42:06
+Onda, negako se čovjek učini da;0:42:06 - 0:42:09
+konzistentnost i ispunjivost su;0:42:09 - 0:42:11
+po definiciji ekvivalentne, pa se tu nema šta dokazivati.;0:42:11 - 0:42:13
+Slažem se, ali to je samo zbog toga što je;0:42:13 - 0:42:16
+definicija konzistentnosti zapravo drugačija.;0:42:16 - 0:42:18
+Ali, kažem, zasad će nam ovo biti;0:42:18 - 0:42:20
+dovoljno dobra definicija.;0:42:20 - 0:42:23
+Zašto uopšte to iskazujemo?;0:42:23 - 0:42:25
+A zato što se Robinsonovi teorema;0:42:25 - 0:42:27
+vrlo, svuda praktički u svojoj literaturi;0:42:27 - 0:42:31
+se zove Robinsonov teorema konzistentnosti.;0:42:31 - 0:42:33
+Jer je zapravo došao iz, izvorno, iz teorije dokaza.;0:42:33 - 0:42:36
+Ali, kažem, nama ga je zgodno tu sad iskazati,;0:42:36 - 0:42:40
+na ovom mjestu, pa onda sad ga ne zovemo;0:42:40 - 0:42:43
+Robinsonov teorem ispunjivosti pa da se ljudi pitaju šta je to.;0:42:43 - 0:42:46
+To je Robinsonov teorem konzistentnosti,;0:42:46 - 0:42:48
+ali, kažem, zasad u našem dokazu ćemo zapravo;0:42:48 - 0:42:52
+konzistentnost shvatiti kao synonim za ispunjivost.;0:42:52 - 0:42:56
+Dobro.;0:42:56 - 0:42:58
+Da, i sad, dakle, je, to je dokaz koji je stvarno ogroman.;0:43:02 - 0:43:06
+Ima dvije lm-e i nadam se da ćemo ga stići.;0:43:06 - 0:43:10
+Sljeđi tijan u dva sata rješit, ali to bih svakako onda,;0:43:10 - 0:43:14
+onda odgodio za, za jednući tijan.;0:43:14 - 0:43:17
+Ima možda kakvih pitanja online?;0:43:19 - 0:43:22

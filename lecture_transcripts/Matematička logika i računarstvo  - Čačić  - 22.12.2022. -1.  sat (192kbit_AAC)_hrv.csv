@@ -1,0 +1,436 @@
+Speech;Timestamp
+Prvi put smo bili zapeli u jednom dijelu samo kod kregove interpolacijske leme.;0:00:00 - 0:00:20
+Nije baš bilo jasno kako primijeniti ovaj postupak.;0:00:20 - 0:00:27
+Imali smo niz formula A0, A1 itd.;0:00:27 - 0:00:32
+I tako dalje, onda smo od njih nekako gradili B0 pa B1 pa iz njega i ove A2, B2 itd.;0:00:32 - 0:00:46
+Uzimajući ili te formule Aove ili njihove negacije u nekakvu konjunkciju.;0:00:46 - 0:00:52
+Tako da i dalje sačuvamo svojstvo da između ovih F i G nekako nema interpolanta, čak nikad dodam te Bove.;0:00:52 - 0:01:05
+I onda je bilo nekako aha, znači svaki pojedini B je konzistentan sa Fom, dakle ovo je ispunjivo.;0:01:05 - 0:01:14
+A onda je bilo kao nekako i ovo je ispunjivo.;0:01:14 - 0:01:21
+Znači ovo smo više manje uspjeli vidjeti, a ovo nije bilo baš tako jednostavno.;0:01:21 - 0:01:31
+Na prvi pogled se širi da ide analogno jer ovaj B0 je zapravo valjana formula i tako onda je na početku lako,;0:01:31 - 0:01:39
+ali kasnije se stvari kompliciraju jer onda ova konjunkcija kad se negira postane disjunkcija i onda to više nije tako analogno.;0:01:39 - 0:01:48
+Dakle, nisam uspio doslovno taj dokaz dotirat do kraja, ali postoji dokaz, ima na Math Overflowu.;0:01:48 - 0:01:59
+Dakle, ja bih rekao na prvi pogled da to ide, znači pitanje je postavljeno i upravo ide znači pomoću poboću Robinsonovog teorema;0:02:00 - 0:02:12
+i tu je, ajmo reći, nekakav odgovor. Stvarno bih rekao da ovak na prvi pogled da sve štima i nalikuje na ovaj naš dokaz,;0:02:12 - 0:02:23
+jedino što ne ide sa nizom formula nego ide sa skupom formula, ali mislim da se vrlo jednostavno može svesti na ovo što smo mi radili,;0:02:23 - 0:02:34
+na obliku kojem smo mi radili, tako da mislim da će to biti jedna od zadataka za zadaću, dakle da pročitate taj dokaz na Math Overflowu;0:02:34 - 0:02:45
+i da ga zapišete u ovoj našoj notaciji kad smo već kod toga. Dakle, prva zadaća će biti objavljena do kraja tjedna, dakle do Božića,;0:02:45 - 0:02:54
+onda ćete naravno ne samo preko Božićnih praznika, ali ono tamo negdje do kraja sječnja bi bilo lijepo da je riješite i pošaljete.;0:02:54 - 0:03:07
+Ali kažem, to ćemo još komunicirati mailom samo da znate da ćete imat šta raditi preko praznika, neće vam biti dosadno.;0:03:08 - 0:03:16
+A mi idemo sad dalje što se tiče ovih stvari prema Vošovom teoremu i prvo zapravo moramo definirati općenito produkt i struktura.;0:03:17 - 0:03:27
+Prvo što bi nam palo na pamet, jednostavno uzmeš produkt skupova, dakle svaka struktura je skup, neki nosač sa nekakvim interpretacijama;0:03:29 - 0:03:36
+analogičkih simbola i onda za nosače naravno mogu uzeti najobičniji kartezijev produkt, a za relacije jednostavno reći za svaki.;0:03:36 - 0:03:47
+Dakle, naravno prvo to ne funkcionira za funkcijske i konstantske simbole jer što ako jedna struktura želi konstantski simbol interpretirati jednim elementom,;0:03:49 - 0:04:00
+to čak i moglo bi funkcionirati u smislu da ću stvarno dobiti nekakvu interpretaciju, da ću dobiti nekakvu funkciju opet sa tog indeksnog skupa,;0:04:00 - 0:04:14
+ali neću sačuvati svojstva te strukture. Na primjer, evo, možemo gledati samo uređaje,;0:04:15 - 0:04:22
+prošli put smo bili gledali nekakve algabarske strukture, a ako gledamo samo, znači, ove tusove, dakle totalno ili linarno uređene skupove,;0:04:22 - 0:04:30
+znači skup sa nekakvom relacijom koja je i refleksivna, i transitivna, i svaka dva elementa su usporediva, onda već, evo, uzmeš dva primjerka od R;0:04:31 - 0:04:44
+i kartezijskih povnožiš i definiraš uređaj tak da kažu da u svakoj komponenti budu jednako uređeni, onda naravno, na primjer, elementi 0 i 1,;0:04:44 - 0:04:55
+1 i 0 nisu usporedivi jer ovdje je 0 manje od 1, a ovdje je 1 veće od 0 pa ni jedna od ove dvojice ne može biti manja.;0:04:55 - 0:05:03
+E sad kaže, kako k tome doskočiti? Jedan način je da se definira, odnosno prirodan način, je da se definira nekakva relacija ekvalencije;0:05:03 - 0:05:11
+na kartezijevu produktu, tako da kad zapravo ne gledate kartezijski produkt čitav kao nosač, nego ga pocijepate po toj relaciji.;0:05:12 - 0:05:23
+E sad, da bi se ta relacija definirala, potreban nam je pojam filtera. Dakle, šta je zapravo ja tu hoću?;0:05:23 - 0:05:30
+Hoću nekako reći, evo, od ove dvojice, ako su oni u nekakvom klesu, dakle u ovom slučaju jesu, onda ću odabrat jedan i reći da je taj pobjedio.;0:05:30 - 0:05:39
+Dakle, onako je kako u toj strukturi piše. Naravno, kad god ih imam konačno mnogo, onda nema nekog, ne pada nam na pamet neki ljepši način da to napravimo,;0:05:39 - 0:05:51
+nego da jednostavno odaberemo jednog od njih i kažemo to je to. To odgovara, jednom kad definiramo filtre, to odgovara tako zvanom glavnom filteru.;0:05:51 - 0:05:59
+Međutim, kad je u produktu beskonačno mnogo struktura, onda postoje i zanimljiviji filtreri koji nisu glavni i koji stvarno vidit ćemo posljednja zapravo.;0:06:00 - 0:06:11
+Najčešće ćemo zahtjevati da budu ultrafiltri i onda, dakle, ultrafiltri koji nisu glavni su izuzetno zanimljivi i njihovo postojanje nije konstruktivno,;0:06:11 - 0:06:20
+dakle, dokazuje se ili putem cornoveleme ili nekakvog drugog ekvivalenta, aksioma izbora, ali jednom kad ih imamo, onda pomoću njih možemo graditi zanimljive produkte,;0:06:20 - 0:06:32
+struktura koje nisu samo jednostavno kopija ili da jednostavno uponašaju jednu od njih, nego su stvarno nekakav amalgam.;0:06:32 - 0:06:41
+Ali, kažem, to ćemo vidjeti kasnije. Ajmo prvo vidjeti što su filtri.;0:06:41 - 0:06:47
+Dakle, najlakše govoreći, nekako, filtr je, filtr na skupu A je nekakav podskup od partitivno A, dakle, skup podskupova od A, koji su u izvjestnom smislu dovoljno veliki.;0:06:47 - 0:07:01
+Dakle, što to znači? To znači da interpretiramo te strukture na kojima vrijedi nekakva atomarna formula kao glasove za tu atomarnu formulu.;0:07:01 - 0:07:16
+I onda, ako dovoljno velik broj ili dovoljno velik skup tih indeksa označava strukture koje su glasovali za tu formulu,;0:07:16 - 0:07:25
+onda je ta formula na reduciranom produktu istijeljita. To se zove reducirani produkt, kada se uzme produkt, pa se,;0:07:25 - 0:07:32
+kartezijan produkt, pa se podsijepa po relaciji equivalencije.;0:07:32 - 0:07:36
+Dakle, naravno, zahtijevaćemo u tom smislu da takvi skupovi indeksa onda budu dovoljno veliki,;0:07:36 - 0:07:44
+da možemo nekako sa sigurnošću reći da doista taj produkt onda želi da ta formula bude istijeljita na njemu,;0:07:44 - 0:07:50
+u smislu istijeljita je na dovoljno velikom skupu elemenata, faktora tog produkta.;0:07:50 - 0:07:58
+Druga, dualni pojam, pojam u filtra je pojam ideala. Dakle, to su tzv. zanemarivli skupovi ili jednostavno dovoljno mali skupovi.;0:07:59 - 0:08:10
+To je ponekad možda jasnije na šta se misli, recimo šta jasno imate, skupove mjere nula ili konačne podskupove;0:08:10 - 0:08:18
+od nekog beskonačnog skupa ili prebrojive podskupove od nekog neprebrojivog skupa i u tom smislu, dakle,;0:08:18 - 0:08:25
+često možete prirodno nekako reći kada je neki skup zanemariv ili recimo skupovi niže dimenzije,;0:08:25 - 0:08:34
+ako imate nekakvu ravninu onda jednodimenzionalni skupovi pravci su recimo zanemarivi u ravnini i tako.;0:08:34 - 0:08:40
+Znači, rekao bih da nam je često bliža ta intuicija zanemarivih skupova, pa onda filtre,;0:08:40 - 0:08:47
+odnosno ove dovoljno velike skupove, možete jednostavno shvatiti kao njihove komplemente.;0:08:47 - 0:08:51
+Dakle, na primjer, najjednostavniji valjda slučaj, frešeo filtr, on se dobije tako da se uzmu komplementi;0:08:51 - 0:09:01
+konačnih skupova, konačnih podskupova u nekom beskonačnom skupu.;0:09:01 - 0:09:05
+Znači, imate beskonačan skup i onda je nekak jasno, na primjer, skup prirodnih brojeva,;0:09:05 - 0:09:09
+i sad konačni podskupovi od n su onda u nekom smislu zanemarivi,;0:09:09 - 0:09:14
+a njihovi komplementi su onda u tom dualnom smislu dovoljno veliki.;0:09:14 - 0:09:20
+Dobro, formalno filtr ima ova tri svojstva, dakle, pišu ovdje.;0:09:21 - 0:09:27
+Prvo svojstvo samo služi tome da imamo ne trivialnost, dakle, da nešto ima u tom filteru.;0:09:28 - 0:09:33
+Treće svojstvo kaže zatvorenost na nadskupove, dakle, kad god imam, kad god je neki skup,;0:09:34 - 0:09:40
+neki podskupo da, dovoljno velik, onda je bilo koji nadskup njegov dovoljno velik, naravno,;0:09:40 - 0:09:45
+dakle, želimo da nadskupove velikih skupova također budu veliki.;0:09:45 - 0:09:50
+E, ali ovo drugo svojstvo je zapravo ključno, dakle, da ne može bilo kakav pojam veličine tu pasati,;0:09:50 - 0:10:00
+dakle, presjek, konačni presjek, nemoj ovdje govoriti za dva, ali indukciju se može vidjeti onda i za konačno mnogo,;0:10:00 - 0:10:07
+konačni presjek velikih skupova je ponovno velik.;0:10:07 - 0:10:10
+Dakle, u tom smislu, naravno, ne možemo onda govoriti općenito o nekakvom,;0:10:10 - 0:10:17
+šta ja znam, pojmu, uravnini, ne znam, skupovi površine veće od sedam da su veliki,;0:10:17 - 0:10:24
+to nema smisla, jer, naravno, uvijek mogu naći dva disjunkna skupa površine veće od sedam.;0:10:24 - 0:10:29
+Ali, recimo, primijetite da za ovu Freshevu kombinaciju to funkcionira, dakle,;0:10:29 - 0:10:33
+ako imate uniju dva konačna skupa, ona je i dalje konačna, odnosno, presjek dva skupa čiji je komplement konačan;0:10:33 - 0:10:42
+i opet skup čiji je komplement konačan, po demorganom.;0:10:42 - 0:10:45
+Dakle, to onda funkcionira. I za ove ostale stvari, recimo, unija dva skupa mjere nula je opet skup mjere nula,;0:10:45 - 0:10:53
+dakle, presjek dva skupa čiji komplementi su skupovi mjere nula je također takav skup čiji je komplement skup mjere nula.;0:10:53 - 0:11:01
+Samo kažem, zbog svojstva tri, ovo prvo svojstvo zapravo je svejedno ili kažete da se nešto nalazi u filteru;0:11:02 - 0:11:07
+ili da se baš čitav i nalazi u filteru, jer i je uvijek nad skupom od bilo čega što se nalazi u filteru.;0:11:07 - 0:11:13
+Dobro, evo primjera filtera. Zgodno je bilo vidjeti u ovoj glasačkoj metafori što bi oni na neki način bili.;0:11:16 - 0:11:26
+Trivijalni filter je jednostavno filter koji sadrži samo i. Dakle, prvo svojstvo kaže da mora sadržavati i,;0:11:27 - 0:11:33
+ako se tu zaustavite i kažete to mi je dosta, onda dobijete trivijalni filter.;0:11:33 - 0:11:38
+Kako to interpretira glasački? Pa to je ono, konsenzus. Dakle, jedini način da nešto vrijedi je da svi glasaju za to.;0:11:38 - 0:11:47
+Dakle, ako je čitav skup i za to, onda je u redu. Čim je nešto pravi pod skupom i, to više nije u filteru i to više nema sposobnost potvrde nekakve formule.;0:11:47 - 0:12:00
+Nepravi filter, dakle, to je, ajmo reći nekakva anarchija. Bilo koji pod skup i je dovoljno veliki.;0:12:01 - 0:12:10
+Dakle, sve prolazi jer jednostavno, bilo tko može glasati za neku formulu. Čak u ovom slučaju zapravo,;0:12:10 - 0:12:20
+s obzirom na to da sam uzela puni partitivni skup, može biti prazan. Dakle, doslovno, doslovno sve prolazi.;0:12:20 - 0:12:25
+Ovo je možda zanimljivije. Dakle, to je nekakva, kako bi to čovjek zval, nekakav kabel, dakle, nekakva struktura,;0:12:26 - 0:12:38
+nekakav pod skup ovih moćnika, x pod skup od i. I onda znači, dovoljno su veliki skupovi točno oni koji su nad skupovi od x.;0:12:38 - 0:12:46
+Dakle, nužno je i dovoljno da x-evi budu za to i onda će to proći.;0:12:46 - 0:12:52
+Specijalno, naravno, takva neka struktura moćnika se može sastojiti od jednog jedinog elementa, onda je to nekakva diktatura.;0:12:52 - 0:13:02
+Dakle, ovaj mali x je taj koji, ako on želi da nešto vrijedi, onda će to vrijedit i obrnuto.;0:13:02 - 0:13:10
+Dakle, više manje dovoljno veliki skupovi su točno oni koji sadrže mali x kao element.;0:13:10 - 0:13:16
+Evo, Frechetov filtr, skup svih onih kojima je komplement konačan u nekom beskonačnom skupu.;0:13:17 - 0:13:23
+U topološkom prostoru, zgodno je vidjeti jedan fenomen koji se pojavljuje zbog akcijoma topologije,;0:13:25 - 0:13:33
+skup svih okolina dane točke, ne misli se otvorene okoline, nego ove, znači proizvodne okoline,;0:13:33 - 0:13:39
+dakle takve da postoji otvoren skup koji sadrži tu točku i podskup je od okoline.;0:13:39 - 0:13:45
+Jest filter, dakle, lako je valjda vidjeti da, što sigurno ima nekakav element unutra, naprimjer čitav x.;0:13:47 - 0:13:55
+Sve skupa, jel'o? Presjek dvije okoline je također okolina jer presjek dva otvorena skupa;0:13:57 - 0:14:03
+koja sadrže neku točku je ponovo otvoren skup koji također sadrži tu točku.;0:14:03 - 0:14:07
+I naravno nadskup okoline, zato je važno da nisu nužno otvorene okoline,;0:14:07 - 0:14:11
+nego bilo kakve nadskup okoline je ponovno okoline.;0:14:11 - 0:14:14
+Nisam siguran kak se ovo interpretira glasački, ali možete probati nekako ako jako dobro imate intuiciju topološku.;0:14:18 - 0:14:25
+I ova zadnja točka je na neki način generalizacija ove treće točke ovdje, dakle,;0:14:27 - 0:14:33
+umjesto da imam filtr generiran nekim skupom ili još specialnije samo nekom individuom,;0:14:33 - 0:14:40
+mogu imati filtr generiran familijom. Dakle, ako je E nekakav podskup od partitivno odi,;0:14:40 - 0:14:47
+znači, sad možemo reći naravno ako je to već filtr, onda ništa ne radim,;0:14:47 - 0:14:51
+ali ne mora biti, znači možemo jednostavno definirati presjek svih filtra koji sadrže taj E.;0:14:51 - 0:15:00
+Znači, nekako u nekom smislu najmanji filtr koji je nadskup od E.;0:15:00 - 0:15:04
+Dakle, svakako ga moram zatvoriti na nadskupove, znači sve nadskupove svih elementa od E moram staviti unutra;0:15:04 - 0:15:10
+i moram ga zatvoriti na konačne presjeke, dakle, konačne presjeke svih elementa od E moram staviti unutra.;0:15:10 - 0:15:16
+I sad što se tu može dogoditi? Više ili manje može se dogoditi dvije stvari.;0:15:17 - 0:15:22
+Znači, hoćemo li na taj način dobiti prazan skup ili ne?;0:15:23 - 0:15:26
+Dakle, ako dobijemo prazan skup, onda je jasno da ćemo na taj način dobiti sve njegove nadskupove.;0:15:26 - 0:15:32
+Dakle, to će zapravo biti nepravi filtr, a ako se to ne dogodi, onda ćemo zapravo dobiti ono što se zove pravi filtr,;0:15:32 - 0:15:39
+da će stvarno nešto zanimljivo se s njim moći napraviti.;0:15:39 - 0:15:43
+Druga karakterizacija, kao što kažem, znači moram ga zatvoriti na konačne podskupove, konačne presjeke i na nadskupove.;0:15:43 - 0:15:51
+Znači, to su oni x-evi koji su podskupove od i, a nadskupove su od konačnih presjeka ovih y-ova koji su u r.;0:15:51 - 0:16:00
+Dobro, e i sad, znači jednom kad imam pojam filtra, imam pojam reduciranog produkta.;0:16:04 - 0:16:11
+Dakle, produkt, tu dalje pišem i, a tu pišem nekakve strukture.;0:16:11 - 0:16:17
+Dakle, da bih to definirao, moram prvo opet definirati nosač, kao i inače,;0:16:18 - 0:16:23
+samo što tamo je nosač bio obični kardenzivi produkt, pa je bilo lako.;0:16:23 - 0:16:27
+Sad ćemo to morati cijepati po nekoj relaciji kvalencije.;0:16:27 - 0:16:30
+Dakle, opet, ovaj brojnik tog kocijenta će biti jednostavno obični kardenzivi produkt.;0:16:30 - 0:16:37
+Dakle, to će biti skup svih funkcija sa i u nju ovih nosača,;0:16:37 - 0:16:41
+takav da, jel ono, standardna funkcija izbora.;0:16:42 - 0:16:46
+Dakle, svaki f od i je element pojedinog nosača mi.;0:16:46 - 0:16:50
+I sad, ono što hoću, hoću na tome definirati relaciju kvalencije.;0:16:53 - 0:16:57
+Relacija kvalencije će biti više manje ono što sam rekao.;0:16:57 - 0:16:59
+Dakle, dvije takve funkcije izbora će se slagat, će biti jednake,;0:16:59 - 0:17:05
+će biti ono što na neki način poisto vjećujem,;0:17:05 - 0:17:09
+ono, dakle, bit će u toj relaciji, ako na dovoljno velikom skupu se poduzaraju.;0:17:09 - 0:17:15
+Što znači dovoljno velikom? Znači da je taj skup element filtera.;0:17:15 - 0:17:19
+Znači, ako, kad god, kad konstruiram skup svih indeksa i na kojima F i G;0:17:19 - 0:17:25
+poprimaju istu vrijednost, taj skup indeksa je dovoljno velik,;0:17:25 - 0:17:29
+odnosno, jest element našeg filtera.;0:17:29 - 0:17:32
+Zašto je to relacija kvalencije? Mislim da je sasvim jasno.;0:17:32 - 0:17:36
+Dakle, valjda, šta znam, reflektivnost, F od I je jednako F od I na čitavom skupu I.;0:17:36 - 0:17:43
+Znači, čitav skup I, svojstva jedan.;0:17:43 - 0:17:45
+Simetričnost, naravno simetričnost ovoga, jel?;0:17:46 - 0:17:49
+Dakle, F od I jednako G od I, onda i G od I jednako F od I,;0:17:49 - 0:17:52
+dakle, to je jedan teisti skup.;0:17:52 - 0:17:54
+Ako je u filteru, onda nemam šta dokazivati.;0:17:54 - 0:17:57
+Za transitivnost treba malo razmislit, treba i koristit zatvorenost na natskupove;0:17:57 - 0:18:02
+i zatvorenost na presjeke, ali to bih ostavio vama da raspišete.;0:18:02 - 0:18:07
+Nije, stvarno nije teško.;0:18:07 - 0:18:09
+Dakle, upravo to treba pomoću presjeka i natskupa;0:18:09 - 0:18:13
+karakterizirati skup gdje se F i H podudaraju,;0:18:13 - 0:18:16
+pomoću skupova gdje se F i G podudaraju i skupa gdje se G i H podudaraju.;0:18:16 - 0:18:21
+Dobro, jednom kad imam relaciju kvalencije, naravno imam klase,;0:18:22 - 0:18:25
+ekvivalencije za funkciju F ovak označavam, znači F ide sa I u unija;0:18:25 - 0:18:32
+znači klasa s obzirom na filtr F.;0:18:41 - 0:18:45
+Ovo će biti skup svih G, takvi da i G je ekvivalentno sa F;0:18:45 - 0:18:51
+s obzirom na filtr F.;0:18:52 - 0:18:55
+Dobro, i sad, kvocijentni skup, aha, da, dakle ovdje sam krivo,;0:18:57 - 0:19:03
+ovdje trebali biti još uvijek M-ovi, nisam ništa o strukturama još pričao,;0:19:03 - 0:19:08
+ali znači imam produkt i iz i ovih običnih M-ova po ovoj relaciji,;0:19:08 - 0:19:19
+znači kvocijentni skup, to je jednostavno produkt M-ijeva i donje pišem samo F.;0:19:19 - 0:19:28
+Naravno trebalo bi nekako ponekad pisat ovaj I, ali podrazumijeva se da je indeks uvijek I.;0:19:28 - 0:19:34
+Znači to se zove reducirani produkt familije skupova, znači naravno za sad samo imamo nosače.;0:19:35 - 0:19:41
+E sad, jednom kad imam nosač naše strukture,;0:19:41 - 0:19:46
+nosač reduciranog produkta, struktura,;0:19:49 - 0:19:56
+onda možemo na njemu definirati interpretacije nelovičkih simbola.;0:20:00 - 0:20:05
+Da vidimo, znači opet kažemo, cijelo vrijeme treba imat na omu tu glasačku metaforu,;0:20:06 - 0:20:15
+dakle vrijedit će one formule za koje je glasao dovoljno velik skup faktora.;0:20:15 - 0:20:22
+Ovdje se baš za relacijske simbole se to najljepše vidi.;0:20:23 - 0:20:27
+Dakle, relacijski simbol R interpretiran na reduciranom produktu će biti jednostavno skup onih entorki,;0:20:27 - 0:20:38
+naravno neke R, nekakva relacija, onda ima neku mjestnost, označimo je sa N.;0:20:38 - 0:20:42
+Dakle, unutra će živjeti entorke elementa ovog skupa kodsjetnog, dakle entorke ovih klasa ekvivalencije;0:20:42 - 0:20:50
+pojedinih funkcija izbora F1 do Fn.;0:20:50 - 0:20:53
+Kako ustanovim, jel to u RM? Tako da svaku pojedinu strukturu pitam, dakle, izvadim ovaj F1,;0:20:53 - 0:21:01
+gledam njega na i, izvadim F2, gledam njega na i, izvadim Fn, gledam njega na i.;0:21:03 - 0:21:08
+Naravno, koje ga sam izvadio, to sad opet treba vidjeti, da to ne ovisi o reprezentantima,;0:21:08 - 0:21:11
+ali stvarno ne ovisi, to bih opet ostavio vama.;0:21:11 - 0:21:15
+Opet treba koristiti i zatvornost na podskupove i na nadskupove i na presjeke,;0:21:15 - 0:21:20
+ali ne ovisi o reprezentantima. Uzmem nekakve reprezentante,;0:21:20 - 0:21:24
+evaluiram ih na i i dobijem nekakvu entorku.;0:21:24 - 0:21:27
+Ta entorka ili jeste ili nije u R-u interpretiranom u relaciji, u strukturi mi.;0:21:27 - 0:21:34
+Za nekakve ijeve će ovo vrijediti, za nekakve druge možda neće.;0:21:35 - 0:21:38
+Ako oni ijevi na kojima to vrijedi čine dovoljno veliki podskup skupa svih indeksa,;0:21:38 - 0:21:43
+onda ću tu entorku klasa ekvivalencije staviti u RM.;0:21:43 - 0:21:49
+Dobro, za funkcijski simbol opet više manje isto, jedino što umjesto istina laž,;0:21:50 - 0:21:54
+ja moram definirati nego funkcijsku vrijednost.;0:21:54 - 0:21:57
+Ali pazite, opet ne moram zapravo definirati precizno funkcijsku vrijednost,;0:21:57 - 0:22:00
+samo moram definirati klasu ekvivalencije.;0:22:00 - 0:22:02
+I šta ću napraviti? Pa točno to.;0:22:02 - 0:22:05
+Znači za svaki i ću opet, dakle prvo ću uzeti po jednog reprezentanta;0:22:05 - 0:22:10
+od svaka od ovih klasa, F1 do Fn, onda ću za svaki i pogledat šta one kažu,;0:22:10 - 0:22:17
+tako ću dobiti nekakvu entorku elemenata i vidjet ću po čemu se ta entorka,;0:22:17 - 0:22:26
+u što se ta entorka preslikava po funkciji F interpretiranoj u strukturi Mi.;0:22:26 - 0:22:32
+Dobit ću znači nekakav element od Mi, od ovog pojedinog nasačka.;0:22:34 - 0:22:38
+I sada, ako to napravim za svaki i, dobit ću nekakvu opet funkciju izbora,;0:22:39 - 0:22:43
+njezina klasa, znači povratne vrijednosti ovih funkcija,;0:22:43 - 0:22:46
+ove funkcije F interpretirane u raznim strukturama, faktorima,;0:22:48 - 0:22:52
+ću dajati nekakvu funkciju izbora. Njezina klasa, s obzirom na filtr F,;0:22:53 - 0:22:58
+ću proglasiti to povratnu vrijednost u svoje funkcije.;0:22:59 - 0:23:02
+I opet, znači to neovisi o reprezentantima u smislu da,;0:23:02 - 0:23:06
+kad ovdje odaberem neke druge reprezentante, možda ću ovdje dobit neku drugu funkciju,;0:23:06 - 0:23:10
+ali će ona biti opet u istoj relaciji tilda F sa ovom koja tu piše.;0:23:10 - 0:23:15
+Dobro, znači konstantski simbol je jako jednostavno, ali opet više manje i isto,;0:23:16 - 0:23:19
+kao funkcije, samo nemaju argumente. Znači, neko ti da konstantski simbol,;0:23:20 - 0:23:24
+ti pitaš svaku pojedinu strukturu što kaže, kak se interpretira taj konstantski simbol,;0:23:25 - 0:23:29
+i jednostavno na taj način dobiješ na F funkciju izbora.;0:23:29 - 0:23:32
+Njezina klasa ekvalencije je ono kak definiraš interpretaciju C u reduciranom prvom.;0:23:32 - 0:23:39
+Evo, te definicije ne ovise o izboru reprezentanata.;0:23:41 - 0:23:45
+Naravno, ova zadnja nema šta ovise, to je izbor reprezentanata,;0:23:46 - 0:23:50
+dakle u njoj nema nikakvih reprezentanata, ali misle se ove gornje dvije.;0:23:50 - 0:23:55
+E i sad, dakle, kad tako na reduciranom produktu familije skupova;0:23:56 - 0:24:00
+definiram na ovaj način interpretacije analogičkih simbola,;0:24:01 - 0:24:05
+dobijem nešto što se zove reducirani produkt familije struktura,;0:24:05 - 0:24:09
+struktura za nekakvu fiksnu signaturu sigma.;0:24:09 - 0:24:12
+I onda dobijem to plus interpretacije;0:24:13 - 0:24:19
+relacijskih funkcijskih i uvjetanskih simbola.;0:24:26 - 0:24:29
+Če dati nešto što se piše ovako.;0:24:30 - 0:24:36
+I navodim f2, a zove se reducirani produkt struktura,;0:24:39 - 0:24:47
+sigma struktura gdje su ovi tu elementi od sigma.;0:24:51 - 0:24:55
+Važni, specijalni slučaj je reducirana potencija.;0:24:57 - 0:25:00
+Dakle, reducirana potencija je naravno koji uvijek,;0:25:01 - 0:25:03
+potencija je produkt kojemu su svi faktori isti.;0:25:03 - 0:25:05
+Dakle, ako su sve ove strukture iste, nekakva struktura M se ponavlja,;0:25:06 - 0:25:10
+najčešće je beskonaša mnogo puta, onda to zovemo reducirana potencija.;0:25:12 - 0:25:16
+I naravno onda ne pišemo ta i, ali u ovom efu se nekako vidi koliko je to veliko.;0:25:17 - 0:25:24
+Dobro, to je to što se tiče interpretacije analogičkih simbola.;0:25:28 - 0:25:32
+Naravno, sad moramo definirati valuacije varijabli.;0:25:32 - 0:25:38
+E sad, znači za valuacije varijabli je malo petljavo,;0:25:41 - 0:25:43
+ali opet više manje ista intuicija pali, dakle glasačka.;0:25:44 - 0:25:47
+Jednostavno ćemo pitat svaku pojedinu strukturu kako želi valuirat pojedinu varijablu;0:25:48 - 0:25:54
+i onda od toga ćemo pitat filtr da donese nekakvu finalnu odluku.;0:25:55 - 0:26:00
+Dakle, evo, to je ono što ovdje piše. Dakle, imate nekakvu familiju valuacija.;0:26:01 - 0:26:10
+MI, VI, familiju, znači parova struktura zarez valuacija,;0:26:13 - 0:26:23
+odnosno za svaku pojedinu strukturu MI, imate neku valuaciju VI na njoj.;0:26:24 - 0:26:29
+Znači, to sad može, ne mora biti funkcijska običnost,;0:26:30 - 0:26:33
+dakle, možemo imati ultra potenciju, na ultra potenciji ove sve su,;0:26:34 - 0:26:37
+MI-jevi su isti, ali VI-jevi mogu biti različiti.;0:26:38 - 0:26:40
+E sad, vi li ste htjeli nekakvo od ovoga tu inducirati nekakvu jednu valuaciju;0:26:41 - 0:26:47
+na čitavom, na produktu?;0:26:48 - 0:26:53
+Sad, šta napravite? Pa napravite opet isto ono, jel' znači,;0:26:54 - 0:27:02
+pitate svaku pojedinu strukturu kako će valuirati, znači,;0:27:03 - 0:27:06
+netko vam da varijablu, bilo kakvu varijablu X,;0:27:07 - 0:27:09
+vi pitate svaku pojedinu strukturu za svaki pojedini I,;0:27:10 - 0:27:12
+kako ona, znači njezina valuacija VI, valuira X,;0:27:13 - 0:27:17
+to je, kad sve to posložite u nekakav niz ili što već,;0:27:18 - 0:27:21
+punktiju izbora, njezina klasa će biti valuacija vrijednost te valuacije;0:27:21 - 0:27:27
+inducirane familijom valuacija VI.;0:27:28 - 0:27:30
+Ono što je možda zgodno napomenuti, znači, nije da se odmah vidi ovako,;0:27:34 - 0:27:38
+ali je zanimljivo, dakle, ova definicija, naravno, ona kaže,;0:27:39 - 0:27:46
+zapravo, jednom kad ja imam fiksirane nekakve VI za svaki pojedin I,;0:27:46 - 0:27:51
+što mi je onda inducirano tom konkretnom familijom valuacije.;0:27:52 - 0:27:55
+Ali moglo bi se teoretski zamisliti da definicija kaže nješto drugo, dakle,;0:27:56 - 0:28:00
+nekakva valuacija jest ili nije inducirana nekom familijom valuacija, bilo kojom,;0:28:01 - 0:28:05
+i onda bi smo mogli već, aha, nekakve valuacije na ovom ultra produktu,;0:28:06 - 0:28:11
+na reduciranom produktu, su inducirane nekom familijom valuacija,;0:28:11 - 0:28:16
+a neke možda nisu. Međutim, to je varka, dakle, zapravo se može pokazati;0:28:16 - 0:28:20
+da je svaka valuacija na ovakvom nekom reduciranom produktu;0:28:21 - 0:28:26
+jest inducirana nekom familijom valuacija. Znači, mogli biste probati,;0:28:27 - 0:28:31
+netko vam dave ovakvu valuaciju, znači, bilo kakvu valuaciju na reduciranom produktu;0:28:32 - 0:28:36
+i kaže smislite ove v i j takve da to bude inducirano.;0:28:36 - 0:28:40
+To uvijek možete napraviti, dakle, opet, treba malo razmišljati o tome,;0:28:41 - 0:28:45
+o osvojstvima filtera i tako, ali može se.;0:28:46 - 0:28:48
+I sad, jednom kad čovjek kaže, aha, znači, prilikom valuacije variabli;0:28:49 - 0:28:54
+sam poštovao tu glasačku mašineriju filtera, prilikom valuacije konstanti,;0:28:54 - 0:29:00
+interpretacije konstantnih simbola sam to radio, prilikom interpretacije funkcijskih simbola;0:29:01 - 0:29:08
+sam to radio, dakle, nekako, ono što je definirano pomoću variabli,;0:29:08 - 0:29:14
+valuacija variabli, interpretacija konstantnih simbola i interpretacija funkcijskih simbola,;0:29:14 - 0:29:18
+a to su termi, sigma termi, za njih bi to isto nekako trebalo vrijediti, ali to je ova lema.;0:29:18 - 0:29:24
+Znači, ovo što sam tu napisao da vrijedi za variable, jednostavno tako se definira,;0:29:25 - 0:29:29
+zapravo onda se može proširiti da vrijedi za sve terme.;0:29:29 - 0:29:33
+I naravno, dokaze indukcije po tom termu. Ako je taj term variabla, onda to piše gore,;0:29:34 - 0:29:41
+ako je konstantni simbol, onda je vrlo jednostavno, jer, dakle, ovaj V neutječe na C,;0:29:42 - 0:29:48
+C se uvijek interpretira isto, i to se interpretira ovako, a svaki od ovih je opet isto,;0:29:48 - 0:29:54
+kao kako ga pojedina valuacija na pojedinoj strukturi interpretira,;0:29:54 - 0:30:01
+ali kažem opet, to ne ovisi uopće o valuaciji, jer je ovo konstanta i gotovo.;0:30:01 - 0:30:06
+E i sad, naravno, za funkcijske simbole, tu sad ima more pisanja, ali nije ništa teško,;0:30:09 - 0:30:15
+dakle, jednostavno, predpostavka indukcije je da tvrdnja vrijedi za pojedine...;0:30:15 - 0:30:20
+ne znam, nekakav term, F od T1 do Tk, i sad, predpostavka indukcije je da to vrijedi za T1 do Tk,;0:30:25 - 0:30:34
+i treba vidjeti što je sa termom čitavim.;0:30:34 - 0:30:37
+Njegova valuacija je, naravno, po definiciji, valuacija funkcijskog terma je;0:30:37 - 0:30:42
+interpretacija funkcijskog simbola i je evaluirana u valuacijama pojedine ove djece,;0:30:43 - 0:30:50
+ne djece, nego podstabala, ali pod argumentat nam tema.;0:30:51 - 0:30:55
+Dobro, ovo prepišem, a ovo napišem što su, jel znači, tvrdnja pod predpostavci indukcije,;0:30:57 - 0:31:03
+to je zapravo to.;0:31:03 - 0:31:04
+E i onda idem se pitat, aha, čekaj, kako se definira FM?;0:31:05 - 0:31:08
+Pa to je pisalo na predskodnom slajdu.;0:31:08 - 0:31:10
+Tako da, ako ti netko da klase, ti uzmeš neke reprezentante, ali naravno, treba dokazati;0:31:13 - 0:31:18
+da ne ovisi reprezentantima, onda, naravno, nam je lijepo uzeti baš ove reprezentante ovdje,;0:31:18 - 0:31:24
+znači oni su već nekakvi reprezentanti, i vidjeti za svaki pojedini i kako taj glasi,;0:31:24 - 0:31:30
+ali naravno, to upravo glasi vi od t1, vi od t2, itd., sve do vi od tk.;0:31:30 - 0:31:36
+I to je to, jel znači, dobijem nekakvu funkciju izbora, njezina klasa je to.;0:31:41 - 0:31:45
+Međutim, sad opet natrag se vratim, FMI, znači interpretacija funkcijskog simbola F u strukturi MI;0:31:45 - 0:31:53
+na valuacijama pojedine, pojedinih terma argumenta, to je upravo vi od funkcijskog terma.;0:31:54 - 0:32:02
+I to je upravo ono što sam, što sam htio dokazati.;0:32:03 - 0:32:06
+Dobro, rekli smo već bili, znači, nepravi filter je onaj koji sadrži sve,;0:32:07 - 0:32:11
+a onda pravi je onaj koji ne sadrži sve, jel, dakle, koji je različit od partitivnog skupa.;0:32:12 - 0:32:16
+Dakle, opet, dovoljno je zahtjevati da nešto konkretno nije u F i to nešto konkretno je prazno skup.;0:32:17 - 0:32:21
+Opet, zbog zatvorenosti na nadskupove, ako je prazno skup unutra, onda će sve biti unutra,;0:32:22 - 0:32:25
+jer sve je nadskup od prazno skupa.;0:32:26 - 0:32:28
+Dakle, možemo se ponekad redozirati samo na prave filtre, ali zapravo puno češće onda;0:32:30 - 0:32:36
+još zahtjevamo jedno jako netrivijalno i važno svojstvo, a to je svojstvo ultra filtera.;0:32:36 - 0:32:42
+Dakle, ultra filter je pravi filter, dakle, mora biti takav da nečeg nema unutra.;0:32:43 - 0:32:48
+Mislim, dobro, to zapravo slijedi odavdje, jel, ali ono što je važno je da negako je;0:32:51 - 0:32:57
+konzistentan sam sa sobom. Dakle, ako date toj glasačkoj mašineriji dvije međusobno;0:32:59 - 0:33:05
+tvrdnje, ona će glasati ili za jednu ili za drugu.;0:33:06 - 0:33:10
+X će biti, znači, neki elementi vaše glasačkog tijela su za taj,;0:33:12 - 0:33:24
+za tu tvrdnju koju vi postavite pred njih. Neki drugi nisu.;0:33:28 - 0:33:32
+Dakle, ako skup onih koji jesu označite sa X, skup onih koji nisu za to je onda i bez X,;0:33:33 - 0:33:39
+i je čitav skup svega, svi glasači. I onda ovo tu kaže, ako i samo ako, znači obje stvari.;0:33:40 - 0:33:46
+Prvo, barem jedan od ta dva skupa je u F, znači ne može se dogoditi da je glasačko tijelo;0:33:47 - 0:33:54
+neodlučno, znači on uvijek ima mišljenje o svemu, i konsistentno je, znači ne može se dogoditi;0:33:55 - 0:34:01
+da im postavite tvrdnja A, da oni glasaju za nju, a da ste im postavili tvrdnju ne A,;0:34:02 - 0:34:07
+oni bi također glasali za nju. Dakle, nekako, ako je X u F, onda i bez X ne smije biti u F.;0:34:07 - 0:34:13
+Dakle, jednostavno, komplement dovoljno velikog skupa ne smije biti dovoljno velik.;0:34:14 - 0:34:20
+Na taj način se postiže da se onda ne može glasati za sve, jel,;0:34:21 - 0:34:25
+kao što bi se dogodilo, na primjer, kod nepravog filtera.;0:34:25 - 0:34:29
+Ključna stvar je da je ovaj uvijek 5 puno jačij od uvijeka 4.;0:34:31 - 0:34:36
+Dakle, ne samo da treba filter biti pravi, da se ne dogodi anarchija,;0:34:36 - 0:34:40
+nego treba biti ultrafilter.;0:34:40 - 0:34:42
+E, i sad, naravno, ako imate ta dva dodatna svojstva, ili jednostavno samo svojstvo ultrafiltra,;0:34:43 - 0:34:47
+onda reducirani produkt, odnosno reduciranu potenciju,;0:34:47 - 0:34:50
+skraćeno zovemo ultraprodukt ili, odnosno, ultrapotencija.;0:34:50 - 0:34:55
+E, i sad se naravno pitate, ima li takvih ultrafiltera?;0:34:56 - 0:34:59
+Naravno, lako je vidjeti da oni diktatorski, dakle, oni gdje vi odaberete jednu individu;0:34:59 - 0:35:04
+i kažete, to će biti onakav kako on kaže, to ima svojstvo ultrafiltra.;0:35:04 - 0:35:09
+Naravno, dakle, ako je X unutra, onda nije u komplementu i obrnotu.;0:35:09 - 0:35:13
+Dakle, svaki glavni filtr je ultrafiltr.;0:35:14 - 0:35:17
+Ostali primjeri su puno, puno komplesiraniji i, kažem, zahtijevaju zapravo nekonstruktivno razmišljanje.;0:35:17 - 0:35:23
+Dakle, moraju sad, može se dokazati egzistencija, ali nekonstruktivno, dakle, putem na primjer cornove leme.;0:35:23 - 0:35:31
+Evo, samo jedna propozicija vezana uz ovaj pravi filtr, dakle, to sam već bio rekao tamo;0:35:32 - 0:35:39
+kad sam pričao o filtru generiranom nekom familijom.;0:35:39 - 0:35:42
+Znači, ako vi stvarno napravite sve konačne presjeke i ispadne vam da ja od njih bude prazan, onda je gotovo.;0:35:43 - 0:35:54
+Onda su vam svi elementi u filtru i vaš filtr je nepravi.;0:35:54 - 0:35:58
+Znači, ako se to ne dogodi, onda je filtr sigurno pravi.;0:35:58 - 0:36:03
+Znači, ne možete dobiti prazan skup kao nadskup nekog presjeka koji već nije bio prazan.;0:36:03 - 0:36:09
+Dakle, filtr generiran sa E je pravi, ako i samo ako, kad gotovo uzmem konačno mnogo elementa iz E,;0:36:10 - 0:36:16
+njihov presjek nije prazan skupno.;0:36:17 - 0:36:19
+Možete nekako reći, elementi od E nisu disjunkni, ali ovo je dosta jače.;0:36:21 - 0:36:25
+Dakle, nekako, može vam se dogoditi da je prazan.;0:36:25 - 0:36:28
+Tri elementa od E, znači, ovo su tri skupa u ravljini, svaka dva imaju nešto u presjeku,;0:36:29 - 0:36:38
+ali sva tri i dalje su disjunkni u smislu presjek sve trojice je prazan.;0:36:38 - 0:36:43
+Ovo zapravo je jače svojstvo, znači, zahtjeva koliko god konačno mnogo, ne bez konačno mnogo,;0:36:43 - 0:36:48
+o tome ćemo još pričati poslije, prebrojivo potpuni, ne potpuni ultra filtri,;0:36:48 - 0:36:53
+ali zasad samo konačno mnogo, ako uzmem i presječem, to nikad ne smije biti prazan skup.;0:36:55 - 0:37:00
+Ako je tako, onda će filtr generiran s tom familijom biti pravi.;0:37:00 - 0:37:05
+I obrnuto.;0:37:05 - 0:37:07
+Kažem, više manje smo već dokazali tu propoziciju kroz ova razmišljenja.;0:37:08 - 0:37:13
+Dobro, evo, nekakvi primjer, to se zove svojstvo konačnih presjeka.;0:37:14 - 0:37:19
+Dakle, ne ovo, ovako onda ne želimo, ali ako kad god uzmem konačno mnogo;0:37:19 - 0:37:25
+i presječem da to bude neprazno, to se zove svojstvo konačnih presjeka.;0:37:26 - 0:37:30
+Dakle, važno, skup svih konfidentnih podskupova, dakle, onih koji imaju komplement konačan,;0:37:30 - 0:37:35
+svakako ima svojstvo konačnih presjeka.;0:37:35 - 0:37:38
+Dakle, naravno, to se najlakše opet vidi dualno.;0:37:38 - 0:37:41
+Prijeđem na Unije, znači, Unija konačno mnogo konačnih skupova je ponovno konačan skup.;0:37:41 - 0:37:46
+Naravno.;0:37:46 - 0:37:48
+Ovo je zgodna karakterizacija, dakle, ultrafilter, naravno, rekli smo,;0:37:48 - 0:37:53
+glavni su, se mogu vidjeti da su ultrafilteri, ali su dosadni.;0:37:53 - 0:37:57
+Oni zapravo ne daju ništa novo, oni samo prekopiraju jednu od tih struktura;0:37:57 - 0:38:02
+i kažu ti ćeš biti diktator i ti ćeš određevao šta vrijedi, a šta ne vrijedi.;0:38:02 - 0:38:06
+Ali, znači, oni koji nisu glavni, ovdje imaju dvije karakterizacije.;0:38:06 - 0:38:10
+Jedna karakterizacija je da nije glavni ako i samo ako sadrži samo beskonačne skupove.;0:38:10 - 0:38:16
+Naravno, prije tome, treba reći da je ovaj I beskonačan,;0:38:16 - 0:38:19
+jer, rekli smo, nad konačnim skupovima svi ultrafilteri su glavni,;0:38:19 - 0:38:23
+tako da to nije zanimljivo.;0:38:23 - 0:38:25
+Ali nad beskonačnim skupovima nije glavni ultrafilter ako i samo ako sadrži samo beskonačne skupove.;0:38:25 - 0:38:30
+Opet, jedan smjer je valjda sasvim jasan.;0:38:30 - 0:38:33
+Dakle, ako imaš diktatora malo X, onda ovaj tu skup sigurno sadrži, jer IDX rekao da tako bude,;0:38:33 - 0:38:39
+a on sigurno nije beskonačan.;0:38:39 - 0:38:42
+A u drugom smjeru je možda malo zanimljivije.;0:38:42 - 0:38:46
+Ali, opet, dakle, da, ako sadrži nekakav konačni skup,;0:38:50 - 0:38:58
+onda se zapravo može vidjeti da sadrži neki od njegovih elementa.;0:38:58 - 0:39:02
+Dakle, tu je sad ključno svojstvo ultrafiltera koje kaže ovo.;0:39:02 - 0:39:06
+A unija B je element U ako i samo ako je A element U ili B element U.;0:39:06 - 0:39:17
+Zaglavne to je očito, ali ključno je, dakle, da za sve ultrafiltere to vrijedi.;0:39:17 - 0:39:25
+I onda, naravno, kad imate tu nekakav konačni skup, njega uvijek možete zapisati kao unije manjih skupova,;0:39:25 - 0:39:30
+tako dok ne dođete do jednoštvana skupa.;0:39:30 - 0:39:35
+Dobro, evo sad kaže ne samo to, znači, može se reći sadrži samo beskonačne,;0:39:37 - 0:39:41
+a može se reći i ovo, sadrži sve kofinitne, znači sve one kojime je komplement konačan.;0:39:41 - 0:39:48
+Dakle, sadrži frešel filter, na neki znači.;0:39:48 - 0:39:51
+To bi opet neko... Mislim da to možete i sami raspisati, samo da kažem možda kak ide ideja.;0:39:52 - 0:40:03
+Ako sadrži sve kofinitne, onda budući da je ultrafilter, ne sadrži ni jedan konačan,;0:40:03 - 0:40:11
+jer konačni su upravo komplementi kofinitnih.;0:40:11 - 0:40:14
+Dakle, ne sadrži ni jedan konačan, znači upravo sadrži samo beskonačne.;0:40:14 - 0:40:19
+A ako sadrži samo beskonačne, kad ne bi sadržavao neki kofinitni,;0:40:20 - 0:40:25
+onda opet budući da je ultrafilter, onda bi sadržao njegov komplement.;0:40:25 - 0:40:29
+Dakle, glasnoško tijelo uvijek nikad nije neodlučeno.;0:40:29 - 0:40:32
+Znači, a to bi onda bilo kontradikcija s ovim ovdje.;0:40:32 - 0:40:35
+Dakle, lako je.;0:40:35 - 0:40:37
+I ovo nije karakterizacija.;0:40:37 - 0:40:41
+Ako i samo ako, naravno da može postojati filter koji nije ultrafilter,;0:40:41 - 0:40:46
+ima beskonačno mnogo elementa, ali ne može postojati ultrafilter koji ima konačno mnogo elementa.;0:40:46 - 0:40:51
+Znači, svaki ultrafilter je beskonačan u smislu njegovih elementa.;0:40:51 - 0:40:54
+U filteru tih dovoljno velikih skupova sigurno ima beskonačno mnogo.;0:40:54 - 0:40:59
+Dakle, ne može biti, na primjer, onaj trivialni koji ima samo jedan, samo i i tak.;0:40:59 - 0:41:03
+Opet, naravno, pod pretpostavkom da je i beskonačan.;0:41:03 - 0:41:07
+Kako se to vidi, pa pomoću ovoga gore, jel?;0:41:07 - 0:41:11
+Znači, ili je glavni, pa onda sigurno ima beskonačno mnogo,;0:41:11 - 0:41:15
+samo mora sadržavati tu individu i dalje ovih ostalih ima beskonačno mnogo.;0:41:15 - 0:41:20
+Dakle, čak i onda ima neprebrojivo, jel?;0:41:20 - 0:41:22
+Ili nije glavni, ali onda piše gore, znači, mora sadržavati sve kofinitne,;0:41:22 - 0:41:26
+a kofinitnih naravno ima isto koliko i konačnih, jel?;0:41:26 - 0:41:30
+Dakle, komplementiranje je tu bijekcija.;0:41:30 - 0:41:33
+Pa onda, a konačnih podskupova od beskonačnog skupa ima prebrojivo,;0:41:33 - 0:41:38
+pa je onda prebrojivo.;0:41:38 - 0:41:40
+Znači, neko čak, ne samo da ima beskonačno mnogo elementa,;0:41:40 - 0:41:43
+nego točno iz kardinalnosti njegove možemo zaključiti je li glavni ili nije.;0:41:43 - 0:41:48
+Znači, ako je glavni, onda ih ima neprebrojivo mnogo,;0:41:48 - 0:41:51
+a ako nije glavni, onda ih ima...;0:41:51 - 0:41:54
+Ha, on pa ne zna, jer ih ima...;0:41:54 - 0:41:57
+Znači, ima ih sigurno prebrojivo mnogo ovakvih, svih kofinitnih,;0:41:57 - 0:42:01
+ali, pa da, bit će ih više.;0:42:01 - 0:42:04
+Bit će ih više upravo zbog ovog svojstva, ovog svojstva ovoga filtera, jel?;0:42:04 - 0:42:08
+Ovo svojstvo kažem, nekako možemo reći dijeli;0:42:09 - 0:42:13
+HeOd na dva jednaka dijela,;0:42:16 - 0:42:19
+jednaka u smislu, jednako velika.;0:42:19 - 0:42:22
+U jednom su ovi koji su za, u drugom su njihovi komplementi.;0:42:22 - 0:42:27
+Pa onda, naravno, ako je i beskonačno, onda je partitivno od i neprebrojivo,;0:42:27 - 0:42:30
+a onda je pola od toga i dalje neprebrojivo.;0:42:30 - 0:42:33
+No dobro, dakle, kažem, uvijek je neprebrojivo, ali,;0:42:38 - 0:42:41
+za glavne je to puno lakše vidjeti.;0:42:41 - 0:42:44
+E, i možda još ova propozicija je zgodna, ali...;0:42:45 - 0:42:49
+Dobro, znači, možemo i skazati.;0:42:52 - 0:42:55
+Dakle, pravi filter jest ultrafilter,;0:42:55 - 0:42:59
+ako i samo ako je maksimalan među pravim filterima.;0:42:59 - 0:43:03
+Dakle, naravno, ako ne stavim ovo ograničenje na pravi,;0:43:03 - 0:43:08
+onda maksimalan je do sada maksimalan, onaj je trivialni,;0:43:08 - 0:43:11
+onaj nepravi, dakle, partitivno od i...;0:43:11 - 0:43:14
+Ali ako maknem njega iz priče, onda oni maksimalni među preostalima;0:43:14 - 0:43:18
+su točno ultrafilteri.;0:43:18 - 0:43:21
+To je jedna karakterizacija, a druga karakterizacija je ovo.;0:43:21 - 0:43:26
+Znači, ovo je to što se napisao.;0:43:26 - 0:43:29
+Vidjeli smo da iz činjenice da je ultrafilter...;0:43:29 - 0:43:32
+Ali mislim, nismo vidjeli, ali može se vidjeti da slijedi ovo.;0:43:32 - 0:43:36
+Iz toga...;0:43:36 - 0:43:39
+Ha, treba vidjeti da slijedi maksimalnost,;0:43:39 - 0:43:42
+i iz maksimalnosti treba vidjeti da slijedi da je ultrafilter.;0:43:42 - 0:43:45
+Dobro, svaka od tih implikacija je dovoljno kompleksirana,;0:43:45 - 0:43:49
+da neću sad prije pauze dokazivat'.;0:43:49 - 0:43:52
+Onda idemo na pauze.;0:43:52 - 0:43:55

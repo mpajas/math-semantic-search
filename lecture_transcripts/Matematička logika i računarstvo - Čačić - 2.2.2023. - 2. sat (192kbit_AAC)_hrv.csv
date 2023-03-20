@@ -1,0 +1,537 @@
+Speech;Timestamp
+Ovo je možda naša prva prvog vrha.;0:00:00 - 0:00:04
+Uvijek je to nije vrlo dobro.;0:00:04 - 0:00:07
+Ovo je naša prva prva vrha.;0:00:07 - 0:00:10
+Ovo je naša prva vrha.;0:00:10 - 0:00:13
+Ovo je naša prva vrha.;0:00:13 - 0:00:16
+Ovo je naša prva vrha.;0:00:16 - 0:00:19
+Ovo je naša prva vrha.;0:00:19 - 0:00:22
+Možemo?;0:00:22 - 0:00:25
+Tako da...;0:00:26 - 0:00:29
+Ako se sjećate,;0:00:32 - 0:00:35
+teorija ACF,;0:00:35 - 0:00:38
+algebraically closed fields,;0:00:38 - 0:00:41
+teorija algebarskih zatvorenih polja.;0:00:41 - 0:00:44
+Šta bi to bilo?;0:00:44 - 0:00:47
+Imamo nekih konačno 9 aksijoma teorije polja.;0:00:47 - 0:00:50
+I još imamo beskonačno aksijoma,;0:00:50 - 0:00:53
+znači po 1 za svaki stupanj veći od 1,;0:00:53 - 0:00:56
+koji kaže da svi polinomi tog stupnja imaju nul točku.;0:00:56 - 0:01:01
+Recimo, na primjer, za stupanj 2 bi to bilo za svaki a,;0:01:01 - 0:01:04
+za svaki b, za svaki c.;0:01:04 - 0:01:07
+Postoji x takav da a puta x puta x plus...;0:01:07 - 0:01:10
+Dobro, pardon, naravno, a nije nula.;0:01:10 - 0:01:13
+Poglači...;0:01:13 - 0:01:16
+a puta x puta x plus b puta x plus c.;0:01:18 - 0:01:22
+Dobro.;0:01:23 - 0:01:26
+I tako kažem, po jedna takva formula;0:01:26 - 0:01:29
+za svaki mogući stupanj poljama.;0:01:29 - 0:01:32
+Dakle, to je teorija algebarskih zatvorenih polja;0:01:32 - 0:01:35
+i sada želimo dokazati, mislim dokazati,;0:01:35 - 0:01:38
+malo mahat rukama, ali čisto da vidimo;0:01:38 - 0:01:41
+kako izgleda dokaz za tu teoriju;0:01:41 - 0:01:44
+da dopušta eliminaciju kvantifikatora.;0:01:44 - 0:01:47
+Dakle, opet, ona Lema kaže;0:01:47 - 0:01:51
+dovoljno mi je gledati primitivne,;0:01:51 - 0:01:55
+egzistencijalne sa jednim kvantifikatorom.;0:01:55 - 0:01:58
+Dakle, pišem zapravo postoji x...;0:01:58 - 0:02:02
+Aha, ovdje pišem y zapravo.;0:02:05 - 0:02:08
+Takav da i sad tu ide;0:02:08 - 0:02:11
+ovaj elementarna konjunkcija.;0:02:11 - 0:02:15
+Znači, konjunkcija atomarnih formula.;0:02:15 - 0:02:18
+Međutim, što je naša signatura?;0:02:18 - 0:02:20
+Naša signatura, teorija polja, naravno ima jednakost,;0:02:20 - 0:02:23
+koju je svaka signatura.;0:02:23 - 0:02:25
+Ima plus i puta iz teorije polja i to je to.;0:02:25 - 0:02:29
+Dakle, možemo sad još naravno čisto;0:02:29 - 0:02:33
+da nam bude lakše govoriti o poljima.;0:02:33 - 0:02:36
+Imate ono posebnu oznaku za nulu i za jedinicu,;0:02:36 - 0:02:40
+ali čak i nije nužno.;0:02:40 - 0:02:42
+Dakle, oni se uvijek mogu karakterizirati,;0:02:42 - 0:02:44
+definibilni su u teoriji preko nekakvih formula.;0:02:44 - 0:02:47
+Recimo, ako napišete da je nešto neutralni element za zbrajanje,;0:02:47 - 0:02:51
+onda to mora biti nula.;0:02:51 - 0:02:53
+Dakle, nula je jedinstveni neutralni element za zbrajanje u svakom polju,;0:02:53 - 0:02:56
+čak što više u svakoj grupi, adjetivnoj.;0:02:56 - 0:02:58
+Pa onda pomoću te formule zapravo možete;0:02:58 - 0:03:02
+karakterizirati taj kostnacki simbol.;0:03:02 - 0:03:05
+Isto tako, neutralni element za zamnoženje,;0:03:05 - 0:03:08
+bivanje neutralnim elementom za množenje zapravo karakterizira ujedinicu.;0:03:08 - 0:03:11
+Tak da kažem, konzervativno proširenje signature.;0:03:11 - 0:03:15
+Niš' nismo zapravo povećali bitno ekspresivnost,;0:03:15 - 0:03:20
+samo su neke stvari kraće.;0:03:20 - 0:03:23
+Dobro, ali ono što hoću reći, dakle, ovo su kostnacki simboli,;0:03:23 - 0:03:26
+ovo su funkcijski, jedini relacijski simbol je jednako.;0:03:26 - 0:03:29
+Znači, možemo reći nekako, ona prošla signatura je bila relacijska,;0:03:29 - 0:03:34
+u smislu imala je praviliški samo relacijske simbole,;0:03:34 - 0:03:37
+ova je nekako antiralacijska, odnosno ima, mora imati jedan relacijski simbol,;0:03:37 - 0:03:41
+ali taj tu jednakost, ali ima samo nju.;0:03:41 - 0:03:44
+Šta to znači? To znači da će gornja struktura ovoga biti vrlo jednostavna.;0:03:44 - 0:03:48
+Znači, sve će to biti ili nekakve jednakosti, ili nekakve različitosti.;0:03:48 - 0:03:52
+E, ali ono što će biti ispod, dakle, termi će sad biti stravično,;0:03:53 - 0:03:57
+mislim, stravično, dosta komplicirane.;0:03:57 - 0:04:00
+Termi će izgledati tako da zapravo vi imate,;0:04:00 - 0:04:03
+imate neke variable i imate još plus puta i 0 i 1.;0:04:06 - 0:04:13
+Naravno da opet ista priča, dakle, sa 0 i 1 možete eliminirati iz tih terma,;0:04:14 - 0:04:19
+ono ako se nešto množi s 0, onda to možete jednostavno zanemariti,;0:04:19 - 0:04:23
+čitav taj umnožak, ako se zbraja s 0, onda možete zanemariti taj pribrinik.;0:04:23 - 0:04:27
+Ako se množi s 1, isto možete zanemariti taj faktor,;0:04:27 - 0:04:30
+jedino ako se zbraja s 1, onda vam za to stvarno treba nešto,;0:04:30 - 0:04:36
+nekakva zanimljiva teorija koja vam kaže kako za stvarno eliminirate pojavu te jedinice.;0:04:36 - 0:04:42
+Ali kažem, možete uvijek reći, zbraja se sa onim što je neutralni element zamnoženje, pa možete.;0:04:42 - 0:04:48
+I sad, ono što je nekako algebarska stvar, što se radi na algebri,;0:04:49 - 0:04:55
+ako vi uvedete...;0:04:59 - 0:05:05
+Da, to je ovo, znači...;0:05:06 - 0:05:07
+Aha, ok. Taj y je zapravo ova varijabla koja nas zanima,;0:05:12 - 0:05:18
+koju želimo, kvantifikaciju po kojoj želimo eliminirati.;0:05:18 - 0:05:21
+Međutim, opet isto kao i u ovom teoremu koji smo dokazivali prošli sad,;0:05:21 - 0:05:26
+imamo mi u toj našoj formuli i druge varijable.;0:05:26 - 0:05:28
+Znači, ovo ne mora biti rečenica, najčešće i nije za zanimljive slučaje.;0:05:28 - 0:05:32
+Znači, ta zapravo formula će biti oblika f od nekakvih x1 do xn i onda još tu y.;0:05:33 - 0:05:44
+Aha, to je psi.;0:05:44 - 0:05:46
+Znači, ova tu formula...;0:05:50 - 0:05:52
+Aha, ne, ne, ne, ne, nešto ne valja.;0:05:54 - 0:05:57
+Aha, to je psi.;0:05:58 - 0:05:59
+Znači, ovo je f od x1 do xn, a ovo je psi od xn i još y.;0:06:02 - 0:06:10
+Ok.;0:06:10 - 0:06:11
+E, i sad kaže ovo, znači, da bismo nekako lakše razmišljali o ovome,;0:06:12 - 0:06:19
+zapravo ćemo koristiti onaj, onu napomenu,;0:06:19 - 0:06:27
+znači napomenu nakon teorema o kriteriju za eliminaciju,;0:06:27 - 0:06:29
+ona koja se odnosi na zajednički podmodel, znači ovo.;0:06:29 - 0:06:36
+Ako su m1 modeli za tu teoriju, znači teoriju ACF,;0:06:36 - 0:06:40
+i imaš, znači m1 su nekakva dva modela, a m0 je podmodel i od jednog i od drugog.;0:06:46 - 0:06:51
+To smo rekli da zapravo izvorno dolazi od toga da imam izomorfne podmodele,;0:06:51 - 0:07:03
+ali zapravo onda mogu pretpostaviti da je to jasno.;0:07:03 - 0:07:07
+Preimenujem u jednoj od tih struktura te elemente koji su im kao zajednički.;0:07:07 - 0:07:12
+Onda kad goti imaš tih jednih iz tog zajedničkog podmodela,;0:07:13 - 0:07:21
+onda vrijedi onaj uvid kao za, ne za jake, nego za homomorfizam.;0:07:21 - 0:07:28
+Mislim, ne, to je zapravo uvid kao donekle za elementarni podmodel.;0:07:30 - 0:07:37
+Naravno, komplicirano je sad reći šta to zapravo znači, jer ovi a-ovi su restringirani samo da budu iz ovog zajedničkog.;0:07:37 - 0:07:45
+Uglavnom, to je ekvivalentno sa time da dopušta eliminaciju kvantifikatora, dakle zapravo to želimo dokazati.;0:07:47 - 0:07:55
+Zašto je to korisno? Zato što kaže, aha, onda ovdje mogu ove tu x1 do xn zapravo valuirati;0:07:55 - 0:08:03
+samo sa elementima iz tog zajedničkog podmodela.;0:08:03 - 0:08:07
+Znači, imam neka dva algebarski zatvorena polja, modele za ACF, dakle M1, i M0 je nekakav zajednički podmodel.;0:08:08 - 0:08:16
+Po onoj napomeni, dovoljno je tvrnju, ono da nešto u M povlači nešto u N,;0:08:16 - 0:08:23
+dokazati za a1 do aN iz M0, iz nosača od M0.;0:08:23 - 0:08:28
+I to je to, znači, plus ona napomena, to je dovoljno napraviti za baš tu formulu.;0:08:29 - 0:08:36
+Postoji y takav da psi.;0:08:36 - 0:08:38
+Dobro, e sad, zašto smo to sve skupa radili? Zato da bismo mogli reći, aha, onda zapravo ovi a1 do aN se čuvaju,;0:08:42 - 0:08:50
+mogu zapravo proširiti signaturu sa imenima za njih i ta imena će biti jednako valuirana.;0:08:50 - 0:08:57
+Ključno je da nekako, opet, moram nekako u samoj teoriji reći da će ti, na primjer, a1 ostati na istom mjestu.;0:08:58 - 0:09:07
+Ako stavim variablu, to ne valja jer onda valuacija se može promijeniti u drugom modelu,;0:09:07 - 0:09:12
+ali način na koji to napravim je onaj koji smo već koristili hrpu puta, metoda diagrama,;0:09:12 - 0:09:18
+znači uvedem ime za taj a1, taj objekt, nazovim ga recimo a1-potez.;0:09:18 - 0:09:24
+Kažem, to je novi konstantski simbol u mojoj teoriji i jednostavno definiram interpretaciju tog konstantskog simbola kao a1.;0:09:24 - 0:09:32
+I onda naravno, s obzirom na to da je ovo podmodel, dakle, to će stvarno,;0:09:32 - 0:09:38
+taj, interpretacija konstantskog simbola će morati ostati ista.;0:09:38 - 0:09:41
+E, i sad kaže ova priča iz algebre, dakle, ako ja imam imena za koeficijente,;0:09:42 - 0:09:48
+onda su termi s jednom slobodnom variablom upravo polinomi.;0:09:48 - 0:09:52
+Znači, nad nekakvim poljem koje sadrži a1 do a1.;0:09:52 - 0:09:59
+Naravno, nekakvo polje koje sadrži a1 do a1 je upravo M0.;0:09:59 - 0:10:03
+Znači, on je podmodel od, na primjer, M, M je algebarski zatvoreno polje,;0:10:03 - 0:10:08
+dakle, M0 je isto algebarski zatvoreno polje.;0:10:08 - 0:10:12
+Dobro, znači, zatvoreni, ne zatvoreni termi, nego, dakle, termi.;0:10:15 - 0:10:20
+Zatvoreni termi su zapravo samo nekakvi izrazi, dakle, u polju, jel?;0:10:20 - 0:10:25
+Dakle, nešto što se može izračunati.;0:10:25 - 0:10:27
+Znači, zapravo imena za neki konkretan objekt u polju.;0:10:27 - 0:10:29
+To nije, to nije zanimljivo.;0:10:29 - 0:10:31
+A dakle, imaš jednu variablu, znači, ova y, onda naravno ta y ti možeš množiti sa a ovima,;0:10:31 - 0:10:36
+možeš ga množiti sa samim sobom, možeš ga zbrajati sa nekakvim a ovima, itd.;0:10:36 - 0:10:41
+Na kraju dobiješ, znači, nekakav poljenom u variabli y.;0:10:41 - 0:10:45
+E, i sad još treba reći, aha, a šta su ove atomarne?;0:10:45 - 0:10:49
+Znači, nekakav poljenom od y je jednak nekakvom drugom poljenom od y.;0:10:49 - 0:10:56
+Ali, naravno, to znamo da se uvijek može napisati u obliku f1 minus f2 od y jednako 0.;0:10:56 - 0:11:03
+Znači, imam polje, dakle, mogu uvijek poljenome...;0:11:03 - 0:11:07
+Dobro, nije, nije da poljenom i delje čine polje nad poljem uvijek,;0:11:09 - 0:11:13
+ali svako čine prstan, dakle, mogu sigurno ih oduzet.;0:11:13 - 0:11:16
+To će opet biti neki poljenom nad tim poljem i ne moram zapravo gledat' ovakve formule,;0:11:16 - 0:11:22
+dovoljno mi gledat' ovakve formule.;0:11:22 - 0:11:24
+Svaka jednakost se može zapisati kao neki poljenom y 0. nekog poljenoma.;0:11:26 - 0:11:33
+A svaka različitost se može napisati kao y nije 0. nekog drugog poljenoma.;0:11:34 - 0:11:39
+Znači, naravno, ne mora biti samo jedan, pojedini može biti više,;0:11:39 - 0:11:43
+naprimjer, m ovakvih gdje je 0. i k ovakvih gdje nije 0.;0:11:43 - 0:11:50
+Znači, sad, naša općenita formula psi je onda sigurno ovakvog oblika,;0:11:50 - 0:11:56
+pod pretpostavkom da sam uveo imena za ove a1 do a1.;0:11:56 - 0:12:01
+I sad, naravno, ovdje su onda nekakvi poljenomi sa koeficijentima odavdje,;0:12:02 - 0:12:06
+a svi su oni iz M0, znači, to.;0:12:06 - 0:12:08
+Dobro, treba sam ovdje još ovdje.;0:12:10 - 0:12:12
+Znači, kao nosač od M0 je zapravo to polje, a onda ugla to x.;0:12:12 - 0:12:17
+Dobro. I sad, znači, jednom kad sam precizirao to,;0:12:18 - 0:12:23
+znači, to zapravo sad piše postoji y i sad tu piše, znači,;0:12:23 - 0:12:27
+nekakav f1 od y je 0 i fm od y je 0.;0:12:27 - 0:12:35
+I ovih g1 od y nije 0 i gk od y nije 0.;0:12:35 - 0:12:52
+Dobro, ovaj je, naravno, mislim, dakle, ovih f ima m, a g ima k.;0:12:53 - 0:12:59
+I sad kaže ovako, znači, aha, zašto je M0 već nije algebarski zatvoren?;0:13:02 - 0:13:09
+Naravno, zapotovo, što je podmodel, dakle, nije nužno elementarni podmodel,;0:13:10 - 0:13:14
+dakle, ne mora, da, a onda ne mora biti ni polje, čak, zapravo, ali...;0:13:14 - 0:13:23
+M0 je podmodel, M1, dobro, znači, podmodel algebarski zatvorenog polja.;0:13:27 - 0:13:32
+Što to znači? To znači da svakako ima, znači, na primjer, 0 i 1 mu se;0:13:33 - 0:13:37
+interpretiraju na isti način. Zbrajanje i množenje mu se interpretiraju;0:13:40 - 0:13:43
+kao restriksije zbrajanje i množenja od M, odnosno od N.;0:13:43 - 0:13:46
+Nosač mu je podskup nosača, i jednog i drugog, dakle, presjeka.;0:13:47 - 0:13:52
+Jednakost je jednakost, dakle, normalni su ovaj, ali...;0:13:54 - 0:13:58
+Da zbilja, znači, to ne mora, jer, naravno, akcije ovog polja nisu nužno,;0:14:00 - 0:14:05
+ovaj, znači, univerzalne rečenice, dakle, nisu zatvorene na podmodele.;0:14:06 - 0:14:10
+Na primjer, šta ja znam, ovaj akcijon polja koji kaže da svaki ne-nula element ima inverz,;0:14:10 - 0:14:16
+to je ono, znači, svaki postoji. Dakle, teoretički je zamislivo da M0 uopće ne bude polje.;0:14:17 - 0:14:22
+Ali kako onda znam gdje mi je trebalo da je M0 polje?;0:14:24 - 0:14:29
+Ha, nije mi zapravo trebalo, to je ono, znači, da, ne treba,;0:14:35 - 0:14:38
+mi je samo da je prsten da bih napravio polje na ovome, onda to štima.;0:14:38 - 0:14:42
+Da, ok, ali u svakom slučaju, znači, mogu ga algebarski zatvoriti,;0:14:44 - 0:14:49
+čak i da nije polje, mogu, valjda, nekakav, nekako kocijentu konstrukciju napraviti;0:14:51 - 0:14:57
+i onda još algebarski zatvoriti, u svakom slučaju mogu napraviti algebarski zatvoreno polje;0:14:57 - 0:15:02
+koje je nadskup, odnosno nadmodelo od...;0:15:02 - 0:15:06
+od M0. Ha, ovo je isto nekakva, valjda, algebarska stvar. Dakle, što kaže?;0:15:09 - 0:15:15
+Ako imaš M0, je podmodel od nekakvog M i M je algebarski zatvoreno.;0:15:15 - 0:15:23
+Aha, to nije tako teško.;0:15:23 - 0:15:24
+Onda, kad zatvoriš M0, onda će naravno to biti podskup od zatvorenogo ovo.;0:15:28 - 0:15:33
+Međutim, budući da ovo već je algebarski zatvorno, to je isto što i M.;0:15:33 - 0:15:37
+Dakle, također onda ovo je algebarski zatvorenje od M0 je podmodel od M.;0:15:38 - 0:15:45
+A, isto tako, podmodel od M.;0:15:45 - 0:15:47
+Dobro, e, i sad kaže, aha, prvo, naravno, vrlo je slično kao i za onaj dokaz,;0:15:48 - 0:15:57
+samo naravno, nekako, tamo su termi bili užasno jednostavni,;0:15:57 - 0:16:01
+termi su bili samo varijable, a sama struktura atomarnih formula je bila puno kompliciranija.;0:16:01 - 0:16:05
+A ovdje je nekako obrnuto, jel, dakle, termi su oni koji zapravo nose svu kompliciranost,;0:16:06 - 0:16:11
+a atomarne formule su prilično jednostavni.;0:16:11 - 0:16:14
+Ali, dobro, dakle, prvo kaže, teoretski je zamislivo da ovih F-ova uopće nema.;0:16:14 - 0:16:20
+Dakle, M je 0, ili, ne mora M biti 0, ali može recimo M biti 3,;0:16:20 - 0:16:29
+a sva tri F-a su jednostavno 0 polinomije.;0:16:29 - 0:16:32
+Dakle, onda naravno, to mi isto niš ne kaže, ili su svi F i 0 polinomije.;0:16:32 - 0:16:42
+Što je tada? Je li tada prejednostavno?;0:16:50 - 0:16:53
+A nije baš, ali... Čekaj, čekaj, čekaj...;0:16:54 - 0:16:59
+Aha, to je ovaj donji slučaj.;0:16:59 - 0:17:02
+Aha, tada ni jedan g nije 0 polinom. Zašto? Jer tada ne bi moglo biti.;0:17:06 - 0:17:12
+Dakle, pretpostavka je bila, jel, dakle, ne koristimo ono,;0:17:12 - 0:17:15
+može se eliminirati kvantifikator, nego koristimo ono napomenu.;0:17:15 - 0:17:18
+Znači, tada je pretpostavka da stvarno u M vrijedi ovo.;0:17:18 - 0:17:21
+Ja sad moram samo u M naći neki svjedok.;0:17:21 - 0:17:25
+Ali, pretpostavka je da u M ovo stvarno vrijedi.;0:17:25 - 0:17:28
+Ne ono, je ekvivalentno, nego istina je.;0:17:28 - 0:17:32
+Znači, u M vrijedi da tada postoji y takav da nekakvi geovi od y su različiti od 0.;0:17:35 - 0:17:48
+To će onda značiti da ni jedan od geova nije 0 polinom.;0:17:52 - 0:17:57
+A da bi neki od geova bio 0 polinom, onda očito ne bi mogao za njega konkretnog postojati y takav da je u tom y različito 0.;0:17:57 - 0:18:06
+Jer 0 polinom je svuda 0.;0:18:06 - 0:18:08
+Znači, g j nije 0 polinom.;0:18:08 - 0:18:18
+Ok.;0:18:19 - 0:18:20
+Dobro.;0:18:26 - 0:18:27
+Aha, ali ako nije 0 polinom, ja imam za algebarski zatvoreno polje.;0:18:28 - 0:18:32
+U algebarski zatvorenom polju znamo po definiciji algebarski zatvorenosti svake polje ima 0.;0:18:32 - 0:18:37
+Ali znamo i više.;0:18:37 - 0:18:38
+Dakle, ima one neke bez uova, kak se to već zove, jednadžba ili što već,;0:18:38 - 0:18:42
+iz koja slijedi da zapravo kad polinom ima 0, onda se može podijeliti sa shiftom za tu 0.;0:18:42 - 0:18:49
+I onda dobiješ polinom manjeg stupnja.;0:18:49 - 0:18:51
+Dakle, zapravo ne samo da ima 0, nego ima točno toliko 0 čaka koliko je moj stupanj.;0:18:51 - 0:18:57
+A stupanj je konačan, ovih geova ima konačno mnogo.;0:18:57 - 0:19:00
+Dakle, sve skupa 0 čaka svih geova ima konačno mnogo.;0:19:00 - 0:19:05
+Pri tome, važan je 1 milion 0 polinom.;0:19:05 - 0:19:07
+1 milion 0 polinom je objećan konačno na 0 stupanj i on nema stupanj.;0:19:07 - 0:19:10
+Ali, buljiš je da svaki od njih ima stupanj.;0:19:10 - 0:19:13
+I ima 0 točki.;0:19:21 - 0:19:23
+Točno toliko, znači, stupanj od geov.;0:19:29 - 0:19:33
+Dakle, ja mogu sa s označit skup koji sadrži sve 0 točki svih geov, i tu je konačan skup.;0:19:34 - 0:19:39
+Ali, bili smo jednom davno, kad smo tamo gledali isto neka algebarska zatvorena polja,;0:19:41 - 0:19:47
+dokazali da je svako algebarski zatvoreno polje beskonačno.;0:19:47 - 0:19:51
+Jer nekako ono, evo ukljidov dokaz da primbrojavamo beskonačno mnogo.;0:19:51 - 0:19:55
+Pomnožiš sve shiftove, dodaš jedan i onda on mora imat 0 točku,;0:19:55 - 0:19:58
+a ne može biti ni jedna od ovih, jer si dodao jedan na unužak svih.;0:19:58 - 0:20:03
+Dakle, vrlo elegantna konstrukcija koja pokazuje da ne može;0:20:03 - 0:20:07
+algebarski zatvoreno polje biti konačno.;0:20:07 - 0:20:09
+Dakle, šta sad imam? Imam konačan podskup nekog beskonačnog skupa,;0:20:09 - 0:20:12
+nosača nekog beskonačnog modela. Znači, sigurno ima neki koji je iznosača, a nije u S.;0:20:12 - 0:20:19
+To je dosta. Dosta je da je iznosača, dakle mogu u njemu evaluirati sve ove gejotove,;0:20:19 - 0:20:27
+odnosno, precizno, mogu evaluirati y s njim.;0:20:27 - 0:20:31
+A budući da nije u S, svaki pojedini gejot od y će biti radišt od 0,;0:20:31 - 0:20:36
+jer inače bi značilo da je 0. to gejot, pa bi bio u S.;0:20:36 - 0:20:40
+Znači, to svakako vrijedi, odnosno, tada i ovo vrijedi.;0:20:42 - 0:20:46
+Mislim, to je tada šitava psi, jer nema ovog tu. Ovo tu trivialno vrijedi,;0:20:46 - 0:20:52
+jer ili ih nema, ili su svi 0 poljenomi, pa su jednaki 0 u bilo čemu, pa tako i u B.;0:20:52 - 0:20:57
+A nijedan od ovih nije 0, jer je B izvan S.;0:20:57 - 0:21:00
+I to je to, to je ovaj slučaj, svi su F i 0 poljenomi.;0:21:01 - 0:21:07
+E sad, ako neki od njih nije 0 poljenomi,;0:21:07 - 0:21:11
+F i 0 nije 0 poljenomi.;0:21:17 - 0:21:22
+Sad kaže ovako, onda imaš, aha, onda opet, iskoristiti činjenicu da u M vrijedi;0:21:23 - 0:21:33
+zvijestica, opet zbog zvijestica, a sad zvijestica daje nešto više.;0:21:37 - 0:21:44
+Znači, zvijestica tu je bila samo rekla nijedan gejot nije 0 poljenomi,;0:21:44 - 0:21:48
+jer ovih F-a nije bilo.;0:21:48 - 0:21:49
+A sad zvijestica zapravo dade da stvarno imaš nekakvu 0 točku ovdje.;0:21:49 - 0:21:53
+Znači, ima nekakav B, ali taj B je iz M, odnosno iz nosača od M.;0:21:53 - 0:22:03
+Ono što bi mi njego htjeli je strpat ga u N, ali...;0:22:03 - 0:22:07
+Tu imam ovaj M0 koji je u presjeku, znači, htjeli bismo ga zapravo strpat u M0.;0:22:14 - 0:22:17
+E sad, vjerojatno...;0:22:18 - 0:22:20
+Sposebno F i 0 od B je 0.;0:22:24 - 0:22:28
+Dobro, znači, imaš nekakav poljenom koji nije 0 poljenom;0:22:30 - 0:22:33
+i njega kad evaluiraš u ovom, znači, takav da bla bla,;0:22:33 - 0:22:38
+znači, tu sad piše nešto, nešto jednako 0,;0:22:38 - 0:22:41
+ali među njima je baš ovaj F i 0 za koji znam da nije 0 poljenom.;0:22:41 - 0:22:45
+Dobro, ne mogu tako napisati, mislim mogu, ali ovo sad nije formula,;0:22:48 - 0:22:54
+ovo je samo pokratno, dakle, postoji, rječima postoji B iz nosača od M,;0:22:54 - 0:22:59
+takav da ovo tu je ovako, jer taj B nije, to je element nosača,;0:22:59 - 0:23:04
+nije element jezika.;0:23:04 - 0:23:06
+Ali ne znam, jasno je što se tu sad hoće.;0:23:06 - 0:23:09
+E, ali sad, zbog toga kaže, onda B mora biti iz...;0:23:10 - 0:23:13
+A je, ali to je točno to, dakle, algebarsko zatvorenje,;0:23:13 - 0:23:20
+znači, dodaj u M0 sve nultočke svih mogućih poljenoma;0:23:20 - 0:23:25
+stupnja većeg od 0 nad M0.;0:23:25 - 0:23:31
+F i 0 je takav i stupanj mu je veći od 0 jer nije 0 poljenom,;0:23:31 - 0:23:35
+znači, a B je njegova nultočka, znači ona je morala nekad završiti u M0 crtice.;0:23:35 - 0:23:40
+Znam što je, po definiciji algebarskog zatvorenja,;0:23:41 - 0:23:44
+odnosno, možda bolje, po konstrukciji algebarskog zatvorenja, jer negako ovaj...;0:23:44 - 0:23:48
+Algebarsko zatvorenje, možete reći, specifikacija je samo, aha,;0:23:48 - 0:23:51
+to ti je bilo koje je algebarski zatvoreno polje koje sadržuje ovo početno,;0:23:51 - 0:23:54
+ali kad pogledate kak se ono konstruira, konstruira se zapravo;0:23:54 - 0:23:56
+iterativnim dodavanjem nultočnog polja.;0:23:56 - 0:23:58
+Dobro.;0:24:00 - 0:24:01
+E sad kaže M0, dakle, taj...;0:24:02 - 0:24:05
+Dobro, ovaj, crtice zapravo, whatever, je, znači, podmodel od M,;0:24:05 - 0:24:13
+a fi je otvorena, da je elementarni podmodel, onda ne bilo bitno kakva je psi,;0:24:15 - 0:24:20
+ova formula, ali otvorene formule se čuvaju i s obzirom na podmodela;0:24:20 - 0:24:24
+koji nisu elementarni, to zapravo znači da i u ovom zatvorenju vrijedi psi od B.;0:24:24 - 0:24:32
+I onda sam gotov, jel' li, dakle, sad to mogu dići gore.;0:24:33 - 0:24:36
+I kažem, budući da je B, B je kao bio ovdje, ali zapravo je bio ovdje jednom;0:24:38 - 0:24:46
+kad ja to algebarski zatvorim.;0:24:46 - 0:24:48
+Ovo je B.;0:24:48 - 0:24:49
+Ovaj, ali budući da je on također podmodel od N, ja sam B uspio da vidim.;0:24:54 - 0:25:03
+Znači, krivo je reći da ga strpavamo u M0, ne moram ga moći strpati u M0,;0:25:04 - 0:25:08
+ali moram ga moći strpati u algebarsko zatvorenje od M0, što je dovoljno.;0:25:08 - 0:25:12
+I opet sad ovo, znači, podmodel, otvorena formula, znači mogu prema gore.;0:25:13 - 0:25:18
+I to je to. Znači, uspio sam ga uspješno prenijet s jednog na drugi.;0:25:21 - 0:25:25
+U ovom prvom slučaju nisam ništa prenosio, ali sam prenosio samu činjenicu;0:25:25 - 0:25:30
+da ima neki tamo koji nije ovdje, a to je bilo posljedica toga što je ovaj skup konačan,;0:25:30 - 0:25:37
+a ovaj skup bez konača.;0:25:37 - 0:25:39
+Dobro, e sad kaže, znači, model na potpunost, naravno jer teorija dopušta eliminaciju kvantifikatora,;0:25:40 - 0:25:49
+može se dokazati neki važni teorem iz algebra koji se zove Hilbertov nuž,;0:25:51 - 0:25:56
+šta ne znam sad, tu ćemo samo valjda nekakve pojmovi iz algebra na brzinu ponoviti.;0:25:56 - 0:26:03
+Nešto imamo reći o tome.;0:26:04 - 0:26:06
+Evo probac.;0:26:07 - 0:26:08
+Znači za početak moramo nešto reći o idealima, ali to valjda nije strašno,;0:26:11 - 0:26:15
+nekakvu algebru ste slušali.;0:26:15 - 0:26:17
+Imate nekakav prsten, podskup prstena je ideal ako je zatvoren na zbrajanje,;0:26:19 - 0:26:25
+odusimanje i množenje proizvodnim elementima prstena.;0:26:25 - 0:26:29
+Naravno da je to onda između ostalog implicirate zatvorena množenja,;0:26:30 - 0:26:33
+ali i više, dakle, ne samo da umnožak dva elementa iz i mora biti natrag u i,;0:26:33 - 0:26:37
+nego jedan faktor da bude u i je dovoljno da umnožak bude u i.;0:26:37 - 0:26:42
+Valjda najtrivijalniji, najkanonski primjer su parni brojevi u prstenu, cijelih brojeva.;0:26:43 - 0:26:49
+Dovoljno da je jedan faktor paran da bi umnožak bio paran.;0:26:50 - 0:26:53
+U prstenu uvijek imate dva trivijalna ideala, mislim, u netrivijalnom prstenu,;0:26:56 - 0:27:00
+imate dva trivijalna ideala, jedan je samo nula, primijetite naravno,;0:27:00 - 0:27:03
+kad nulu množite s bilo kojim elementom prstena opet ćete završiti u nuli, znači, to je jasno ideal.;0:27:03 - 0:27:09
+I čitav R, naravno, jer R je zatvoren na množenje, dakle, kad se elementi iz R množe drugim,;0:27:09 - 0:27:14
+ili istim elementima iz R ponovno se dobiju elementi iz R.;0:27:14 - 0:27:17
+Dakle, to su trivijalni ideali. Ostali su onda zovu pravi ideali.;0:27:17 - 0:27:20
+R je kod parne brojeve uzel, zapravo mogu gledat brojeve dijeljiva sa 3, brojeve dijeljiva sa 15.;0:27:22 - 0:27:26
+Za bilo koji m ja mogu gledat mz, to je ideal u prstenu z.;0:27:27 - 0:27:31
+Za svaki m, naravno, za m jednako nula se dobije upravo ovaj,;0:27:32 - 0:27:35
+a za m jednako 1 ili čak za m jednako minus 1 se dobije ovaj.;0:27:35 - 0:27:39
+Ovi trivijalni su samo specijalni slučajevi ovih ovdje, ali naravno, u strukturi z.;0:27:41 - 0:27:47
+Uopćenitim strukturama možda bit kompliciraniji.;0:27:47 - 0:27:51
+Ovi se, inače, zovu glavni ideali, o tom potopu.;0:27:51 - 0:27:54
+Prosti ideal je onaj u kojem vrijedi ovako nešto.;0:27:55 - 0:27:59
+Dakle, da vi, ako imate umnožak u i, onda mora jedan od faktora biti u i.;0:27:59 - 0:28:05
+Dakle, primijetimo.;0:28:05 - 0:28:06
+Reci.;0:28:06 - 0:28:07
+Nisam baš siguran, ali mislim da se malo uopćenitih definiraju.;0:28:08 - 0:28:12
+Prosti ideal.;0:28:12 - 0:28:14
+Prijevijest je u nekim prstenima, ali ne baš u svima.;0:28:15 - 0:28:18
+Ideal je prosti, ako je samo ono uvijek.;0:28:18 - 0:28:21
+Iskreno, ovo fakat nisam ja pisao.;0:28:21 - 0:28:23
+Mislim da je ovo povlače da je idealno prostavljeno.;0:28:24 - 0:28:27
+Mislim da se nema nekakva svaka dva podideala.;0:28:29 - 0:28:35
+Imamo a i b.;0:28:35 - 0:28:38
+Da, da, sa podskupojima, a ne sa elementima.;0:28:39 - 0:28:42
+Tako se i ja nekak sjećam.;0:28:42 - 0:28:44
+Ali sam mislio da je to ekvalentno, ali možda i nije.;0:28:44 - 0:28:47
+S elementima je, ali mislim da ne u svima.;0:28:47 - 0:28:51
+Argo kao što.;0:28:52 - 0:28:53
+Da, da, možemo pogledat.;0:28:53 - 0:28:55
+Da, to nije ništa rekao.;0:29:02 - 0:29:04
+Ideal.;0:29:04 - 0:29:06
+Nista nije ništa.;0:29:09 - 0:29:11
+Aha, evo.;0:29:11 - 0:29:13
+To i naravno pravije.;0:29:14 - 0:29:17
+Dakle, tu se čini da je tak.;0:29:17 - 0:29:19
+E sad.;0:29:19 - 0:29:20
+Da, koliko Wikipedia treba vjerovat, to je dobro pitanje, ali...;0:29:20 - 0:29:24
+Evo, možemo još polframa pitati.;0:29:24 - 0:29:26
+Da, ali zanimljivo je da se ja isto sjećam neke karakterizacije sa podskupojima.;0:29:29 - 0:29:33
+Ali, da, evo.;0:29:33 - 0:29:35
+Dobro, ovdje čak ne piše da treba biti pravi, ali dobro, ajde.;0:29:36 - 0:29:39
+Uglavno.;0:29:41 - 0:29:42
+No, još.;0:29:43 - 0:29:44
+Svi učimo.;0:29:45 - 0:29:46
+Nadam se da nisam baš previše siguran da je to pretjerano korisno za logiku,;0:29:49 - 0:29:53
+ali dajte idemo.;0:29:53 - 0:29:54
+Idemo vidjeti koji će nas odvesti.;0:29:54 - 0:29:56
+Dobro, znači, zgodno je vidjeti da ako već od prije znate da je zatvoreno zbranje i oduzimanje,;0:29:59 - 0:30:04
+onda je dovoljno provjeriti ovo.;0:30:05 - 0:30:07
+Znači, i puta r jednako i.;0:30:08 - 0:30:10
+Naravno, ovo zapravo kaže podskupa, a onda zapravo samo drugi smjer.;0:30:10 - 0:30:14
+Ali drugi smjer zapravo slijedi iz toga da r ima jedinicu.;0:30:14 - 0:30:17
+Jer, naravno, bilo koji element iz i se uvijek može napisati kao ta element iz i puta 1.;0:30:17 - 0:30:22
+1 je iz r i gotovo.;0:30:22 - 0:30:23
+Zgodna, još jedna zgodna stvar kod jedinice, kod prstena s jedinicom,;0:30:25 - 0:30:29
+je da možete vrlo jednostavno provjeriti je li ideal pravi.;0:30:29 - 0:30:32
+Znači, možete provjerati je li svi elementi unutra, dovoljno da provjerite je li jedinica unutra.;0:30:32 - 0:30:36
+Naravno, ako je jedinica unutra, onda su svi unutra i ako su svi unutra,;0:30:36 - 0:30:39
+onda je jedinica unutra jer je ona među njima svima.;0:30:39 - 0:30:43
+E sad, sa kvocijentima, znači, pravi ideal je prosti ideal ako i samo ako kad napravite kvocijent.;0:30:45 - 0:30:52
+Naravno, kvocijent po idealu je standardna kvocijenta konstrukcija.;0:30:52 - 0:30:55
+I ideal je upravo, mislim, biti idealom je upravo ono svojstvo koje vam treba da ovo stvarno bude prsten.;0:30:55 - 0:31:01
+Dakle, R po I je uvijek prsten ako je ideala u R, a taj ideal je prost ako i samo ako je taj prsten integralno domeno.;0:31:01 - 0:31:08
+Dakle, ono, nema, valjda nema dijelitelja nula i možda još nešto.;0:31:08 - 0:31:12
+Dobro, maksimalni ideal, to je maksimalni među pravim idealima, dakle, nema pravog ideala koji mu je nadskup.;0:31:15 - 0:31:22
+Vrijedi, dakle, ako je maksimalni, onda je prost jer valjda ako imate umjetnost,;0:31:24 - 0:31:30
+da imate u maksimalnom idealu ovo, kada ne biste imali ni ovo, ni ovo, onda biste...;0:31:31 - 0:31:38
+Nisam baš siguran kako to direktno ide, ali znam ovu karakterizaciju.;0:31:43 - 0:31:46
+Kao što se može reći, aha, ideal je prost ako i samo ako je kvocijent integralna domena,;0:31:46 - 0:31:51
+ideal je maksimalan ako i samo ako je kvocijent polje.;0:31:51 - 0:31:54
+A naravno svako polje i je integralna domena, pa iz toga slijedi da je svaki maksimalni ideal prost.;0:31:55 - 0:31:59
+Ali, da, ne znam, jel se može to ovako na prste lako.;0:32:00 - 0:32:04
+Obrat uopćenito ne vrijedi, ima nekakvih primjera iz proširenja od Q i tak, svako komplicirano.;0:32:05 - 0:32:13
+Svaki pravi ideal se može nadopuniti do maksimalnog ideala, dakle, ako ništa drugo cornova lema.;0:32:14 - 0:32:19
+E sad, priča o generiranju ideala, znači, može općenito ideal biti generiran s jednim elementom,;0:32:19 - 0:32:31
+to je ono što smo već vidjeli tamo, znači onaj Mz je specijalni slučaj toga,;0:32:31 - 0:32:36
+ali naravno to mogu napraviti skoro općenito, znači, za bilo kakav A i Zer,;0:32:36 - 0:32:39
+skup svih A i X gdje je X i Zer je glavni ideal koji je generiran elementom A.;0:32:39 - 0:32:44
+A naravno ako imam više elementa, recimo A1 i A2, onda moram ne samo svakog pomnožiti sa nekim elementom prsta,;0:32:45 - 0:32:52
+nego moram još to zbrojiti jer mora biti aditivno zatvoreno.;0:32:52 - 0:32:55
+Onda su to nekakve, dajmo reći, linjarne kombinacije s koeficijentima iz Zer,;0:32:55 - 0:33:01
+linjarne kombinacije ovih A ovog.;0:33:02 - 0:33:03
+To se onda kaže jednostavno konačni ideal, konačno generirani ideal,;0:33:03 - 0:33:07
+znači generiran sa elementima A1 do An.;0:33:07 - 0:33:10
+Dakle, glavni je specijalni slučaj konačno generiranog sa jednim elementom.;0:33:10 - 0:33:14
+Prsten se zove neterin prsten, na kojem mu je svaki ideal konačno generiran,;0:33:16 - 0:33:19
+dakle, ne mora biti načalno, ali najčešće u primjerama prsteni jesu neterini.;0:33:19 - 0:33:25
+Svako polje je s neterin prsten trivialno, jer valjda u polju su svi ideali trivialni,;0:33:26 - 0:33:32
+pa onda je specijalno i konačno generirani, jer generirani su jednim elementom, nulom, odnosno jedinicom.;0:33:32 - 0:33:38
+I ima nekakav Hilbertov teorema o bazi koji kaže, više manje ovo neterino svojstvo se čuva;0:33:40 - 0:33:45
+s obzirom na proširenje do prstena polinoma.;0:33:46 - 0:33:49
+Znači, ako imaš neterin prsten koeficijenata, onda je prsten koje je polinoma,;0:33:49 - 0:33:55
+s tim koeficijentima također neterin.;0:33:55 - 0:33:57
+I nekak ne možeš imat, da se može karakterizirat kao nepostoji,;0:33:58 - 0:34:04
+ako se dobro sjećam, beskonačni, silazni, dakle, kao strogo padajući niz ideala.;0:34:05 - 0:34:10
+Sve manji ideali u beskonačnost.;0:34:11 - 0:34:14
+Dobro, to je valjda svi algebarski pojma koji će nam trebati.;0:34:18 - 0:34:23
+E sad kaže ovako, jedna prilična jednostavna observacija je,;0:34:23 - 0:34:29
+dakle, ako imaš nekakvih, kod našeg mnoga polinoma,;0:34:30 - 0:34:33
+na primjer nad kompleksnim poljem sa koeficijentima kompleksnim,;0:34:33 - 0:34:38
+u nekakvim k-polinoma u n variabli, ne moraju biti ta dva broja nikako povesana,;0:34:39 - 0:34:44
+treba naći nužni i dovoljni uvjet, da ti polinome, svi ti polinome,;0:34:45 - 0:34:49
+svih tih k-polinoma ima zajedničku nutrušku.;0:34:49 - 0:34:51
+Dakle, budući da su na C, oni sigurno imaju nutruške, svaki pojedinačno,;0:34:51 - 0:34:56
+svaki ima nekih, kod našeg mnoga, ali, dakle, osimak su 0 polinomi,;0:34:56 - 0:34:59
+ali mene sad zanima drugo, mene zanima jedna nutruška, zajednička nutruška za sve njih.;0:35:00 - 0:35:05
+I sad primijetimo, ako je i od F1 do Fn jednak R,;0:35:06 - 0:35:12
+ako je, znači, ideal konačno generiran sa tim F-ovima trivialan,;0:35:13 - 0:35:19
+dakle, čitav prsten, onda očito ne postoji zajednička nutruška. Zašto?;0:35:19 - 0:35:24
+Jer biti čitav prsten znači između ostalog sadržavati jedinicu u tom prstenu.;0:35:24 - 0:35:29
+Dakle, u prstenu polinoma jedinica je zapravo konstantni polinom.;0:35:30 - 0:35:33
+Dakle, uzmeš jedinicu kao kompleksni broj i svemu predružiš tu jedinicu.;0:35:33 - 0:35:38
+I onda dobiješ konstantnu 1 kao polinom, a takav polinom očito nema 0,;0:35:38 - 0:35:44
+jer je svuda 1, dakle, nigdje ni 0.;0:35:44 - 0:35:47
+Dakle, ako bi takvi geovi postojali, onda bi 1 bio element ovoga,;0:35:47 - 0:35:51
+mislim, drugim rječima, ovaj prsten ideal konačno generiran bi sadržao jedinicu,;0:35:51 - 0:35:56
+što bismo vidjeli da je ekvivalentno tome da bude čitav prsten,;0:35:56 - 0:35:59
+i onda ne postoji zajednička nutruška.;0:36:00 - 0:36:02
+Međutim, ono što je zanimljivo je da vrijedi i obrat,;0:36:02 - 0:36:04
+i to je jedna od načina na koji se može iskazat Hilbertov 0,7Z.;0:36:04 - 0:36:11
+Dakle, što? Ako postoji zajednička nutruška, ne, to je isto ovo.;0:36:11 - 0:36:17
+Dakle, ako postoji zajednička nutruška, onda je ovaj ideal pravi.;0:36:17 - 0:36:20
+Ali, ako je taj ideal pravi, onda ti polinomi doista imaju zajedničku nutrušku.;0:36:20 - 0:36:26
+Jedini način na koji mogu nemat zajedničku nutrušku je upravo ovaj.;0:36:26 - 0:36:30
+Mogu jedinicu ili zapravo mogu bilo koju konstantu dobiti kao linarnu kombinaciju tih F'ova.;0:36:31 - 0:36:37
+Evo, znači, ako imaš u algebarski, dakle, vidjeli smo ga iskazali na C,;0:36:41 - 0:36:46
+ali zapravo može proći nad bilo kojim algebarskim zatvornim poljem.;0:36:46 - 0:36:50
+Ako imaš pravi ideal, onda svi ti elementi tog ideala,;0:36:51 - 0:36:57
+prije je bilo kao konakšno generirane, oni imaju zajedničku nutrušku.;0:36:57 - 0:37:00
+Ali primijetite naravno da ako ti F'ovi imaju zajedničku nutrušku, F1 do Fk,;0:37:00 - 0:37:04
+onda i svaka njihova linarna kombinacija sa bilo kakvim geovima također ima tu istu nutrušku.;0:37:04 - 0:37:09
+Možemo jednostavno reći ovo. Ne moramo nekakve generatore imati,;0:37:09 - 0:37:12
+nego jednostavno reći za svaki F od i vrijedi F od tih, a ova je nula.;0:37:12 - 0:37:16
+I nutruška naravno ne mora biti jedna, dakle, nutruška je zapravo neka fajna torka.;0:37:16 - 0:37:20
+Jer imam jednu varijablu.;0:37:21 - 0:37:23
+Dobro.;0:37:24 - 0:37:25
+Ok, ajmo probati, proći dokazima, da kažem previše algebri, ali dobro.;0:37:26 - 0:37:31
+Šta napraviš? Ovo je i je pravi ideal, to je pretpostavka.;0:37:33 - 0:37:38
+Onda možeš sigurno naći, to je ona lema, znači primjena cornova leme,;0:37:38 - 0:37:43
+možeš ga proširiti do maksimalnog ideala, to znači sa J.;0:37:43 - 0:37:47
+Dakle, J je maksimalni ideal koji sadrži i unutar ovog prstena polinoma F od x1 do x7,;0:37:47 - 0:37:54
+gdje je F algebarski zatvoren.;0:37:54 - 0:37:56
+Dobro.;0:37:56 - 0:37:57
+E onda, s obzirom na to ovo što sam rekao, znači, ako imaš maksimalni ideal,;0:37:57 - 0:38:01
+onda je kvojocijent zapravo polje. Dakle, ovaj tu kvojocijent je polje.;0:38:01 - 0:38:05
+Onda to polje možeš algebarski zatvoriti, znači od i dođeš do J, onda dođeš do k.;0:38:05 - 0:38:10
+E sad, dakle, naravno k, strikno govoreći, nije naskup od F, ali u k žive ovi,;0:38:11 - 0:38:17
+kako bi to čovjek rekao, kouseti od J, znači pomaci od J,;0:38:18 - 0:38:24
+znači za svaki pojedini a, a plus J, onda naravno mogu trivialno reći,;0:38:24 - 0:38:29
+aha, ako imaš nekakav element od F, njemu odgovara nekakav konstantni polinom,;0:38:29 - 0:38:34
+a onda njemu odgovara konstantni polinom plus J, znači svakako u tom smislu mogu;0:38:34 - 0:38:40
+i algebarske operacije se naravno čuvaju s branjem množenja,;0:38:40 - 0:38:43
+dakle mogu jednostavno smatrati da je F uložen u k, odnosno zapravo da je podskup.;0:38:43 - 0:38:48
+Međutim, ne samo da je podskup, nego, kažem, operacije funkcioniraju,;0:38:48 - 0:38:52
+to zapravo znači da je podmodel.;0:38:52 - 0:38:54
+E, ali, a CF je modelno potpuna, jer sam vidio da mogu eliminirati kvantifikatore,;0:38:54 - 0:39:00
+onda iz toga slijedi da je ovaj F zapravo elementarni podmodel od k.;0:39:00 - 0:39:05
+Dobro, e sad, to je više manje ono što nam logika kaže.;0:39:06 - 0:39:12
+Da li kaže Hilbertov teorema o bazi? Kaže ovo tu. Zašto?;0:39:12 - 0:39:18
+Zato što svaki ideal je konačno generiran. Međutim, ovaj tu J je naravno nekakav ideal koji sad zaživi,;0:39:18 - 0:39:26
+on mora biti konačno generiran. Znači, on je ideal generiran sa najevnim g1 do g1.;0:39:26 - 0:39:32
+I sad, sve što još potrebno je dokazati da su ti geovi upravo oni,;0:39:32 - 0:39:38
+oni koeficijenti ovdje, znači koji sa tim generatorima F1 do Fn u ovoj linijarnoj kombinaciji tvore jedinicu.;0:39:38 - 0:39:48
+Kako to napravimo? Tako da napišemo činjenicu da se ovi svi geovi podudaraju na nekakvom entorci u obliku formule.;0:39:49 - 0:40:01
+Znači, to je formula koja kaže postoji x1 do postoji xn, takav da g1 od tih je 0, i g2 od njih je 0, i gm od njih je 0.;0:40:01 - 0:40:10
+Ono što svakako trivialno vrijedi je da geovi u jotu...;0:40:11 - 0:40:21
+Aha, ovo zapravo hoću reći, da, tu svakakvih zloupotreba notacije imala, ako ja dobro pužim.;0:40:28 - 0:40:35
+Znači, svaki polinom gi je zapravo polinom nad, to su elementi iz jot.;0:40:35 - 0:40:40
+A to zapravo znači da ako ja translatiram variable sa jot, geovi to neće primijestiti jer je jot idealan.;0:40:41 - 0:40:51
+Polinom je modulo 2 i sad gledaš, aha, taj polinom u točki x i u točki x plus 16, to će biti isto, modulo 2.;0:40:53 - 0:41:01
+Zašto? Znači to je 2z idealan.;0:41:02 - 0:41:05
+Dobro, to vrijedi skrozopćeniji, to je posljedica toga da se polinomi dobivaju iz koeficijenata i variabli;0:41:06 - 0:41:11
+pomoću operacije zbranje i množenja, a operacije zbranje i množenja ostaju unutar ideala.;0:41:12 - 0:41:17
+Znači, to je isto kao gi od x1 do xn, pa sve skupa plus jot.;0:41:18 - 0:41:21
+Dobro, ali to je zapravo nul elementi jer gi je element od jot.;0:41:23 - 0:41:27
+Znači, to je upravo onaj pomak koji nije pomak, to je ono gdje ostaneš u jot.;0:41:27 - 0:41:32
+Znači, to je zapravo neutralni element u ovom polju.;0:41:33 - 0:41:37
+Dobro, e sad kaže, kaj je alimbarstvo zatvorenje od tog polja?;0:41:42 - 0:41:48
+A ovdje piše da su geovi na tome nula.;0:41:49 - 0:41:52
+To zapravo znači da sam našao elemente.;0:41:57 - 0:41:59
+Ovdje su upravo ovi pomaci od x1 do xn.;0:41:59 - 0:42:04
+Sad o njima govorim kao o variablama, ali one su ujedno i elementi od ovog prste na polinoma.;0:42:04 - 0:42:10
+Dakle, variabla x1 je ujedno i polinom x1.;0:42:10 - 0:42:13
+I sad kaže, onda u kam mora vlijedit ge?;0:42:16 - 0:42:18
+Jer ge kaže, imaš takvu, a sigurno imaš takvu negdje, u nekim čudnim idealima,;0:42:19 - 0:42:26
+ali onda ga sigurno imaš u algebarskom zatvorenju.;0:42:27 - 0:42:29
+To se samo kaže da taj polinom ima na udučku, a onda je sigurno ima u algebarskom zatvorenju.;0:42:29 - 0:42:34
+Dobro, i sad što kaže? Na k vrijedi g, a f je elementarni podmodel od k,;0:42:35 - 0:42:41
+dakle, specijalno f je elementarno ekvivalentan sa k, dakle, a g je rečenica.;0:42:41 - 0:42:45
+Jest, dakle, variable x1 do xn su kvantificirane.;0:42:46 - 0:42:51
+Dakle, iz činjenica na k vrijedige slijedi da i na f vrijedige.;0:42:51 - 0:42:56
+Dobro, i šta sad? Činjenica na f vrijedige napokon znači da sam se vratio.;0:42:58 - 0:43:04
+Jel' baš, ovo kao, možemo smatrati f je podmodel od k, ali zapravo sad sam našao konkretne elemente u f,;0:43:04 - 0:43:11
+dakle, u bazičnom f, dakle, ne podignutom skroz gore na razinu k, nego baš u f.;0:43:11 - 0:43:16
+Nazovemo ih a1 do an.;0:43:18 - 0:43:20
+Dobro, i šta sad znam? Budući da znam da oni zadovoljavaju taj g,;0:43:22 - 0:43:25
+to zapravo znači da g1 od tih a2, gm od tih a2, svi takvi su nula.;0:43:25 - 0:43:30
+I to je više manje to, dakle, jednom kad dobijena su geovi nula, svaka linijarna kombinacija je nula.;0:43:32 - 0:43:36
+I to je sad dobro ovo priča. Dakle, svaki f koji je iz i, je sigurno ujedno i iz j, jer j je proširenje od i,;0:43:36 - 0:43:44
+a j je generiran sa geovima, to znači da se f može zapisati u ovakvom nekom obliku.;0:43:45 - 0:43:51
+Međutim, naravno, onda budući da su geovi nule u a, slijedi da je f i također nula u a.;0:43:51 - 0:43:58
+Linijarna kombinacija, naravno, nula je ponovno nula.;0:43:59 - 0:44:02
+Dobro, ovo je možda samo zanimljivost.;0:44:09 - 0:44:12
+Dakle, Hilbertov 17. problem kaže pozitivno-semi-definitna računalna funkcija je ona koja;0:44:12 - 0:44:19
+kad god je definirana, dakle, naravno, računalna funkcija znači imaš polvinom u brojniku i u nazivniku,;0:44:22 - 0:44:28
+dakle, nekam razlomak kojem je brojnik i nazivnik polvinom.;0:44:28 - 0:44:31
+Kad god je definirana, dakle, kad god nazivnik nije nula, on je većer jednako nula.;0:44:31 - 0:44:36
+Naravno, onda ne može biti na c, treba biti na račun, što imate u uređaju, na primjer, na r.;0:44:36 - 0:44:41
+I sad, naravno, u cijelim brojima vrijedi, kak se to zove, Lagrangev teorema o četirih kvadrata,;0:44:42 - 0:44:55
+koji kaže, ako imaš pozitivan broj, onda ga sigurno možeš zapisati kao konačnu sumu,;0:44:55 - 0:45:00
+čak što više sumu od četirih kvadrata cijelih brojeva.;0:45:00 - 0:45:04
+E sad, naravno, analogno tome, može li se svaka pozitivno-semi-definitna računalna funkcija;0:45:04 - 0:45:09
+zapisati kao konačna suma kvadrata nekih računalnih funkcija, bilo kakvih.;0:45:09 - 0:45:13
+Zgodno je, dakle, to je kao, ne znam, odnosno, rješeno je puno kasnije nego što je zadano,;0:45:17 - 0:45:24
+koji je većina Hilbertovih problema, ali zgodno je vidjeti da za Polinome to ne vrijedi.;0:45:24 - 0:45:30
+Znači, čisto da ne bi čovjek pomislio da je to neka algebarka stvar koju uvijek mora vrijediti,;0:45:30 - 0:45:34
+postoji tzv. močkinom u Polinom koji ima to svojstvo da je pozitivno-semi-definitan,;0:45:35 - 0:45:42
+ali nije zbroj kvadrata.;0:45:42 - 0:45:44
+Ali kažem, nećemo ništa više o tome reći, bar ne za sad.;0:45:44 - 0:45:48
+Dobro, to je to. Ima možda nekih pitanja online?;0:45:50 - 0:45:54
+Nema, okej.;0:45:54 - 0:45:56
