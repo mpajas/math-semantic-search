@@ -5,3 +5,5 @@ It is a work in progress as Google Colab regularly blocks my runtimes due to me 
 Once completed it will contain 35+ full lectures of text, completely searchable through semantic similarity or by just plainly querying questions that come up during my study of the material.
 
 The idea occured to me after my initial [article](https://www.linkedin.com/posts/matija-pajas-0b2a46143_how-to-get-more-out-of-your-meetings-using-activity-7042462394224119808-fZMB?utm_source=share&utm_medium=member_desktop) about semantic search.
+
+All lectures are available on the official university youtube channel from where the audio files are downloaded.
