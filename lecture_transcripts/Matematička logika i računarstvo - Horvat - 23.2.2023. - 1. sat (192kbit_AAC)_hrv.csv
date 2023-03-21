@@ -1,0 +1,549 @@
+Speech;Timestamp
+O pričaj do sad bila o modanoj logici u ovom drugom dijelu kolegija koji ste zajedno sa mnom prošli.;0:00:00 - 0:00:07.220000
+Dakle, pričali smo zadnji put o tri negakve konstrukcije;0:00:07.500000 - 0:00:12.920000
+koje čuvaju istinitost, odnosno valjanost, modelnih formula, jel?;0:00:13.740000 - 0:00:17.300000
+Znači, kako od okvira, odnosno modela, gradimo nove okvire, odnosno modele,;0:00:17.540000 - 0:00:22.340000
+na način koji ima smisla, jel, odnosno koji čuva dobra svojstva.;0:00:22.620000 - 0:00:27.860000
+Znači, generirani podokvir pod model, disjunktna unija,;0:00:28.840000 - 0:00:32.160000
+familije modela, odnosno okvira i ograničeni morfizmi,;0:00:32.200000 - 0:00:36.840000
+odnosno slike pri ograničenim morfizmima,;0:00:36.880000 - 0:00:39.240000
+možemo još reći surjektivni ograničeni morfizmi,;0:00:39.480000 - 0:00:41.840000
+među modelima, odnosno okvirima.;0:00:42.120000 - 0:00:44.160000
+Dobro.;0:00:48.280000 - 0:00:48.880000
+Ono što smo još pričali je, vidjeli smo zašto nerefleksivnost,;0:00:49.680000 - 0:00:54.280000
+konačnost i refleksivnost nisu modelno definibilna svojstva.;0:00:54.300000 - 0:00:58.140000
+Odnosno, čak čitav jedan skup takvih formula;0:00:58.820000 - 0:01:01.420000
+nam ne može točno hvatati one okvire koje su takve.;0:01:02.020000 - 0:01:05.460000
+Dobro.;0:01:07.380000 - 0:01:07.900000
+E sad, sad ćemo se COFOL malo posvetiti nečemu drugome,;0:01:08.500000 - 0:01:13.180000
+ali vidjet ćete da te stvari i tekako imaju veze.;0:01:13.540000 - 0:01:16.980000
+Dobro.;0:01:17.340000 - 0:01:17.860000
+Znači, osim što se;0:01:18.320000 - 0:01:21.240000
+formule modalne logike mogu interpretirati na strukturama koje smo radili zadnji put,;0:01:23.600000 - 0:01:28.400000
+odnosno na točkovnim modelima, modelima i kripkavim okvirima,;0:01:28.440000 - 0:01:34.160000
+možemo ih na neki način gledati i kao;0:01:36.080000 - 0:01:39.880000
+formule logike prvog reda.;0:01:41.560000 - 0:01:43.240000
+Dobro.;0:01:43.520000 - 0:01:44
+Znači, sad ćemo nekako raditi ono na što ste navikli;0:01:44.220000 - 0:01:48.060000
+pri svom prediplonskom studiju, recimo.;0:01:49.060000 - 0:01:51.060000
+Dakle, sjedite se, šta mi tu zapravo imamo?;0:01:51.940000 - 0:01:55.740000
+Koje su nekak dvije glavne stvari?;0:01:55.780000 - 0:01:57.660000
+Znači, imamo nekakvu;0:02:01.020000 - 0:02:02.140000
+relaciju, je li tako,;0:02:03.940000 - 0:02:05.620000
+koja kaže kad su dva svijeta povezane u nekom smislu, ja,;0:02:06.340000 - 0:02:11.020000
+i, ono, da se do jednoga može doći iz drugoga, je li tako, u jednom koraku, negako,;0:02:11.520000 - 0:02:16.640000
+i druga stvar koju imamo je da negdje, recimo u modelu na nekom svijetu,;0:02:17.560000 - 0:02:23.160000
+da vrijedi neka propozicijska variabla, odnosno da je istinita.;0:02:23.200000 - 0:02:27.760000
+E sad, jednu i drugu stvar ćemo negak prenjeti u logiku prvog reda.;0:02:28.480000 - 0:02:33.320000
+Dobro. Znači, vjerojatno je dosta jasno da, ono,;0:02:33.520000 - 0:02:38.760000
+nešto što bi odgovaralo ovoj relaciji R,;0:02:38.860000 - 0:02:41.740000
+je li tako, će biti relacija i tamo, s time da,;0:02:41.940000 - 0:02:44.420000
+ovaj R je onda relacijski simbol, je li tako, što se tiče nelogičkih simbola u;0:02:45.700000 - 0:02:51.900000
+strukturama prvog reda,;0:02:52.500000 - 0:02:53.740000
+odnosno, signaturama teorija prvog reda.;0:02:55.380000 - 0:02:58.620000
+Dakle, i jasno je valjda da je binarni relacijski simbol, je li tako.;0:02:59.100000 - 0:03:03.060000
+Znači, gledat ćemo signaturu koja sadrži taj jedan R2, ja,;0:03:03.380000 - 0:03:07.620000
+i, e, sad je pitanje šta ćemo sovin. Dobro.;0:03:08 - 0:03:11.400000
+Mogli bismo negak reći da, znači, kad imamo ovakvu situaciju,;0:03:11.600000 - 0:03:16.680000
+kak to možemo, recimo, emulirati u logici prvog reda.;0:03:16.880000 - 0:03:20.840000
+Znači, mogli bismo reći da na strukturi M, ja, vrijedi što?;0:03:21.040000 - 0:03:27.400000
+Ha, vrijedi negakav P i sad tijeli bismo reći od duplo V. Dobro.;0:03:27.600000 - 0:03:33.160000
+Al, znači, tu bi trebala biti varijabla, je li ne možemo baš uvrštavati nekako.;0:03:33.660000 - 0:03:39.020000
+Dobro. Ono što ćemo, jer ovaj duplo V će valjda biti u nosaču.;0:03:39.220000 - 0:03:43.740000
+Dobro. Znači, naša struktura prvog reda će negako biti nosač,;0:03:43.940000 - 0:03:49.260000
+ajde, M, dobro, ili, ajde, duplo V ću napisat da se zove isto.;0:03:49.460000 - 0:03:53.020000
+Ok, duplo V. I biće ona interpretacija ovih simbola Fi. Dobro.;0:03:53.220000 - 0:03:59.620000
+Mislim da se to zove interpretacija. Dobro.;0:04:00.620000 - 0:04:03.080000
+Znači, hoćemo da na M bude istiljito što?;0:04:03.280000 - 0:04:07.720000
+Nekakav P od X, u redu, P od X gdje uvrstim duplo V.;0:04:07.920000 - 0:04:14.520000
+Znači, ovaj duplo V nekak dolazi iz nosača naše strukture prvog reda,;0:04:14.720000 - 0:04:21.840000
+pa ima smisa da se tu ovoga ubaci u priču nekakva valuacija koja je ta;0:04:22.040000 - 0:04:27.120000
+koja zapravo na mjesto X-a stavi ove duplo V.;0:04:27.120000 - 0:04:29.900000
+Jel ima to smisla? Znači, ne uvrštavamo nekakvi konstantski simbol duplo V,;0:04:30.100000 - 0:04:34.140000
+nego zapravo valuiramo X sa ovoga elementom nosača. Dobro.;0:04:34.340000 - 0:04:42.940000
+Nekak sad mogo sam napisat malo P od X, ali recimo da ćemo koristiti velika slova.;0:04:45.940000 - 0:04:51.740000
+Dobro. Znači, za svaki P i iz Fi, za svaku propozicijsku variablu,;0:04:52.360000 - 0:04:58.280000
+napravimo si jedan unarni relacijski simbol P i. Dobro, P i jedan.;0:04:58.480000 - 0:05:03.560000
+Znači, svaki kripkao model M vrv se može shvatiti kao sigma struktura,;0:05:04.960000 - 0:05:10.560000
+s time da naravno interpretacija simbola R će biti baš ova relacija ovdje.;0:05:11.360000 - 0:05:20.960000
+Dobro. A interpretacija od P i će biti baš skup V od P i,;0:05:20.980000 - 0:05:30.980000
+odnosno skup svih svijetova, svih elementa nosača,;0:05:31.180000 - 0:05:34.180000
+gdje je P i istinita u ovom modelu. Dobro.;0:05:34.380000 - 0:05:38.780000
+Recite, je li to jasno za sad? Ok.;0:05:39.380000 - 0:05:41.980000
+Znači, samo želimo prevesti modelni svijet u nekakav svijet analogike prvog reda.;0:05:42.180000 - 0:05:48.380000
+Znači, nekako strukture prenosimo, odnosno prenosimo formule.;0:05:49.300000 - 0:05:54
+E sad kak ćemo prenijet formule?;0:05:54.200000 - 0:05:55.600000
+To će se zvat standardna translacija modelne formule. Dobro.;0:05:55.800000 - 0:05:58.600000
+Ima naravno rekurzivnu definiciju, jer su nam i formule rekurzivno definirane.;0:05:58.800000 - 0:06:03.400000
+Dakle, po strukturi formule idemo, jel? Modelne formule.;0:06:03.600000 - 0:06:07
+Znači, prvo se zapitan kak prevedem ovu propozicijsku variablu.;0:06:07.200000 - 0:06:15.200000
+Pa naravno sad moram si izabrat neko slovo da mi bude individualna variabla u logici prvog reda.;0:06:15.420000 - 0:06:22.220000
+Znači, evo, izaberem nekakav X, pa sad kažem što je STX PI.;0:06:22.420000 - 0:06:28.020000
+To će biti ovako, veliko PI od X. Dobro.;0:06:28.220000 - 0:06:31.020000
+Sad, u nekom trenutku smo za neku našu bazu ovih veznika uzeli falsun, kondicional i boks.;0:06:31.220000 - 0:06:40.220000
+Pa onda sad idemo to troje prevesti.;0:06:40.420000 - 0:06:43.020000
+Znači, vidite, imamo ovaj X na raspolaganju,;0:06:43.040000 - 0:06:47.240000
+pa sad za falsun nam je nekako najjednostavnije uzeti X je različito od X.;0:06:47.440000 - 0:06:52.440000
+Mislim, zamisljivo je da ga imamo i kao nekakvu logičku konstantu u teoriji prvog reda,;0:06:52.640000 - 0:06:57.840000
+ali nekak, ajde, dogovorite se, valjda sa profesorom Vukovićem da uvijek,;0:06:58.040000 - 0:07:03.040000
+a valjda i u ovom kolegiju, jel, da imate ove,;0:07:03.240000 - 0:07:07.440000
+da u svakoj signaturi, u teorijama prvog reda imate nekako jednakost.;0:07:08.260000 - 0:07:14.860000
+I sad, znači, ako hoćete normalne, onda se jednakost baš interpretira kao jednakost.;0:07:15.060000 - 0:07:22.260000
+Nije sa to sve naročito bitno.;0:07:22.460000 - 0:07:24.260000
+Ali, recimo, da jednakost imamo, a falsun nemamo, pa onda možemo ovako nešto napisati.;0:07:24.460000 - 0:07:29.860000
+Jel, znači, negacija od X jednako X ili ovako hraće X je različito od X. Dobro.;0:07:30.060000 - 0:07:34.660000
+Ok. Ovo tu jednostavno propadne, jel, znači, kad imamo kondicional,;0:07:35.480000 - 0:07:43.480000
+standardna translacija je tak da standardno translatiramo prvu formulu, kondicional drugu.;0:07:43.680000 - 0:07:50.080000
+Nekak je, valjda, dosta jasno da će se tak stvar općenito ponašati prema svim bulovskim veznicima, jel.;0:07:51.880000 - 0:08:01.080000
+Ono gdje se, naravno, komplicira i zašto uopće o tome pričamo je na;0:08:01.900000 - 0:08:07.300000
+novinama kod modelnih formula, a to je ovaj BOX, jel tako.;0:08:11.300000 - 0:08:15.300000
+Znači, do sad smo imali samo sudove.;0:08:15.500000 - 0:08:17.300000
+Ovoga, znači, SCX od BOX-FI je što? Pa nekak je jasno.;0:08:18.300000 - 0:08:23.500000
+Znači, ako X ima sljedbenika, na njemu ovoga mora vrijediti fi.;0:08:23.700000 - 0:08:29.500000
+Ako ima nekog drugog sljedbenika, i na njemu mora vrijediti fi.;0:08:29.520000 - 0:08:31.920000
+Znači, za sve njegove sljedbenike, na tim sljedbenicima vrijediti fi.;0:08:32.120000 - 0:08:36.720000
+Dobro. Ej, sad kaže gdje je Y nova variabla.;0:08:36.920000 - 0:08:39.920000
+Pa jasno. Znači, ne bi, kak bi sad tu bilo ono za svaki X, XRX, razumijete,;0:08:40.120000 - 0:08:47.920000
+znači, potuklo bi se. Tu ne možemo proći sa reciklažom.;0:08:48.120000 - 0:08:52.920000
+Dobro. Term slobodan za variablu u formuli i takve stvari, al.;0:08:53.120000 - 0:08:57.420000
+Ovdje nije slobodan.;0:08:57.620000 - 0:08:58.920000
+Dobro. Znači, ono zašto smo to uopće radili, naravno,;0:08:59.620000 - 0:09:05.920000
+je zato da na svijetu bude fi, ako i samo ako je na modelu,;0:09:06.120000 - 0:09:10.920000
+sad kao u strukturi prvog reda, isto to.;0:09:11.120000 - 0:09:14.920000
+Znači, vrijedi fi kao na svijetu duplo V, odnosno,;0:09:15.120000 - 0:09:17.420000
+kad se X valuira sa elementom duplo V iznosača ovog tu M.;0:09:17.620000 - 0:09:24.420000
+Dobro.;0:09:24.620000 - 0:09:25.920000
+Ajde, možemo o tome možda malo razmisljeti, odnosno, malo pisat.;0:09:26.840000 - 0:09:30.840000
+Da vidimo šta ovo znači. Znači, ako na M, na duplo V vrijedi fi.;0:09:46.340000 - 0:09:53.340000
+Šta bi to značilo?;0:09:54.340000 - 0:09:55.840000
+Aha, dobro, fi. Ajde, naravno, sad zanima me, recimo, ovaj, diamond psi.;0:09:56.840000 - 0:10:02.340000
+Dobro. Znači, obično ću radit samo ovaj,;0:10:02.540000 - 0:10:05.840000
+ajmo reći, slučaj modelnog operatora u formuli,;0:10:08.340000 - 0:10:10.840000
+jer ove druge slučaje u indukciji možete sami vrlo jednostavno,;0:10:11.040000 - 0:10:16.340000
+mislim, možete i ovoga samo, ajmo recimo, da nešto pokažem.;0:10:16.540000 - 0:10:19.340000
+Znači, šta to znači? To znači da postoji V takav da...;0:10:20.340000 - 0:10:24.340000
+Dobro, neću pisat stalno M.;0:10:25.260000 - 0:10:26.760000
+V je istinito psi, jel' tako?;0:10:27.760000 - 0:10:31.260000
+E sad, imamo ovdje... Aha, i V, sorry, duplo V, R, V i ovo.;0:10:32.260000 - 0:10:38.760000
+Ok? E sad, znači, ovdje nam dolazi u igru pretpostavka indukcije, jel'?;0:10:39.260000 - 0:10:45.760000
+Znači, šta kaže pretpostavka indukcije?;0:10:46.260000 - 0:10:48.260000
+Ako imam da na M, V vrijedi psi, onda na M vrijedi ovako, dobro?;0:10:48.460000 - 0:10:53.760000
+Znači, postoji V, takav da V, R, V, to je znači pretpostavka indukcije, dobro?;0:10:54.760000 - 0:11:02.260000
+V, R, V i na M, S, T, evo recimo, Y ovoga...;0:11:04.760000 - 0:11:13.760000
+Ne, kak' smo rekli, phi, da, phi.;0:11:16.260000 - 0:11:20.260000
+Aha, psi u ovom slučaju, psi.;0:11:21.260000 - 0:11:23.260000
+Duplo V, jel'? Aha, ne, V.;0:11:24.760000 - 0:11:27.760000
+Ovako, dobro?;0:11:28.760000 - 0:11:30.760000
+Šta ima? Znači, na V vrijedi psi, odnosno po pretpostavci indukcije ovo tu, u redu.;0:11:32.760000 - 0:11:37.760000
+E, i sad, šta mogu reć'?;0:11:38.760000 - 0:11:40.760000
+Mogu reć', vidite, šta ovo znači V, R, V?;0:11:41.760000 - 0:11:46.760000
+To mi zapravo znači da je na M, istina što?;0:11:47.260000 - 0:11:50.760000
+Ajmo reći, X, R, Y, ili mogu ovak' pisat', ako hoćete, R, X, Y,;0:11:51.180000 - 0:11:58.180000
+gdje se ovi valuiraju sa V i V, dobro?;0:11:58.680000 - 0:12:02.180000
+I na M je isti bitar S, T, Y, psi od V, dobro?;0:12:02.680000 - 0:12:16.680000
+Jel' to za sad ok? Kak' vam se čini?;0:12:21.680000 - 0:12:26.680000
+Dobro? Ok?;0:12:28.680000 - 0:12:30.680000
+E, i sad, u biti šta to sve skupa kaže?;0:12:31.180000 - 0:12:35.680000
+Znači, na M će zapravo, ako malo razmislite, biti istina da postoji Y,;0:12:36.180000 - 0:12:45.180000
+takav da je R od X, Y,;0:12:45.600000 - 0:12:49.600000
+i S, T, Y, psi valuirano sa V, dobro?;0:12:50.600000 - 0:13:00.100000
+I to sve valuirano sa čime?;0:13:00.600000 - 0:13:03.100000
+Postoji Y, da, to sve valuirano sa duplime izvana, jel' tako?;0:13:07.100000 - 0:13:12.100000
+Dobro.;0:13:12.520000 - 0:13:14.520000
+Znači, na M je istina ovo, S, T, X,;0:13:15.520000 - 0:13:33.520000
+X od D, psi valuirano sa duplime.;0:13:34.440000 - 0:13:43.440000
+Dobro? Znači, ništa nisam napravio, samo sam raspisao definicije;0:13:45.440000 - 0:13:49.440000
+i malo pokupio ovaj I, koji je zapravo možda bolje ovak' pisat',;0:13:49.940000 - 0:13:54.440000
+pokupio ga u stvarno I na strukturi prvog reda.;0:13:55.440000 - 0:13:59.940000
+Recite, jel' ima kakvih pitanja u vezi s tim?;0:14:00.440000 - 0:14:02.440000
+Dobro.;0:14:04.440000 - 0:14:06.440000
+Znači, ak' nešto ne vjerujete, slobodno probajte i ovu drugu stranu,;0:14:06.440000 - 0:14:10.440000
+mislim, bit' će isto, stvarno će vrijediti tu request,;0:14:10.440000 - 0:14:13.440000
+i probajte raspisati ove bulovske slučaje.;0:14:13.440000 - 0:14:17.440000
+Dobro.;0:14:18.440000 - 0:14:20.440000
+E, a sad ide ovaj lagani dio, naravno,;0:14:20.440000 - 0:14:22.440000
+koji kaže da ovo globalno funkcionira ak' se tu stavi za svaki.;0:14:23.440000 - 0:14:27.940000
+Pa to je negak jasno.;0:14:28.440000 - 0:14:30.440000
+Znači, šta znači, na M istina, aha, pardon,;0:14:30.860000 - 0:14:36.860000
+M forsira fi, ako i samo ako za sve duplo V iz nosača,;0:14:37.860000 - 0:14:46.860000
+na duplo V istinita fi.;0:14:48.860000 - 0:14:51.860000
+Šta tu piše? Ako i samo ako na M je istinita,;0:14:52.860000 - 0:14:59.360000
+znači kao na strukturi prvog reda,;0:15:00.280000 - 0:15:02.280000
+istinita standardna translacija po x od fi valorirana sa duplim V.;0:15:02.280000 - 0:15:07.280000
+Ok.;0:15:07.780000 - 0:15:09.780000
+Tu mi još hvala i za sve, dobro?;0:15:12.780000 - 0:15:14.780000
+Za sve duplo V ovo tu.;0:15:14.780000 - 0:15:18.780000
+Dobro.;0:15:18.780000 - 0:15:19.780000
+A to je baš, ono, definicija istinitosti;0:15:19.780000 - 0:15:21.780000
+univerzalno kvantificirane formule za sve V iz nosača, jel?;0:15:22.780000 - 0:15:27.780000
+Dobro, budete sami.;0:15:28.200000 - 0:15:29.200000
+Znači, na M je istinita za svaki x st x od fi.;0:15:29.200000 - 0:15:37.200000
+Dobro, znači skoro trivijalno, jedno kad imate ovaj komad.;0:15:39.200000 - 0:15:42.200000
+Dobro.;0:15:43.200000 - 0:15:44.200000
+I zašto bi sad svaka modelno definabilna klasa modela,;0:15:45.200000 - 0:15:50.200000
+odnosno točkovnih modela, bila elementarna?;0:15:50.200000 - 0:15:53.200000
+Kako to slijedi?;0:15:53.620000 - 0:15:57.620000
+Znači, što znači modelno definabilna?;0:15:59.620000 - 0:16:01.620000
+Znači da postoje formule koje točno jesu na modelima;0:16:01.620000 - 0:16:07.120000
+ili točkovnim modelima iz te klase istinite,;0:16:07.120000 - 0:16:10.120000
+a ovoga, ono, to su točno ti modeli ili točkovni modeli;0:16:10.120000 - 0:16:18.120000
+na kojima je istinita dan skup formula.;0:16:19.040000 - 0:16:26.040000
+I sad, koje su to onda formule logike prvog reda;0:16:28.040000 - 0:16:31.040000
+koje onda definiraju u logici prvog reda tu klasu?;0:16:31.040000 - 0:16:38.040000
+Pa samo sve standardne translacije.;0:16:38.040000 - 0:16:40.040000
+Dobro, znači napravimo sve standardne translacije;0:16:40.040000 - 0:16:43.040000
+i točno one će nam definirati istu klasu.;0:16:43.040000 - 0:16:46.040000
+Ok.;0:16:46.960000 - 0:16:48.960000
+E, i sad evo malo primjera.;0:16:49.960000 - 0:16:51.960000
+Ne znam sad baš jel jako potrebno, ali ajde idemo.;0:16:52.960000 - 0:16:56.960000
+Znači, možda je ovo zgodno.;0:16:56.960000 - 0:16:58.960000
+Znači, sjedite se šta smo rekli, gdje je vrijedi,;0:16:58.960000 - 0:17:01.960000
+koji su to točno svjetovi u nekakvim modelima,;0:17:01.960000 - 0:17:06.960000
+za koje vrijedi, odnosno na kojima vrijedi ova formula Diamond True.;0:17:06.960000 - 0:17:11.960000
+To su oni koji nisu terminalni, odnosno imaju sljedbedih, je li tako?;0:17:12.880000 - 0:17:16.880000
+I pogledajte, to točno tu piše, je li tako?;0:17:16.880000 - 0:17:19.880000
+Znači, šta smo rekli ovoga, čim imamo Diamond,;0:17:19.880000 - 0:17:22.880000
+postoji Y, tako da XRY i STY True, dobro.;0:17:22.880000 - 0:17:27.880000
+Naravno True je sad negacija od False, ne?;0:17:27.880000 - 0:17:30.880000
+To je onda Y jednako Y, dobro.;0:17:30.880000 - 0:17:33.880000
+I to mogu jednostavno maknuti,;0:17:33.880000 - 0:17:35.880000
+jer znači tu nas zanima samo semantički ovoga,;0:17:35.880000 - 0:17:38.880000
+samo nas zanima značilje tih formula.;0:17:38.880000 - 0:17:41.880000
+Znači, standardna translacija od Diamond T;0:17:42.300000 - 0:17:44.800000
+nije jednaka u ovoj formuli,;0:17:44.800000 - 0:17:46.800000
+ali je logički ekvivalent na ovoj formuli.;0:17:46.800000 - 0:17:49.800000
+Dobro, onda šta smo rekli ovo tu je valjda refleksivnost, je li tako?;0:17:51.800000 - 0:17:56.800000
+Dobro, sad ono kako se tu završi malo ružnije izgleda,;0:17:59.800000 - 0:18:03.800000
+ali znači za svaki Y koji bi ovoga,;0:18:03.800000 - 0:18:08.800000
+koji bi bio sljedbenik od X-a,;0:18:09.720000 - 0:18:14.720000
+tamo vrijedi P.;0:18:14.720000 - 0:18:16.720000
+Ako je to istina, onda na samom svijetu vrijedi P.;0:18:16.720000 - 0:18:20.720000
+Dobro? I tako.;0:18:20.720000 - 0:18:22.720000
+Ovoga, evo ne znam, ovaj tu box,;0:18:23.720000 - 0:18:25.720000
+vidite kad ga raspišete i onda imate još jedan box.;0:18:25.720000 - 0:18:29.720000
+Onda se baš nekako ovoga,;0:18:29.720000 - 0:18:32.720000
+onako, fraktalno čini,;0:18:32.720000 - 0:18:35.720000
+i onda znači nekako ste u gnjezdi ili cijelu stvar opet.;0:18:36.640000 - 0:18:39.640000
+Ne znam, je li treba to nekako prolaziti posebno;0:18:41.640000 - 0:18:44.640000
+ili mislim da je dosta ovako jasno.;0:18:44.640000 - 0:18:47.640000
+Znači, samo primjenjujete ova tu pravila.;0:18:48.640000 - 0:18:50.640000
+Jedino, ajde, malo je možda nezgodno,;0:18:50.640000 - 0:18:52.640000
+znači ovo šta sam rekao, dakle tu se primjenjuje pravilo na true,;0:18:52.640000 - 0:18:56.640000
+a kao tu nismo baš rekli,;0:18:56.640000 - 0:18:58.640000
+znači to bi bilo negacija od false, jel?;0:18:58.640000 - 0:19:05.640000
+I trebalo još pokazati da će standardna translacija;0:19:05.760000 - 0:19:08.760000
+ono homomorpno propasti u ovom smislu za svaki bulovski vesnik.;0:19:08.760000 - 0:19:13.760000
+I onda možete ovo, ili možete napisati,;0:19:13.760000 - 0:19:16.760000
+zapravo bi još preciznije bilo sve napisati u ovim terminima;0:19:16.760000 - 0:19:20.760000
+i onda zapravo raditi.;0:19:20.760000 - 0:19:22.760000
+Ok, znači to je standardna translacija.;0:19:24.760000 - 0:19:26.760000
+E, i sad zašto nam je to bilo jako važno?;0:19:26.760000 - 0:19:29.760000
+Znači, sad smo zapravo vidjeli da svaka modalna formula;0:19:30.760000 - 0:19:34.760000
+ima ekvivalentnu formulu prvog reda.;0:19:34.880000 - 0:19:37.880000
+Sad smo govorili o točkovnim modelima i o modelima.;0:19:37.880000 - 0:19:40.880000
+Isto tako vidjeli smo da obrat ne vrijedi.;0:19:41.880000 - 0:19:44.880000
+Znači, da nije baš da svaka formula prvog reda;0:19:44.880000 - 0:19:50.880000
+ima negako ekvivalentnu modalnu.;0:19:50.880000 - 0:19:53.880000
+Jer šta, kad bi tako bilo, onda bi refleksivnost modela,;0:19:54.880000 - 0:19:57.880000
+čim je elementarno svojstvo, bilo i modalno svojstvo,;0:19:57.880000 - 0:20:00.880000
+odnosno klasa takvih modela bi bila modalno definabilna, a nije.;0:20:01 - 0:20:07
+Znači, ono što nas sad zanima je;0:20:08 - 0:20:13
+ako nemaju sve sigma formule, modalni ekvivalent, koje to imaju?;0:20:13 - 0:20:19
+Sad, nisam zadovoljan s tim da ostanemo na tome da;0:20:20 - 0:20:24
+samo standardne translacije imaju.;0:20:25 - 0:20:28
+Jer standardnih translacija nekak nema tako puno.;0:20:28.120000 - 0:20:31.120000
+Mislim, očito će biti rupićasto.;0:20:33.120000 - 0:20:35.120000
+E sad, malo manje je rupićasto ako kažemo;0:20:36.120000 - 0:20:40.120000
+ekvivalentne formule,;0:20:41.120000 - 0:20:43.120000
+standardnim translacijama. Dobro, i naravno da ćemo to reći,;0:20:45.120000 - 0:20:48.120000
+jer ne zanimaju me samo ružne formule, zanimaju me formule koje isto to znače.;0:20:48.120000 - 0:20:52.120000
+Dobro.;0:20:52.240000 - 0:20:53.240000
+Ali, ovoga, ne možemo to sad ovak možda odmah reći,;0:20:54.240000 - 0:20:58.240000
+znači, već je dovoljno dobro da smo se zapitali to.;0:20:58.240000 - 0:21:01.240000
+E sad, zašto je dovoljno dobro?;0:21:01.240000 - 0:21:03.240000
+Zato što sad možemo počet popisivati neka svojstva;0:21:03.240000 - 0:21:07.240000
+modalnih formula, i jednom kad dovoljno toga napišemo,;0:21:08.240000 - 0:21:13.240000
+dobro, znači, jednom kad dovoljno toga napišemo,;0:21:14.240000 - 0:21:17.240000
+znači, negakve invarijantnosti i tak,;0:21:18.240000 - 0:21:20.240000
+onda ćemo možda dobiti odmah i drugi smjer.;0:21:20.360000 - 0:21:24.360000
+Znači, ako su modalne formule invarijantne na razne stvari,;0:21:25.360000 - 0:21:29.360000
+recimo, evo, na bisimulacije ovoga, ili imaju bilo kakva drugčija svojstva,;0:21:30.360000 - 0:21:36.360000
+onda u jednom trenutku, možda kad ih dovoljno napišemo,;0:21:36.360000 - 0:21:40.360000
+ćemo se zapravo moći vratiti u suprotnom smjeru.;0:21:40.360000 - 0:21:44.360000
+I stvarno, zapravo, će biti potrebna samo jedna jedina stvar.;0:21:44.360000 - 0:21:48.360000
+Znači, sigma formula f od x je ekvivalentna;0:21:48.480000 - 0:21:51.480000
+standardne translaciji neke modalne formule,;0:21:51.480000 - 0:21:54.480000
+ako i samo ako je invarijantna na bisimulacije.;0:21:54.480000 - 0:21:57.480000
+Dobro, e sad šta znači invarijantna na bisimulacije?;0:21:57.480000 - 0:22:00.480000
+Pa nekak, bisimulacije smo definirali u ovom modalnom svijetu,;0:22:01.480000 - 0:22:05.480000
+pa možemo iskoristiti tu čiljenicu.;0:22:05.480000 - 0:22:08.480000
+Znači, ako za sve točkovne modele mv i m'v' vrijedi,;0:22:08.480000 - 0:22:13.480000
+ako postoji bisimulacija z između kripke ovih modela m i m'v',;0:22:13.600000 - 0:22:18.600000
+takva da je duplo v u bisimulaciji sa duplo v';0:22:18.600000 - 0:22:23.200000
+e i sad prelazimo u, ajmo reći, elementarnu ekvivalentnost nekako.;0:22:23.200000 - 0:22:28.200000
+Znači, hoćemo reći da su iste formule istinite.;0:22:28.200000 - 0:22:31.200000
+Znači, tada je na m, kao strukturi prvog reda,;0:22:31.200000 - 0:22:35.200000
+istinita f od x, kad x valuiramo sa duplo v,;0:22:35.200000 - 0:22:39.200000
+ako i samo ako je takva situacija u m'v', odnosno u m'v',;0:22:39.200000 - 0:22:43.200000
+će biti istina f od x valuiramo sa, gdje je x valuiramo sa duplo v crta.;0:22:43.200000 - 0:22:47.920000
+Ok?;0:22:47.920000 - 0:22:48.920000
+I sad, dobro.;0:22:50.920000 - 0:22:52.920000
+Koji vam se smjer čini nekako jednostavniji?;0:22:54.920000 - 0:22:57.920000
+Pa najjednostavniji one koje već imamo, jel' tako?;0:22:59.920000 - 0:23:02.920000
+Znači, rekli smo, ako imamo formulu ekvivalentnost standardnoj translaciji,;0:23:02.920000 - 0:23:07.920000
+onda je invariantna na bisimulacije, dobro?;0:23:07.920000 - 0:23:09.920000
+Ali ovaj drugi smjer je jako gadan.;0:23:09.920000 - 0:23:12.920000
+Ok. Dobro.;0:23:13.640000 - 0:23:15.640000
+E, sad ovako. Znači, u nekom trenutku smo bili, spominjali...;0:23:19.640000 - 0:23:26.640000
+Smo bili, spominjali, ja mislim da ćemo raditi četiri važne konstrukcije;0:23:43.640000 - 0:23:48.640000
+modela i okvira od drugih modela i okvira.;0:23:48.640000 - 0:23:51.640000
+Znači, rekli smo, generirani podokviri i podmodeli,;0:23:52.640000 - 0:23:55.640000
+surjektivni ograničeni morfizmi, disjunktne unije;0:23:55.640000 - 0:23:58.640000
+i sad ćemo još reći što je ultrafiltersko proširenje. Dobro?;0:23:58.640000 - 0:24:01.640000
+Ok. Hajde, idemo polako.;0:24:02.640000 - 0:24:04.640000
+Znači, recimo da krenem sa nekim kripka ovim modelom.;0:24:05.640000 - 0:24:09.640000
+Napravit ću sljedeće.;0:24:10.360000 - 0:24:13.360000
+Aha, možda samo da prvo kažem zašto.;0:24:14.360000 - 0:24:16.360000
+Znači, šta smo ono bili rekli?;0:24:16.360000 - 0:24:18.360000
+Znači, bili smo rekli da ak su dva svijeta bisimulirane,;0:24:19.360000 - 0:24:26.360000
+ovaj iz recimo M, ovaj iz M crta,;0:24:26.360000 - 0:24:29.360000
+onda će biti elementarno ekvivalentni.;0:24:30.360000 - 0:24:32.360000
+E, i zanima nas kakva je situacija s obratom.;0:24:32.360000 - 0:24:35.360000
+Obrat ne vrijedi, u redu, obrat ne vrijedi.;0:24:35.360000 - 0:24:38.360000
+Ali je fora u tome da će ovo dovesti do bisimulacije negdje drugdje.;0:24:38.580000 - 0:24:46.080000
+Odnosno, ako pogledamo glavni ultrafiltar generiran svijetom W,;0:24:46.080000 - 0:24:53.080000
+i glavni ultrafiltar generiran svijetom V,;0:24:53.080000 - 0:24:57.080000
+onda će oni biti bisimulirani u takozvanom ultrafiltarskom proširenju.;0:24:57.080000 - 0:25:02.080000
+Aha, tu imamo jedan model, ispričavan se.;0:25:05.080000 - 0:25:08.080000
+Znači,;0:25:09.080000 - 0:25:12.080000
+da napišem ovak, samo.;0:25:18.080000 - 0:25:21.080000
+Znači, imamo M duplo V, je ekvivalentan sa M crta.;0:25:24.080000 - 0:25:35.080000
+E, kak smo?;0:25:35.800000 - 0:25:39.800000
+Samo trebam da vidim kak su te oznake kasnije.;0:25:42.800000 - 0:25:45.800000
+E, dobro, M i N, nema veze, V i V, dobro.;0:25:49.800000 - 0:25:52.800000
+Dobro, ajde, M, N,;0:25:53.800000 - 0:25:56.800000
+i V, dobro.;0:26:02.800000 - 0:26:04.800000
+Znači, imat ćemo takvu jednu situaciju.;0:26:05.800000 - 0:26:07.800000
+I ono što ćemo vidjeti je da ako napravimo takozvano ultrafiltarsko proširenje;0:26:08.800000 - 0:26:13.800000
+od M-a i od N-a,;0:26:13.800000 - 0:26:16.800000
+onda će glavni filtri generirani sa duplo V, odnosno V,;0:26:18.800000 - 0:26:24.800000
+biti u bisimulaciji.;0:26:25.800000 - 0:26:27.800000
+Evo, znači, prema tome nekak idemo.;0:26:28.520000 - 0:26:34.520000
+Znači, iako nemamo bisimuliranost ovih svijetova među tim modelima,;0:26:34.520000 - 0:26:38.520000
+imat ćemo bisimuliranost negdje drugdje.;0:26:38.520000 - 0:26:41.520000
+Ok, znači, ajde idemo prvo ovo izdefinirati.;0:26:43.520000 - 0:26:47.520000
+Dakle, što je ultrafiltarsko proširenje ovog modela VRV?;0:26:53.520000 - 0:26:57.520000
+Znači, to će biti model s svuda U.;0:26:58.240000 - 0:27:01.240000
+E sad, što ćemo uzeti za nosač, odnosno skup svijetova?;0:27:02.240000 - 0:27:05.240000
+Uzet ćemo skup svih ultrafiltara nad duplim V.;0:27:06.240000 - 0:27:09.240000
+Ajde, možda samo da vas pocijetim.;0:27:12.240000 - 0:27:14.240000
+Znači, ako imam negakav I skup,;0:27:14.240000 - 0:27:17.240000
+neki vele neprazno, neki nevele,;0:27:18.240000 - 0:27:20.240000
+i sad uzmem F,;0:27:20.960000 - 0:27:24.960000
+podskup od partitivno od I,;0:27:25.960000 - 0:27:27.960000
+kakav?;0:27:27.960000 - 0:27:28.960000
+Znači, prvo, F mi je u I,;0:27:28.960000 - 0:27:32.960000
+I nije u F.;0:27:33.960000 - 0:27:34.960000
+I nije u F.;0:27:37.960000 - 0:27:38.960000
+Onda, ako su A, B u F,;0:27:38.960000 - 0:27:42.960000
+onda je A presek B u F.;0:27:43.960000 - 0:27:46.960000
+I treće,;0:27:47.680000 - 0:27:48.680000
+ako je A u F;0:27:49.680000 - 0:27:52.680000
+i A podskup od B, odnosno B nadskup od A,;0:27:53.680000 - 0:27:57.680000
+onda je B u F.;0:27:57.680000 - 0:27:59.680000
+S time da su svi ovi, naravno, podskupovi od I.;0:28:00.680000 - 0:28:03.680000
+Jeste vidjeli tu definiciju? To je definicija filtra.;0:28:07.680000 - 0:28:10.680000
+Sad, neki još kažu da prazan skup ne smije biti u F.;0:28:11.680000 - 0:28:14.680000
+To bi se reklo da je to pravi filtr, ali ponekad se sad u;0:28:15.400000 - 0:28:18.400000
+u ova vremena se obično to doda u definiciju filtra, općenito.;0:28:20.400000 - 0:28:25.400000
+Ali evo, recimo da mi koristimo ovu definiciju.;0:28:27.400000 - 0:28:30.400000
+Jel' se sjećate motivacije, možda, kak glas je za to?;0:28:31.400000 - 0:28:34.400000
+Znači, kak si to možemo zamisljati, recimo?;0:28:35.400000 - 0:28:37.400000
+Pa mogli bismo reći da su to nekakvi ogromni skupovi koji unutra idu, jel'?;0:28:38.120000 - 0:28:42.120000
+Znači, kažeš to je ogromno.;0:28:42.120000 - 0:28:44.120000
+Ne mogu reći baš veliko, jer nekak;0:28:44.120000 - 0:28:47.120000
+nekak biste rekli da i jako veliki skupovi se mogu nekak sjeć u praznom skupu,;0:28:48.120000 - 0:28:55.120000
+kojeg generalno tu neće biti.;0:28:55.120000 - 0:28:57.120000
+Dobro? Znači, nekak, ono,;0:28:58.120000 - 0:29:01.120000
+toliko su ogromni ti skupovi da;0:29:02.120000 - 0:29:04.120000
+se uvijek sjeku u više od praznog skupa, odnosno u nekakvom velikom skupu.;0:29:04.840000 - 0:29:10.840000
+Znači, nemojte si zamisljati sad parne i neparne brojeve u N,;0:29:11.840000 - 0:29:15.840000
+nego, jer to nije baš to,;0:29:15.840000 - 0:29:19.840000
+nego zamisljajte si možda kofinitne skupove.;0:29:19.840000 - 0:29:22.840000
+Dobro? Jer dva kofinitna će se uvijek sjeći, jel' tako?;0:29:22.840000 - 0:29:27.840000
+U velikom skupu, u kofinitnom skupu.;0:29:27.840000 - 0:29:30.840000
+Dobro?;0:29:30.840000 - 0:29:31.840000
+E.;0:29:32.560000 - 0:29:33.560000
+Ono kak se još, dobro, ajde sad samo još da za ultrafiltar kažem,;0:29:34.560000 - 0:29:38.560000
+znači ovo bi bio filtar, jel', filtar.;0:29:38.560000 - 0:29:42.560000
+A ultrafiltar;0:29:44.560000 - 0:29:46.560000
+je naprosto maksimalni filtar. Dobro?;0:29:50.560000 - 0:29:53.560000
+Ili, još se može reći,;0:29:55.560000 - 0:29:57.560000
+ili, još se može reći,;0:29:58.280000 - 0:30:00.280000
+filtar za koji vrijedi, da za svaki ovoga element partitivno odi,;0:30:01.280000 - 0:30:08.280000
+ili jeste u filtru ili nije. Dobro?;0:30:08.280000 - 0:30:12.280000
+Znači, točno jedno od toga. Ili jeste ili nije.;0:30:12.280000 - 0:30:15.280000
+Prvom, točno jedno od, ili je on unutra ili je njegov komplement unutra.;0:30:16.280000 - 0:30:22.280000
+Naravno da je točno jedno od ovog drugog.;0:30:24.280000 - 0:30:26.280000
+Pardo.;0:30:27 - 0:30:28
+Dakle, te dvije stvari su ekivalentne. Dobro?;0:30:29 - 0:30:32
+Znači, da je neki filtar maksimalni filtar, odnosno da vrijedi ovo svojstvo.;0:30:32 - 0:30:38
+Da je ili skup unutra ili komplement.;0:30:38 - 0:30:42
+To se inače možete dokazati, ovo je uvijek dobro za vježbu.;0:30:43 - 0:30:46
+I sad, dobro, sad znamo što su svi ultrafiltri na duplo V.;0:30:48 - 0:30:53
+Aha, još ću reći samo, recimo da imam sad nekakav svijet U,;0:30:53.720000 - 0:31:00.720000
+sad ću ih označavati sa U i V, samo za to da naglasim dodatno da su to ultrafiltri.;0:31:00.720000 - 0:31:05.720000
+I sad kad imam nekakav skup unutra, razumijete,;0:31:05.720000 - 0:31:10.720000
+to onda ću sad nekako reći U mnogo, ili U većina ovoga, da su A od duplo V.;0:31:10.720000 - 0:31:19.720000
+Znači, dobro, tu sam i napisal partitivno duplo V će biti u našem slučaju.;0:31:20.440000 - 0:31:26.440000
+Znači, ako je A skup svijetova u originalnom modelu koji je element svijeta u ultrafiltar proširjenju,;0:31:27.440000 - 0:31:37.440000
+onda ću reći da po mišljenju od U, da je to mnogo svijetova.;0:31:37.440000 - 0:31:42.440000
+Znači da je taj A U velik, U ogroman, U većina.;0:31:43.440000 - 0:31:47.440000
+Znači, možete si nekako kao glasanje to zamisliti.;0:31:48.160000 - 0:31:52.160000
+Znači, nekako dovoljno svijetova je diglo ruku da je nekak za A.;0:31:53.160000 - 0:32:01.160000
+Dobro, e sad, ajmo vidjeti što znači da su dva ultrafiltra u ovoj relaciji R U.;0:32:04.160000 - 0:32:15.160000
+Znači, kak ćemo nju zadati?;0:32:15.880000 - 0:32:18.880000
+R U, e sad, ne dajte baš previše da vas zbuni.;0:32:20.880000 - 0:32:25.880000
+Znači, ovaj U je tu napisan gocko, a to ja ne mogu tako pisati po ploči.;0:32:25.880000 - 0:32:30.880000
+Pa će meni ovaj U i ovaj U izgledati isto, ali to nemaju veze jedno s drugim.;0:32:30.880000 - 0:32:34.880000
+Znači, ovaj tu gore U samo znači veza R U ultrafiltar proširjenju.;0:32:35.880000 - 0:32:41.880000
+Ovo nemaju nikakve veze ovaj mali U tu i tu.;0:32:42.600000 - 0:32:45.600000
+Znači, kak ćemo sad ustanovit, odnosno definirat, da je U u vezi R sa V.;0:32:46.600000 - 0:32:59.600000
+Evo ovak, znači, recimo imam nekakav element od V.;0:33:00.600000 - 0:33:09.600000
+Dobro, nekakav skup svijetova koji se nalazi u mom ultrafiltru V.;0:33:10.320000 - 0:33:16.320000
+To je ovaj desni svijet.;0:33:16.320000 - 0:33:19.320000
+I sad pogledam M dajmont od tih svijetova.;0:33:20.320000 - 0:33:25.320000
+Kak je ovaj nazvan A?;0:33:33.320000 - 0:33:35.320000
+Ovo neke A.;0:33:36.320000 - 0:33:38.320000
+I ovo neke M dajmont od A.;0:33:39.040000 - 0:33:42.040000
+Sve je malo nezgodno napisao, samo malo.;0:33:44.040000 - 0:33:47.040000
+Neki ovaj M dajmont od A.;0:33:52.040000 - 0:33:55.040000
+Pogledam.;0:33:56.040000 - 0:33:57.040000
+Ovo je tu napisano onda gore A iz V.;0:33:58.040000 - 0:34:00.040000
+Znači, imam ovu situaciju.;0:34:03.040000 - 0:34:04.040000
+Imam A iz V, znači ovaj tu nekakav skup je u V.;0:34:04.760000 - 0:34:07.760000
+I sad pogledam skup svih onih svijetova iz duplo V;0:34:08.760000 - 0:34:13.760000
+koji vide nekoga u A.;0:34:14.760000 - 0:34:16.760000
+Dobro, znači to je ono R na minus prvu od A u principu.;0:34:17.760000 - 0:34:21.760000
+Znači, kad pogledam inverznu relaciju primjenjenu na A,;0:34:21.760000 - 0:34:24.760000
+ovoga dobit ću sve svijetove koji vide nekoga u A.;0:34:25.760000 - 0:34:28.760000
+Recimo evo, između ovoga.;0:34:29.480000 - 0:34:32.480000
+Znači, dobro, tu sad u A su nekakvi svijetovi.;0:34:36.480000 - 0:34:39.480000
+I sad evo, ovaj svijetić ima ovu vezicu s ovim svijetićem.;0:34:40.480000 - 0:34:44.480000
+Ovaj svijetić ima ovako jednu vezicu s ovim svijetićem,;0:34:45.480000 - 0:34:48.480000
+možda i sa više, nije važno.;0:34:48.480000 - 0:34:50.480000
+Ali oni će, znači ako je skup svih ovih...;0:34:50.480000 - 0:34:54.480000
+Jel?;0:34:55.200000 - 0:34:56.200000
+Ako je skup svih ovih dovoljno velik da za njega jamči ultrafiltar U,;0:34:58.200000 - 0:35:02.200000
+dobro, onda se tu javi ova veza koju hoćemo, ova velika.;0:35:03.200000 - 0:35:08.200000
+Evo, jel kužite to?;0:35:11.200000 - 0:35:13.200000
+Znači, pogledam ovoga bilo koji skup svijetova za koji ultrafiltar V;0:35:14.200000 - 0:35:22.200000
+garantira da ih je puno.;0:35:22.920000 - 0:35:24.920000
+Odnosno, nalaze se u ultrafiltru.;0:35:25.920000 - 0:35:27.920000
+Pogledam koji su to svi svijetovi koji vide nekoga tamo;0:35:28.420000 - 0:35:32.920000
+i ako ultrafiltar U kaže to je veliki skup,;0:35:33.920000 - 0:35:36.920000
+ogroman skup, onda postoji ova veza R u ultrafiltar proširenja.;0:35:37.920000 - 0:35:42.920000
+Dajte malo razmislite o tome pa recite, jel to jasno?;0:35:44.920000 - 0:35:47.920000
+Dobriša Cesarić, ultrafiltarsko proširenje tkanje,;0:35:52.920000 - 0:36:00.920000
+ogromno skupa od svih ovih, jel svaki malo pomaže.;0:36:01.920000 - 0:36:05.920000
+Jel ok?;0:36:08.920000 - 0:36:09.920000
+I sad vidjet ćete to vam je ekvivalentno ovome ovdje.;0:36:11.920000 - 0:36:15.920000
+Dobro? Znači, šta bi bio M-box?;0:36:16.920000 - 0:36:19.920000
+E to bi značilo, pogledam sve svijetove koji vide isključivo svijetove u A.;0:36:20.140000 - 0:36:25.640000
+Dobro? Znači, to bi bila situacija, ak imate tu A;0:36:26.640000 - 0:36:30.640000
+i sad ovaj svijet recimo nije u A i naprimjer vidi sebe.;0:36:31.140000 - 0:36:36.140000
+Ne može, dobro? Znači, taj svijet nije u M-box od A.;0:36:36.640000 - 0:36:41.640000
+U redu.;0:36:42.140000 - 0:36:43.140000
+Smije M-box od A, smije isto ko i M-diamond od A,;0:36:43.640000 - 0:36:46.640000
+smije sadržavati svijetove koji već jesu u A.;0:36:46.640000 - 0:36:48.640000
+Samo je bitno da ne vide nikoga vani, nema ovoga.;0:36:48.860000 - 0:36:52.360000
+Dobro? Znači, ni ovo ne može, niti ovo ne može.;0:36:52.860000 - 0:36:55.360000
+Ok? Jer opet vidi nekoga vani.;0:36:55.860000 - 0:36:57.360000
+Dobro? Znači, neki dobar primjer bi bio možda vidi sebe ili ne vidi sebe ak je u A.;0:36:57.860000 - 0:37:03.360000
+Ide u ovakve, nekakve. Dobro?;0:37:05.860000 - 0:37:07.860000
+Ili neko ko je izvana, može, nema problema,;0:37:08.360000 - 0:37:11.360000
+ali gleda samo unutra, u redu.;0:37:11.860000 - 0:37:13.860000
+Znači, to bi bio M-box od A.;0:37:14.860000 - 0:37:16.360000
+I sad, ako je, ako pogledam sve skupove A,;0:37:17.080000 - 0:37:24.080000
+takve da je M-box od A iz U,;0:37:25.080000 - 0:37:28.080000
+ili zapravo ovak je još jednostavnije.;0:37:31.080000 - 0:37:32.580000
+Ako pogledam bilo koji jedan skup A,;0:37:33.080000 - 0:37:35.080000
+podskup od duplove, čiji je M-box iz U,;0:37:36.080000 - 0:37:39.580000
+onda taj skup mora biti iz V.;0:37:40.580000 - 0:37:43.080000
+Dobro? Bolje je čitati, ne ovo podskup,;0:37:43.800000 - 0:37:45.800000
+isto kako smo tu s elementom pisali.;0:37:45.800000 - 0:37:47.800000
+Znači, ak imamo A takav da je M-dajmond od A iz U,;0:37:48.300000 - 0:37:51.300000
+onda je A iz V. Ok?;0:37:51.800000 - 0:37:54.300000
+E, dobro. To probajte dokazati, evo, to je vrlo jednostavna stvar.;0:37:54.800000 - 0:37:58.800000
+Dobro? I sad, kak ćemo definirati istinitost;0:38:00.800000 - 0:38:05.300000
+neke propozicijske variable na svijetu?;0:38:06.800000 - 0:38:09.800000
+Pa, na U će biti istinita P, ako i samo ako,;0:38:10.520000 - 0:38:15.020000
+pa valjda najjednostavnije je moguće, V od P je iz U.;0:38:15.520000 - 0:38:18.520000
+Dobro? Tu se opet hoće reći,;0:38:19.020000 - 0:38:21.020000
+ak je na P, možda se sjetite wash-off teorema ili tako nešto,;0:38:21.020000 - 0:38:24.520000
+znači, ili ultra produkata, bilo čega.;0:38:26.020000 - 0:38:28.520000
+Znači, ako opet dovoljno ovih,;0:38:29.020000 - 0:38:32.020000
+dovoljno velik skup svijetova jam će za P,;0:38:34.520000 - 0:38:39.520000
+u tom U smislu, jel?;0:38:40.020000 - 0:38:42.020000
+Znači, U tvrdi da ima dovoljno svijetova koji su glasali za P.;0:38:42.020000 - 0:38:46.520000
+Dobro? Jel to jasno otprilike?;0:38:47.520000 - 0:38:50.520000
+E, i sad dajmo vidjeti zašto smo to zapravo definirali.;0:38:52.520000 - 0:38:56.020000
+Pa zato što smo ovo tu htjeli, jel tako?;0:38:56.520000 - 0:38:58.520000
+Znači, htjeli smo nekak dić ovu definiciju, ovu gan,;0:38:58.520000 - 0:39:03.020000
+ovu prirodnu definiciju istinitosti,;0:39:05.520000 - 0:39:07.520000
+kad smo navikli već na te ultra filtre i tako,;0:39:07.740000 - 0:39:10.240000
+ovoga smo htjeli dići na sve formule.;0:39:10.240000 - 0:39:14.240000
+Znači, ne samo da je U iz V U P, ako je samo ako V od P iz U,;0:39:14.740000 - 0:39:19.740000
+nego U iz V U fi, ako je samo ako V od fi iz U.;0:39:19.740000 - 0:39:23.740000
+Dobro? Znači, već smo imali to negdje, takav sličan zahvat.;0:39:23.740000 - 0:39:28.240000
+POSLOVNI POSLOVNI;0:39:38.240000 - 0:39:40.240000
+Ajde da vidimo.;0:39:52.240000 - 0:39:54.240000
+Aha, šta hoćemo opet...;0:39:56.240000 - 0:39:59.240000
+Dobro, znači, recimo ova nekakva baza indukcije nam je odmah tu.;0:39:59.240000 - 0:40:03.240000
+Jel tako? Znači, na propozicijskim variablama već imamo.;0:40:03.240000 - 0:40:06.740000
+Sad bi lako dokazali za nešto bulovsko šta treba.;0:40:06.960000 - 0:40:09.960000
+I ovoga možemo onda pogledat ako na M U u vrijedi Diamond psi.;0:40:10.460000 - 0:40:19.960000
+Šta će onda biti?;0:40:20.960000 - 0:40:22.960000
+Ok. Čemu je to ekvivalentno?;0:40:25.960000 - 0:40:28.960000
+To je sad definicija, pazite, istinitosti na točkovnom modelu, bilo kojem je.;0:40:28.960000 - 0:40:34.460000
+Znači, bit će ovoga ako je samo ako postoji V iz nosača, jel tako?;0:40:34.680000 - 0:40:46.680000
+Takav da na V, opet možete pisati M U, na V istinito psi.;0:40:47.180000 - 0:40:53.680000
+Dobro? E, ali sad naravno ovdje nam skoči u pomoć predpostavka indukcije.;0:40:55.680000 - 0:41:03.680000
+Pa je to ako je samo ako, jer primijedite imamo stvarno oba smjera,;0:41:04.400000 - 0:41:09.400000
+ako je samo ako postoji V iz M U, takav da je V od psi iz V.;0:41:10.400000 - 0:41:21.400000
+Dobro? E, i sad V od psi iz V.;0:41:23.400000 - 0:41:31.400000
+E da, znači sad idemo malo razmišljati, znači tu smo nekako ono gledali,;0:41:32.120000 - 0:41:37.120000
+ajmo reći istinitost ovoga, odnosno predpostavke indukcije.;0:41:37.620000 - 0:41:42.120000
+Sad dajmo gledat ovu, kak se zove, tu je negdje definicija istinitosti, jel?;0:41:42.120000 - 0:41:49.120000
+Znači, idemo još pogledat veze sada.;0:41:49.120000 - 0:41:53.120000
+Znači, sjetimo se što nam ovo kaže,;0:41:53.120000 - 0:41:55.620000
+a tu uvijek zaboravim napisati, V R U,;0:41:56.340000 - 0:42:01.840000
+ja spričavam se svaki put, ne znam kako to mi promakne,;0:42:02.340000 - 0:42:06.340000
+postoji i V, tako da je V U R U V, U R U V.;0:42:06.840000 - 0:42:19.340000
+Što ovo dvoje povlači, jel se sjećate, odnosno čemu je ekvivalentno?;0:42:20.060000 - 0:42:26.060000
+A, čak i mi piše. Znači, ako su ovak vezani U i V, dobro?;0:42:26.060000 - 0:42:31.560000
+I desno, desno se nalazi V od psi, onda se ljevo nalazi M dajmond od psi, jel tako?;0:42:31.560000 - 0:42:38.560000
+Znači, ekvivalentno tome da postoji V iz M U,;0:42:38.780000 - 0:42:48.780000
+tako da je, mogu ovako napisat, M dajmond od psi,;0:42:51.280000 - 0:43:07.780000
+iz U, i V od psi iz V.;0:43:09.280000 - 0:43:18.780000
+Dobro. Ovoga, što bi sad htio da mi se tu napiše?;0:43:22.780000 - 0:43:29.780000
+Što bi bilo idealno da ovdje piše, kad bi onda bio gotov?;0:43:29.780000 - 0:43:33.280000
+Vidite, meni treba V od dajmond psi iz U.;0:43:34 - 0:43:40
+V od dajmond psi iz U. Pa onda bi valjda bilo najbolje da je ovo tu u koje vezi sa V od dajmond psi.;0:43:40 - 0:43:48.500000
+Da mogu odmah ovo iz U pokupiti.;0:43:48.500000 - 0:43:51.500000
+Jednako bi bilo super, ak ne može, mislićemo neki podskup, ali V od dajmond psi.;0:43:51.500000 - 0:44:00.500000
+Pa što biste rekli, jel ovo istina da je ovo jednako dvoje?;0:44:01.220000 - 0:44:04.720000
+Pa to je valjda najjednostavnija stvar o kojoj ste ikad u životu morali da zmislit.;0:44:07.720000 - 0:44:12.220000
+Dakle, jel istina da su, da je istinita dajmond psi;0:44:13.220000 - 0:44:20.220000
+upravo tamo gdje postoji sljedbenik na kojem vrijedi psi?;0:44:20.720000 - 0:44:26.220000
+Jel tako? I to je to gotovo. V od dajmond psi iz U.;0:44:26.940000 - 0:44:31.940000
+Tako da, ovo je zapravo super jednostavna stvar.;0:44:35.940000 - 0:44:39.940000
+I sad, zašto bi ovo vrijedilo?;0:44:42.940000 - 0:44:45.440000
+A, ajde, pa dono, evo, dva sata su, ajmo napraviti pauzu.;0:44:46.440000 - 0:44:51.440000
+Vi razmislite zašto su sad ovoga, jel znate što je glavni filtar?;0:44:51.440000 - 0:44:55.940000
+Jeste to negdje vidjeli, možda u prvoj polovici kolegija.;0:44:56.440000 - 0:44:59.440000
+Znači, glavni filtar je filtar koji je generiran sa jednim svjetom.;0:44:59.940000 - 0:45:03.440000
+Znači, ovoga što sadrži? Sadrži točno sve podskupove od velkoduplove;0:45:04.440000 - 0:45:09.940000
+koji sadrže mali duplove koje elemente.;0:45:10.440000 - 0:45:12.940000
+Dobro? Pa si razmislite zašto to slijedi.;0:45:13.440000 - 0:45:15.440000
+Čemo nastaviti.;0:45:16.440000 - 0:45:17.440000

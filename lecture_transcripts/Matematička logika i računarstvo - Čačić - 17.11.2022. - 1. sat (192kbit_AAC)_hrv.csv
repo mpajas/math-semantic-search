@@ -1,0 +1,550 @@
+Speech;Timestamp
+Gdje smo stali? Pričamo o dokazu teorema kompaktnosti i vidjeli smo da zapravo;0:00:00 - 0:00:07
+jedino što nam još fali je ova henkinizacija.;0:00:07 - 0:00:11
+Vidjeli smo, znači, ako imaš nekakav ispunjiv skup rečenica,;0:00:16 - 0:00:22
+konačno ispunjiv skup rečenica, onda se on može nadopuniti;0:00:22 - 0:00:26
+do maksimalnog konačno ispunjivog, to je Lindenbaum,;0:00:26 - 0:00:30
+onda se taj skup može na izvjestan način henkinizirat;0:00:30 - 0:00:35
+i onda nakon toga ona konstrukcija ili skup zatvorenih terma;0:00:35 - 0:00:42
+ili skup konstantskih simbola pocijepan po nekakvoj relaciji;0:00:42 - 0:00:46
+ekvivalencije koja je inducirana ovom interpretacijom jednakošći;0:00:46 - 0:00:50
+u toj teoriji daje model. Dakle, jednostavno, onda dobijete;0:00:50 - 0:00:57
+da je čitav skup napuhan ispunjiv, a onda naravno i ovaj mali skup ispunjiv;0:00:57 - 0:01:02
+jer je jednostavno njegov podskup od kojeg ste krenuli.;0:01:02 - 0:01:07
+I sad, za henkinizaciju naravno još nije dovoljno samo napuhavati skupove,;0:01:09 - 0:01:14
+nego treba još napuhavati signature. Zašto? Jer naravno moramo;0:01:14 - 0:01:18
+dodati ove henkinove svjedoke, jednostavno dodati nove konstantske simbole;0:01:18 - 0:01:23
+koje će glumiti te imena. Može biti bilo kakav zatvoreni term,;0:01:23 - 0:01:29
+ali najlakše je onda jednostavno uvesti novi konstantski simbol;0:01:29 - 0:01:33
+za svaku takvu formulu koja je egzistencijalno istinita,;0:01:33 - 0:01:38
+za koju postoji x, takav da je.;0:01:38 - 0:01:41
+I sad, to je sve ok, super, samo po sebi.;0:01:41 - 0:01:45
+Ali, nažalost, nije dovoljno dobro napraviti tu konstrukciju samo jednom,;0:01:45 - 0:01:49
+jer kad čovjek napravi tu konstrukciju jednom,;0:01:49 - 0:01:53
+onda se može dogoditi da postoje neke druge formule;0:01:53 - 0:01:56
+koje je tada postane uistinite. Recimo, šta ja znam,;0:01:56 - 0:01:58
+ako imam, postoji x, postoji y, r od x, y,;0:01:58 - 0:02:03
+i sad, ako bi čovjek rekao, aha, postoji x, takav da je ovo,;0:02:03 - 0:02:08
+onda tu imam neki henkinov svjedok, šta ja znam, neki je ovo f1,;0:02:08 - 0:02:11
+onda je tu cf1, takav da postoji y, r od x, y,;0:02:11 - 0:02:20
+kad se x interpretira sa cf1.;0:02:20 - 0:02:24
+E onda opet, sad, to je, aha, ne, da probujem.;0:02:25 - 0:02:30
+Ovo nije element modela, ovo je baš konstantski simbol, dakle ovako.;0:02:30 - 0:02:34
+I sad je ovo opet, znači, egzistencijalna formula,;0:02:35 - 0:02:38
+koja, recimo, može biti istinita, ispunjiva istinita u tom skupu,;0:02:38 - 0:02:43
+što znači da meni zapravo tu treba nekakav,;0:02:43 - 0:02:46
+onda imam nekakav cf2, ali do ove formule nisam mogao doći u ovom početnom skupu,;0:02:46 - 0:02:56
+ona jednostavno nije element ovog početnog skupa.;0:02:56 - 0:02:58
+Dakle, zapravo treba ovakvu konstrukciju iterirati.;0:02:58 - 0:03:02
+I, naravno, kvantifikatori mogu biti proizvodno ugnježdjeni,;0:03:03 - 0:03:07
+pa je zapravo, mislim, ali uvijek ih je konačno mnogo, naravno,;0:03:07 - 0:03:10
+pa je dovoljno iterirati do omega. Dakle, jednostavno iskonstruirati niz formula;0:03:10 - 0:03:16
+i zapravo niz signatura, jer signature se povećavaju.;0:03:16 - 0:03:20
+Dakle, ova formula, ne samo da nije u origina ovog skupu,;0:03:20 - 0:03:23
+nego nije u origina ove signaturi. Ona tu ima neki konstantski simbol;0:03:23 - 0:03:27
+kojeg u origina onog signaturi nije bilo.;0:03:27 - 0:03:29
+Znači, treba zapravo graditi simultanom rekurzijom i niz signatura,;0:03:29 - 0:03:33
+koji se povećava s ovim konstantskim simbolima i niz skupova formula.;0:03:33 - 0:03:38
+Mislim, da je formula zapravo hoće već samo ovakvih stvari koje...;0:03:38 - 0:03:41
+Ove F2-ovi ili F1, dakle. Nešto što ima... To nisu rečenice, jel?;0:03:42 - 0:03:47
+Jer, dakle, uvijek imaju jednu slobodnu variablu.;0:03:47 - 0:03:50
+Ovaj F1 ima slobodnu variablu x, a ovaj F2 ima slobodnu variablu y.;0:03:50 - 0:03:54
+Ali, naravno, mi treba i skup rečenice, jer ću njih na kraju napraviti ugnje.;0:03:55 - 0:04:00
+Dakle, rekurzijna konstrukcija zapravo izgleda ovako.;0:04:01 - 0:04:04
+S0 je zadan, dakle, treba nam konačno ispunjiv skup rečenica S0.;0:04:04 - 0:04:09
+Sigma 0 je, naravno, minimalna signatura za S0,;0:04:10 - 0:04:14
+dakle, sve ono što nam treba da bismo rekli sve što trebamo u S0.;0:04:14 - 0:04:19
+Dakle, skup svih neologičkih simbola, svih formula, dakle svih rečenica u S0.;0:04:19 - 0:04:23
+E sad, znači, korak konstrukcije kaže Tn ti je skup svih sigma n formula;0:04:24 - 0:04:30
+sa jednom slobodnom variablom, fiksiramo variablu na primjer x;0:04:30 - 0:04:33
+da možemo lakše pričati o tome.;0:04:33 - 0:04:35
+Naravno, da li ih mogu preimenovat, slobodnu variablu, kako hoću.;0:04:36 - 0:04:39
+Uglavnom, skup svih formula nad tom signaturom upravo konstruiranom,;0:04:40 - 0:04:44
+dakle, za početak T0, je skup svih sigma 0 formula sa jednom slobodnom variablom,;0:04:44 - 0:04:48
+nek se da nazove x.;0:04:48 - 0:04:50
+E sad, korak, znači, S1 će biti S0, znači ovaj početni skup od kojeg smo krenuli,;0:04:50 - 0:04:56
+u kojeg ću dodat sve ovakve, ajmo reći nekako, aksiome.;0:04:56 - 0:05:01
+Dakle, rečenice koje bih također štio, e pazite, ovo sad stvarno jesu rečenice;0:05:01 - 0:05:05
+koje bih tio da budu ispunjene.;0:05:10 - 0:05:12
+E, ali, naravno, da bih uopće mogla napisat ovu formulu,;0:05:13 - 0:05:17
+moramo reći nad kojim skupom, nad kojim signaturom je ta formula.;0:05:17 - 0:05:20
+Ta formula je nad signaturom sigma n plus j, dakle u ovom konkretnom slučaju sigma 1.;0:05:20 - 0:05:25
+Dakle, naprimjer, što je sada?;0:05:25 - 0:05:27
+Sigma 1 je sigma 0, dakle, sve ono što mi je trebalo za skup S0,;0:05:28 - 0:05:40
+unija Cf, f iz T0.;0:05:41 - 0:05:46
+A što znači f iz T0? Znači, f je formula,;0:05:46 - 0:05:51
+f je sigma 0 formula, dakle, nad istom signaturom kao i S0,;0:05:54 - 0:05:59
+sa jednom slobodnom variabolom.;0:05:59 - 0:06:03
+Ok.;0:06:03 - 0:06:04
+I nakon što sam to napravio, onda mogu definirat S1, to je S0,;0:06:08 - 0:06:14
+unija, formule koje će na neki način upotrijebiti ove Cf-ove;0:06:14 - 0:06:18
+i to je način na koji piše tamo.;0:06:18 - 0:06:21
+Dakle, ovu formulu, ovu oznaku još nismo vidjeli,;0:06:27 - 0:06:30
+da je ovo uvrštavam umjesto svih slobodnih pojava tog x-a,;0:06:30 - 0:06:35
+naravno nećemo umjesto vezanih pojava uvrštavati Cf,;0:06:35 - 0:06:38
+nego umjesto svih slobodnih pojava variable x u tom f-u stavimo Cf.;0:06:38 - 0:06:44
+I naravno, to je znači zatvoreno, to je zatvoreno,;0:06:44 - 0:06:47
+ovo je onda zatvorena formula, dakle, to je stvarno skup rečenica.;0:06:47 - 0:06:51
+I sad, dakle, tu istu konstrukciju onda možemo nastaviti.;0:06:55 - 0:06:58
+Dakle, nad sigma 1 možemo napraviti skup T1,;0:06:58 - 0:07:01
+napraviti u signaturi sigma 2, pomoću tih formula;0:07:01 - 0:07:06
+sa slobodnom variablom možemo iskonstruirati S2 i tako dalje.;0:07:06 - 0:07:10
+Dakle, naravno, ključno je da ovo tu bude disjunktna unija,;0:07:10 - 0:07:15
+dakle, svi Cf-ovi su novi, nekako, izmislimo nove konstantske simbole.;0:07:15 - 0:07:19
+To uvijek možemo, naravno, sad pitanje je kako se to formalno opravdava,;0:07:19 - 0:07:25
+ali, recimo, na primjer, da imamo nekakvu beskonačnu zalihu konstantskih simbola.;0:07:25 - 0:07:32
+Pazite, ne možete reći ono što obično kažete, aha, imam formulu,;0:07:32 - 0:07:36
+formula je konačno njen simbola, dakle, ako imam sve skupa,;0:07:36 - 0:07:40
+prebrojivam mnogo konstantskih simbola, onda sigurno imam neke koje ne koristim.;0:07:40 - 0:07:45
+Dakle, niko nije rekao kakav je ovaj skup S0,;0:07:45 - 0:07:48
+dakle, teoretski je moguće da je S0 već u sebi ima sve,;0:07:48 - 0:07:52
+prebrojivam mnogo konstantskih simbola, ali, kažem, nekako podrazumijeva se;0:07:53 - 0:07:58
+da uvijek mogu stvoriti nove. I, naravno, ne samo nove u smislu;0:07:58 - 0:08:02
+da nisu i sigma n, nego su svi međusobno različiti, dakle,;0:08:02 - 0:08:05
+za različite formule, F i F crtica, CF i CF crtica su različiti simboli.;0:08:05 - 0:08:10
+Dakle, dodao sam hrpu simbola unutra u koracima i ono što zapravo;0:08:10 - 0:08:18
+sad želimo je dokazati da je čitava unija tih SM-ova ispunjiva,;0:08:18 - 0:08:24
+ali zapravo ćemo prvo dokazati da je svaka pojedina razina,;0:08:24 - 0:08:30
+dakle, svaki SM je konačno ispunjiv.;0:08:30 - 0:08:33
+Naravno, ideja dokaza je da SM je dobiven iz prethodnog,;0:08:33 - 0:08:37
+dakle, jednostavno će ići indukcijom, dobiven je dodavanjem samo konačno mnogo...;0:08:37 - 0:08:43
+ne, ne, ne, dakle, ne želim dokazati da je ispunjiv,;0:08:43 - 0:08:50
+nego, da, želim dokazati da je svaki SM konačno ispunjiv za početak.;0:08:50 - 0:08:54
+Znači, svaki konačni podskup od SN plus 1 će jednostavno biti skup konačno mnogo formula,;0:08:54 - 0:09:01
+dakle, u njima će se sve skupa pojavljivati samo konačno mnogo ovih novih simbola.;0:09:01 - 0:09:07
+Pa ih popišimo, dakle, neka su to CF1 do CFm,;0:09:07 - 0:09:11
+dakle, naravno ne mora ih biti N, može ih biti proizvodno, ali mora ih biti konačno,;0:09:11 - 0:09:16
+dakle, imamo konačno skup formula.;0:09:16 - 0:09:18
+Aha, još je tu cakat, znači, dobro, idem skroz precizno.;0:09:21 - 0:09:25
+Dakle, indukcija, evo, znači, baza je trivialna, S0 je konačno ispunjiv,;0:09:25 - 0:09:29
+to je predpostavka LEM.;0:09:29 - 0:09:30
+Predpostojimo da je SN konačno ispunjiv za nekakav N, dakle, S5 je konačno ispunjiv.;0:09:30 - 0:09:35
+Sad želimo vidjeti da je S6 konačno ispunjiv,;0:09:35 - 0:09:38
+što znači uzmeš proizvodni konačni podskup od S6, nazovimo ga sigma.;0:09:38 - 0:09:43
+E, i sad ne gledaš čitav sigma, nego zapravo gledaš samo sigma presječen sa S5,;0:09:43 - 0:09:49
+dakle, sa onom prethodnom razinom.;0:09:49 - 0:09:53
+Zašto? Zato što samo za njih je bitno šta će ovi CF-ovi reći.;0:09:53 - 0:09:58
+Ovi kasniji CF-ovi će se pojaviti teku S7.;0:09:58 - 0:10:01
+U svom razumiju, sigma1 je svako podskup od sigma, presjek sigma sa još nečim,;0:10:01 - 0:10:08
+dakle, i on je isto konačan i ispunjiv je po predpostavci indukcije.;0:10:08 - 0:10:12
+Predpostavka indukcije je rekla da SN je konačno ispunjiv,;0:10:12 - 0:10:15
+dakle, svaki njegov konačan podskup je ispunjiv.;0:10:15 - 0:10:18
+I onda imaš neki model. Dobro, fiksiramo neki model M za sigma1.;0:10:18 - 0:10:22
+To je bio sigma presječen sa SN.;0:10:22 - 0:10:29
+Dobro, i sad, kažem, popišemo sve konstantske simbole,;0:10:29 - 0:10:34
+naravno, ima ih konačno mnogo, i definiramo,;0:10:34 - 0:10:39
+aha, sve nove konstantske simbole, dakle, ne sve.;0:10:39 - 0:10:43
+Dakle, ne diramo one koji su već bili u sigma1.;0:10:43 - 0:10:47
+Zašto? Jer oni već imaju interpretaciju.;0:10:47 - 0:10:50
+Cilj mi je, naravno, definirati novu strukturu,;0:10:50 - 0:10:57
+dakle, na neki način, proširenje ovog modela M,;0:10:57 - 0:11:01
+kojeg označavam sa N, tako da zapravo još kažem;0:11:01 - 0:11:05
+šta ti novi konstantski simboli kažu.;0:11:05 - 0:11:08
+Dakle, kako se oni interpretiraju.;0:11:08 - 0:11:10
+Nemam i smisla ovaj sigma N, jer oni već i ja su interpretirani u M.;0:11:10 - 0:11:14
+Njih ne želim mijenjati, dakle, želim samo dopisati nešto u modelu.;0:11:14 - 0:11:19
+Ok, i šta radim? Pa, mislim, ono što očekujem, dakle,;0:11:20 - 0:11:24
+jednostavno, hoću da to budu Henkinovi svjedoci, dakle,;0:11:24 - 0:11:27
+hoću da kad god imaš stvarno nekakvu ovakvu formulu koja je istinita,;0:11:27 - 0:11:34
+da ovo doista bude nekakav svjedok.;0:11:34 - 0:11:38
+Dakle, želimo da je, ako postoji A iz, ono,;0:11:38 - 0:11:45
+prethodnog nosača, dakle, nosača od M, takva da ova formula vrijedi.;0:11:45 - 0:11:51
+Da je ovo istinito na M, to je rečenica.;0:11:51 - 0:11:55
+Onda, naravno, može biti više. Odaberem jedan takav i;0:11:55 - 0:12:00
+fiksiram to kao interpretaciju tog CEFI u N.;0:12:00 - 0:12:05
+A ako takvog nema, naravno, moram i dalje reći šta je interpretacija u CEFI,;0:12:05 - 0:12:11
+ali uopće mi nije bitno, jer, dakle, ako je ovo laž, onda će ovo biti istina,;0:12:11 - 0:12:15
+bez obzira na to šta je stavio za CEFI.;0:12:15 - 0:12:18
+Dakle, mogu jednostavno reći proizvodnijan A iz nosača od M.;0:12:18 - 0:12:22
+Takav uvijek postoji, jer, naravno, nosači su neprazni skupovi.;0:12:22 - 0:12:26
+Formalno, naravno, čovjek hoće da ovo stvarno napraviti u teoriji skupova,;0:12:26 - 0:12:30
+kak spada, tu bi u igru došla nekakva funkcija izbora, jer meni ne treba samo;0:12:30 - 0:12:35
+jedan izbor takvog A ili ovakvog A, nego mi treba simultano izbor,;0:12:35 - 0:12:39
+za početak, konačno mnogo ovdje, ali i više od toga, dakle,;0:12:39 - 0:12:44
+za svaki pojedini N ja trebam napraviti nekakvu dedekindovu konstrukciju,;0:12:44 - 0:12:48
+dakle, zapravo moram cijelo vrijeme koristiti istu funkciju izbora.;0:12:48 - 0:12:53
+Dobro, i sad ono što želimo reći je da u takvom novom modelu,;0:12:55 - 0:13:00
+proširenju modela M, interpretacijom ovih novih konstantskih simbola,;0:13:00 - 0:13:06
+na njemu vrijedi sigma. Zašto sigma? Mislim, zašto ne sigma 1?;0:13:06 - 0:13:16
+Aha, jer, dakle, ovi formule, dakle rečenice iz sigma koje nisu iz sigma 1,;0:13:20 - 0:13:26
+one uopće nisu u sn.;0:13:27 - 0:13:33
+Zašto je to bitno sa mnom?;0:13:37 - 0:13:39
+Sigma je podskup od sn plus 1.;0:13:44 - 0:13:47
+Znači, u sigma sigurno žive rečenice koje, dakle, to su svako rečenice,;0:13:48 - 0:14:00
+znači one imaju neke ove konstantske simbole, nove.;0:14:02 - 0:14:07
+I njih smo, znači, pobrinuli smo se da ovakve stvari,;0:14:07 - 0:14:16
+aha, ne, ok, pobrinuli smo se da ovakve stvari učinimo istinitima.;0:14:17 - 0:14:23
+Jer ili je ovo lažno, a ovdje je onda sve jedno što bude,;0:14:23 - 0:14:26
+ili kad je ovo istinito, ovdje smo mogli da brojne neki takav,;0:14:26 - 0:14:29
+da stvarno i desna strana bude istinita.;0:14:29 - 0:14:31
+Znači, svaka od tih takvih rečenica je istinita na sigma.;0:14:31 - 0:14:38
+Znači, one za koje su ovi simboli stari, po predpostavci indukcije,;0:14:39 - 0:14:43
+odnosno po tome što je m već bio model za sigma 1,;0:14:43 - 0:14:48
+a ove nove po konstrukciji, po tome kako sam sad definirao u n.;0:14:49 - 0:14:53
+Aja, ali to je sve. Znači, jednostavno sve formule u sigma su znači,;0:14:54 - 0:14:58
+sve formule u sigma koje nisu u sn su u ovakvog oblika.;0:15:02 - 0:15:06
+Dakle, ako su sve takve, sve koje nisu takve bile od prije istinite,;0:15:07 - 0:15:12
+a sve takve smo sad učinili istinitima, onda smo zapravo učinili istinitima sve,;0:15:12 - 0:15:17
+sve iz sigma u ovoj novej strukturi.;0:15:17 - 0:15:19
+Dobro, i sad kaže Linda Balm ova Lema,;0:15:20 - 0:15:23
+ova unija svih sn-ova je svakako konačno ispunjiv skup formula.;0:15:24 - 0:15:29
+Zašto? Zato što jednostavno unija rastućeg niza;0:15:30 - 0:15:34
+konačno ispunjivih skupa je konačno ispunjiv skup.;0:15:34 - 0:15:36
+Znači, ako je F1, F2, F3 podskup od unije sn-ova,;0:15:36 - 0:15:45
+onda jednostavno čovjek kaže, aha, F1 ti je element SI1,;0:15:45 - 0:15:51
+F2 je element SI2, F3 je element SI3,;0:15:51 - 0:15:55
+sa i označiš maksimum, i1, i2, i3,;0:15:56 - 0:16:03
+i, dakle, naravno, onda čitav F1, F2, F3 je podskup od SI.;0:16:04 - 0:16:09
+Dakle, čitava poanta je da je ovo rastući skup.;0:16:10 - 0:16:12
+Dakle, ako u nekom trenutku pokupim F1, u nekom kasnijem trenutku pokupim F2,;0:16:12 - 0:16:17
+u nekom kasnijem trenutku pokupim F3, onda se sve tri formula nalaze u ovom trećem skupu.;0:16:17 - 0:16:23
+Dakle, svakako, takva konstrukcija unije čuva konačno ispunjivost,;0:16:26 - 0:16:30
+pa mogu primijeniti Lindemovu lemu, dobiti potpun konačno ispunjiv ili maksimalan konačno ispunjiv skup formula.;0:16:31 - 0:16:38
+E sad kaže, očito je to Henkinov skup.;0:16:39 - 0:16:41
+Ne bih rekao da je baš skroz očito, ali dakle, stvari u tome da je Henkinovost već postignuta ovdje.;0:16:41 - 0:16:48
+Već tu zapravo, kad god imam nekakvu takvu rečenicu, ona se u nekom trenutku pojavila u ovoj konstrukciji.;0:16:49 - 0:16:59
+Jednostavno kažem, ne može biti beskonačno mnogo ovih egzistencijalnih kvantifikatora.;0:17:00 - 0:17:04
+Prije ili kasnije ću skidanjem tih egzistencijalnih kvantifikatora doći do baš te moje formule.;0:17:05 - 0:17:12
+I onda će u onoj sljedećoj razini biti Henkinov svjedok interpretiran kako treba za tu formulu.;0:17:15 - 0:17:21
+Već ovo je Henkinov skup, pa onda svakako i njegov nadskup je Henkinov.;0:17:24 - 0:17:29
+Da, nisam baš sretan s time. Nadskup Henkinovog skupa ne mora biti Henkinov.;0:17:34 - 0:17:42
+Dakle, može vam se dogoditi...;0:17:43 - 0:17:45
+Teoretski čovjek je mogao reći, ne znam, prilikom ove Lindembaove konstrukcije,;0:17:51 - 0:17:57
+čitava plantera smo nju napravili pod sorno ove lemi, dakle ne znamo šta je sve završilo unutra.;0:17:58 - 0:18:02
+Teoretski je moguće da je neka nova formula ovakvog oblika nastala unutra.;0:18:03 - 0:18:07
+Malo mi je to sumnjivo, moram priznati.;0:18:16 - 0:18:18
+Dakle, svakako ću pogledat to još, ali sad nekako da se spasim.;0:18:18 - 0:18:31
+Šta mi se čini kao dobar fix? Prvo primijeniti Lindembaovu lemu na S0,;0:18:32 - 0:18:38
+a onda ovu konstrukciju sa Henkinovim svjedocima. Onda sam siguran da sam dobio Henkinovu,;0:18:39 - 0:18:44
+a onda pitanje je sam li izgubio potpunost.;0:18:45 - 0:18:47
+Da, ne znam, nešto se čudno ovdje dobio, zbiva.;0:18:52 - 0:18:54
+Dakle, svakako, ono što se zlažem je da je očito da je ovaj skup Henkinov,;0:18:55 - 0:18:58
+ali kad još primijenim Lindembaovu lemu, ja dobijem neki nadskup.;0:18:59 - 0:19:02
+Unutra sam mogu završiti neke nove existencijalo-plantificirane formule;0:19:03 - 0:19:07
+i nije jasno da za njih postoji takav term.;0:19:07 - 0:19:15
+A, znamo čemu se radi. Dobro je, zapravo je dobro jer čovjek treba pažljivo čitati.;0:19:19 - 0:19:24
+Dakle, TN nije skup svih existencijalo-plantificiranih i za SN, nego svih.;0:19:25 - 0:19:31
+Dakle, jednostavno, naravno da ja ne mogu dodati Henkinove svjedoke za sve formule,;0:19:32 - 0:19:35
+ali mogu dodati Henkinove svjedoke za implikaciju ovakvog oblika.;0:19:36 - 0:19:42
+Kad je ovo lažno, to će jednostavno biti bilo koji je element osača.;0:19:43 - 0:19:46
+A kad je istinito, bit će svarno neki element osača koji je ovaj f čini istinitim.;0:19:47 - 0:19:51
+Dakle, ja sam zapravo u ovoj konstrukciji anticipirao sve moguće formule,;0:19:52 - 0:19:56
+naravno nad nekom konkretnom signaturom, ali signature su isto rasući skup,;0:19:57 - 0:20:00
+dakle, u nekom trenutku za konačni skup u nekom trenutku stanu.;0:20:01 - 0:20:04
+Dakle, zapravo sve te nove formule koje bi po Lindemovom LMI došle unutra;0:20:05 - 0:20:14
+su već bile negdje na nekoj razini ove konstrukcije accounted for.;0:20:15 - 0:20:23
+Dakle, računali smo na njih.;0:20:24 - 0:20:26
+Dobro, ok. Znači, ali ključ je pritom, znači, Tn je skup svih formula;0:20:27 - 0:20:31
+u svobodnom varijalu nad signaturom Sn, nemareći za to koje od njih su došle;0:20:31 - 0:20:37
+micanjem jednog istinitivnog kvantifikatora iz Sn, a koje možda nisu,;0:20:38 - 0:20:42
+nego su, ko zna kakve drugačije formule.;0:20:42 - 0:20:44
+Dakle, ovo je zapravo puno više konstantnih simbola, dodajemo nešto što treba,;0:20:45 - 0:20:51
+ali ne smeta, jer, naravno, sve je prebrojivo.;0:20:51 - 0:20:54
+Dobro, e, ok, onda je dobro. Znači, S trtica je Hankinov skup,;0:20:55 - 0:21:02
+i sad imam Hankinov potpun, konačno ispunjiv skup.;0:21:02 - 0:21:06
+On je ispunjiv, jer, dakle, je onaj skup zatvorenih terma iliti skup konstantnih simbola;0:21:06 - 0:21:13
+pocijepan po relacije ekvivalencije.;0:21:14 - 0:21:17
+Jest model za njega, onaj kanonski model.;0:21:17 - 0:21:20
+Šta sam dobio? Jesam li dobio model za S0?;0:21:21 - 0:21:23
+Striktno govoreći nisam, jer naravno imam nekakvu ogromnu signaturu,;0:21:23 - 0:21:26
+koja je zapravo unija svih tih signatura.;0:21:26 - 0:21:30
+Evo, dakle, Sigma.;0:21:30 - 0:21:33
+Dakle, naravno, to je sad nekakav model koji u sebi ima interpretacije svega i svačega,;0:21:38 - 0:21:42
+ali jednostavno zanemarim, zaboravim sve simbole iz Sigma koji nisu u Sigma 0.;0:21:42 - 0:21:49
+To se zove redukcija modela.;0:21:49 - 0:21:52
+To nije podmodel. Podmodel je kada uzmete neke elemente nosača,;0:21:52 - 0:21:56
+ali pa zatvorite, a ovdje je zapravo uzmete sve elemente nosača,;0:21:56 - 0:22:00
+samo za neke zaboravite kako se zovu.;0:22:00 - 0:22:03
+Zaboravite imena za njih, zaboravite ove ceove koji ih imenuju.;0:22:03 - 0:22:07
+I to je onda, naravno, model za S0.;0:22:07 - 0:22:14
+Model za sve formule iz ovog skupa S trtica koje su nad signaturom S Sigma 0.;0:22:14 - 0:22:22
+Teoretički je moguće da i u S5 bude takvi formula,;0:22:22 - 0:22:25
+ali svakako sve formule iz S0 jesu tamo, jer formule uz S0 ne smiju koristiti ništa od ovih novih simbolar,;0:22:25 - 0:22:31
+jer one su bile zadane na početku, dakle prije nego što smo proširivali signaturu.;0:22:31 - 0:22:36
+I to je to. Teorijem kompaktnosti dokaza.;0:22:36 - 0:22:41
+Ok.;0:22:41 - 0:22:42
+Ajmo sad neke primjene teorijema kompaktnosti.;0:22:43 - 0:22:49
+Jedna važna primjena je na definabilnost.;0:22:49 - 0:22:52
+Dakle, nekako u početku ćemo se možda malo još baviti;0:22:52 - 0:22:57
+s tim normalnim i nenužnim normalnim strukturama,;0:22:57 - 0:23:00
+ali kakvo vrijeme bude proticalo, jednostavno ćemo sve više potrazumijevat;0:23:00 - 0:23:04
+da su sve strukture normalne.;0:23:04 - 0:23:06
+Evo, ovo je jedno od mjesta.;0:23:06 - 0:23:08
+Kad kažemo mod od S, S je skup nekakvih sigma formula,;0:23:08 - 0:23:13
+a dobro, može formula, ali zapravo najčešće je zapravo rečenica.;0:23:13 - 0:23:19
+Jer neće biti ništa pretjeno različito.;0:23:22 - 0:23:25
+Dakle, jednostavno na M vrijedi nekakva konkretna formula,;0:23:25 - 0:23:29
+a ako vrijedi s obzirom na svaku valuaciju,;0:23:29 - 0:23:31
+dakle to je kao da sam naprijed natrpao hrpu univerzalnih fantifikatora,;0:23:31 - 0:23:35
+da sam univerzalno zatvorio tu formulu.;0:23:35 - 0:23:37
+A dobro, znači formalno možemo pisati i formule koje nisu rečenice.;0:23:37 - 0:23:41
+U svakom slučaju, mod od S označava klasu svih sigma struktura,;0:23:41 - 0:23:45
+ali normalnih sigma struktura na kojima vrijede sve formule od S.;0:23:45 - 0:23:49
+Možemo da ćemo jednostavno kratko.;0:23:49 - 0:23:51
+Klasa modela za S, ili klasa svih modela za S.;0:23:51 - 0:23:55
+I sad, elementarna klasa je ona za koju, ona koja je mod od nečega.;0:23:56 - 0:24:03
+Sad nekako se čovjek pita, pa nije li svaka klasa modela za nekakav skup formula,;0:24:03 - 0:24:11
+ali nije. Dakle, vidjet ćemo možda neke primjere.;0:24:11 - 0:24:15
+Dakle, nekako opet, klasa struktura je nešto strašno veliko,;0:24:15 - 0:24:20
+strašno slobodno, ima puno stupnjeva slobode.;0:24:20 - 0:24:24
+Recimo, na primjer, trivialno, mora biti zatvorena na elementarnu ekvivalenciju.;0:24:24 - 0:24:31
+Da bi bila ovo. Dakle, ako imate dvije strukture, dvije sigma strukture,;0:24:31 - 0:24:37
+nad istom sigma, i one su elementarno ekvivalentne,;0:24:37 - 0:24:40
+ako je jedna od njih u K i K je stvarno elementarna,;0:24:40 - 0:24:43
+onda i ova druga mora biti elementarna.;0:24:43 - 0:24:45
+Zato se izove elementarna.;0:24:45 - 0:24:46
+Dakle, elementarna mora biti zatvorena na elementarnu ekvivalenciju.;0:24:46 - 0:24:49
+Mora imati još neka svojstva, vidjet ćemo koje su postirica teorema kompaktnosti.;0:24:49 - 0:24:53
+Dakle, ali u svakom slučaju one, ajmo reći, standardne klase struktura;0:24:54 - 0:25:00
+koje stvarno trebaju u matematici, svakako jesu elementarne,;0:25:00 - 0:25:03
+jer kako ih radite u matematici?;0:25:03 - 0:25:05
+Tako da zapravo popišete neke aksijome, recimo.;0:25:05 - 0:25:07
+Parcijonalno rjeđenje skupove, aha, to ti je skup zajedno s relacijom,;0:25:07 - 0:25:11
+dakle sigma struktura, gdje je sigma samo ta relacija,;0:25:11 - 0:25:14
+koji zadovoljava, sad ja znam, recimo i refleksivnost i transitivnost.;0:25:14 - 0:25:21
+Dakle, dva svojstva, dva aksijoma koja svaka struktura iz te klase mora zadovoljavati.;0:25:21 - 0:25:30
+Dakle, mod od dvočlenog skupa nad tom signaturom je to.;0:25:30 - 0:25:35
+Mora biti jednakost unutra jer moraju biti normalne strukture;0:25:40 - 0:25:43
+i dodam još nekakav simbolčić.;0:25:43 - 0:25:45
+I sad jednostavno označim skup aksijoma i refleksivnost, valjda ovako,;0:25:45 - 0:25:53
+i transitivnost.;0:25:58 - 0:26:00
+Aha, mislim da sad kužim zašto su rekli formula,;0:26:00 - 0:26:15
+jel dakle, ako imam formulu onda ne moram ovo pisati, jel dakle,;0:26:15 - 0:26:19
+ista je stvar, a nekakve najčešće se aksijomi zadeju univerzalno,;0:26:19 - 0:26:22
+pa onda da ne moram pisati te silne univerzalne kvantifikacije.;0:26:22 - 0:26:26
+U svakom slučaju, dakle, to je elementarna klasa.;0:26:26 - 0:26:29
+Čak što više, to se onda zove delta elementarna, dakle,;0:26:29 - 0:26:33
+ako je taj skup konačan.;0:26:33 - 0:26:35
+Dakle, u ovom slučaju naravno ima samo dva elementa pa je konačan.;0:26:35 - 0:26:39
+Dobro, klasa svih grupa, opet imam nekakva tri ili četiri aksijoma,;0:26:39 - 0:26:43
+kako hoćete, koji se mogu napisati u jeziku teorije grupa.;0:26:43 - 0:26:50
+Sad opet kažem šta ćete sve smatrati jezikom, o tome smo pričali,;0:26:50 - 0:26:53
+ali sigurno, dakle, jeste elementarna klasa.;0:26:53 - 0:26:56
+Klasa svih vektorskih prostora, ako stavim samo ovako,;0:26:57 - 0:27:00
+naravno to više nije elementarna klasa iz jednostavnog razloga;0:27:00 - 0:27:03
+što to uopće nisu sigma strukture na istom signaturom.;0:27:03 - 0:27:07
+Šta vi zapravo imate?;0:27:07 - 0:27:09
+Ako biste htjeli vektorski prostor, šta ja znam, na der,;0:27:09 - 0:27:13
+modelirati kao nekakvu sigma strukturu, onda bi množenje skalarom,;0:27:13 - 0:27:18
+dakle, za svaki pojedini skalar i zr, biste morali imati jedan funkcijski simbol.;0:27:18 - 0:27:22
+Koji množi s njim.;0:27:22 - 0:27:24
+I sad to kažem, čak i teoretski moguće gledati nad proizvodnim poljem,;0:27:24 - 0:27:27
+nad fiksiranim poljem. Naravno, ne možete gledati klasa svih vektorskih prostora;0:27:27 - 0:27:31
+nad bilo kojim poljem, jer naravno polja, šta ja znam, C i polje neko;0:27:31 - 0:27:37
+algebarskog potpunjenja, nekakvog konačnog polja, nisu algebarski kompatibilni.;0:27:39 - 0:27:44
+Dakle, ne možete zapravo to strpati u jednu teoriju.;0:27:44 - 0:27:47
+Ali za neko konkretno polje, svakako možete gledati klasu svih vektorskih prostora;0:27:47 - 0:27:51
+nad tim poljem. E, onda imate drugi problem.;0:27:51 - 0:27:53
+Recimo, ako to polje stavite na R, onda dobijete neprebrojivo mnogo funkcijskih simbola;0:27:53 - 0:27:57
+unutra. Jer svaki skalar vam daje jedan funkcijski simbol.;0:27:57 - 0:28:01
+Mora biti zapravo prebrojivo polje. Onda nekak nemate puno izbora.;0:28:01 - 0:28:05
+Naravno, možete konačnog polja stavljati, ali ćete nešto normalno,;0:28:05 - 0:28:09
+ovak, normalno u neformalnom smislu, onda valjda nad Q ćete gledati.;0:28:09 - 0:28:14
+Dobro, sva jedna klasa svih prste, nova klasa svih polja,;0:28:15 - 0:28:18
+ali to se sve vrlo jednostavno aksijomatizira i najčešće nad konačnom mnogo aksijoma.;0:28:18 - 0:28:25
+Ajmo vidjeti sad ovoj priče sa bez konačnog mnogo aksijoma.;0:28:26 - 0:28:29
+Dakle, za početak definicija. Dakle, klasa sigma struktura je delta elementarna;0:28:29 - 0:28:35
+ako postoji konačan skup formula takav da je deta.;0:28:35 - 0:28:38
+E sad kažem, bez manjenja općenitosti možemo predpostaviti dvije stvari.;0:28:38 - 0:28:43
+Da je S jednočan, mislim, naravno je ono, dakle sad napravim ovo.;0:28:43 - 0:28:49
+I da je F rečenica, opet naravno, dakle samo dodam;0:28:50 - 0:28:54
+existencije ovih univerzalnih kvantifikatora na početak.;0:28:55 - 0:28:59
+Jednostavno ćemo u buduće kad kažemo delta elementarna misliti ovo je definicija,;0:29:00 - 0:29:05
+ali zapravo postoji jedna rečenica takva da je mod od singleton te rečenice zapravo K.;0:29:05 - 0:29:12
+Dobro, ovo je jako zanimljiva propozicija, dakle koja kaže ne moraš zapravo tražiti;0:29:13 - 0:29:23
+nekakve čudne skupove aksijoma konačne. Dakle, čim imaš nekakav skup aksijoma za K, S;0:29:23 - 0:29:33
+i znaš, nekako znaš da je K delta elementarna, to samo, mislim, načalno to bi značilo;0:29:33 - 0:29:39
+da postoji neki drugi konačni skup aksijoma za to koji možda nema nekakve veze s ovim S,;0:29:39 - 0:29:43
+ali zapravo ne, nek postoji konačan podskup od S, takav da je to.;0:29:43 - 0:29:48
+Ovdje imam neki bezkonačni skup S i znam da ima nekakav konačni skup, ne znam, T,;0:29:51 - 0:30:02
+takav da je K mod S, a ujedno je i mod od T, gdje je, znači ovaj je bezkonačan, ovaj je konačan,;0:30:02 - 0:30:19
+ali onda sigurno postoji S crtica, takav da to bude ujedno i mod od S crtica,;0:30:20 - 0:30:32
+S crtica je konačan i podskup je od ovog početnog skupa S.;0:30:32 - 0:30:37
+To vrlo podjeća na koju stvar, iz vektorskih prostora, dakle, ako imate, kak je ono išlo,;0:30:37 - 0:30:44
+nekakvu bazu za neki ogromni bezkonačno dimenzionalni elektrski prostor,;0:30:45 - 0:30:49
+imate neki konačno dimenzionalni podprostor u njemu,;0:30:49 - 0:30:52
+onda on sigurno ima bazu koja je podskup od ove tu baze,;0:30:52 - 0:31:00
+ne morate tražiti neku drugu bazu, možete, ima i drugih baza, ovo je T,;0:31:00 - 0:31:06
+ali sigurno je možete naći već ovdje.;0:31:06 - 0:31:09
+Da, nijedavno je bilo kad sam ja učio linijarnu algebru,;0:31:09 - 0:31:17
+ali nekako mislim da, da, dimenzija je invariantna,;0:31:17 - 0:31:20
+znači u linijarnoj algebri imate još dodatni benefit da ova S crtica;0:31:20 - 0:31:28
+ima jednako mnogo elementa kao i T, jer je to jednostavno dimenzija;0:31:28 - 0:31:31
+tog konačna dimenzijalnih prostora. Ovdje to ne mora biti,;0:31:31 - 0:31:34
+jednostavno je moguće da ova S crtica bude puno veći ili čak puno manji od ovog T.;0:31:34 - 0:31:38
+To ne vrijedi, ali svejedno postoji konačan skup.;0:31:38 - 0:31:44
+Ok.;0:31:44 - 0:31:45
+To je neki koji postoje?;0:31:45 - 0:31:49
+Da, znači, predpostavka propozicije je da je delta elementarna klasa,;0:31:49 - 0:31:54
+znači ima nekakav konačni skup, ali kažem, zapravo,;0:31:54 - 0:31:58
+b s ome p, dakle, dT jednostavno.;0:31:58 - 0:32:04
+I to ćemo sad koristiti.;0:32:04 - 0:32:07
+Znači, po ovom gornjem možemo jednostavno uzeti nekakvu rečenicu f;0:32:07 - 0:32:13
+i onda naravno reći, aha, f je očito logička pozitivnica od S.;0:32:13 - 0:32:20
+Zašto? Jer svaka struktura na kojoj je vrijedi S je u k,;0:32:20 - 0:32:26
+pa onda na joj vrijedi f.;0:32:26 - 0:32:30
+Dobro. I sad teorema kompaktnosti.;0:32:30 - 0:32:34
+Naravno, pričamo o primjerama teorema kompaktnosti,;0:32:34 - 0:32:37
+dakle, ređe je da primjenimo teoremu kompaktnosti negdje i to je ovdje.;0:32:37 - 0:32:40
+Znači, ako je f logička pozitivnica nekakvog ogromnog skupa formula S,;0:32:40 - 0:32:47
+onda postoji konačan skup formula koji već pokriva ovu f.;0:32:47 - 0:32:54
+Dobro, jesam li gotov? Pa skoro.;0:32:55 - 0:32:58
+Dakle, naravno S crtica, možda još godno napomenu,;0:32:58 - 0:33:01
+dakle, ovaj operator mod je zapravo, kak se to zapravo lijepo zove, kontravariantan.;0:33:01 - 0:33:06
+Dakle, kak skupovi rastu, tako klasa modela se smanjuju.;0:33:06 - 0:33:10
+Dakle, naravno, ako imate više aksijoma, onda manje je struktura zadovoljava sve to.;0:33:10 - 0:33:17
+Dakle, S crtica je pod skup od S,;0:33:17 - 0:33:19
+dakle, svakako mod od S crtica je nad skup od mod od S,;0:33:19 - 0:33:22
+mod od S je zapravo ovaj k, ali vredi i drugi smjer,;0:33:22 - 0:33:25
+jer S crtica također ima za logičku pozitivnicu S, F,;0:33:25 - 0:33:30
+da, to je teorema kompaktnosti.;0:33:30 - 0:33:33
+Dakle, u drugom smjeru, evo, nakon ovoga kažem.;0:33:33 - 0:33:37
+F je pod skup od, ha, nije pod skup, da,;0:33:39 - 0:33:43
+da, tako napisati,;0:33:44 - 0:33:46
+da, dobro, uglavnom.;0:33:47 - 0:33:49
+Znači, ovo gore je baš kontravariantnost,;0:33:49 - 0:33:52
+a ovo dolje je jednostavno, s obzirom na to da se ovdje radi o jednoj formuli,;0:33:52 - 0:33:55
+koja je posljedica od S crtica,;0:33:55 - 0:33:57
+svaka struktura na kojoj je istini test crtica,;0:33:57 - 0:34:01
+dakle, svaka struktura u modu od S crtica,;0:34:01 - 0:34:03
+na njoj vredi F, dakle, ona je u mod singleton F,;0:34:03 - 0:34:07
+međutim, mod singleton F je opet k, jer to je isto bila ova predpostava.;0:34:07 - 0:34:11
+Nekakav teorema o sandwichu tu jest, ali nije baš doslovno,;0:34:11 - 0:34:14
+jer kažemo ovo je baš inkluzija, a ovo je logička posljedica,;0:34:14 - 0:34:18
+ali na kraju ispadne da, da ne može vrdat ta klasa;0:34:18 - 0:34:24
+ni na veće ni na manje, nego baš mora biti jednaka k.;0:34:24 - 0:34:28
+Dobro, dakle,;0:34:32 - 0:34:35
+i sad imamo, dakle, vezu, jako važnu vezu između elementarnosti;0:34:36 - 0:34:42
+i delta elementarnosti, koja je isto, naravno,;0:34:42 - 0:34:44
+posljedica teorema kompaktnosti, koja kaže ovo.;0:34:44 - 0:34:48
+k komplement je jednostavno klasa svih sigma struktura koje nisu u k,;0:34:48 - 0:34:52
+dakle, očito komplement.;0:34:52 - 0:34:54
+Jedino što treba naglasiti, dakle, to je nad istom signaturom,;0:34:54 - 0:34:57
+dakle, ne sad sve moguće strukture koje nisu u k,;0:34:57 - 0:35:00
+jer naravno njih ima nad raznim signaturama,;0:35:00 - 0:35:03
+nego te koje stvarno, na primjer, šta je, znam, klasa grupa,;0:35:03 - 0:35:06
+imaš, dakle, nekakve funkcijske simbole za operaciju,;0:35:06 - 0:35:12
+konstantski simbol za jedinicu i tako to,;0:35:12 - 0:35:16
+nad tom istom signaturom strukture koje ne zadovoljavaju;0:35:16 - 0:35:22
+akcijama grupa, dakle, to bi bilo onda komplement klase grupa.;0:35:22 - 0:35:27
+Dobro, i sad kaže ovo je karakterizacija, dakle,;0:35:28 - 0:35:33
+klasa je delta elementarna ako i samo ako je elementarna;0:35:33 - 0:35:37
+i njezin komplement je elementarna.;0:35:37 - 0:35:40
+Dobro, dakle, valjda je kristalno jasno, to je sad ova priča,;0:35:40 - 0:35:44
+zašto je dovoljno da je jedna, da se smije pretpostaviti da je jedna formula;0:35:44 - 0:35:50
+i da je ta formula računica, zato što onda stvarno ovaj smjer je one-liner,;0:35:50 - 0:35:54
+dakle, ako je to singleton f i f je računica, onda je komplement;0:35:54 - 0:35:59
+upravo akcijomatiziran sa negacijom.;0:35:59 - 0:36:02
+Pretom su bitne obje stvari, dakle, bitno je da je jedna formula,;0:36:02 - 0:36:06
+već da su dvije formule neobivaljivo, jer moralo bi se i funkciju napisati,;0:36:06 - 0:36:10
+i bitno je da je računica, jer naravno negacija u nekakvoj strukturi,;0:36:10 - 0:36:14
+ako ne vrijedi nekakva formula, ne znaš i da vrijedi njezina negacija,;0:36:14 - 0:36:18
+ali vrijedi, to svakako vrijedi ako je ta formula računica.;0:36:18 - 0:36:22
+To smo već pričali.;0:36:23 - 0:36:24
+Ok, znači u svakom slučaju to. Dakle, što?;0:36:24 - 0:36:28
+Ako je delta elementarna, onda je i k komplement delta elementarna,;0:36:28 - 0:36:34
+a naravno svaka delta elementarna je elementarna, jer jednostavno samo;0:36:34 - 0:36:39
+maknem taj dodatni zahtjev da skup akcijoma mora biti konačan.;0:36:39 - 0:36:43
+E, ali drugi smjer je naravno primjena teorema kompaktnosti, opet slično.;0:36:44 - 0:36:47
+Dakle, k je akcijomatiziran nekakvim skupom s1 i njegov komplement je;0:36:47 - 0:36:53
+akcijomatiziran nekakvim skupom s2. Ključno je, dakle, pretpostavka je;0:36:53 - 0:36:57
+da su to elementarne, dakle, postoje nekakvi skupovi.;0:36:57 - 0:37:00
+Ne znam za sad ništa o njima, jesu li konačni, ali nije bitno.;0:37:00 - 0:37:04
+Zašto? Zato što skup s1 unija s2 sigurno nije ispunjiv.;0:37:04 - 0:37:07
+Zašto? Jer naravno svaki model, kad bi nešto bilo model za s1 unija s2,;0:37:07 - 0:37:13
+tad bi bilo model i za s1 i za s2. Dakle, bilo bi u k i u k komplement.;0:37:13 - 0:37:18
+Naravno, to je nemoguće. Dakle, nijedna struktura nije isto vremena u k i u k komplement.;0:37:18 - 0:37:22
+To drugim rječima zapravo znači da unija ova dva skupa nije ispunjiv. Super.;0:37:22 - 0:37:26
+E, ali čim nekakav skup nije ispunjiv, teorema kompaktnosti kaže;0:37:26 - 0:37:31
+da postoji konačan podskup koji nije ispunjiv. Dakle, što je?;0:37:31 - 0:37:34
+Da, da postoji. Te, konačan podskup od s1 unija s2 te nije ispunjiv.;0:37:34 - 0:37:47
+E, ali naravno, ako ja imam nekakav ogromni skup koji se sastoji od nekakva dva ogromna skupa;0:37:48 - 0:37:53
+i onda sam tu nađen nekakav konačan podskup, on sječe s1,;0:37:55 - 0:37:59
+mislim, ne mora sjećati, može biti dizjunktan,;0:37:59 - 0:38:01
+ali potencijalno sječe s1 i s2 u nekim konačnim skupovima.;0:38:01 - 0:38:05
+Označimo s1' dakle valjda s1' presjekte i s2' je s2 presjekte.;0:38:06 - 0:38:16
+Tada naravno, to su također konačni skupovi.;0:38:17 - 0:38:20
+I njihova unija je čitav te. Dakle, nije ispunjiva.;0:38:26 - 0:38:37
+Super, znači našao sam dva konačna skupa čija unija nije ispunjiva;0:38:37 - 0:38:48
+i još imaju dodatno lijepo svojstvo da je jedan njih podskup od s1,;0:38:48 - 0:38:52
+a drugi je podskup od s2. I sad opet ona priča kontravariantnost.;0:38:52 - 0:38:56
+Dakle, s1' je podskup od s1, pa je mod od s1' nadskup mod od s1.;0:38:56 - 0:39:05
+A mod od s1 je naravno k. Šta još trebam?;0:39:05 - 0:39:09
+Samo trebam dokazati drugu inkluziju. Zašto?;0:39:09 - 0:39:12
+Zašto će to zapravo znači da je k jednak mod od s1';0:39:12 - 0:39:17
+Dakle, našao sam konačan skup aksioma za k.;0:39:17 - 0:39:25
+Dokazao sam da je k delta elementarna.;0:39:25 - 0:39:28
+Dakle, to je nekakvo prebacivanje na ovaj s2.;0:39:28 - 0:39:32
+Dakle, pretpostavljamo suprotno da imaš nekakav...;0:39:32 - 0:39:36
+k je svakako podskup od s1' drugu smjeru.;0:39:39 - 0:39:49
+Pretpostavljamo suprotno.;0:39:50 - 0:39:52
+Znači, imaš nekakav m iz...;0:39:54 - 0:39:59
+Pretpostavljamo suprotno, znači nije svaki odavdje ovdje,;0:40:02 - 0:40:05
+znači postoji neko odavdje ko nije i ovdje.;0:40:05 - 0:40:08
+Postoji m iz mod od s1' takav da m nije iz k.;0:40:08 - 0:40:17
+Međutim, naravno m je...;0:40:18 - 0:40:20
+Pričamo cijelo vrijeme o klasi sigma struktura,;0:40:20 - 0:40:24
+ovo tu je klasa sigma struktura.;0:40:24 - 0:40:27
+Dakle, to zapravo znači da m jest iz k komplementa.;0:40:27 - 0:40:33
+Međutim, k komplementa je također aksiomatiziran,;0:40:34 - 0:40:37
+dakle, to je mod od s2';0:40:37 - 0:40:40
+i sad opet ista priča, kontravariantnost,;0:40:41 - 0:40:44
+je nadskup od mod od s2'.;0:40:44 - 0:40:48
+Nisam siguran da mogu zamijetiti.;0:40:55 - 0:40:58
+Da, naravno.;0:40:59 - 0:41:01
+Znači, m je element od ovog tu,;0:41:02 - 0:41:06
+dakle, na m stvarno vrijede sve formule iz s2',;0:41:06 - 0:41:12
+da, ne moramo biti rečenici.;0:41:12 - 0:41:15
+Međutim, kontradikcija, ovdje imam da na m vrijede sve formule iz s1';0:41:15 - 0:41:24
+i onda bi ispalo da je m model za t,;0:41:24 - 0:41:28
+što je kontradikcija s time da t nije ispunje.;0:41:28 - 0:41:32
+Dakle, stvarno nije teško,;0:41:34 - 0:41:36
+treba malo žonglirat sa tim nejednakostima, inkluzijama.;0:41:36 - 0:41:43
+Dobro, ajmo za kraj još vidjeti jedan ozbiljni primjer.;0:41:45 - 0:41:50
+Dakle, klasa svih beskonačnih skupova je primjer klase koja je elementarna,;0:41:51 - 0:41:56
+ali nije delta elementarna.;0:41:56 - 0:41:59
+Kako možemo smislit nešto što se može aksiomatizirat sa beskonačno mnogo formula,;0:42:00 - 0:42:05
+ali se ne može aksiomatizirat sa konačno mnogo formula.;0:42:05 - 0:42:09
+Dakle, naravno, ideja je ovakve formule, još ćemo ih često koristiti.;0:42:09 - 0:42:12
+Dakle, fi veće ili jednako n jednostavno kaže da u našem nosaču ima barem n elementa.;0:42:12 - 0:42:18
+To je lako napisat.;0:42:18 - 0:42:20
+Naprimjer, u nosaču ima barem tri elementa.;0:42:20 - 0:42:23
+Piše posto y1, posto y2, posto y3.;0:42:23 - 0:42:27
+To nije dovoljno, dakle moramo reći da su stvarno različiti.;0:42:27 - 0:42:30
+Tako da konjunkcija y1 je različita od y2, y1 je različita od y3 i y2 je različita od y3.;0:42:31 - 0:42:38
+Ovo je formula nekakve kvadratne duljine u ovom srustu n,;0:42:38 - 0:42:41
+ali nije bitno. Bitno je da je konačan niz znakova i da doista iskazuje,;0:42:41 - 0:42:47
+s obzirom na to da smo rekli kod definicije mod da se radi o normalnim strukturama,;0:42:47 - 0:42:51
+da to stvarno kaže onda da, kad se ova jednakost interpretira sa jednakošću;0:42:51 - 0:42:56
+u samom modelu normalnom, da to stvarno znači da onda su interpretacije tih tri simbola;0:42:56 - 0:43:03
+doista različite, što znači da u nosaču modela ima barem tri elemente.;0:43:03 - 0:43:12
+Međutim, nije delta elementarna. Zašto?;0:43:13 - 0:43:16
+Prethodna propozicija, ne ova lema, nego baš propozicija, znači ova,;0:43:16 - 0:43:22
+da kaže jednostavno kad bi imao nekakav, kad bi bila delta elementarna,;0:43:23 - 0:43:28
+imao bi nekakav konačan skup aksijoma, ali ne samo to,;0:43:28 - 0:43:30
+nego bi imao neki konačan podskup od ovog tu skupa.;0:43:30 - 0:43:33
+To sigurno nije moguće jer on bi negdje završio.;0:43:33 - 0:43:36
+Konačan skup će imat nekakav najveći broj takav da se ovaj broj pojavljuje unutra;0:43:36 - 0:43:44
+i onda bilo koji skup sa toliko elementa će se dovoljavat,;0:43:44 - 0:43:48
+naravno neki je to pet, uzmaš bilo koji skup sa pet elementa,;0:43:48 - 0:43:53
+on nije bezkonačan, a zadovoljava sve ispod.;0:43:53 - 0:43:56
+Dakle, jednostavno, skup je, nemoguće je uzeti konačni podskup od ovoga;0:43:56 - 0:44:06
+koji bi modelirao, koji bi aksijomatizirao klasu svih bezkonačnih skupova.;0:44:06 - 0:44:11
+Dakle, nije delta elementarna.;0:44:11 - 0:44:15
+Dakle, sad vidite koliko je ona propozicija jaka,;0:44:15 - 0:44:18
+inače bi moralo razmišljati o nekim raznim skupovima aksijomat,;0:44:18 - 0:44:21
+ali zapravo dovoljno mi je razmišljati o konačnim podskupovima ovog skupa.;0:44:21 - 0:44:25
+Oni su jako jednostavni.;0:44:25 - 0:44:27
+Naravno, i sad ovdje ide ova lema od prije, znači klasa svih konačnih skupova,;0:44:27 - 0:44:31
+s obzirom na to da je signatura trivialna, dakle signatura ima samo jednakost,;0:44:31 - 0:44:35
+komplement je upravo klasa svih konačnih skupova i ona nije elementarna.;0:44:35 - 0:44:39
+Dakle, malo bizarno, ali sasvim logično na neki način.;0:44:39 - 0:44:43
+Dakle, ne mogu definirati konačnost u logici prvog reda.;0:44:43 - 0:44:48
+Bez konačnost mogu sa bez konačnost novog formula,;0:44:48 - 0:44:52
+ali ne mogu sa konačnost novog formula.;0:44:52 - 0:44:54
+Dakle, sad još samo ovaj primjer.;0:44:54 - 0:44:56
+Dakle, imamo dijeljive grupe, naprimjer, isto vrlo slična stvar,;0:44:56 - 0:45:00
+samo kao još imam nekakav dodatni funkcijski simbol,;0:45:00 - 0:45:03
+ali niš' se posvena mijenja.;0:45:03 - 0:45:05
+Jest elementarna, nije delta elementarna.;0:45:05 - 0:45:07
+Dobro, ajmo na pauzu.;0:45:07 - 0:45:09

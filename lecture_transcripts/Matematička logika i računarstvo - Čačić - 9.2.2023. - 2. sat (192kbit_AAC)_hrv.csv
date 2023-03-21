@@ -1,0 +1,438 @@
+Speech;Timestamp
+Kako se to onda...;0:00:00 - 0:00:02
+E, dakle, jednu stvar nisam važno rekao.;0:00:10 - 0:00:12
+Mislim, dakle, ne samo da smijem predpostaviti da su ovi y-ovi padajući;0:00:12 - 0:00:18
+i da počnju sa i, nego još smijem predpostaviti da im je presjeh prazan.;0:00:19 - 0:00:23
+Dakle, bilo je samo kao presjeh nije u, ali zapravo to je isto bila jedna od onih;0:00:23 - 0:00:28
+ekvivalentnih formulacija prebrojeva nepotpunosti.;0:00:28 - 0:00:31
+Dakle, da smijem predpostaviti da je presjek baš prazan.;0:00:31 - 0:00:33
+Naravno, da on sigurno nije u, ali i manje od toga.;0:00:33 - 0:00:37
+Dakle, kao zapravo mogu samo sve te y-ove još presjeći sa presjekom svih...;0:00:37 - 0:00:47
+E, ne znam točno kako se to dokaže, ali to smo dokazali da to također mogu predpostaviti.;0:00:48 - 0:00:55
+Dobro, znači imam ovo.;0:00:55 - 0:00:59
+I svi oni su, naravno, i ovaj elementi i su, ali;0:01:09 - 0:01:15
+ne samo da nije u, nego da je prazan.;0:01:15 - 0:01:26
+E, sad se možemo, znači to je jedna stvar koju trebamo gledati.;0:01:30 - 0:01:34
+Druga stvar koju trebamo gledati je ovaj a, znači ova imena za objekte.;0:01:34 - 0:01:42
+Evo, dakle, to smo rekli a i j.;0:01:42 - 0:01:45
+a je zapravo nekakav klasa od a, k.;0:01:46 - 0:01:52
+Pričajemo je k i n.;0:01:55 - 0:01:57
+Znači svaki od ovih je element ultra produkta.;0:02:00 - 0:02:06
+I, i, i, da.;0:02:07 - 0:02:13
+Što znači da je, znači ovo tu je element toga,;0:02:13 - 0:02:17
+a to onda znači da je sam a, k,;0:02:17 - 0:02:22
+znači, ne, to nije niz po k, dakle, to je baš a, k kao nekakva funkcija,;0:02:25 - 0:02:30
+ide sa i, i, i, da.;0:02:30 - 0:02:34
+Ok.;0:02:36 - 0:02:38
+I onda, dakle, umjesto da gledam a prvo za svaki k iz n, pa onda za svaki i iz i,;0:02:40 - 0:02:46
+gledam obrnuto i to nazovem, znači, a, k od i, k iz n, to nazovem a, i.;0:02:46 - 0:02:56
+Znači, šta je to? To su nekako parcijalne komponente svih ovih imena,;0:02:56 - 0:03:02
+prebrojiva mnogo ili konačno mnogo imena.;0:03:02 - 0:03:04
+Čije, znači, koje se nalaze u i tom, i tom modelu, i tom, i toj strukturi.;0:03:07 - 0:03:15
+Dobro.;0:03:15 - 0:03:17
+I treća stvar koju trebamo gledati je ovaj gamma.;0:03:17 - 0:03:20
+Znači, gamma je sigurno, znači gamma od x, kažem,;0:03:20 - 0:03:25
+formula, beškonačna formula sa jednoslovnom varijalnom x.;0:03:25 - 0:03:29
+S obzirom na to u logici prvog reda imam uopće nijeto samo prebrojiva mnogo formula.;0:03:30 - 0:03:36
+Naravno, slučaj kad je gamma konačan je trivialan, jer, sjedite li o sve,;0:03:36 - 0:03:41
+gamma je zatvoren na konjunkcije, pa zapravo onda mogu reći da je gamma jednostavno;0:03:41 - 0:03:45
+samo jedna formula.;0:03:45 - 0:03:47
+I onda je to zapravo, da, samo posljedica, ono šta znači, šta znači valocija,;0:03:50 - 0:03:55
+šta znači da neka formula vrijedi u strukturi.;0:03:55 - 0:03:59
+Dakle, to je stvarno, tu nevam šta dokazivati, to je jednostavno značanje,;0:03:59 - 0:04:04
+značanje egzistencijalnog kvantifikatora, ali, znači, ono što je zanimljivo je,;0:04:04 - 0:04:08
+naravno, kad je gamma beškonačan. Dakle, neka je gamma onda prebrojiv;0:04:08 - 0:04:12
+i označimo mu elemente sa fi1 od x, fi2 od x i tako dalje.;0:04:12 - 0:04:17
+Svaka od njih mora imat točno jednu, mislim, samo x kao slobodnu varijalnu.;0:04:17 - 0:04:24
+Gamma od x konačan trivialni.;0:04:26 - 0:04:31
+Dobro, i sad šta radim, dakle, 3ved x,;0:04:35 - 0:04:41
+radim konačne, kako bi to čolizo, kumulativne, parcijalne konjunkcije.;0:04:43 - 0:04:51
+Dakle, ovo tu nazovem još i fi1 od x, konjunkciju ove dvojice nazovem fi2 od x,;0:04:51 - 0:05:01
+konjunkciju ove trojice nazovem fi3 od x i tako dalje.;0:05:01 - 0:05:06
+Jepota toga je da, naravno, ovaj gamma, mislim, to možda mogu nazvati gamma crtica od x,;0:05:09 - 0:05:15
+je u nekom smislu ekvivalentan. Dakle, naravno, bilo ko realizira ovaj gamma,;0:05:15 - 0:05:23
+će realizirati ovaj gamma crtica i obrano to.;0:05:23 - 0:05:26
+A ovdje imam zgodnu stvar da je ovo nekako padajući niz;0:05:26 - 0:05:32
+s obzirom na relaciju logičke posteljice.;0:05:32 - 0:05:35
+Dakle, svaka od njih je logička posteljica, on je bilo koja je iza.;0:05:35 - 0:05:40
+Dobro?;0:05:41 - 0:05:42
+To su psijevi, da.;0:05:44 - 0:05:45
+Ok, i sad, kada sam te tri stvari napravio, onda definiram niz x-eva ovako ako piše dolje.;0:05:45 - 0:05:52
+Znači x, a da, i opet, vrlo slično kao što sam tu, y0 definirao da je i,;0:05:52 - 0:06:02
+tako mogu ovdje, dakle, na dopunit psi 0 od x,;0:06:02 - 0:06:09
+definiram da je nekakva uvijek istinita formula.;0:06:09 - 0:06:13
+Moraju imati slobodno variabli x, pa recimo x jednako x.;0:06:16 - 0:06:19
+Dakle, ok, i naravno, opet će ovo vrijediti.;0:06:19 - 0:06:27
+Ideja je da ovo kao bude konjunkcija, ovo je konjunkcija jedne formule,;0:06:27 - 0:06:31
+konjunkcija dvije, konjunkcija tri, konjunkcija nula,;0:06:31 - 0:06:33
+formula je naravno ta otologija i onda uzmem nešto tako.;0:06:33 - 0:06:37
+Mislim, krivo reći otologija jer ima slobodnu variablu,;0:06:37 - 0:06:40
+ali uvijek istinita rečenica, uvijek istinita formula sa jednom slobodnom variablom.;0:06:40 - 0:06:45
+Dobro, i onda zapravo mogu reći xn,;0:06:45 - 0:06:49
+definiram kao skup svih i iz, ali ne iz čitalog i, nego iz yn.;0:06:49 - 0:06:57
+Dakle, ove tu y-ove još srežem po kriteriju da stvarno realiziraju;0:06:57 - 0:07:04
+pojedini početni fragment ovih psijeva.;0:07:04 - 0:07:09
+Dakle, da na mi vrijedi postoji x,;0:07:09 - 0:07:18
+psi n od x.;0:07:21 - 0:07:24
+Specijalno, naravno, x nula će biti skup svih i iz y nula,;0:07:29 - 0:07:35
+a nula je i, znači svih indeksa na kojima...;0:07:35 - 0:07:39
+Aha, nemam m nula. Dobro, ok.;0:07:43 - 0:07:46
+Aha, ne, ne, taj i nema veze sa ovim jenom.;0:07:52 - 0:07:55
+Dakle, skup svih indeksa na kojima u bilo kakvoj strukturi vrijedi nekakva ta otologija.;0:07:55 - 0:08:02
+Ovdje piše istina, znači postoji x takav da je x jednako x.;0:08:02 - 0:08:06
+I to uvijek vrijedi jer je mi neprzan, dakle njegov nosač je neprzan.;0:08:06 - 0:08:10
+Dakle, zapravo x nula će biti opet isto kao y nula, čitav skup i.;0:08:10 - 0:08:14
+Dobro, i to je niz, znači to je niz podskupova od i.;0:08:19 - 0:08:22
+To je nizu partitivno od i.;0:08:22 - 0:08:24
+E sad, predpostavka je bila šta?;0:08:24 - 0:08:28
+Predpostavka je bila da je ovaj gamma realiziran.;0:08:28 - 0:08:33
+Dakle, da je svaki pojedini n, dakle gamma je realiziran,;0:08:33 - 0:08:40
+odnosno gamma srdica je realiziran, svaki n iz n plus,;0:08:40 - 0:08:44
+ali naravno moramo reći iz svaki n,;0:08:44 - 0:08:46
+ovaj, na ultra produktu vrijedi existencijalno kvantificirana psi n.;0:08:47 - 0:08:54
+Šta to znači po Vosovom teoremu?;0:09:09 - 0:09:13
+Dakle, skup svih onih koji glasaju za tu formulu mora biti element iz U.;0:09:13 - 0:09:18
+Skup svih takvih je ovo tamo.;0:09:18 - 0:09:24
+Znači, ovaj tu x n mogu shvatiti kao y n, znači svi oni iz y n,;0:09:31 - 0:09:36
+koji zadovoljava ovo tu, znači presjek sa skup svih i iz i,;0:09:36 - 0:09:42
+dakle da na m i vrijedi, da je mi m i glasa za ovu formulu postoji x psi n od x.;0:09:42 - 0:09:49
+Znači, ovaj tu skup možda mogu označiti sa, šta ja znam, z n.;0:09:51 - 0:09:57
+Međutim, činjenica da ovo vrijedi znači da je zapravo z n element od U.;0:10:00 - 0:10:07
+Vosov teorem.;0:10:08 - 0:10:10
+Dobro, dakle zašto mogu primijeniti? Zašto je ovo? Ovo je račenica.;0:10:13 - 0:10:19
+x je jedina slobodna varijabla tamo i nju sam kvantificirao, znači štima.;0:10:20 - 0:10:24
+I sad imam, aha, zatvorenost na presjek, jel? Dakle, x n je y n,;0:10:25 - 0:10:32
+presjek z n je element iz U, jer dakle y n je iz U, to piše tu,;0:10:32 - 0:10:38
+a z n je iz U, to piše tu. Super, znači x-evi su iz U.;0:10:39 - 0:10:44
+E, ali njihov presjek je očito prazan, jer ide podskup presjeka y-onova.;0:10:45 - 0:10:53
+Znači, svaki pojedini x i x n je podskup pod y n,;0:10:54 - 0:10:59
+dakle, kad napravim presjek po svim n, presjek x n-ova je podskup pod presjeka y n-ova.;0:11:00 - 0:11:06
+Pojedini je prazan. I x-evi padaju. Zašto x-evi padaju?;0:11:07 - 0:11:12
+Jer, dobro, jer y-onovi padaju, a ovo tu, znači ovi...;0:11:13 - 0:11:17
+Aha, jer, dakle, to je sad ova priča, jer psijevi padaju po snazi izražajnosti, jel?;0:11:22 - 0:11:29
+Dakle, svaki psi je logička postelica onih nakon njega.;0:11:29 - 0:11:34
+Znači, zapravo onda rastu u smislu logičke izražajnosti.;0:11:34 - 0:11:39
+Dakle, svakako ako na ultraproduktu vrijedi postoji x psi n od x,;0:11:40 - 0:11:56
+tada, odnosno možda psi n plus 1x, tada sigurno vrijedi i postoji x psi n od x.;0:11:56 - 0:12:11
+Zašto? Jer je psi n postelica od psi n plus 1.;0:12:11 - 0:12:16
+Dobro, a što to znači? To znači da z-ovi padaju.;0:12:18 - 0:12:23
+Z-u je nadskup od z-1, nadskup od z-2.;0:12:23 - 0:12:30
+Jer, dakle, ovo zapravo kaže, ako je netko u...;0:12:33 - 0:12:39
+ako je i u z n plus 1, tada je taj isti i element z n.;0:12:40 - 0:12:53
+Dakle, z n plus 1 je nadskup od z n.;0:12:53 - 0:12:56
+Dobro, i sad, z-ovi padaju, y-ovi padaju, dakle, i x-evi padaju.;0:12:58 - 0:13:05
+Znači, sad što imam? Imam padajući niz x-eva, čiji presjek je prazan.;0:13:10 - 0:13:29
+To zapravo hoću reći da ako ja piknem bilo kakav element mog indeksnog skupa, bilo kakav i,;0:13:30 - 0:13:36
+on će u nekom trenutku ispast.;0:13:36 - 0:13:39
+Mislim, ispaš će jer presjek mora biti prazan.;0:13:40 - 0:13:43
+I neće se više vratit jer je nizpadajući.;0:13:43 - 0:13:46
+Dobro, drugim rječima, za svaki i postoji najveći broj,;0:13:46 - 0:13:49
+najveći prirodni broj zadnja pojava, kada se pojavi u x-u.;0:13:49 - 0:13:54
+I, je svakako element od x nula.;0:13:57 - 0:13:59
+Je li možda element od x1? Možda je, ali ako nije, onda sam tu gotov.;0:14:00 - 0:14:04
+Ako je, onda idem dalje. Znači, je li element od x2?;0:14:04 - 0:14:08
+U nekom trenutku, recimo, dobijem da nije.;0:14:09 - 0:14:11
+Onda, naravno, ne može biti element nikoga dalje i onda je n od i jednak 1.;0:14:12 - 0:14:20
+Znači, sasvim jasno.;0:14:21 - 0:14:22
+Za svaki i ja mogu naći najveći prirodni broj takav da se i pojavljuje u tom x-u.;0:14:22 - 0:14:29
+Ok. I što sad? Definiramo jednu funkciju izbora,;0:14:30 - 0:14:34
+dakle, jedan element ovog kartezijevog produkta ovih nosača mi.;0:14:34 - 0:14:39
+Tako da svaki i preslikam u onaj, ne onaj nego neki, neki element nosača;0:14:41 - 0:14:48
+odgovarajućeg takve, dakle, i tog, i te strukture, takve da na nje vrijedi baš psi ni od x.;0:14:48 - 0:14:56
+Realiziran s tim ma.;0:14:57 - 0:14:58
+Dakle, što hoću reći? Ne moram dalje gledat.;0:14:58 - 0:15:02
+Jednom kad mi taj ispadne iz ovih x-eva, onda meni zapravo ovaj gamma,;0:15:02 - 0:15:09
+odnosno gamma crnica, kao da je konačan.;0:15:09 - 0:15:10
+Jer ja nikoga od ovih dalje više ne moram gledat jer oni nisu u xn.;0:15:10 - 0:15:17
+Al' ovo kaže da ja uvijek imam zadnjeg i onda pogledam tog.;0:15:20 - 0:15:24
+Ako ta je vrijedi, onda svi ovi iz gamma prije njega vrijede jer, naravno,;0:15:25 - 0:15:30
+taj zadnji je onda konjunkcija svih ovih gamma, svih ovih fijeva od prije.;0:15:30 - 0:15:36
+A za ove kasnije nije bitno.;0:15:37 - 0:15:39
+Specijalni slučaj, naravno, ako je njego di 0, zapravo znači da douzem bilo koji element.;0:15:41 - 0:15:47
+Jer nemam nikakav uvijek.;0:15:50 - 0:15:51
+Jer, znači, vi, no, to ne treba opisati. x je jednako x, ali to je to.;0:15:51 - 0:15:55
+Dobro, što sam napravio? Napravio sam nekakav f koji jest element.;0:15:57 - 0:16:02
+Uvijek je f' od i u nju.;0:16:02 - 0:16:09
+F od i je element ovog tu i ima svojstvo da znači;0:16:12 - 0:16:22
+u mi vrijedi postoji x psi n od i.;0:16:22 - 0:16:36
+x, ovo je tu sam nazvao jedno dijelo.;0:16:37 - 0:16:41
+To je besmislica jer, dakle, ne je existencijalno, nego baš vrijedi to.;0:16:48 - 0:16:56
+Tako da se x interpretira sa f od i.;0:16:56 - 0:17:01
+Da, da, ok. I što sad kažemo?;0:17:06 - 0:17:13
+Za svaki n, dobro, ovdje opet iz n plus, ali i za n jednako 0, očito.;0:17:13 - 0:17:18
+Za svaki i iz xn vrijedi ovo ovdje. Zašto? Jer psi n povlače fi n, kažemo.;0:17:18 - 0:17:27
+Ako sam se osigurao da psi 3 vrijedi, onda vrijedi i fi 3, i fi 2, i fi 1.;0:17:27 - 0:17:33
+Ovi ostali ne vrijedi, ali nije bitno jer samo sam uzeo x ijeve koji su iz xn.;0:17:33 - 0:17:39
+Čim je i iz xn, slijedi da taj n mora biti manji ili jednak od n od i,;0:17:39 - 0:17:49
+jer n od i je zadnji indeks x-a u kojem se i pojavljuje.;0:17:49 - 0:17:54
+I onda psi n od i je dovoljno glad, odnosno, kako bi to uopće rekao,;0:17:54 - 0:18:06
+psi n od i povlači fi n.;0:18:06 - 0:18:12
+Jasno. Pa onda vrijedi fi n, više vrijedi psi n, gdje je x valuiran sa f od i,;0:18:13 - 0:18:25
+ali onda vrijedi i fi n, gdje je x valuiran sa f od i.;0:18:25 - 0:18:29
+Dobro, što to znači? To znači da je skup onih koji glasaju za fi n,;0:18:30 - 0:18:37
+sad kažem prebacio, onda se zapsijeva na fi n, je nadskup od xn.;0:18:37 - 0:18:43
+Jer kad god je i iz xn, to je jest u ovom skupu.;0:18:43 - 0:18:47
+E, međutim, xn je iz u, to smo dobili.;0:18:48 - 0:18:52
+xn je iz u, pa je i njegov nadskup također iz u.;0:18:59 - 0:19:03
+Po Bošovom teoremu u suprotnom smjeru, na ultraproduktu vrijedi fi n.;0:19:03 - 0:19:08
+Gdje se, naravno, taj x se sad razlio, super ponirao na sve moguće.;0:19:08 - 0:19:16
+Dakle, x je zapravo interpretiran sa funkcijom f,;0:19:16 - 0:19:19
+odnosno još preciznije sa nježnjom klasom ekvalencije, s obzirom na u.;0:19:19 - 0:19:24
+I to je to. Dakle, za svaki n, dobro, za n plus, naravno, jer kažem fi n nismo nimali,;0:19:26 - 0:19:31
+smo našli nekoga, primijetite, taj netko sad više ne ovisio n, to je isto ključno.;0:19:33 - 0:19:39
+Dakle, našli smo jednoga koji za svaki mogući n realizira formulu fi od n.;0:19:40 - 0:19:47
+Dakle, on zapravo realizira čitav tip gamma.;0:19:47 - 0:19:50
+To znači da je gamma realiziran ultraprodukt.;0:19:50 - 0:19:53
+I time smo dokazali da je ultraprodukt prebrojivo saturiran.;0:19:54 - 0:19:59
+A sve što smo trebali je, naravno, da je ultraprodukt, dakle da imam ultrafilter,;0:19:59 - 0:20:03
+i da je taj ultrafilter prebrojivo nepotpuno.;0:20:03 - 0:20:06
+Jej.;0:20:07 - 0:20:08
+Dobro.;0:20:10 - 0:20:11
+Da, dakle, doslovno cijela ploča i zapravo još neke stvari nisam pisao,;0:20:15 - 0:20:20
+dakle, jel' ono, stvarno je zapetljen dokaz, ali...;0:20:20 - 0:20:25
+I naravno, hrpu toga smo dokazali od prije, ovo šok teoremije,;0:20:26 - 0:20:30
+ove neke stvari za prebrojivane potpune ultrafiltere.;0:20:30 - 0:20:33
+Ali evo da, da ne bude uvijek da su samo skice dokaze,;0:20:34 - 0:20:37
+da se neki dokazi i napišu baš.;0:20:37 - 0:20:39
+Dobro, dakle, e sad, ovo je bila kao i je egzistencija saturiranih struktura.;0:20:40 - 0:20:47
+Sad ide jedinstveno saturiranih struktura, naravno,;0:20:47 - 0:20:50
+saturirane strukture sigurno nisu jedinstvene doslovno,;0:20:50 - 0:20:54
+ali zanimljivo je vidjeti da ako imaju istu kardinalnost;0:20:54 - 0:20:58
+i imaju iste rečenice koje na njima vrijede, onda su iste,;0:20:58 - 0:21:02
+naravno, opet sad, do na izomorfizam.;0:21:02 - 0:21:05
+Dakle, nekako, saturirane strukture su određene svojom kardinalnošću;0:21:07 - 0:21:13
+i svojom teorijom modela.;0:21:13 - 0:21:15
+To je zapravo elementarno kvalentno, znači, efektivno je ovo...;0:21:17 - 0:21:20
+n1 n2 n3 n4 n5 n6 n7 n8 n9 n10 n11 n12 n13 ne 12.;0:21:20 - 0:21:28
+Iste rečenice vrijede, ne jedno ne druge.;0:21:28 - 0:21:31
+Dobro, to bi se vjerojatno onda u smisu nekoj kategoričnosti dalo iskazati.;0:21:35.500000 - 0:21:45.500000
+Šta je bilo kategorično?;0:21:45.500000 - 0:21:47.500000
+Lambda kategorično kaže da svaka dva elementarna je kvalentna.;0:21:48.500000 - 0:21:57
+To je za teoriju.;0:21:57 - 0:21:59
+Da, da, da, točno.;0:22:00 - 0:22:03
+Možda ima neke veze, ali da, komplicirano je i redualno.;0:22:06 - 0:22:10.500000
+To je za teoriju, a ne za strukturu.;0:22:10.500000 - 0:22:12
+Dobro, uglavnom, to je teorem.;0:22:12 - 0:22:15
+Znači, elementarna ekvivalentnost i ekvipotentnost povlači izomorsknost;0:22:15.500000 - 0:22:22.500000
+ako se radi o saturiranim strukturama nad istom signaturom.;0:22:22.500000 - 0:22:26.500000
+Ovdje kaže tvrdio dokazujemo samo za prebrojeve.;0:22:26.500000 - 0:22:29.500000
+To stvarno nije toliko bitno. Zašto?;0:22:29.500000 - 0:22:31.500000
+Zato što sve što nam zapravo treba je da ih mogu dobro urediti.;0:22:31.500000 - 0:22:35.500000
+Dakle, nosače.;0:22:35.500000 - 0:22:37.500000
+Nakon, naravno, ako su prebrojevi, onda to baš doslovno poredam ih u niz.;0:22:37.500000 - 0:22:43.500000
+I onda ćete poslijedat, zapravo, jedino što mi treba je dobar uređaj.;0:22:43.500000 - 0:22:46.500000
+Dakle, Cermelov teorema o dobrom uređanju, naravno,;0:22:46.500000 - 0:22:49
+mogu to primijeniti na bilo kakve kardinalnosti od Mijen.;0:22:49 - 0:22:54
+Ovo je, vjerojatno, samo prepisano od izbukovićeve skripte,;0:22:54 - 0:22:58
+ali, kažem, mislim da zapravo nema ničega u dokazu što stvarno čini ovo;0:22:58 - 0:23:03
+bitno jednostavnim slučajem, osim što, no, moram koristiti Cermelov teorema na početak.;0:23:03 - 0:23:08
+Zašto mi uopće treba dobar uređaj?;0:23:08 - 0:23:10
+Zato što ću na hrpim mjesta reći, aha, ja sigurno imam neki tip je realiziran,;0:23:10 - 0:23:15
+dobro, onda ima netko u nosaču ko ga realizira.;0:23:15 - 0:23:18
+E onda uzmem prvoga na tom popisu.;0:23:18 - 0:23:20
+Znači, naravno, ako imam dobar uređaj, onda uvijek mogu uzeti prvoga,;0:23:20 - 0:23:23.500000
+prvoga koji to zadovoljava.;0:23:23.500000 - 0:23:25
+A, princip je zapravo, princip dokaza je potpuno isti kao i onaj;0:23:25 - 0:23:28
+uređajna karakterizacija skupa Q.;0:23:28 - 0:23:30
+Dakle, imam, popišem sve što za neki element vrijedi u jednoj strukturi,;0:23:30 - 0:23:36.500000
+prenesem to u drugu strukturu, to je nekakav tip koji onda mora biti realiziran,;0:23:36.500000 - 0:23:41.500000
+jer je ova saturirana, i onda uzmem prvi na onom popisu koji to zadovoljava.;0:23:41.500000 - 0:23:48.500000
+Evo, znači, ako se sjećate dokaza uređajne karakterizacije od Q,;0:23:48.500000 - 0:23:52
+to je praktički ista tehnika.;0:23:52 - 0:23:54.500000
+Samo se, tamo, kod uređajne karakterizacije od Q,;0:23:57.500000 - 0:24:00
+se tip sastojao samo od formula oblika x je manji od nečega, x je veći od nečega.;0:24:00 - 0:24:05.500000
+To je jedino što ste mogli u toj teoriji izraziti.;0:24:05.500000 - 0:24:08
+Naravno, ovdje sad možete izraziti puno više toga.;0:24:08 - 0:24:10
+I ovi nosači mogu biti veći, ali zapravo nema nikakve druge raznike.;0:24:10.500000 - 0:24:16
+Dobro, dakle, kažem ovdje, definirat ćemo nizove.;0:24:16.500000 - 0:24:18.500000
+Naravno, nećemo sad mi definirat uopće ni to nizove,;0:24:18.500000 - 0:24:21
+nego nekakve hipernizove, ali, dakle, opet, to možemo indukcijom.;0:24:21 - 0:24:25.500000
+Naravno, recimo, uzmemo...;0:24:27.500000 - 0:24:31
+Dakle, uzmemo...;0:24:32 - 0:24:33
+To je sad ona priča...;0:24:34 - 0:24:35
+E da, dakle, ako se sjećate kak je zapravo išla ova priča o uređajnom karakterizaciju od Q,;0:24:35.500000 - 0:24:42.500000
+bilo je ako je n paran, onda idem u jednom smjeru,;0:24:42.500000 - 0:24:45.500000
+a ako je n neparan, onda idem u drugom smjeru.;0:24:45.500000 - 0:24:48.500000
+Dakle, zašto tako? Zato što se tak može lakše pokazati da sam sve pokupio.;0:24:49 - 0:24:53.500000
+Jer, naravno, svaki element ovdje će doći na red nakon...;0:24:53.500000 - 0:24:58
+Dakle, ako je ovdje sedmi, će doći na red nakon četrnaest,;0:24:58.500000 - 0:25:01.500000
+najviše četrnaest koraka, a svaki element ovdje,;0:25:01.500000 - 0:25:04.500000
+ako je, na primjer, dvanesti, će doći na red nakon najviše dvajest pet koraka.;0:25:04.500000 - 0:25:08.500000
+Dakle, nekako, onda sam siguran da sam stvarno pokupio sve elemente;0:25:08.500000 - 0:25:12.500000
+i jedne i druge strukture.;0:25:12.500000 - 0:25:13.500000
+Dalo bi se i bez toga, ali onda je puno teže dokaza da sam na kraju stvarno dobio surjekciju,;0:25:13.500000 - 0:25:20.500000
+odnosno da je ovaj stvarno izomorfizm.;0:25:20.500000 - 0:25:23.500000
+Dobro.;0:25:26 - 0:25:27
+I sad kaže, dakle, naravno, za početak moram nekako počet,;0:25:28.500000 - 0:25:31.500000
+pa onda počnem baš od prvog, jel?;0:25:31.500000 - 0:25:33.500000
+Dakle, općenita će biti priča, ako idem iz strukture M u strukturu N,;0:25:33.500000 - 0:25:37.500000
+onda znači dva su, ili tri možda koraka.;0:25:37.500000 - 0:25:40.500000
+Dakle, prvo A, znači, nek su ovo A-ovi, ovdje su B-ovi,;0:25:40.500000 - 0:25:46.500000
+prvi član niza A će biti prvi neupotrijebljeni,;0:25:47.500000 - 0:25:51.500000
+prvi još neiskorišteni član nosača od M.;0:25:51.500000 - 0:25:55
+Dobro.;0:25:55.500000 - 0:25:56.500000
+A B, odgovarajući, recimo A17, će biti prvi još neupotrijebljen;0:25:57 - 0:26:03.500000
+u prvih 17 koraka elementno sača od M.;0:26:03.500000 - 0:26:07.500000
+A B17 će biti prvi na ovom popisu N-ova;0:26:08 - 0:26:12.500000
+koji realizira onaj isti tip koji realizira A u strukturi M.;0:26:12.500000 - 0:26:18.500000
+Ajme da vidimo. Znači, šta kaže?;0:26:20 - 0:26:23.500000
+To je onaj, kako se to zvali, potpun tip,;0:26:23.500000 - 0:26:25.500000
+ili tip elementa A nula u strukturi M.;0:26:25.500000 - 0:26:28.500000
+To su sve, ne mogu reći sve rečenice,;0:26:29 - 0:26:31.500000
+ali dakle, kao sve formule s jednom slobodnom variablom;0:26:31.500000 - 0:26:34.500000
+koje su istinete na A nula,;0:26:34.500000 - 0:26:37.500000
+kad se ta slobodna variabla interpretira sa A nula.;0:26:37.500000 - 0:26:40
+To je očito jedan tip nad M, odnosno u teoriji od M,;0:26:40 - 0:26:46.500000
+i očito je zadovoljen na M, mislim, podefini, realiziran je na M,;0:26:46.500000 - 0:26:53
+sad sam sa tim A nula, po definiciji.;0:26:53 - 0:26:55.500000
+I sad kaže, aha, ali M i N jesu elementarno ekvivalentne,;0:26:56 - 0:27:01.500000
+pa je taj tip konsistentan s teorijom modela N.;0:27:02 - 0:27:05
+To je ono baš što znači biti konsistentan s teorijom modela.;0:27:05.500000 - 0:27:09
+To je ona priča. Ne moraš biti doslovno tamo,;0:27:09 - 0:27:12
+ali moraš biti u nekoj elementarno ekvivalentnoj strukturi.;0:27:12 - 0:27:16.500000
+E pa elementarno ekvivalentnu strukturu uzmem upravo M;0:27:16.500000 - 0:27:19
+i onda dobijem da je konsistentan s teorijom modela od N.;0:27:19 - 0:27:23
+Jer je ovo realizirano ovdje, a M je elementarno ekvivalentan sa N.;0:27:23 - 0:27:28.500000
+E, ali saturirano, kaže, aha, čim si konsistentan s teorijom modela od N,;0:27:30 - 0:27:34
+onda imaš B nula baš u N. Ne mora biti taj isti A.;0:27:34 - 0:27:38
+Već sam zaboravio koji je to bio A nula,;0:27:39.500000 - 0:27:41.500000
+nebitno, bitno je da imam neki tip konsistentan s teorijom modela.;0:27:41.500000 - 0:27:44
+Onda imam nekoga već unutra u N-u koji realizira taj tip u N-u.;0:27:44 - 0:27:51
+Znači, jedan te isti tip, naravno ovaj koji priča o M-u,;0:27:53.500000 - 0:27:56.500000
+ali sad realiziran u N-u sa elementom B nula.;0:27:56.500000 - 0:28:01
+Dobro, e, sad kaže, ono što trebamo napraviti je samo raditi to indukcijom,;0:28:03.500000 - 0:28:10.500000
+s tim da još ima ta začkoljica gdje u parnim koracima idemo u jednom smjeru,;0:28:10.500000 - 0:28:16
+u neparnim u drugom smjeru, ali sve mogu isto.;0:28:16 - 0:28:18
+Znači, pretpostavim da imam nekakvih već N početnih A-ova i N početnih B-ova.;0:28:18 - 0:28:24.500000
+I ono što zapravo trebam cijelo vrijeme pratit' je ovo tu.;0:28:25 - 0:28:28.500000
+Znači, prisjetimo se šta je ovo. Ovo je onej kao M, M-A.;0:28:28.500000 - 0:28:33.500000
+Znači, to je sigma unija struktura koja svaki ovaj tu interpretira sa samim A.;0:28:33.500000 - 0:28:48
+Dakle, to je M u kojem sam još dodao imena, novih N imena za te A-ove,;0:28:48 - 0:28:54
+a ovo je N u kojem sam dodao još N novih konstantskih simbola;0:28:54 - 0:28:57.500000
+koji su imena za odgovarajuće B-ove.;0:28:57.500000 - 0:28:59.500000
+I to su elementarno ekvivalentne strukture.;0:28:59.500000 - 0:29:02
+Znači, mislim, dobro, nije baš, ne mogu to baš doslovno tako reći jer morali biti na istom signaturom,;0:29:02 - 0:29:08
+ali pretpostavim da dodam nekakve C-ove, jel?;0:29:08 - 0:29:10.500000
+Dakle, C0 koji se ovdje interpretira sa A0, ovdje sa B0.;0:29:10.500000 - 0:29:13.500000
+C1 koji se interpretira ovdje sa A1, ovdje sa B1 itd.;0:29:13.500000 - 0:29:16
+I to u tom smislu, na tom zajedničkom signaturom su one elementarno ekvivalentne.;0:29:16 - 0:29:21.500000
+Ok, i sad kaže, aha, za par N-ove ovo što sam rekao.;0:29:23 - 0:29:26.500000
+Znači, nađem prvi neupotrijebljeni, znači prvi koji nije na popisu ovih A-ova.;0:29:26.500000 - 0:29:31.500000
+Do sad upotrijebljenih.;0:29:32 - 0:29:33
+I sljedeći A-N definiram kao M, K-nulti na popisu M-ova.;0:29:35.500000 - 0:29:41
+Primijetite da ovo mogu napraviti i za bilo koji dobro uređen skup.;0:29:42.500000 - 0:29:46
+Nije bitno da bude skup prirodnih braja.;0:29:46 - 0:29:48.500000
+Tip je konzistentan sa teorijom omega 1 saturiranog modela ovog tu.;0:29:50 - 0:29:55.500000
+Zašto je omega 1 saturiran?;0:29:58.500000 - 0:30:01
+Aha, dobro, to je sad ovo jer je...;0:30:01 - 0:30:03
+Aha, je li tu možda bitno da je prebrojiv?;0:30:04 - 0:30:06.500000
+A ne, jer dakle samo piše da su saturirane iste kardinalnosti.;0:30:10 - 0:30:17
+One su saturirane na dvastitom kardinalnosti.;0:30:17 - 0:30:19.500000
+Ha, možda je ipak ovdje sad važno da su baš prebrojive.;0:30:23.500000 - 0:30:29.500000
+Ha, dobro, ajde.;0:30:32 - 0:30:33.500000
+Dakle, nisam potpuno siguran sad više da se to daje.;0:30:34 - 0:30:38
+Jednostavno preslikat na neprebrojivi slučaj.;0:30:38 - 0:30:40.500000
+Ja sam mislio da je kvaka u ovom tu najmanjem,;0:30:40.500000 - 0:30:43.500000
+a to se naravno može postići sa dobrim uređenjem.;0:30:43.500000 - 0:30:46
+Ali ova saturirana sad...;0:30:46 - 0:30:48.500000
+Jer kao, aha, tip, naravno u sebi uvijek ima samo prebrojivo mnogo formula i tak.;0:30:50 - 0:30:54
+Možda je ipak ta prebrojivost u nekom smislu bitna.;0:30:54 - 0:30:57.500000
+Ali dobro, u glavnom, to je sad ovaj skok,;0:30:57.500000 - 0:31:02
+znači, konsistentan s teorijom modela, pa je,;0:31:02 - 0:31:06
+s obzirom na to da je ova desna saturirana,;0:31:07 - 0:31:09.500000
+mogu u njoj već naći taj element koji onda naravno zovem Bn.;0:31:09.500000 - 0:31:14.500000
+I opet sad, znači, kad uvedem novi konstantski simbol u signaturu Cn,;0:31:17.500000 - 0:31:22.500000
+interpretiram ga na jednoj strani sa An, na drugoj strani sa Bn,;0:31:22.500000 - 0:31:26
+opet s obzirom na to da je ovaj tip na neki način pokupio sve što ja mogu iskazati ovom An;0:31:26 - 0:31:32.500000
+u pomoću struktura M i još pomoću imena za ovih prethodnih N alva,;0:31:32.500000 - 0:31:40.500000
+onda će to isto vrijediti i ovdje za Bn.;0:31:40.500000 - 0:31:44
+Dakle, ove dvije strukture su i dalje elementarne kvalitete.;0:31:44 - 0:31:48
+Da?;0:31:48 - 0:31:49
+Znači, mi to sad dokazujemo za prebrojive.;0:31:49 - 0:31:51.500000
+Da.;0:31:51.500000 - 0:31:52
+A nisam li uvjerovio da ne postoje prebrojiva sa saturiranje strukture?;0:31:52 - 0:31:58
+Točno, točno, da.;0:32:00 - 0:32:01
+Da, da, ovdje, točno, treba ću ovih cijelo vrijeme imat na umu,;0:32:13.500000 - 0:32:18
+to sam još nekoliko puta ove zezno,;0:32:18 - 0:32:20
+definicija je malo šašova.;0:32:20 - 0:32:23
+Dakle, ovo.;0:32:23 - 0:32:25
+Dakle, zapravo ja hoću, ja hoću;0:32:26 - 0:32:31
+omega, ja ne znam, znači, ja hoću saturiranu, znači, saturirana znači ovo.;0:32:35 - 0:32:43
+To je valjda ono što bi čovjek zval konačno saturirana.;0:32:44 - 0:32:48
+Dakle, omega n i n su prebrojive,;0:32:48 - 0:32:56
+to znači da je kardinalnost odnosača od n i od n omega.;0:32:56 - 0:33:02
+Dakle, alef nula što god.;0:33:02 - 0:33:04
+I one su onda saturirane, što znači omega saturirane.;0:33:04 - 0:33:10
+Dobro, ne omega jedan, nego omega.;0:33:11 - 0:33:14
+Ok?;0:33:16 - 0:33:17
+E, a omega saturirano to bih ja zvao ako hoću već nekog zvat konačno saturirano.;0:33:17 - 0:33:22
+Dobro, odnosno ja smijem dati mjera samo konačno mnogo elementa.;0:33:25 - 0:33:29
+Točno, da.;0:33:32 - 0:33:33
+Dakle, znam da je šašavo i ja sam se već dva puta zabunio, ali zapravo što ima.;0:33:33 - 0:33:39
+I kažem, baš zbog toga nisam potpuno siguran da se negdje možda ne podkrade baš ta prebrojivost.;0:33:40 - 0:33:46
+Ali, da sad moram baš odlučiti, rekao bi da dokazi dalje prolazi za bilo koju kardinalnost,;0:33:46 - 0:33:52
+ali više nisam tak siguran.;0:33:52 - 0:33:54
+Dobro, i sad opet, naravno, to je kad je n paran, kad je n neparan, više manje i isto.;0:33:57 - 0:34:01
+Samo onda prvo biram bn, njegov tip u strukturi n napravim,;0:34:01 - 0:34:07
+prenesem ga u m, tamo je saturirano, pa ima negakav element koji ga realizira.;0:34:08 - 0:34:16
+Uzmem prvi s popisa, nazovem ga an, itd.;0:34:16 - 0:34:19
+I sad, lako sam vidio, naravno, dosti to sad sve skupa petljavo,;0:34:19 - 0:34:25
+ali na kraju sam stvarno dobio izomorfizam.;0:34:25 - 0:34:29
+Zašto sam dobio, na primjer, injektivnost?;0:34:29 - 0:34:31
+Zato što jednakost je također unutra i ove strukture su podrazumjeno normalne,;0:34:31 - 0:34:38
+dakle, naravno, jednakost se čuva.;0:34:38 - 0:34:40
+Zašto sam dobio sujektivnost?;0:34:40 - 0:34:42
+To je ova priča, dakle, svaki element ovdje je pokupljen u nekom dovoljno kasnom parnom koraku,;0:34:42 - 0:34:48
+a svaki element ovdje je pokupljen u nekom dovoljno kasnom neparnom koraku.;0:34:48 - 0:34:52
+Zašto sam dobio, dakle, izomorfizam praktički znači da sve mogu prenijet,;0:34:53 - 0:35:00
+kako god valuiram, ali sve zapravo znači, svaka pojedina formula ima samo konačno mnogo slobodnih varijavlji;0:35:00 - 0:35:08
+i onda kad gledam valuaciju na tim slobodnim varijalama, vratim se dovoljno daleko da sam u tom trenutku;0:35:08 - 0:35:15
+baš sve njih preslikao i iskoristim činjenicu da su odgovarajuće strukture na toj razini elementarno-ekvalentne.;0:35:15 - 0:35:26
+Odnosno, je li nije mi dostao da su elementarno-ekvalentne?;0:35:26 - 0:35:30
+Ha, jest, da, jer ja zapravo samo želim da reću da formula koja vrijedi tu, vrijedi i tamo sa odgovarajuće preslika;0:35:31 - 0:35:38
+animalovima u beove, ali to je točno to jer činjenica da su ovi elementarno-ekvalentni znači da su elementarno-ekvalentni;0:35:38 - 0:35:44
+nad signaturom koja je proširena sa odgovarajućim ceovima koji su i depretirani sa ovima na jedno mjesto,;0:35:44 - 0:35:49
+a sa beove na drugo mjesto. Dakle, da, sve što imam.;0:35:49 - 0:35:52
+Dobro, i ovdje ćemo zapravo završiti. Dakle, ovaj tu, nekako ta konstrukcija iz prošlog teorema;0:35:53 - 0:36:11
+se da zapravo općenito opisati pomoću ovakvih nekih svojstava koja se zovu standardno kanonski fort i bek.;0:36:11 - 0:36:22
+Dakle, kako ja mogu prelaziti iz jedne strukture u drugu čuvajući ove parcijalne izomorfizme.;0:36:22 - 0:36:36
+Naravno, bili smo o parcijalnim izomorfizima pričali praktički na samom početku, možda negdje, treći tijan.;0:36:36 - 0:36:42
+Dakle, skup parcijalnih izomorfizama ima svojstvo fort.;0:36:45 - 0:36:49
+Ako, kad gotovo imam neki parcijalni izomorfizam iz I i bilo kakav element ovog lijevog skupa,;0:36:49 - 0:36:57
+odnosno nasača lijeve strukture, onda imam proširenje u I od tog P koje je definirano na A.;0:36:57 - 0:37:07
+Znači, mogu uvijek bilo kakav parcijalni izomorfizam iz I proširiti, dodefinirati na bilo kojem elementu iz lijeve strukture,;0:37:07 - 0:37:18
+tako da ostane u I.;0:37:18 - 0:37:21
+I naravno, back je to isto samo u soprotno smjera. Znači, za bilo kakav parcijalni izomorfizam iz I,;0:37:21 - 0:37:28
+mogu proširiti tako da za bilo koji je unaprijed odebrani element iz desne strane ga on poprima.;0:37:28 - 0:37:35
+Dakle, možemo nekak reći da je ovo bio...;0:37:39 - 0:37:42
+Mislim, ovo su zapravo elementarne ekvivalencije, ali jednom kad ja to napravim i gledam ovaj izomorfizam,;0:37:44 - 0:37:49
+onda mogu ga jednostavno odresati na bilo kojem pojedinom elementu, recimo, šta je znam, 3.;0:37:49 - 0:37:54
+I onda imam A0 ide u B0, A1 ide u B1, A2 ide u B2.;0:37:54 - 0:37:58
+Taj konkretni je svakako parcijalni izomorfizam između ovakvih struktura.;0:37:58 - 0:38:03
+Dakle, ne samo da su one elementarno ekvivalentne, iako nam je to bilo dovojno za ovo,;0:38:03 - 0:38:06
+nego su one zapravo i parcijalno izomorfne.;0:38:06 - 0:38:09
+Dobro, ali ovo što je zanimljivo je, znači, teorem koji kaže, nećemo ga dokazivati,;0:38:12 - 0:38:17
+ali, znači, da ova tvrdnja, dakle, da dva omega 1 saturirana modela nekakve teorije,;0:38:17 - 0:38:26
+njihov skup konačnih, dakle, skup svih konačnih parcijalnih izomorfizama,;0:38:30 - 0:38:34
+znači, ne, ovo je kao općenita definicija za bilo kakav skup parcijalnih izomorfizama,;0:38:34 - 0:38:39
+ali kao glavnom, ono, univerzalno skup svih konačnih parcijalnih izomorfizama;0:38:39 - 0:38:42
+između te dvije omega 1 saturirane strukture, koji su ujedno modele za te,;0:38:42 - 0:38:49
+ima svojstvo back i forth, dakle, kad god imam dva takva, onda imam svojstvo back i forth,;0:38:49 - 0:38:55
+na čitavom skupu konačnih parcijalnih izomorfizama.;0:38:55 - 0:38:58
+To je ekvivalentno sa činjenicom da te dopušta eliminaciju kvantifikatora.;0:38:58 - 0:39:02
+Evo, čisto da, ovaj, na neki način povežamo to sa onim sintaksnim, sintaksnom pričom od prije.;0:39:02 - 0:39:08
+Da, nisam uopće siguran. Ni da bih mogo počet pričat o nekakvom dokazu toga.;0:39:13 - 0:39:21
+I to je sve zapravo od mene. Završili smo mrvicu ranije nego što sam se ja nadao,;0:39:26 - 0:39:33
+ali mislim da to nije meni nije problem, a nadam se da nije i vama.;0:39:33 - 0:39:38
+Dakle, ja sam davno, dakle, kad smo počeli, ja sam Marku Horvatu rekao da on počinje tamo negdje od početka ožujka.;0:39:39 - 0:39:46
+Tako da, ovaj, ne znam, sad još ću svakomu priđa s njim, jel on želi sad ranije,;0:39:48 - 0:39:52
+ili ćete imat, ne znam, dva tjedna još prazno, jel?;0:39:52 - 0:39:58
+Ali, znam, sad s obzirom na to da ste tu, mogu vas i pitati,;0:39:59 - 0:40:02
+jel biste radije da odmah počnete dalje, ili čisto da znam reći Marku.;0:40:02 - 0:40:07
+Mislim, onda ćete ranije završiti, ali pa ćete imat ljeto možda malo bezbrižnije.;0:40:08 - 0:40:13
+Tako da mu znam reći.;0:40:15 - 0:40:17
+Ok, to je onda ovo što sam ja imao sad ispričat, dakle, kažem,;0:40:19 - 0:40:23
+Marko će onda uglavnom pričat o računarstvu, ali ima tu i modalne logike i tako stvari koje se isto;0:40:24 - 0:40:32
+prirodno danas nekako vežu uz računarstvo, to ćete više čutiti od njega.;0:40:33 - 0:40:38
+Dobro, ima kakvih možda pitanja ovdje? Nema?;0:40:40 - 0:40:43
+Dobro, dakle, drugu zadaću ću nekad...;0:40:43 - 0:40:45

@@ -1,0 +1,537 @@
+Speech;Timestamp
+Šta je kreda neka?;0:00:00 - 0:00:03
+Šta kreda nemamo ovdje.;0:00:08 - 0:00:10
+Možda slučajno biste mogli.;0:00:13 - 0:00:16
+Idemo otići negdje.;0:00:19 - 0:00:21
+Hvala.;0:00:22 - 0:00:23
+Dobro, dakle, prošli put smo počeli sa dokazom;0:00:26 - 0:00:31
+Remzijevog teorema i vidjeli smo onaj beskonačnu,;0:00:32 - 0:00:37
+beskonačnu varijantu, da nju zapravo nije tako teško dokazati.;0:00:38 - 0:00:41
+Prvenstveno zbog toga što onda ne moramo misliti;0:00:42 - 0:00:45
+o tim silnim brojevima, nekako je stvar beskonačna,;0:00:46 - 0:00:48
+onda je puno ljepša razdijeljenja na dva dijela,;0:00:48 - 0:00:51
+pa je jedan uvijek beskonačan, pa onda opet se na kraju dobije;0:00:52 - 0:00:55
+nekakav niz, pa se njega opet razdijeljene na dva dijela,;0:00:56 - 0:00:59
+pa je jedan od njih bude beskonačan i tako.;0:01:00 - 0:01:02
+Dakle, kad bi smo trebali naći nekakve konkretne ograde,;0:01:03 - 0:01:05
+to bi bilo nekakve hiper-eksponencialne funkcije unutra,;0:01:06 - 0:01:09
+ali čitava poanta je da nam to ne treba,;0:01:10 - 0:01:12
+ako dokazujemo beskonačnu varijantu.;0:01:13 - 0:01:15
+Dakle, beskonačna varijanta, dosta jednostavno primjenom;0:01:15 - 0:01:18
+ovih logičkih aparata koje smo napravili, dakle primjenom;0:01:19 - 0:01:21
+teorema kompaktnosti, slijedi i ova konačna varijanta.;0:01:22 - 0:01:27
+Predpostavka je, naravno ideja je ići na kontrapoziciju.;0:01:31 - 0:01:36
+Dakle, dokazat ćemo da iz beskonačne varijante slijedi;0:01:37 - 0:01:40
+konačna varijanta, tako da dokažemo da iz negacije;0:01:41 - 0:01:44
+konačne varijante slijedi negacija bezkonačne varijante.;0:01:45 - 0:01:48
+Predpostavimo suprotno, predpostavimo da konačna varijanta ne vrijedi.;0:01:49 - 0:01:53
+I sad šta bi to značilo? Dakle, opet pogledamo sad točno šta kaže;0:01:54 - 0:01:57
+Remzijev teorem. Dakle, za svaki n postoji;0:01:58 - 0:02:03
+Remzijev broj, anti-Remzijev broj, tako da svaki graf,;0:02:04 - 0:02:08
+ali ne nužno sa točno rn čvorova, nego sa najmanji rn čvorova,;0:02:09 - 0:02:13
+ne rn ili više čvorova, sadrži barem jedan potpun podgraf veličine n;0:02:13 - 0:02:19
+ili barem jedan prazan podgraf veličine n čvorova.;0:02:20 - 0:02:24
+Dakle, negacija toga je valjda onda znači da...;0:02:25 - 0:02:28
+A...;0:02:29 - 0:02:30
+Da, znači...;0:02:40 - 0:02:41
+Hvala vam.;0:02:42 - 0:02:43
+Ok?;0:02:51 - 0:02:52
+Dakle, Remzi kaže za svaki n postoji rn,;0:02:53 - 0:02:58
+tako da za svaki graf s više ili jednako rn čvorova;0:02:59 - 0:03:06
+postoji n nula potpun ili prazan podgraf.;0:03:10 - 0:03:20
+Ok?;0:03:23 - 0:03:24
+Dakle, negacija je da postoji n nula,;0:03:25 - 0:03:29
+tako da za svaki m postoji graf s više ili jednako od m čvorova.;0:03:32 - 0:03:47
+Naravno, taj broj čvorova onda označimo sa p.;0:03:48 - 0:03:52
+Tako da nema ovu...;0:03:55 - 0:03:57
+Dakle, svaki n nula podgraf niti je potpun, niti je prazan.;0:03:58 - 0:04:03
+Ok.;0:04:17 - 0:04:18
+Dakle, negacija je to.;0:04:21 - 0:04:24
+I sad želimo to modelirati kroz nekakve formule.;0:04:25 - 0:04:29
+Dakle, prva formula, Fig. R, jednostavno kaže da se radi o grafu.;0:04:30 - 0:04:35
+Dakle, naravno, sad moramo precizirati signaturu,;0:04:36 - 0:04:38
+ali signatura je vrlo jednostavna.;0:04:38 - 0:04:40
+Dakle, imat ćemo jednakost koja je dvomjestna;0:04:40 - 0:04:43
+i imat ćemo još jedan dvomjestni relacijski simbol E.;0:04:43 - 0:04:47
+E dolazi od edge, dakle koji jednostavno kaže da su dva vrha povezane bridom.;0:04:47 - 0:04:52
+I sad, nad tom signaturom je jasno da ova rečenica Fig. R;0:04:52 - 0:04:57
+zapravo kaže da se radi o grafu, odnosno da je ovaj E,;0:04:57 - 0:05:01
+da je nosač skupa sa interpretacijom relacije E zapravo graf.;0:05:01 - 0:05:05
+Isto precizno, valjda, jednostavni graf, to kaže ovo prvo,;0:05:05 - 0:05:10
+relacija je i refleksivna, a ovo drugo kaže da je relacija simetrična,;0:05:10 - 0:05:14
+odnosno da se radi o neusmjerenom grafu.;0:05:14 - 0:05:16
+To su oni grafomi koje provučavamo ovdje.;0:05:16 - 0:05:20
+Fig. R kaže neusmjereni jednostavni graf.;0:05:23 - 0:05:39
+Dobro, ove formule Fi veće ili jednako k, smo već vidjeli,;0:05:40 - 0:05:47
+znači jednostavno kaže nosač, što je zapravo skup vrhova,;0:05:47 - 0:05:53
+ima više ili jednako k elementa.;0:05:57 - 0:06:02
+Znači, ako neka struktura zadovoljava Fig. R i Fi veće ili jednako 16,;0:06:04 - 0:06:08
+onda je to sigurno neusmjereni jednostavni graf sa više ili jednako 16 vrhova.;0:06:08 - 0:06:13
+Naravno, normalna struktura.;0:06:15 - 0:06:17
+E sad, znači, ovo je zanimljivo,;0:06:17 - 0:06:19
+nakle, Fi true jednostavno kaže, ima n nula među njima,;0:06:19 - 0:06:29
+znači ima n nula elementa nosača, ima n nula vrhova,;0:06:29 - 0:06:32
+koji su svi povezani međusobno.;0:06:33 - 0:06:42
+Dobro, dakle, ha ha, da, naravno, pri tom, dakle, ovo se brine da i ne bude jednako j,;0:06:44 - 0:06:51
+znači sigurno su onda različiti zbog ovega prije, jel?;0:06:51 - 0:06:56
+Dakle, to je stvarno n nula različitih vrhova i svaki sa svakim je povezan.;0:06:57 - 0:07:03
+Dakle, naravno, ovdje samo kažu da je svaki povezan sa onim nakon,;0:07:03 - 0:07:07
+ali zbog simetričnosti zapravo svaki je povezan sa svima ostalima.;0:07:07 - 0:07:11
+Dakle, postoji n nula potpun.;0:07:12 - 0:07:18
+Postoji n nula prazan.;0:07:18 - 0:07:22
+If he falls, kaže postoji n nula prazan.;0:07:24 - 0:07:33
+Dakle, naravno, ovdje sad treba reći da se radi o različitim vrhovima,;0:07:40 - 0:07:45
+to ne slijedi iz činjenica da nisu u relaciji e, ali lako se to zapiše.;0:07:45 - 0:07:50
+I to su sad sve rečenice i znači ovo je nekakav skup rečenica,;0:07:51 - 0:07:55
+naravno, beskonačno mnogo njih.;0:07:55 - 0:07:57
+Ali tvrdimo da je taj skup konačno ispunjiv.;0:07:57 - 0:08:00
+Zašto je taj skup konačno ispunjiv? To točno zapravo kaže ovo gore.;0:08:00 - 0:08:03
+Jer, ako uzmeš konačni skup, dakle, naravno, sad, jesi li uzao gr,;0:08:03 - 0:08:07
+jesi li uzao ove negacije ove stvrdice?;0:08:07 - 0:08:12
+Ne postoji.;0:08:16 - 0:08:18
+Dakle, mogli smo uzeti ili ne uzeti fig.r, mogli smo uzeti ili ne uzeti ove negacije,;0:08:19 - 0:08:25
+ali, ono, predpostavljamo da smo ih uzeli, neće se ništa strašno dogodi.;0:08:25 - 0:08:29
+Dakle, ono, jednostavno, ako je neki skup skupa sa tom trojicom ispunjiv,;0:08:29 - 0:08:37
+onda naravno, kad maknem tu trojicu, je i dalje konačan i dalje ispunjiv.;0:08:37 - 0:08:42
+Dakle, neka je, ne znam, sigma1, konačni podskup od ovog tu,;0:08:43 - 0:08:48
+bez pa nije općenitosti možemo predpostaviti da se ove tri formule stvarno nalaze u sigma1.;0:08:48 - 0:08:53
+Međutim, od ovih tu, bez konačno mnogo formula, naravno, samo konačno mnogo je moglo završiti u sigma1;0:08:53 - 0:08:59
+i neka je, šta, neke kad, valjda, m.;0:08:59 - 0:09:03
+Sa m ćemo označiti neki najveći mogući broj takav da fi veće ili jednako m;0:09:03 - 0:09:10
+završi u ovom skupu sigma1.;0:09:10 - 0:09:12
+Onda, naravno, po ovoj predpostavci, suprotnog, postoji graf sa više od toliko čvorova;0:09:12 - 0:09:18
+koji nema n0 potpun, nije n0 prazan podgraf i to je onda kontradikcija.;0:09:18 - 0:09:24
+Znači, jao, dobro, ne sigma1, ne sigma0, dobro, ne veze.;0:09:24 - 0:09:28
+I neka je m, kao što rekoh, najveći, takav da je fi veći ili jednako m, element sigma0.;0:09:28 - 0:09:33
+Postoji p, veći ili jednako m, graf sa toliko čvorova koji ne sadrši ni prazni;0:09:34 - 0:09:39
+ni potpunni podgraf veličine n0.;0:09:39 - 0:09:42
+To točno znači da na geu vrijedi sigma0.;0:09:43 - 0:09:47
+Nismo morali uzeti ove fige jer i ove dvije negacije, ali svakako smo ih mogli uzeti;0:09:48 - 0:09:53
+i svakako one vrijede na geju.;0:09:53 - 0:09:56
+A vrijede i sve ostale formule iz sigma0 jer sve ostale formule iz sigma0;0:09:56 - 0:10:00
+se oblika fi veći ili jednako od nekog broja koji je manji od p.;0:10:00 - 0:10:04
+Mislim, manji ili jednako od m, dakle manji ili jednako od p.;0:10:04 - 0:10:07
+One su sigurno na tom grafu koji ima više ili jednako od m vrhova ispunjene.;0:10:08 - 0:10:13
+Znači, ovo tu je sad dokaz da je sigma konačno ispunjev.;0:10:13 - 0:10:17
+Teorijam kompaktnosti kaže čitav sigma je ispunjev,;0:10:17 - 0:10:21
+dakle imaš nekakav model za čitav sigma.;0:10:21 - 0:10:24
+Znači, šta je taj model?;0:10:24 - 0:10:26
+Na m-u, sigma konačno ispunjev, kompaktnost, sigma ispunjev,;0:10:26 - 0:10:40
+imaš nekakav m na kojem vrijedi čitav sigma.;0:10:42 - 0:10:46
+I sad šta tu piše? Piše svakako fi gr, dakle m je nekakav graf.;0:10:46 - 0:10:51
+Onda unutra svakako vrijedi ne fi true, znači nema n nula potpun graf.;0:10:52 - 0:11:06
+I ne fi false vrijedi, dakle nema n nula prazen graf.;0:11:09 - 0:11:18
+E, ali ne samo to, nego i na njemu vrijede sve ove fi veći ili jednako k,;0:11:22 - 0:11:32
+za k iz n valjda bez 0 i 1, znači od 2 nadalje.;0:11:32 - 0:11:38
+To znači da taj graf ima beskonačno mnogo vrhova.;0:11:38 - 0:11:48
+I sad ovo je u kontradikciji sa našom beskonačnom varijantom,;0:11:51 - 0:11:54
+jer beskonačna varijanta je rekla, ako imaš graf koji ima beskonačno mnogo vrhova,;0:11:54 - 0:11:58
+onda on sigurno ima ili beskonačan potpun potgraf, ili beskonačan praznin potgraf.;0:11:58 - 0:12:03
+Ali naravno, u beskonačnom potpunom potgrafu mogu uvijek uzeti n nula vrhova;0:12:03 - 0:12:08
+od tih beskonačno mnogo i reći, evo sad imaš n nula potpun potgraf,;0:12:08 - 0:12:12
+i isto tako u praznom.;0:12:12 - 0:12:14
+Dakle, ovo je očito kontradikcija sa beskonačnom varijantom.;0:12:14 - 0:12:20
+Dakle, zgodna primjena teorema kompaktnosti da bi se dokazali nekakvi kombinatorički rezultati.;0:12:25 - 0:12:34
+E sad, sljedeća je poglavnje Levenheim-Skulemovi teoremi.;0:12:35 - 0:12:41
+Dakle, naravno, opet sad u nekom već do sadašnjem kursu logike;0:12:43 - 0:12:49
+ste vjerojatno vidjeli za Levenheim-Skulemovi teoreme.;0:12:49 - 0:12:52
+Dakle, ovaj gornji koji se zapravo zove nadolje ili downwards Levenheim-Skulemovi,;0:12:52 - 0:12:59
+dakle, koji kaže zapravo da bez manje općenitosti možemo pretpostaviti da su naše strukture prebrojile.;0:12:59 - 0:13:08
+Odnosno, ako naša teorija ima model, i sad, dakle, ovdje, ako želimo normalnost, onda moramo biti predsjedni.;0:13:08 - 0:13:17
+Dakle, moramo imati beskonačni model, jer smo vidjeli nekako, dakle, možemo napisati formulu.;0:13:17 - 0:13:23
+Aha, to kao nismo vidjeli, ali isto se može lako napisati.;0:13:23 - 0:13:26
+Ako zahtijevam normalnost, mogu napisati formulu koja kaže da u modelu postoji najviše tri elementa.;0:13:26 - 0:13:33
+Da kažete, ono, postoje y1, y2, y3, tako da su svi međusobno različiti.;0:13:33 - 0:13:39
+I za svaki x, ili x jednak y1, ili x jednak y2, ili x jednak y3.;0:13:39 - 0:13:45
+Dakle, svakako mogu zahtijevati, ako želim se restringirati samo na normalne strukture,;0:13:45 - 0:13:52
+mogu zahtijevati kardinalnost, mogu neku konačnu kardinalnost propisati, mogu reći.;0:13:52 - 0:13:58
+Svi modeli za moju teoriju moraju imati, ne znam, 7 elementa.;0:13:58 - 0:14:02
+Ali, čim imam neki beskonačni model, dakle, čim nisam tako nešto zahtjevao,;0:14:02 - 0:14:09
+onda zapravo, bez menjanja čeljitosti, mogu pretpostaviti da je taj model zapravo prebrojiv.;0:14:09 - 0:14:14
+Dakle, ne trebaju mi neprebrojivi modeli.;0:14:14 - 0:14:16
+Jedini razlog zašto je skup R neprebrojiv je što ima onaj akcijum potpunosti u svojoj akcijomatizaciji,;0:14:16 - 0:14:23
+koji nije, smo rekli zapravo, nije formula prvog reda.;0:14:23 - 0:14:27
+Dakle, ako pričamo o teorijama prvog reda, što svakako realna analiza nije,;0:14:27 - 0:14:32
+onda je zapravo, smijemo pretpostaviti da svaku pojedinu strukturu da je prebrojiva.;0:14:32 - 0:14:41
+Dobro, ali isto tako ima i Levenhans-Coulomb na gore.;0:14:41 - 0:14:45
+Dakle, ako imam beskonačni normalni model, a ovdje čak dovoljno zapravo zahtjeva da imam proizvoljno velike konačne modele,;0:14:45 - 0:14:54
+samo da nisam negdje ograničio kardinalnost na neki fiksan broj.;0:14:54 - 0:14:58
+Može se dogoditi da imam model kardinalnosti 7, kardinalnosti 28, kardinalnosti 153 itd.;0:14:58 - 0:15:09
+Proizvoljno velike konačne modele. Onda zapravo imam model proizvoljne beskonačne kardinalnosti.;0:15:09 - 0:15:16
+Bilo kakav beskonačni kardinalni broj, naravno alef 0, ali onda kažem i bilo što veće od toga,;0:15:16 - 0:15:21
+također imam model te kardinalnosti.;0:15:21 - 0:15:24
+Dobro, a sad dakle, da bismo još malo zakomplicirali,;0:15:27 - 0:15:30
+jednostavno još malo generalizirali rezultate koje ćemo dokazati,;0:15:30 - 0:15:33
+pretpostavit ćemo sad da je signatura sigma i skup variabli proizvoljne kardinalnosti.;0:15:33 - 0:15:39
+Dakle, teoretski mogu imati neprebrojivo mnogo konstantskih simbola,;0:15:39 - 0:15:43
+neprebrojivo mnogo variabli i takvih nekih stvari.;0:15:43 - 0:15:46
+Dakle, u ovom slučaju, l sigma će nam biti, što ovo, alfabet.;0:15:46 - 0:15:51
+Znači, ako se sjećate šta je sve u alfabetu, svakako, znači, logički veznici,;0:15:51 - 0:15:57
+kvantifikatori, zagrade, zarez,;0:15:57 - 0:16:05
+i to je to od ovih konačnih stvari, unija nelogičkih simboli;0:16:09 - 0:16:14
+i unija variabla, skup variabla.;0:16:14 - 0:16:18
+Dakle, kažem, u onoj standardnoj logici prvog reda, znači,;0:16:19 - 0:16:23
+ovo je manje ili jedna kval jef nula, dakle, konačno ili prebrojivo,;0:16:23 - 0:16:29
+a ovo je baš jedna kval jef nula, dakle, točno prebrojivo mnogo variabli,;0:16:29 - 0:16:34
+a ovo je konačno, jel' ne znam šta, ovo je šta koliko, valjda pet, sedam, deset.;0:16:34 - 0:16:40
+Deset komada.;0:16:40 - 0:16:41
+Uglavnom, znači, za logiku prvog reda, ovo je svakako prebrojivo skupeno.;0:16:41 - 0:16:49
+Ali, kažem, sad možemo to generalizirati, općenito, s tim da zahtjevamo;0:16:50 - 0:16:57
+da variabli ima beskonačno, dakle, više ili jednak kval jef nula,;0:16:57 - 0:17:04
+jer, naravno, uvijek, to je ono što smo rekli, onaj osnovni princip;0:17:04 - 0:17:10
+koji hoćemo od variabli, dakle, uvijek imam svježu variablu,;0:17:10 - 0:17:13
+dakle, kakvu god formulu mi netko da, u njoj se pojavljuje samo konačno;0:17:13 - 0:17:18
+mnogo variabli, ja uvijek mogu smisliti neku variablu koja se u njoj ne pojavljuje;0:17:18 - 0:17:22
+za nekakvo uvrštavanje, nekakvu instancijaciju ili što veće, dakle.;0:17:22 - 0:17:26
+To ću zahtjevat, a ovo sve ostalo zapravo je više manje, onak, proizvodno,;0:17:26 - 0:17:32
+s tim da, naravno, opet ovo ću, možda ću neki podskup od ovoga imat,;0:17:32 - 0:17:35
+ali u svajom slučaju ovo će biti konačno.;0:17:35 - 0:17:37
+Jer, naravno, kažem, od ove dvojce mogu uzeti samo jednog,;0:17:39 - 0:17:42
+ili od ove tuvih tu pet mogu uzeti samo dva, neka dva i tako, ali u svajom slučaju,;0:17:42 - 0:17:47
+tu ću imat konačno. E, ovdje sad može biti bilo što.;0:17:47 - 0:17:50
+Signatura ne može biti prazna, jel, dakle, svarako, mora imat barim jednakost unutra,;0:17:54 - 0:18:01
+ali sve ostalo ide, znači, može biti neprebrojeno.;0:18:01 - 0:18:04
+I to će nam trebati, dakle, na primjer, imat ćemo u metodi dijagrama,;0:18:05 - 0:18:09
+ćemo dodavat, recimo, po jedan konstantski simbol za svaki element nosača,;0:18:09 - 0:18:14
+a onda ako je nosač neprebrojiv, onda svajako treba, znači, unutra staviti.;0:18:14 - 0:18:20
+Neprebrojeno je onogo konstantski simbola.;0:18:20 - 0:18:22
+Ali, kažem, znači, to nije ništa pretjerano esencijalno, dakle, kažem,;0:18:22 - 0:18:27
+na taj način L sigma će, znači, biti uvijek beskonačan,;0:18:29 - 0:18:33
+ako nešto drugo zbog ovih variabli,;0:18:34 - 0:18:36
+a najčešće će biti prebrojiv, kažem, jedino zbog čega može biti neprebrojiv je,;0:18:36 - 0:18:41
+ili da mi neko da neprebrojivo mnogo variabli,;0:18:41 - 0:18:43
+od čega ne imam najčešće neke velike koristi, jer, kažem,;0:18:43 - 0:18:46
+formule su korače, nizovi simbola, ili ovdje, kažem, dakle, to će se ponekad događa,;0:18:46 - 0:18:51
+da ćemo imati neprebrojivo mnogo konstantskih simbola, ali opet ne baš često.;0:18:51 - 0:18:56
+Dobro.;0:18:57 - 0:18:58
+I onda zapravo puna, odnosno, skroz generalizirana izreka;0:18:59 - 0:19:03
+Levenheimsk-Klunovog teorema, na dolje, kaže ovo.;0:19:03 - 0:19:06
+Znači, ako imaš nekakvu sigma strukturu M,;0:19:06 - 0:19:11
+dakle, gdje je sigma, kažem, ovako, generalni,;0:19:13 - 0:19:16
+imam nekakav B koji je podskup nosača od M.;0:19:17 - 0:19:21
+I imam, i znam da je kardinalnost nosača veća ili jednaka od kardinalnosti mog jezika.;0:19:21 - 0:19:37
+Mislim, krevo reći jezika, to je zapravo alfabet, ali dakle,;0:19:37 - 0:19:40
+alfabet sigma teorija, svih teorija nad signaturom sigma.;0:19:40 - 0:19:52
+Dakle, ako je to manje ili jednake kardinalnosti od nosača,;0:19:52 - 0:19:57
+dakle, u nosaču nekako imam dovoljno elementa,;0:19:57 - 0:20:00
+ako niš drugo, na primjer, za sve konstantske simbola ovdje.;0:20:00 - 0:20:03
+I to je to.;0:20:06 - 0:20:07
+Znači, to su pretpostavke.;0:20:08 - 0:20:10
+Tada, postoji elementarni podmodel N,;0:20:11 - 0:20:14
+dakle, elementarni podmodel od M,;0:20:16 - 0:20:19
+takav da je B podskup nosača od N, dakle, nekako,;0:20:20 - 0:20:26
+i kardinalnost je, da, znači,;0:20:27 - 0:20:30
+sad bih ja htio reći kardinalnost od N je kardinalnost od L sigma,;0:20:31 - 0:20:37
+ali ne mogu jer teorijski je moguće da je ovaj B jako velik,;0:20:37 - 0:20:41
+ali svakako veći od te dvojice.;0:20:41 - 0:20:44
+U primjerama će nađeš još B bez prebrojev, pa onda nema veze,;0:20:48 - 0:20:51
+jer kažemo ovaj L je sigurno barem prebrojev,;0:20:51 - 0:20:54
+ali za općenitu izreku moramo ovo napisati.;0:20:54 - 0:20:57
+Eto, znači, netko mi da neke elemente i kaže,;0:21:01 - 0:21:07
+oni ti moraju biti u modelu, znači njih moraš sačuvati,;0:21:07 - 0:21:11
+a ne smiješ prekardašit, znači ovdje u M imaš dovoljno elementa,;0:21:12 - 0:21:17
+ali moraš to srezat tako da ti sve skupa bude relativno malo,;0:21:17 - 0:21:22
+na primjer, što ja znam da je najčešće će biti, znači,;0:21:22 - 0:21:26
+netko mi da prebrojev, mnogo elementa,;0:21:26 - 0:21:29
+i kaže moraš sad napraviti prebrojev model,;0:21:29 - 0:21:33
+ali koji sigurno sadrži te elemente.;0:21:33 - 0:21:36
+Naravno, on može biti prebrojev, znači može sadržavati i razne druge,;0:21:36 - 0:21:39
+osim ovih iz B, ali ne, ne prebrojev mnogo njih.;0:21:39 - 0:21:43
+Naravno, onda kaže, ako su L, sigma i B prebrojeni,;0:21:44 - 0:21:47
+onda se tu točno dobije onaj diplomski,;0:21:47 - 0:21:50
+sa diplomskog studija, elementarnih skupina.;0:21:50 - 0:21:53
+Dobro. E sad, kak se to dokaže?;0:21:53 - 0:21:59
+Pa tako da se prvo zapravo ispriča ova ideja o napuhavanju ovog B a do n a.;0:21:59 - 0:22:07
+Dakle, pritom se koristi nešto što se zove krast-triptarskim teorem,;0:22:07 - 0:22:11
+on se isto napravi čak na preddiplomskom studiju kod nas,;0:22:11 - 0:22:14
+dakle, na teoriji skupova, i zapravo bih rekao da je vrlo,;0:22:14 - 0:22:18
+možda dokaz nije baš tako trivialan,;0:22:18 - 0:22:21
+ali svakako vrlo intuitivan i ja bih rekao vrlo prihvatljiv zaključak teorema.;0:22:21 - 0:22:28
+Dakle, šta kaže? Ak imam funkciju sadano na podskupovima nekog skupa,;0:22:28 - 0:22:32
+znači na partitivno da je a nekakav skup,;0:22:32 - 0:22:35
+i ona je rastuća u smislu, ak mi daš dva skupa jednom drugome nad skup,;0:22:35 - 0:22:39
+onda su njihovi f-ovi isto jednom drugome nad skup.;0:22:39 - 0:22:42
+Dakle, tada sigurno postoje najmanja i najveća fiksna točka funkcije f.;0:22:45 - 0:22:49
+Mislim da zapravo nama čak i neće trebat najveća,;0:22:49 - 0:22:53
+da, nama će samo trebati najmanja fiksna točka.;0:22:53 - 0:22:56
+I kako se dobije najmanja fiksna točka?;0:22:56 - 0:22:58
+Pa jednostavno tako da unutra stavim sve što moramo.;0:22:58 - 0:23:01
+E sad šta to znači? Dakle, krenem od prazno skupa.;0:23:01 - 0:23:07
+Dobro, dakle, on sigurno, mislim, teoretički je moguće da je on već fiksna točka,;0:23:07 - 0:23:14
+onda sam gotov, jel' da?;0:23:14 - 0:23:16
+Ako je f od praznog jednako prazno, onda sam gotov.;0:23:16 - 0:23:19
+Međutim, naravno, najčešće nije, jel' dakle?;0:23:19 - 0:23:23
+Onda gledam f od praznog.;0:23:23 - 0:23:25
+E sad, f od praznog sigurno mora biti nad skup od praznog,;0:23:27 - 0:23:31
+jer sve je nad skup od praznog.;0:23:31 - 0:23:33
+Ako je f od praznog već fiksna točka, onda sam gotov.;0:23:34 - 0:23:37
+Međutim, svoja prilika da nije.;0:23:37 - 0:23:39
+E sad, znači, kažem, s obzirom na to da ovo sigurno vrijedi,;0:23:39 - 0:23:42
+ja mogu djelovati sa f, f je različna funkcija,;0:23:42 - 0:23:45
+sigurno ću dobiti da je ovo pod skup od f, kak' bi to čelo napisao?;0:23:45 - 0:23:48
+f kvadrat od praznog.;0:23:48 - 0:23:49
+Evo, f od f od praznog.;0:23:49 - 0:23:51
+To mora biti pod skup, jer je ovo pod skup i jer f čuva uređaj.;0:23:54 - 0:23:58
+F je različa.;0:23:58 - 0:23:59
+E sad, opet, dak' je to, fiksna točka, onda sam gotov.;0:24:00 - 0:24:04
+Međutim, svoja prilika da nije i onda naravno dobijem nekakav niz, jel' dakle?;0:24:06 - 0:24:10
+f od praznog je pod skup od m2 od praznog, dakle, opet po f.;0:24:10 - 0:24:14
+Dobijem da je to pod skup od f3.;0:24:15 - 0:24:18
+Dobro.;0:24:20 - 0:24:21
+Ako je bilo koji od njih fiksna točka, onda sam gotov.;0:24:22 - 0:24:25
+Ako nije, onda napravim union.;0:24:25 - 0:24:27
+E, i tvrdim da to mora biti fiksna točka.;0:24:34 - 0:24:36
+Zašto? Jer naravno svatko udadle koga pikneš i primijenjiš f,;0:24:36 - 0:24:40
+on ti se nalazi u onom sljedećem, dakle, nalazi se u...;0:24:40 - 0:24:44
+Dakle, kažem, ima sad tu detalja koje sam ovak' propustio;0:24:45 - 0:24:50
+i opet, nekak' je jasno da je to najmanja fiksna točka, dakle,;0:24:50 - 0:24:54
+ne možeš uzeti manje od toga da dobiješ fiksnu točku,;0:24:54 - 0:24:58
+jer čim nisi uzo čitavu uniju, nisi uzo nekoga tu.;0:24:58 - 0:25:02
+Ali taj neki tu je dobiven iz nekoga tu.;0:25:03 - 0:25:06
+Znači, on je u sljedeći od f.;0:25:06 - 0:25:08
+Naravno, ovakvi nisu, ali njih nema.;0:25:08 - 0:25:13
+Dobro, znači, kažem, to nećemo sigurno precizno pisati dokaz,;0:25:15 - 0:25:19
+ali nekak' jasno je da teorem vrijedi, kažem, imate u biljaškama iz teorije Skupova;0:25:19 - 0:25:25
+detaljno opisan dokaz.;0:25:25 - 0:25:27
+Ono što ćemo mi ovdje raditi, naravno, primijenit ćemo knjaz-Tretarskih teorem;0:25:28 - 0:25:32
+na ovu ovako napisanu funkciju.;0:25:32 - 0:25:35
+Dakle, imaš neku m sigma strukturu i neki podskup nosača.;0:25:35 - 0:25:41
+Dobro, sa ovim običnim latinskim m sam označio nosač.;0:25:41 - 0:25:46
+Znači, definiram f na podskupu pojma od nosača.;0:25:52 - 0:25:55
+Tako da kažem jednostavno netko mi daje neki skup.;0:25:55 - 0:25:59
+Šta je unutra stavljen?;0:25:59 - 0:26:00
+Stavim b, jer moram imat' b unutra uvijek.;0:26:00 - 0:26:03
+Stavim taj skup, znači sigurno ga želim napuhat', znači imat' ću x unutra,;0:26:03 - 0:26:08
+ali ću imati i još nešto.;0:26:08 - 0:26:10
+Stavim interpretacije svih konstantskih simbola, dobro, naravno,;0:26:10 - 0:26:14
+i stavim interpretacije svih funkcijskih terma kojima su dijelovi moguće iz b, moguće iz x.;0:26:16 - 0:26:27
+Na taj način zapravo mogu reći, zatvorim ovo na standardnu izgradnju terma;0:26:28 - 0:26:33
+nad skupom b unija x.;0:26:34 - 0:26:36
+Termi su stabla koja imaju tu negakve funkcijske simbole,;0:26:39 - 0:26:44
+tu negakve konstantske simbole ili negakve varijable.;0:26:44 - 0:26:48
+I stavim sve konstantske unutra, stavim sve,;0:26:49 - 0:26:54
+kažem, ove varijable mogu biti šta god hoću, ali ja ih valuiram sa nečim iz b unija x;0:26:55 - 0:27:01
+i zatvorim prema gori.;0:27:04 - 0:27:06
+Sve vrijednosti terma koje imaju takve listove iz b unija x, unija ovih konstanti,;0:27:07 - 0:27:14
+proglasim to za f od x.;0:27:15 - 0:27:18
+I sad to je neki novi skup, dakle sad naravno to sad kad gradim u beskonačnost,;0:27:19 - 0:27:30
+odnosno primijenim znac startalskog jer sasvim je jasno da je ova f rastuća funkcija,;0:27:30 - 0:27:37
+dakle postoji najmanja fiksna točka i nju označim sa x 0.;0:27:37 - 0:27:42
+I sad je ključno, dakle, x 0 ne samo da je, to je svakako neki nadskup od b,;0:27:44 - 0:27:49
+ali je najmanji mogući nadskup od b koji je nosač nekog podmodela od m.;0:27:49 - 0:27:55
+To je ona priča, dakle, ne mora svaki podskup biti nosač nekog podmodela,;0:27:55 - 0:27:59
+jer naravno ne mora imati u sebi interpretacije konstantskih simbola;0:27:59 - 0:28:03
+i ne mora biti zatvoren na interpretacije funkcijskih simbola.;0:28:03 - 0:28:06
+Ako napravim ovu konstrukciju, dobijem skup koji je nosač podmodela;0:28:06 - 0:28:10
+i to je zapravo najmanji mogući nosač podmodela koji sadrži b.;0:28:10 - 0:28:14
+To se zove podmodel generiran sa b.;0:28:14 - 0:28:17
+Stavim uvetra najmanje što mogu i zatvorim na to da bude podmodel.;0:28:19 - 0:28:25
+Algebarska konstrukcija polinoma. Šta su polinomi?;0:28:27 - 0:28:31
+Uzmeš prsten, koeficijeneta, dodaš njima nekakav x koji nema veze s njima,;0:28:31 - 0:28:36
+dakle nezavisan je algebarski s njima i onda ga pustiš,;0:28:36 - 0:28:40
+zatvoriš to na najmanji mogući prsten.;0:28:40 - 0:28:43
+Najmanji mogući prsten koji sadrži sve koeficijente i sadrži taj nesretni x;0:28:43 - 0:28:47
+je zapravo prsten polinoma nad x.;0:28:47 - 0:28:50
+Tako da je vrlo slično.;0:28:50 - 0:28:52
+To je specijalni slučaj ako polinome gledam logički modelirano.;0:28:52 - 0:28:56
+Ovdje naravno to mogu raditi za bilo kakvu strukturu i dobijem podmodel generiran sa b.;0:28:56 - 0:29:02
+Sad treba vidjeti da tom konstrukcijom nisam previše napuhao stvari, ali nisam.;0:29:06 - 0:29:11
+Jer naravno, šta sam ovdje izbivao?;0:29:11 - 0:29:14
+Dakle, imam nekakav...;0:29:14 - 0:29:17
+Ovo tu se dogodilo nekako povećanje kardinalnosti.;0:29:19 - 0:29:23
+Međutim, kasnije zapravo ako je ovo bilo prebrojivo,;0:29:23 - 0:29:26
+onda će i ovi svi kasnije biti prebrojivi. Zašto?;0:29:26 - 0:29:29
+Jer šta sam dodao?;0:29:29 - 0:29:31
+A, dobro. Ne znam da će biti prebrojivo.;0:29:32 - 0:29:35
+Dakle, svakako, dodam neke b unutra.;0:29:35 - 0:29:38
+Znači, taj kardinalnost od b je ono što mi zapravo diktira kardinalnost na kraju.;0:29:38 - 0:29:44
+Dodam sve elemente iz b unutra.;0:29:47 - 0:29:50
+Ovo sam već imao od prije, znači to ne povećava kardinalnost.;0:29:50 - 0:29:54
+I sad, šta ovdje radim zapravo?;0:29:54 - 0:29:57
+Svaki takav niz, znači od konačno mnogo elementa iz b unija x.;0:29:57 - 0:30:02
+Dakle, opet kažem, kardinalnost od b je najvažnija,;0:30:02 - 0:30:05
+međutim, kardinalnost od b na k tu je opet jedna ka kardinalnost od b.;0:30:05 - 0:30:09
+B je bezkonačno skupno.;0:30:09 - 0:30:11
+Tako da neću dodati puno više.;0:30:11 - 0:30:14
+Znači, to je plus još ovo.;0:30:14 - 0:30:17
+Šta može biti f? F može biti bilo kakav k mjestnih sigma.;0:30:17 - 0:30:21
+Njih može biti puno, ali opet, znači,;0:30:21 - 0:30:23
+predpostavka propozicije je da je kardinalnost u del sigma manja od kardinalnosti od b.;0:30:23 - 0:30:28
+Dakle, opet, taj faktor nije bitan.;0:30:28 - 0:30:31
+I onda se dobije da...;0:30:31 - 0:30:34
+Aha, ovaj argument je možda ovak zgodniji.;0:30:34 - 0:30:37
+Dakle, svaki element nosača je interpretacija nekog sigma terma;0:30:37 - 0:30:42
+koji može imat parametre iz skupa b.;0:30:42 - 0:30:46
+Dakle, u smislu, može biti variabla koje su kao interpretirane nečim iz b.;0:30:46 - 0:30:51
+Dakle, onda zapravo hoću reći svaki element iz nje je nekakav konačan niz,;0:30:51 - 0:30:55
+ne znam, može biti trivialni niz, a može biti nešto ovako,;0:30:58 - 0:31:02
+iz b unija sigma.;0:31:02 - 0:31:04
+I konačnih nizova rad beskonačnim skupovima je jednako kao i u samom tom skupu.;0:31:04 - 0:31:10
+A b unija sigma je iste kardinalnosti kao i b jer je l sigma.;0:31:10 - 0:31:16
+Svako sadrži sigma.;0:31:16 - 0:31:18
+Sigma je poskupe u del sigma, kard sigma je manje nježnoj kardi u del sigma,;0:31:18 - 0:31:26
+a to je manje nježnoj kardi u del sigma.;0:31:26 - 0:31:29
+Dobro, znači malo igranja sa skupovima i kardinalnostima, ali ide.;0:31:29 - 0:31:35
+E, sad znači, druga leva, dakle, ako imam b,;0:31:35 - 0:31:41
+znači zapravo na neki način generalizacija one prethodne,;0:31:41 - 0:31:44
+znači imam, opet neki podskup, dobro, ovdje treba opisati nosača,;0:31:44 - 0:31:50
+i neki kardinalni broj između, znači između ovog većega od ova dva kardinalna broja;0:31:50 - 0:31:57
+i kardinalnosti nosača.;0:31:57 - 0:32:01
+Onda opet ima podmodel koji sadrži sve elemente od b;0:32:01 - 0:32:06
+i ima točno taj kardinalni broj.;0:32:06 - 0:32:08
+Dakle, jednostavno mogu propisati kakav kardinalni broj želim,;0:32:08 - 0:32:13
+dogod je on između onoga što mi prethodno Lema kaže;0:32:13 - 0:32:16
+i naravno ne može nekako biti veći od kardinalnosti čitavog nosača.;0:32:16 - 0:32:21
+Dakle, dobro, sad prvo onda skupovno napravim,;0:32:21 - 0:32:25
+dakle, jednostavno, nađem se neki skup kardinaliteta baš mi,;0:32:25 - 0:32:29
+takav da je između, da je nađen skup od b i podskup od nosača,;0:32:29 - 0:32:33
+to je opet nekakva jednostavna teorija skupova,;0:32:33 - 0:32:37
+i sve potpuno isto napravimo kao i prije,;0:32:37 - 0:32:41
+samo umjesto skupa b stavimo skup b0.;0:32:41 - 0:32:45
+Znaš kako zovem b0? Zato da mogu onda ovo lijepo napisati.;0:32:45 - 0:32:51
+Dakle, taj niz mi onda zapravo bude b0, b1,;0:32:51 - 0:32:57
+zapravo, ovo je prazan i dalje, znači ovo bude b0, tu bude b1, tu b2.;0:32:57 - 0:33:07
+I slično predstavljeno je proposiciji, svaki bn ima kardinalnost mi.;0:33:07 - 0:33:16
+Zašto? Jer ovaj tu ima kardinalnost mi,;0:33:16 - 0:33:19
+ovom predpostavci, mislim, tako smo ga odabrali,;0:33:19 - 0:33:22
+a svaki sljedeći f zapravo ne povećava bitno kardinalnost.;0:33:22 - 0:33:27
+I onda, naravno, ova unija je manje ili jednako od koliko ih ima,;0:33:28 - 0:33:37
+alef 0 komada puta kardinalnost svakog pojedinog.;0:33:37 - 0:33:43
+Dakle, ovo tu je jednako mi, međutim, alef 0 puta mi je mi.;0:33:44 - 0:33:49
+Jer, opet, kažem, iz teorije skupova znamo,;0:33:49 - 0:33:52
+ako imamo dva beskonačna kardinalna broja, onda je njihov umnošak onaj veći od njiha.;0:33:52 - 0:33:58
+Naravno, mi je veći ili jednako od alef 0, jer...;0:33:58 - 0:34:02
+Zašto? Jer je l sigma, na primjer, preprovedeno.;0:34:04 - 0:34:08
+Dobro, dakle, ovaj b zvijezda, naravno, sam b zvijezdao, znači ovo ovdje.;0:34:11 - 0:34:18
+Dakle, sigurno ima kardinalnost jednako mi, a on je također,;0:34:19 - 0:34:25
+mislim, opet, po istom dokazu, fiksa točka funkcije f,;0:34:25 - 0:34:29
+odnosno nosač podmodela od m, kardinalnost mu je mi, a sadrži b.;0:34:29 - 0:34:34
+Zašto? Jer je već ovaj b 0 sadržavao b, a on sve ostalo je bilo raspuće.;0:34:34 - 0:34:38
+Dakle, nagle sigurno, i na kraju b završio u uniji.;0:34:38 - 0:34:43
+Dobro.;0:34:44 - 0:34:46
+Evo, i sad, kad sam dokazao te dvije lm-e, onda mogu dokazati sam Lennahansko,;0:34:48 - 0:34:54
+to je m na dolje, koji, kao što rekoh, kaže da ako imaš sigma strukturu;0:34:54 - 0:35:01
+i neki podskup nosača b, i u nosaču dovoljno elementa,;0:35:02 - 0:35:09
+barem dovoljno za interpretaciju ovih jezika, odnosno signature,;0:35:09 - 0:35:16
+onda imaš elementarni podmodel koji je točno te kardinalnosti;0:35:17 - 0:35:25
+koje najmanje treba, najmanje što uopće može biti.;0:35:25 - 0:35:32
+Sigurno mora u sebi imati sve elemente iz b, ovo mora vrijediti,;0:35:32 - 0:35:38
+i ovo negako mora vrijediti, jer kažem, može se uvijek dogoditi;0:35:38 - 0:35:42
+i u njegovom konstantskom simbolu koje moram ispoštovati.;0:35:42 - 0:35:47
+E sad, naravno, s obzirom na to da ovdje imam dihotomiju,;0:35:50 - 0:35:54
+moram zapravo dva slučaja riješiti, međutim,;0:35:54 - 0:35:57
+ovaj drugi će se zapravo sve svoditi na ovaj prvi.;0:35:57 - 0:36:00
+Znači, prvi slučaj je kad je b ima više elementa nego L sigma.;0:36:00 - 0:36:05
+Rekli smo L sigma uvijek predpostavljano da je bezkomačan,;0:36:05 - 0:36:08
+dakle, to je sve skupa više ili jednako od alef 0.;0:36:08 - 0:36:11
+Naravno, tada zapravo želimo dokazati da postoji elementarni podmodel;0:36:11 - 0:36:17
+kardinalnosti, elementarni podmodel ekvipotentan sa b.;0:36:17 - 0:36:22
+Međutim, to je to, ona lema, ona druga lema je rekla da imaš;0:36:24 - 0:36:31
+nekakav podmodel, m crtica, koji sadrži b i ekvipotentan je sa b.;0:36:31 - 0:36:40
+E sad, naravno, to je samo podmodel.;0:36:42 - 0:36:45
+Znači, samo sam uzao neki skup i zatvorio na sve što je trebalo,;0:36:45 - 0:36:50
+dakle, da stvarno imam interpretacije svih konstantskih i funkcijskih simbola,;0:36:50 - 0:36:54
+funkcijskih terma unutra, ali niko ne kaže da je to elementarni podmodel.;0:36:54 - 0:37:00
+I nije, nije nužno, dakle, ne mora biti.;0:37:00 - 0:37:04
+Ali sad ću ga još napuhat tako da kardinalnost ostane ista.;0:37:04 - 0:37:08
+Napuhat znači naravno da će dalje biti na skupu pod b,;0:37:08 - 0:37:12
+a bit će elementarni podmodel.;0:37:12 - 0:37:14
+Kako to radim? Pa, ono, kao voš votov test, odnosno, na neki način emuliram;0:37:14 - 0:37:22
+onu Henke'novu konstrukciju, dakle, jednostavno, nađem si,;0:37:23 - 0:37:28
+samo naravno ta Henke'nova konstrukcija je sintaksna, ona dodaje konstantski simbol.;0:37:28 - 0:37:33
+Ja dodajem u nosač, ono, dakle, u ovoj nosač ove a 0, odnosno,;0:37:33 - 0:37:38
+poslije a 3, dodajem neke nove elemente tako da bih dobio a 1, odnosno, a 4.;0:37:38 - 0:37:44
+Šta kaže? Kad god imaš u m ovako, znači, u m vrijedi nekakva;0:37:44 - 0:37:51
+egzistencijalna formula, pri čemu su ove ostale variable;0:37:51 - 0:37:57
+interpretirane sa nekim elementima iz prethodnog skupa, znači, netko mi da a 3,;0:37:57 - 0:38:03
+kako napravim a 4, prođem po svim mogućim formulama ovakvog tipa;0:38:03 - 0:38:07
+koje mogu imat neke druge variable koje su valuirane sa elementima iz a 3.;0:38:07 - 0:38:14
+I ako u m doista vrijedi ovo, onda to znači da u m u svakako imam;0:38:15 - 0:38:20
+neki element koji to zadovoljava. Odaberem 1 i stavim ga u a 4.;0:38:20 - 0:38:25
+Dakle, a i plus 1 je nosač podmodela generiranog sa, naravno,;0:38:26 - 0:38:31
+stavim sve iz a 3 unutra i još ove a, f, a, dakle, ove svjedoke,;0:38:31 - 0:38:37
+stvarne svjedoke, semantičke svjedoke za sve ovakve formule;0:38:38 - 0:38:43
+sa n plus 1 slobodnih variabli za sve n torke ovih elementa iz a i,;0:38:43 - 0:38:51
+takve da u m vrijedi ovo. Kad v 0 interpretiram sa ovim tu,;0:38:52 - 0:38:58
+a v 1 do v n sa ovim, a ovima. E, sada samo treba vidjeti, znači,;0:38:59 - 0:39:05
+to će svakako opet napuhat cijelu priču, dakle, sigurno će sadržavat be,;0:39:05 - 0:39:10
+jedino treba vidjeti da nisam kardinalnost previše navildao, ali nisam.;0:39:10 - 0:39:17
+Dakle, kardinalnost i ostale iste cijelu. Kažem, ovo je trivialno po konstrukciji.;0:39:18 - 0:39:24
+I sad opet a zvjezdica, mogu na potpuno isti način kao bez zvjezdica iz beova dobiti,;0:39:25 - 0:39:29
+znači, jednostavno unija svih a i j. On svakako sadrži sve interpretacije;0:39:29 - 0:39:34
+konstantskih simbola jer ga je sadržavao već a 0.;0:39:34 - 0:39:38
+I zatvorene je na interpretacije svih funkcijskih simbola.;0:39:39 - 0:39:43
+Sad je krivo reći, i ja je to već a 0 napravio, teoretički je moguće da sam neke nove stvari dodao,;0:39:44 - 0:39:50
+ali opet svaki pojedini uvijek iznova zatvorim.;0:39:50 - 0:39:54
+Dakle, to je sigurno nosač nekog podmodela, ne samo a 0,;0:39:55 - 0:39:59
+nego i a zvijezda je također nosač nekog podmodela.;0:39:59 - 0:40:03
+I naravno iz ovoga onda slijedi da je kardinalnost čitavog a zvijezda,;0:40:04 - 0:40:12
+odnosno zapravo ne. Kardinalnost tog podmodela generiranog sa a zvijezda;0:40:13 - 0:40:18
+je jednaka kardinalnosti od a zvijezda. A kardinalnost od a zvijezda je jednaka;0:40:18 - 0:40:22
+ales 0 puta kardinalnost od, na primjer, a 0.;0:40:22 - 0:40:25
+Sad a 0 je bezkonačan i vidjeli smo prije da je ekvipotentan sa b,;0:40:25 - 0:40:29
+znači to je kardinalnost od b.;0:40:29 - 0:40:31
+Ima puno različitih argumentata iz teorijskog pova, ali svi su nekako jasni.;0:40:31 - 0:40:37
+Dobro, šta još treba? Treba argumentirati zašto ovo,;0:40:40 - 0:40:43
+zašto svaki a i ima istu kardinalnost kao a 0.;0:40:43 - 0:40:46
+Pa zato što nekako opet, koliko sam ja tu dodao elementa?;0:40:46 - 0:40:50
+Znači, dodao sam pojedin za svaku sigma formulu, koliko takvih ima?;0:40:50 - 0:40:55
+Pa opet, u lijepom svijetu ih imamo prebrojilo mnogo,;0:40:55 - 0:40:58
+ali teoretski može biti, može ovisiti o kardinalnosti od del sigma.;0:40:58 - 0:41:03
+Međutim, ovdje smo se, pobriljno smo se, kroz ovaj prvi slučaj,;0:41:03 - 0:41:06
+da sigma ne bude preogroman.;0:41:06 - 0:41:09
+Ovih formula imam manje nego elementa od b, to je u redu.;0:41:09 - 0:41:13
+Ovih tu, koliko ima, pa opet, to je neki bezkonačni kardinalni broj,;0:41:15 - 0:41:19
+na n tu je opet taj isti kardinalni broj.;0:41:19 - 0:41:22
+I naravno, ovo je samo još dodatni uvid, takvi da na m vrijedi to.;0:41:22 - 0:41:27
+Ne može nijako povećati kardinalni broj.;0:41:27 - 0:41:30
+Ovo tu sve skupa i dalje ima manje jednakove elementa od a i.;0:41:30 - 0:41:36
+Dakle, svaki sljedeći nema više nego prethodni.;0:41:36 - 0:41:39
+A sad mi je jasno da sadržavan je prethodni,;0:41:39 - 0:41:42
+dakle mora baš biti ekipotentan sa prethodnim.;0:41:42 - 0:41:45
+Svi su međusobno ekipotentni, dakle svaki je ekipotentan sa a 0.;0:41:45 - 0:41:50
+I to je to što se tiče ovih izjava.;0:41:50 - 0:41:59
+I sad samo primijetimo da način na koji sam ja ovu semantičku henkinizaciju provel,;0:41:59 - 0:42:07
+zapravo kaže da sam zadovoljio Bosch-Wolthove kriterije.;0:42:07 - 0:42:11
+Jer ono kaže, kad god imaš nekoga u većemskoj,;0:42:11 - 0:42:16
+odnosno neku existencijalnu formulu ispunjenu na nekom većem modelu,;0:42:16 - 0:42:20
+onda imaš element ovog manjeg modela koji također to zadovoljava.;0:42:20 - 0:42:25
+To je jedino što nam se brinuo da sačuvam ovdje.;0:42:25 - 0:42:29
+Tada je taj manji elementarni podmodel.;0:42:29 - 0:42:32
+I sad naravno samo još treba riješiti drugi slučaj.;0:42:36 - 0:42:39
+Međutim, kada je Ls veća kardinalnosti nego B,;0:42:39 - 0:42:51
+onda što? Prvo nađeš neki B crtica koji je isti.;0:42:51 - 0:42:57
+Naravno onda postoji B crtica praviljan skup od B,;0:42:57 - 0:43:02
+takav da je B crtica eklepotentan sa Ls.;0:43:02 - 0:43:06
+To sigurno možeš.;0:43:06 - 0:43:08
+A, dobro, i naravno B crtica mora biti pod skup od nosača,;0:43:10 - 0:43:17
+ali opet, sasvim lako.;0:43:17 - 0:43:20
+I onda na taj B crtica primijenim prvi slučaj.;0:43:21 - 0:43:26
+To je moguće jer je B crtica baš točno isti kardinalnosti kao Ls.;0:43:26 - 0:43:31
+Po prvom slučaju postoji N crtica, elementarni podmodel od M,;0:43:32 - 0:43:41
+koji sadrži B crtica i ima kardinalnost jednaku kardinalnosti od B crtica.;0:43:41 - 0:43:54
+Međutim, kardinalnost od, dakle, prvi slučaj je rekao kardinalnost od N,;0:43:54 - 0:44:00
+jednaka maksimumu od bla zares bla.;0:44:00 - 0:44:04
+Međutim, ovi su jednaki.;0:44:04 - 0:44:06
+Dakle, to je bilo koji od njih.;0:44:08 - 0:44:10
+Pa recimo, jer će mi tako pasati poslije, stavimo da je to kardinalnost od Ls.;0:44:10 - 0:44:16
+Naravno, to je isto kardinalnosti od B crtica,;0:44:16 - 0:44:18
+ali B crtica želim eliminirati.;0:44:18 - 0:44:20
+Dobro, B crtice svam ko na skup od B,;0:44:20 - 0:44:23
+dakle, B se također nalazi u nosaču.;0:44:23 - 0:44:26
+I to je to.;0:44:26 - 0:44:28
+Imam elementarni podmodel koji u nosaču sadrži B;0:44:31 - 0:44:36
+i kardinalnost mu je jednaka ove, što je upravo maksimum od kardinalnosti od Ls;0:44:36 - 0:44:42
+i kardinalnosti od B, ovog pravog B koji je bio zadan gore.;0:44:42 - 0:44:49
+Dakle, nema zapravo dva slučaja, odnosno, slučaj jedan je zapravo bitan,;0:44:52 - 0:44:58
+slučaj dva je samo umjetno napušen element, tako da mogu primijeniti slučaj jedan.;0:44:58 - 0:45:03
+Mogu sam to napraviti odmah, ali nekak zanimljiv.;0:45:03 - 0:45:07
+Ovoj slučaj dva, zapravo kažem, nije zanimljiv.;0:45:07 - 0:45:10
+Najčešće će nam trebati zapravo slučaj jedan, pa ga je dobro izdvojiti za sebe.;0:45:10 - 0:45:15
+E sad, znači, tu sad ima nekih primjera, odnosno, u nekom smislu paradoksa,;0:45:17 - 0:45:24
+jer nekako smo navičili da teorije naše, logičke teorije prvog reda,;0:45:24 - 0:45:28
+imaju modele nekakve konkretne, na primjer za realne brojeve,;0:45:28 - 0:45:32
+ili još gore, recimo, za teoriju skupova.;0:45:32 - 0:45:35
+Kak možeš imati prvobrojev model za ZF?;0:45:35 - 0:45:37
+Ali, mislim, možeš, nije to tako čudno, samo kažem, to ćemo nakon pauze komentirati.;0:45:37 - 0:45:44
+Ima možda kakve pitanja online?;0:45:47 - 0:45:50

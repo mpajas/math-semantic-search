@@ -1,0 +1,424 @@
+Speech;Timestamp
+Dakle, sljedeća stvar koju treba dokazati, koju ćemo nekako nastaviti na ovu priču o Robinsonu,;0:00:00 - 0:00:10.440000
+dakle, Craigova interpovacijska lema.;0:00:10.440000 - 0:00:14.680000
+Da, da, da, ok, ok, samo kažem, neću sigurno gasti palic svijetla svako malo, pa gledam je li ovako ok za projektor, pitam.;0:00:30 - 0:00:37.400000
+Ma...;0:00:39.400000 - 0:00:39.900000
+Ok, dobro, da, mislim da je za ploču bolje, više bolje da je svijetlo nego što je za projektor bolje da je tamo, ali, dobro.;0:00:42.600000 - 0:00:51.800000
+Dakle,;0:00:53 - 0:00:53.600000
+da, Craigova interpovacijska lema kaže, više manje ako imaš dvije formule,;0:00:53.600000 - 0:01:06
+takve da je jedna logička posljedica druge, onda možeš naći treću koju možeš staviti između njih,;0:01:06 - 0:01:11.200000
+naravno, to je prilično jednostavno ako bi to bio jedini uvjet, ali ono što je zanimljivo je da zapravo ta između,;0:01:11.200000 - 0:01:19.600000
+dakle onda se ona zove interpolant, sadrži samo nelogičke simbole koji su zajednički i f-u i g-u.;0:01:19.600000 - 0:01:26.800000
+Dakle, f govori nešto o nekakvoj funkciji ili nekakvim konstantama ili nekakvim relacijama,;0:01:26.800000 - 0:01:34.600000
+a g govori nešto o nekakvim drugim funkcijama, nekakvim drugim relacijama, nekakvim drugim konstantama;0:01:35 - 0:01:40.200000
+i jedino zajedničko o čemu f i g uopće pričaju je, recimo, nekakva konstanta a i nekakav funkcijski simbol h.;0:01:40.200000 - 0:01:48.200000
+E onda kaže, možeš naći interpolant, dakle koji je takav da jest logička postjedica od f;0:01:48.600000 - 0:01:54.600000
+i g jest logička postjedica od njega koji priča samo o tome, znači koji je nad signaturom,;0:01:54.600000 - 0:01:59.600000
+koja sadrži samo one nelogičke simbole koji su zajednički,;0:01:59.600000 - 0:02:04.800000
+opet do na, naravno, ovu priču o normalnosti, dakle jednakost mora biti unutra,;0:02:05.400000 - 0:02:11
+jer, naprimjer, ako f i g nemaju ništa zajedničko u presjeku,;0:02:11 - 0:02:15.600000
+onda se vjedno moram nekako moći napisati nekakvu formulu, jel?;0:02:15.800000 - 0:02:21.200000
+Dakle, mislim da čak ovdje nije uopće bitno da se ta jednakost interpretira kao;0:02:21.400000 - 0:02:26.600000
+kao stvarno nekakva, kao jednakost u modelu, nego je sve što je bitno je da, ono, kao;0:02:30.200000 - 0:02:36.600000
+ono što obično radimo u logici prvog reda, dakle, podrazumijevamo da imamo jedan binarni relacijski simbol;0:02:37 - 0:02:42.400000
+koji je rezerviran za jednakost, samo kažem ovdje ga i sintaksno pišemo kao jednakost.;0:02:42.600000 - 0:02:47
+Dobro, dakle, f je nad nekakvim sigma f, g je nad nekom signaturom sigma g;0:02:49 - 0:03:00
+i f njima za logičku povstajlicu g.;0:03:01.800000 - 0:03:07.600000
+Tada imam h nad sigma f presjek sigma g unija jednakost,;0:03:08 - 0:03:18
+tako da f njima za logičku povstajlicu h i h njima za logičku povstajlicu g.;0:03:18.400000 - 0:03:26.800000
+Dobro, znači, naravno, to ste već dokazali na logici, na diplomskom studiju za logiku sudova.;0:03:28 - 0:03:35
+Dakle, to se sigurno dokaže preko normalnih formi.;0:03:35.200000 - 0:03:38.200000
+Naravno, u logici prvog reda su normalne forme dosta kompliciranije,;0:03:38.400000 - 0:03:42
+a i zgodno je možda vidjeti malo drugačiji dokaz.;0:03:42 - 0:03:46
+Ovo je dokaz u stilu Lindenbaumove leme, dakle, onoga kako se Lindenbaumova lema dokaže, recimo, za logiku sudova.;0:03:46.200000 - 0:03:52.400000
+Dakle, poredaju se sve formule u niz i onda se jedna po jedna nekako inspekcija se napravi;0:03:52.400000 - 0:04:00.400000
+je li ta formula sad dobra, ako jest onda je uzmeš, ako ne onda uzmeš njeziju negaciju koja u nekom smislu treba biti dobra;0:04:00.400000 - 0:04:08.200000
+i tako ideš onda redom dok dođeš do kraja, odnosno u limesu,;0:04:08.200000 - 0:04:12.800000
+jel zapravo dobiješ nekakav skup formula s kojim onda konstruiraš formulu.;0:04:12.800000 - 0:04:17
+Ali, kažem, ima još do tamo.;0:04:17 - 0:04:19.600000
+E, znači, zašto je ovaj dokaz tu baš napravljen?;0:04:21.800000 - 0:04:26.800000
+Zato što, naravno, koristi Robinsonov teorem konsistentnosti.;0:04:26.800000 - 0:04:30
+I kažem ovako, ono što zapravo ja želim, želim potpunu teoriju;0:04:30.400000 - 0:04:40.400000
+takvu da T unija F je konzistentna i T unija neg je konzistentna.;0:04:40.400000 - 0:05:00.400000
+Ako bih to uspio napraviti, onda bi mi Robinsonov teorem konsistentnosti rekao;0:05:02.400000 - 0:05:07.400000
+da je, što, da je njihova unija, dakle, njihov presjek je,;0:05:11.400000 - 0:05:17.400000
+aha, dobro, sad treba vidjeti da F nije baš doslovno negacija od G,;0:05:17.400000 - 0:05:21.400000
+da se ne rađe u presjeku, ali ako je F baš negacija od G,;0:05:21.400000 - 0:05:27.400000
+onda ovdje gore piše, dakle, posebno,;0:05:27.400000 - 0:05:34.400000
+ako je F jednak negacija od G, onda tu piše negacija od G povlači G,;0:05:35.400000 - 0:05:45.400000
+pa je G, valjda, što, antitautologija, ne znam, tautologija.;0:05:45.400000 - 0:05:54.400000
+Mislim, sudovno je valjena, ali zapravo nije bitno što je bitno da je valjena.;0:05:58.400000 - 0:06:03.400000
+Dakle, ako je G valjena, onda svakako mogu smisliti takav H,;0:06:05.400000 - 0:06:15.400000
+jer za H mogu staviti G.;0:06:15.400000 - 0:06:20.400000
+Aha, ne, ne mogu jer čitava planta je da mora signatura biti,;0:06:24.400000 - 0:06:28.400000
+ali dobro, znači stavim bilo kakvu valjenu formulu,;0:06:28.400000 - 0:06:31.400000
+e sad mi dobro dođe da imam nekakvu jednakost, dakle,;0:06:31.400000 - 0:06:36.400000
+za H stavim ono što sam tu označio sa A0.;0:06:36.400000 - 0:06:41.400000
+Dakle, A0 je samo jednostavan način da se napiše formula;0:06:41.400000 - 0:06:48.400000
+za koju sam potpuno siguran da je valjena.;0:06:48.400000 - 0:06:51.400000
+Da je valjena.;0:06:51.400000 - 0:06:53.400000
+Dakle, naravno da se može i ljepše ako sam siguran da se ta jednakost;0:06:56.400000 - 0:07:00.400000
+interpretira stvarno kao jednakost, ali već iz oblika ove formule vidimo;0:07:00.400000 - 0:07:04.400000
+da zapravo neću niš zapravo zahtjevat u tome kak se jednakost interpretira,;0:07:04.400000 - 0:07:08.400000
+sve što mi je bitno da imam neki relacijski binarni simbol,;0:07:08.400000 - 0:07:11.400000
+tako da mogu napisati neku ovakvu formu i onda naravno mogu reći,;0:07:11.400000 - 0:07:14.400000
+aha, to ti je.;0:07:14.400000 - 0:07:16.400000
+Aha, nisam još rekao, F i G su rečenice.;0:07:16.400000 - 0:07:19.400000
+A i S.;0:07:21.400000 - 0:07:23.400000
+Zato je bilo važno ovdje kvantificirati.;0:07:27.400000 - 0:07:31.400000
+Ne mogu, neko će reći, pa šta si morao kvantificirati,;0:07:31.400000 - 0:07:34.400000
+šta si uopće morao koristiti variable, ali jesam jer nemam;0:07:34.400000 - 0:07:37.400000
+neku garanciju da imam konstantnih simbola unutra u presjeku.;0:07:37.400000 - 0:07:40.400000
+Jednostavno sve što znam, sve termije od kojih mogu krenuti;0:07:40.400000 - 0:07:44.400000
+su samo variable, a onda naravno moram imat neke kvantifikatore;0:07:44.400000 - 0:07:47.400000
+koji ću imat rečenicu.;0:07:47.400000 - 0:07:49.400000
+U svakom slučaju, tada je A nula valjena.;0:07:49.400000 - 0:07:52.400000
+I očito je H je logička posljedica od F jer je logička posljedica;0:07:55.400000 - 0:07:59.400000
+i od praznog skupa jer je valjena,;0:07:59.400000 - 0:08:02.400000
+a G je logička posljedica od H jer su obje valjene.;0:08:02.400000 - 0:08:05.400000
+Kako vidimo da su sve od skupa obje nelogički simbola?;0:08:06.400000 - 0:08:11.400000
+U H je od nelogičkih simbola samo ovaj.;0:08:13.400000 - 0:08:16.400000
+To je čitava poanta.;0:08:16.400000 - 0:08:18.400000
+A onda su mogli i nege u H.;0:08:18.400000 - 0:08:22.400000
+Ne, jer u nege se možda može pojaviti nešto što nije u sigma F.;0:08:22.400000 - 0:08:28.400000
+Ali F je jednaka nege.;0:08:28.400000 - 0:08:30.400000
+Aha, fakat, da, da, da.;0:08:30.400000 - 0:08:32.400000
+Ok, ok, da, slažem se.;0:08:34.400000 - 0:08:36.400000
+Dobro, znači, je, da.;0:08:36.400000 - 0:08:39.400000
+To sam krenuo u nekom trutku pričati,;0:08:39.400000 - 0:08:41.400000
+onda sam se zivjetio, aha, kao šta, ako u F imam nešto,;0:08:41.400000 - 0:08:44.400000
+ali zapravo nemam, da, naravno.;0:08:44.400000 - 0:08:46.400000
+Ima, imate pravo, znači.;0:08:46.400000 - 0:08:47.400000
+Sve ovo je dobro stavljeno.;0:08:47.400000 - 0:08:48.400000
+Da, da, da, slažem se.;0:08:48.400000 - 0:08:49.400000
+I mislim da će nam ovaj slučaj i onako trebat u nekom trutku,;0:08:49.400000 - 0:08:52.400000
+ali, ali da, ovdje se može, se može riješiti lakše.;0:08:52.400000 - 0:08:56.400000
+Dakle, H jednostavno uzmem kao da je DG ili da je nege.;0:08:56.400000 - 0:09:00.400000
+Zapravo, čekaj, zapravo, na, mogu uzeti H jednako G.;0:09:00.400000 - 0:09:05.400000
+Možemo, možemo.;0:09:05.400000 - 0:09:06.400000
+Da, dakle, to svakako funkcionira.;0:09:06.400000 - 0:09:09.400000
+Dobro, da, slažem se.;0:09:11.400000 - 0:09:13.400000
+E sad, znači, dobro, naravno, slučaj, zanimljiv slučaj je da je F različita od negacije od G.;0:09:13.400000 - 0:09:22.400000
+Onda, naravno, kad ja ovo napravim, u presjeku će upravo biti T.;0:09:23.400000 - 0:09:27.400000
+Znači, je potpuno.;0:09:28.400000 - 0:09:33.400000
+Potpuno.;0:09:33.400000 - 0:09:34.400000
+I s toga slijedi da je njihova unija;0:09:36.400000 - 0:09:38.400000
+konzistentna.;0:09:47.400000 - 0:09:48.400000
+E, a to je nemoguće, zašto? Zato što kaže gore,;0:09:50.400000 - 0:09:53.400000
+F ima za logičku poziciju G.;0:09:54.400000 - 0:09:56.400000
+Znači, ovaj tu, famozni skup, T, unija.;0:09:56.400000 - 0:10:00.400000
+Znači, konsistentna za nas znači ispunjiva, zapravo ima model.;0:10:00.400000 - 0:10:05.400000
+A to je, znači, kontradikcija sa time da je G istinita na svakoj strukturi na kojoj je istinita F,;0:10:16.400000 - 0:10:25.400000
+jer ovo tu je konkretna struktura na kojoj je istinita F, a nije istinita G.;0:10:25.400000 - 0:10:30.400000
+Dakle, i to je onda kontradikcija.;0:10:31.400000 - 0:10:35.400000
+Dakle, nekako iz činjenica da ovaj interpolant ne postoji,;0:10:36.400000 - 0:10:42.400000
+ja moram negako dobiti ovakvu potpunu teoriju T.;0:10:43.400000 - 0:10:47.400000
+Dobro, znači, dobro, ovo, kaže, označimo sa sigma.;0:10:48.400000 - 0:10:56.400000
+Dobro, i sad kaže, a n je nekakav skup,;0:10:58.400000 - 0:11:02.400000
+nekakva enumeracija zapravo skupa svih sigma rečenica.;0:11:03.400000 - 0:11:07.400000
+Znači, sve rečenice nad sigma;0:11:07.400000 - 0:11:16.400000
+enumeriramo kao a0, a1, a2 itd.;0:11:17.400000 - 0:11:27.400000
+Znači, s tim da je a0 baš ova a0 odavdje.;0:11:28.400000 - 0:11:31.400000
+Zašto je to vaše? Zato da a0 bude valjana, jel dakle?;0:11:31.400000 - 0:11:34.400000
+To će nam trebat.;0:11:34.400000 - 0:11:37.400000
+Nije bitno da bude baš ta formula, ali bitno da bude neka valjana formula, naravno ima ih.;0:11:39.400000 - 0:11:45.400000
+E sad, od tih a0-a ćemo konstruirati niz b-ova.;0:11:46.400000 - 0:11:50.400000
+B-ovi će više manje biti na konjunkcije tih a0-a i njihovih negacija.;0:11:51.400000 - 0:11:55.400000
+Dakle, ide se slično sa onim, onom formom, sa normalnim formom,;0:11:56.400000 - 0:12:00.400000
+a samo treba na više stvari paziti.;0:12:00.400000 - 0:12:03.400000
+Dakle,;0:12:04.400000 - 0:12:06.400000
+pomoću, čekajte, da poobrešim malo ovaj dio ploče.;0:12:07.400000 - 0:12:16.400000
+Ovo je niza.;0:12:16.400000 - 0:12:19.400000
+Tog niza a1 konstruiramo;0:12:35.400000 - 0:12:39.400000
+u novi niz bn,;0:12:39.400000 - 0:12:47.400000
+uz predpostavku suprotnog, da ne postoji interpolant h, jel dakle?;0:12:51.400000 - 0:12:58.400000
+Ne postoji h koja je nad sigma i takva da je između f i g;0:12:58.400000 - 0:13:04.400000
+po relaciji logičke posteljice.;0:13:04.400000 - 0:13:07.400000
+Dakle, koji ima sljedeća tri svojstva?;0:13:07.400000 - 0:13:11.400000
+Dakle, bn plus 1 ima za logičku posteljicu bn,;0:13:11.400000 - 0:13:18.400000
+dakle možemo neko reći ovo je padajući niz u relaciji logičke posteljice.;0:13:18.400000 - 0:13:23.400000
+Drugo svojstvo kaže, bn je takva da iz nje ili slijedi an ili slijedi nean.;0:13:26.400000 - 0:13:34.400000
+Drugim rečima, nekako ovaj 1 i 2 kažu bn plus 1 uvijek dobiješ kao konjunkciju bn ili an ili nean.;0:13:34.400000 - 0:13:42.400000
+To je upravo ono što sam rekao, bn-ovi će biti uzastopne,;0:13:43.400000 - 0:13:46.400000
+ono, kumulativne konjunkcije an-ova ili i slash, ili njihovih negacija.;0:13:46.400000 - 0:13:53.400000
+I treće svojstvo je najzanimljivije, dakle ono čuva zapravo ovu predpostavku da ne postoji interpolant.;0:14:05.400000 - 0:14:13.400000
+Dakle, ne postoji H takva da F i bnH logički povlači H,;0:14:13.400000 - 0:14:32.400000
+a H logički povlači G i bn.;0:14:32.400000 - 0:14:36.400000
+Dakle, šta zapravo radim? Ja uzmem formule F i G i sad predpostavim da između njih nema ništa.;0:14:36.400000 - 0:14:46.400000
+Ja idem da kažem, ali čekaj, ja ću zapravo malo profinit ovo, znači,;0:14:48.400000 - 0:14:51.400000
+sa početak ću uzeti nekakvu tautologiju, dakle naravno nju kad stavim skupa sa F i G,;0:14:51.400000 - 0:14:57.400000
+to neće biti ništa, dakle, to ću ostati na istom.;0:14:57.400000 - 0:15:00.400000
+A sad kad stavim još nešto dodatno, onda ću na neki način profinit, malo ću preciznije reći šta zapravo želim,;0:15:00.400000 - 0:15:08.400000
+u kojom smjeru se želim kretati sa ovim formulama F i G.;0:15:08.400000 - 0:15:13.400000
+Struktura ova koju sam sad napravio, zapravo će mi reći da nekako,;0:15:17.400000 - 0:15:21.400000
+ako nisam imao interpolanta tu, onda ga neću imat ni tu, kad nekako suzim to.;0:15:21.400000 - 0:15:28.400000
+Znači, mogu reći, ovdje imam samo nekako više uvjeta.;0:15:28.400000 - 0:15:32.400000
+Nije to doslovno istina, naravno, logička konjunkcija nije u tom smislu monotona,;0:15:32.400000 - 0:15:37.400000
+ali je možda zgodno tako razmišljati.;0:15:37.400000 - 0:15:41.400000
+I onda zapravo to ću napraviti sa svim mogućim formulama.;0:15:43.400000 - 0:15:46.400000
+Sad, naravno, ne mogu to napraviti sa svim formulama jer ponekad ću uzeti ovo, ponekad nježnju negaciju,;0:15:46.400000 - 0:15:51.400000
+ali nekako za svaku formulu ću to napraviti kad dođe na red ili s njome ili s nježnjom negacijom.;0:15:51.400000 - 0:15:58.400000
+I na kraju ću zapravo dobiti ono što tamo kaže potpunu teoriju jer zapravo ću unutra,;0:16:01.400000 - 0:16:06.400000
+će se s vremenom pojaviti konjunkcija svega što vrijedi u ovoj teoriji koja je nekako napuhana sa T i sa F-om i negijom.;0:16:07.400000 - 0:16:19.400000
+I onda ću, naravno, dobiti kontradikciju na način koji je pisao to na ploči.;0:16:20.400000 - 0:16:26.400000
+Ok.;0:16:26.400000 - 0:16:27.400000
+Idemo vidjeti onda kako se to radi, jak zapravo sam više manje rekao.;0:16:28.400000 - 0:16:32.400000
+Dakle, B0 je jednostavno A0.;0:16:32.400000 - 0:16:34.400000
+Naravno, tada svojstvo 1 ne treba provjeravati, svojstvo 2 je očito;0:16:39.400000 - 0:16:45.400000
+i svojstvo 3 je upravo ova predpostavka suprotnog.;0:16:45.400000 - 0:16:49.400000
+Dakle, F i A0 je zapravo logički ekvivalentno sa F.;0:16:50.400000 - 0:16:56.400000
+A G i A0 je logički ekvivalentno sa G.;0:16:57.400000 - 0:16:59.400000
+Dakle, to točno kaže da ne postoji interpolanti između F i G.;0:17:00.400000 - 0:17:04.400000
+Ok.;0:17:04.400000 - 0:17:05.400000
+Dobro. E sad kaže, naravno,;0:17:07.400000 - 0:17:09.400000
+predpostavim da imam Bn i pitam se kako doći do Bn plus 1.;0:17:14.400000 - 0:17:19.400000
+Kažem, to će zapravo biti ili Bn i An ili,;0:17:20.400000 - 0:17:26.400000
+da, promislim da ne, nego An plus 1, da.;0:17:27.400000 - 0:17:29.400000
+Ili Bn i negacija od An plus 1.;0:17:30.400000 - 0:17:34.400000
+Ali što od toga odabrati? Kaže ovako.;0:17:35.400000 - 0:17:38.400000
+Znači, ona od te dvije koja se dovoljava ovo svojstvo 3.;0:17:39.400000 - 0:17:47.400000
+Dakle, negako, sa ovim tu sam pokrio zapravo svojstva 1 i 2.;0:17:49.400000 - 0:17:53.400000
+Dakle, onog trena kad sam rekao da će mi Bn plus 1 biti jedna od ove dvije formule,;0:17:54.400000 - 0:17:58.400000
+ja sigurno znam da vrijedi ovo i sigurno znam da vrijedi ovo.;0:17:58.400000 - 0:18:02.400000
+Dakle, sve što mi treba je da barem jedna od njih dvije zadovoljava ovo svojstvo 3.;0:18:03.400000 - 0:18:08.400000
+Dobro.;0:18:09.400000 - 0:18:10.400000
+Predpostavimo da se to ne dovodi.;0:18:11.400000 - 0:18:12.400000
+Znači, predpostavimo da oba kandidata za Bn plus 1 imaju interpolanci, imaju H.;0:18:13.400000 - 0:18:31.400000
+Označimo ih H1 i H2.;0:18:33.400000 - 0:18:35.400000
+Ja bi sad ne bi to pisao na ploči, fakat je puno pisanja,;0:18:37.400000 - 0:18:40.400000
+ali dakle, to znači da kad bih ja ovaj tu, znači, jedan kandidat za Bn plus 1 uvrstio,;0:18:40.400000 - 0:18:47.400000
+ovdje i ovdje, između bi postao H1, a kad bih ga uvrstio dolje,;0:18:48.400000 - 0:18:53.400000
+ovaj drugi, između bi postao H2.;0:18:54.400000 - 0:18:56.400000
+I tada se vidi, dakle, to je sad dobra priča,;0:18:57.400000 - 0:19:00.400000
+da bi disjunkcija H1 i H2 tada bila interpolant za disjunkciju ovih.;0:19:00.400000 - 0:19:11.400000
+Da nekako, ako imate dvije nejednakosti, kao dva između,;0:19:12.400000 - 0:19:16.400000
+x je između a i b, a y je između c i d, onda ih možete zbrojiti,;0:19:17.400000 - 0:19:24.400000
+da je x plus y je tada između a plus c i b plus d.;0:19:24.400000 - 0:19:30.400000
+Isto vrijedi za logičku implikaciju i za disjunkciju.;0:19:31.400000 - 0:19:34.400000
+Naravno, može se provjeriti pomoću tablica istinitosti, ali mislim da je nekako jasno.;0:19:35.400000 - 0:19:41.400000
+Međutim, disjunkcija ovih dviju, naravno distributivnost, ovo je zajedničko,;0:19:42.400000 - 0:19:47.400000
+ovo je istina uvijek, dakle a n plus 1 ili ne a n plus 1, dakle zapravo ostane samo f i b n.;0:19:47.400000 - 0:19:56.400000
+I s druge strane opet potpuno isto, ostane g i b n.;0:19:57.400000 - 0:20:00.400000
+Dakle, dobio sam kontradikciju s time da je ovaj tu bio dobar.;0:20:00.400000 - 0:20:06.400000
+Znači, nekako, ako za b n nije postojao interpolant,;0:20:07.400000 - 0:20:21.400000
+ne može postojati za b n jednog kandidata.;0:20:21.400000 - 0:20:41.400000
+Kontrapoziciju imamo. Kad bi postojeli h1 i h2,;0:20:45.400000 - 0:20:48.400000
+onda bi h1 ili h2 bio interpolant za onog prethodnog.;0:20:48.400000 - 0:20:52.400000
+Dobro, e sad kaže, mislim to je više manje to,;0:20:54.400000 - 0:20:58.400000
+naravno sad moramo precizirati, aha recimo uzmeš prvoga,;0:20:59.400000 - 0:21:02.400000
+ako to vrijedi, a ako to ne vrijedi, onda mora vrijediti ovo,;0:21:03.400000 - 0:21:06.400000
+onda uzmeš onog drugog. Mislim naravno, teoretički je zamisljeno da vrijedi oboje,;0:21:07.400000 - 0:21:10.400000
+ali nama je dovoljno jedno.;0:21:11.400000 - 0:21:13.400000
+I to je to. Ta konstrukcija zapravo samo se zasnima na tome da bi disjunkcija,;0:21:14.400000 - 0:21:21.400000
+aha nisam to napišao, tada je h1 ili h2 interpolant za b n.;0:21:22.400000 - 0:21:40.400000
+Dobro, e i sad naravno šta bi ja nekog htio,;0:21:43.400000 - 0:21:51.400000
+htio bi limez, htio bi nekog konjunkciju svih b n-ova,;0:21:52.400000 - 0:21:54.400000
+naravno to ne mogu, ali mogu napraviti skup svih b n-ova i to će biti dovoljno dobro.;0:21:55.400000 - 0:21:57.400000
+To je moja teorija i samo sad treba vidjeti da je potpuna;0:21:58.400000 - 0:22:01.400000
+i da je konzistentna sa f i da je konzistentna sa ne g.;0:22:02.400000 - 0:22:05.400000
+Tada će po Robinsonu biti konzistentna sa obojicom,;0:22:06.400000 - 0:22:08.400000
+a to je naravno nemoguće ak je g postijedi sa f.;0:22:09.400000 - 0:22:11.400000
+Dobro, treba prvo dokazati da je svaka od ovih formula ispunjiva,;0:22:12.400000 - 0:22:16.400000
+to je lako jer valjda f i b nula je isto što i f i a nula,;0:22:17.400000 - 0:22:27.400000
+a to je logički ekvivalentno sa f, a ona je ispunjiva.;0:22:28.400000 - 0:22:33.400000
+Jer inače sigurno postoji interpolant, to je sad opet ova priča.;0:22:35.400000 - 0:22:39.400000
+Kad f ne bi bila ispunjiva,;0:22:39.400000 - 0:22:41.400000
+aha, to je sad suprotno od onog specialnog slučaja kada je g valjda, dobro, ali ok.;0:22:43.400000 - 0:22:47.400000
+Šta, to bi značilo da je ne f valjda,;0:22:56.400000 - 0:22:59.400000
+a to bi značilo da, s obzirom na to da g mora biti logička postijedica od f,;0:23:01.400000 - 0:23:06.400000
+to je trivialno, sve je logička postijedica od neispunjive formule, to nema veze,;0:23:07.400000 - 0:23:13.400000
+nego onda mogu za interpolant uzeti nešto što je isto antitautologija,;0:23:14.400000 - 0:23:24.400000
+ali naravno ne baš sad konkretno ova, nego, evo, ne a nula,;0:23:24.400000 - 0:23:30.400000
+pa je negacija od a nula interpolant za f i g.;0:23:31.400000 - 0:23:41.400000
+Tu nam sad treba ova priča, da moram srezat signature, naravno ne znam ništa o formuli g,;0:23:46.400000 - 0:23:52.400000
+niti o presjeku signatura od f i g, ali sigurno uzmem nekakvu ovakvu,;0:23:53.400000 - 0:23:58.400000
+antivaljanu formulu i onda sam siguran da ona je logička postijedica od f,;0:24:01.400000 - 0:24:08.400000
+jer je sve logička postijedica od f, jer f nije ispunjiva,;0:24:08.400000 - 0:24:11.400000
+a od nje je logička postijedica g, opet jer je sve logička postijedica od nje,;0:24:12.400000 - 0:24:19.400000
+jer ona nije ispunjiva.;0:24:19.400000 - 0:24:21.400000
+Znači, ovo je bila nekakva baza, a ovaj...;0:24:22.400000 - 0:24:29.400000
+Aha, sad kao moram dobiti da je ova ispunjiva iz činjenice da se ova...;0:24:35.400000 - 0:24:39.400000
+Aha, da, da, ok. Potpuno je isto.;0:24:39.400000 - 0:24:42.400000
+Potpuno je isto, ali znači f i b n plus 1...;0:24:42.400000 - 0:24:50.400000
+je f i b n i jedno od toga a n plus 1 ili ne, a n plus 1.;0:24:55.400000 - 0:25:08.400000
+I mora biti ispunjiva jer inače bi što?;0:25:13.400000 - 0:25:22.400000
+Inače bih opet mogao naći interpolant, znači f i b n plus 1,;0:25:26.400000 - 0:25:33.400000
+kad ne bi bila ispunjiva, to bi značilo da...;0:25:34.400000 - 0:25:39.400000
+Na, opet ovo isto.;0:25:40.400000 - 0:25:42.400000
+F i b n plus 1...;0:25:49.400000 - 0:25:54.400000
+F i b n i jedno, a n plus 1.;0:25:54.400000 - 0:25:59.400000
+Mislim, formalno to su dva različita slučaja jer ovo je kao za sljedbenike,;0:26:00.400000 - 0:26:05.400000
+a ovo je za nulu, ali jasno je da zapravo uvijek i isto je i uvijek zapravo koristim ovo svojstvo 3.;0:26:05.400000 - 0:26:14.400000
+Dobro.;0:26:15.400000 - 0:26:16.400000
+Dakle, što sam sad zaključio?;0:26:17.400000 - 0:26:19.400000
+Zaključio sam da je svaka pojedina formula iz te...;0:26:19.400000 - 0:26:22.400000
+Dobro, ispunjiva, da, ali ispunjiva skupa sa f-om.;0:26:26.400000 - 0:26:29.400000
+Sad zapravo želim dokazati ovo.;0:26:31.400000 - 0:26:33.400000
+Da je čitava t konsistencija sa f-om, ali to je sad direktno teorija kompaktnosti.;0:26:34.400000 - 0:26:39.400000
+Dakle, u čemu je kvaka?;0:26:40.400000 - 0:26:41.400000
+Teorija kompaktnosti zapravo kaže, aha, dovoljno ti je gledati bilo koji konačni podskup od t, u, n i a, f.;0:26:41.400000 - 0:26:48.400000
+Međutim, ako pogledate kak izgleda konačni podskup,;0:26:48.400000 - 0:26:50.400000
+to je važno ovo svojstvo 1.;0:26:53.400000 - 0:26:54.400000
+Dakle, ovaj niz je nekako padajući u relaciji logičke posljedice,;0:26:54.400000 - 0:26:58.400000
+dakle svaka sljedeća je samo sve jača i jača tvrdnja od prethodne.;0:26:58.400000 - 0:27:04.400000
+Dakle, konačan podskup sigurno ima neki najveći element.;0:27:04.400000 - 0:27:07.400000
+Recimo, na primjer,;0:27:08.400000 - 0:27:09.400000
+i n, da, ok.;0:27:15.400000 - 0:27:16.400000
+Presjedna su mi slova.;0:27:18.400000 - 0:27:19.400000
+Ok, znači, e, i sad ovo što sam tu dokazao zapravo,;0:27:19.400000 - 0:27:22.400000
+da svaka pojedinačno ispunjiva je dovoljno, jer ta najjača je onda ispunjiva sa f-om,;0:27:22.400000 - 0:27:28.400000
+a onda ove sve ostale moraju biti jer su logičke posljedice.;0:27:29.400000 - 0:27:33.400000
+Potpuno isto se dokazuje da je sa negacijom od g.;0:27:34.400000 - 0:27:38.400000
+Dakle, tu sad analogno,;0:27:38.400000 - 0:27:43.400000
+ne g i bn ispunjiva.;0:27:46.400000 - 0:27:51.400000
+Jel, dakle, kad ne bi bila ispunjiva,;0:27:52.400000 - 0:27:57.400000
+to bi značilo da je;0:27:58.400000 - 0:28:01.400000
+s desne strane,;0:28:07.400000 - 0:28:08.400000
+a ne, to bi onda kao, ne g bi bila ne ispunjiva,;0:28:09.400000 - 0:28:13.400000
+a onda sam g bi onda bio valjana formula,;0:28:13.400000 - 0:28:18.400000
+a onda bi zapravo mogao a0 staviti,;0:28:19.400000 - 0:28:23.400000
+onakle, jer, inače, a0 interpolant;0:28:23.400000 - 0:28:31.400000
+za;0:28:35.400000 - 0:28:36.400000
+f i bn.;0:28:42.400000 - 0:28:43.400000
+Dakle, šta trebam?;0:28:48.400000 - 0:28:57.400000
+Trebam formulu takvu da je ona logička posljedica od f,;0:28:57.400000 - 0:29:02.400000
+a0 to svakako jest jer je valjana,;0:29:03.400000 - 0:29:05.400000
+a od nje je logička posljedica g.;0:29:05.400000 - 0:29:10.400000
+Zašto?;0:29:11.400000 - 0:29:12.400000
+Zašto?;0:29:12.400000 - 0:29:13.400000
+Jer...;0:29:16.400000 - 0:29:17.400000
+Ja ću ga čitati, jer je valjana a od nje je.;0:29:21.400000 - 0:29:23.400000
+Samo...;0:29:23.400000 - 0:29:24.400000
+g i b n.;0:29:33.400000 - 0:29:35.400000
+Ne?;0:29:43.400000 - 0:29:44.400000
+Dobro, dajte.;0:29:49.400000 - 0:29:50.400000
+Pretpostavimo suprotno.;0:29:52.400000 - 0:29:54.400000
+Znači, ne g i b n nije ispunjiva.;0:29:56.400000 - 0:30:02.400000
+E sad, to je sigurno rečenica jer kažem, ne g je rečenica,;0:30:03.400000 - 0:30:06.400000
+a ovaj b n je isto nekakva konjunkcija rečenica,;0:30:06.400000 - 0:30:09.400000
+dakle sve ovo je bilo enumeracija rečenica.;0:30:09.400000 - 0:30:11.400000
+Dakle, tada bi negacija od ne g i b n bila valjana.;0:30:11.400000 - 0:30:19.400000
+Ok?;0:30:21.400000 - 0:30:22.400000
+A to je logički ekvivalentno sa g ili ne b n.;0:30:22.400000 - 0:30:28.400000
+I to je valjana formula.;0:30:31.400000 - 0:30:33.400000
+Da.;0:30:38.400000 - 0:30:39.400000
+Sad, da nekako iz toga bi trebalo...;0:30:41.400000 - 0:30:43.400000
+Dobro, znači ono što sigurno znam je da za ovu tu dvojicu ne postoji interpolant.;0:31:12.400000 - 0:31:22.400000
+E, ali ja bi nekako htio...;0:31:23.400000 - 0:31:25.400000
+Da, ja bi htio obrnuto, ja bi htio nekako interpolanta za ne g,;0:31:27.400000 - 0:31:36.400000
+možda ne f i b n, ne g i b n, ali odakle?;0:31:37.400000 - 0:31:44.400000
+I to.;0:31:46.400000 - 0:31:47.400000
+To je možda nekakva kontrapozicija, ali je dosta komplicirano sad jer,;0:31:48.400000 - 0:31:54.400000
+naravno ja cijelo vrijeme govorim samo o jednom smjeru.;0:31:55.400000 - 0:31:59.400000
+A, ali mislim da se može, mislim da se onda ovako pokažem.;0:31:59.400000 - 0:32:07.400000
+Znači, ako je h interpolant za f i g,;0:32:08.400000 - 0:32:12.400000
+tada je ne h interpolant za ne g i ne f.;0:32:16.400000 - 0:32:20.400000
+Dobro? Znači to je ono.;0:32:25.400000 - 0:32:26.400000
+Mroženje na jednakosti sa minus 1, odakle?;0:32:26.400000 - 0:32:28.400000
+Samo obrnete krajeve, no.;0:32:29.400000 - 0:32:31.400000
+E, ali sad...;0:32:33.400000 - 0:32:34.400000
+Da, znači i naravno, ako i samo ovako.;0:32:44.400000 - 0:32:48.400000
+To znači da ako ne postoji interpolant između ove dvojice,;0:32:51.400000 - 0:32:55.400000
+onda ne postoji niti interpolant između njihovih negacija;0:32:56.400000 - 0:32:58.400000
+s tim da, naravno, sad treba obrnuti.;0:32:58.400000 - 0:33:00.400000
+E, ali...;0:33:01.400000 - 0:33:02.400000
+Ali negacija od ovoga je valjana,;0:33:08.400000 - 0:33:10.400000
+negacija od ovoga je valjana, pa bi potpuno isto kao i ovdje,;0:33:13.400000 - 0:33:18.400000
+ispalo da je...;0:33:19.400000 - 0:33:20.400000
+Ha ne, ispalo je baš da je a 0 interpolant.;0:33:23.400000 - 0:33:25.400000
+Kak?;0:33:25.400000 - 0:33:26.400000
+Ha ha ha.;0:33:28.400000 - 0:33:29.400000
+Uvijek ne, to je ono...;0:33:31.400000 - 0:33:32.400000
+Ispjeli bi postoje interpolant, ali bi to on...;0:33:34.400000 - 0:33:36.400000
+Pa ne, ali nemam nikakav razlog onda vjerovati da...;0:33:37.400000 - 0:33:43.400000
+Znači, on bi trebao biti interpolant u ovom smjeru.;0:33:44.400000 - 0:33:49.400000
+Ne, ne, opet negacija zapravo bi trebala biti interpolant.;0:33:49.400000 - 0:33:52.400000
+Dobro, znači...;0:33:54.400000 - 0:33:55.400000
+Znači, gore smo rekli da kad bi ne f bila valjana,;0:33:56.400000 - 0:34:01.400000
+kad bi negacija lijeve strane bila valjana,;0:34:04.400000 - 0:34:07.400000
+onda bi negacija od a 0 bila interpolant za tu lijevu;0:34:08.400000 - 0:34:12.400000
+i praktički bilo koju desnom stranu.;0:34:12.400000 - 0:34:14.400000
+Ok.;0:34:14.400000 - 0:34:15.400000
+E, sad sam tu dobio ovo.;0:34:15.400000 - 0:34:16.400000
+Znači, negacija ove formule je valjana,;0:34:17.400000 - 0:34:22.400000
+da, i onda, mislim, vidite, ja iz toga dobijem doista ne a 0 interpolant za...;0:34:23.400000 - 0:34:29.400000
+Aha, za ovo.;0:34:32.400000 - 0:34:33.400000
+Jer inače...;0:34:38.400000 - 0:34:39.400000
+Nećemo opisati ovako.;0:34:42.400000 - 0:34:43.400000
+Znači...;0:34:44.400000 - 0:34:45.400000
+Pa je ne a 0 interpolant za to, bez negacije,;0:34:53.400000 - 0:35:09.400000
+i šta god hoću ovdje, a hoću...;0:35:10.400000 - 0:35:13.400000
+A ne, ali opet, mislim, razumijete, neću nikako moći dobiti od ovoga interpolant za ovo tu.;0:35:14.400000 - 0:35:26.400000
+Znači, shinjem negaciju pretvoriće mi se konjunkciju i disjunkciju.;0:35:28.400000 - 0:35:31.400000
+Ja bih dosta napisao ovo.;0:35:34.400000 - 0:35:35.400000
+To mogu napisati, jer pa je ne a 0 interpolant za ne g i b,;0:35:35.400000 - 0:35:41.400000
+ne za ne g i bn i ne znam što god hoću,;0:35:41.400000 - 0:35:46.400000
+ali recimo, na primjer, ne f i bn.;0:35:46.400000 - 0:35:48.400000
+Mislim, s tim da ovdje mogu staviti što hoću, ovdje mogu staviti ili, nije problem.;0:35:48.400000 - 0:35:51.400000
+Ali sad kad bih ti rekao, pa je zbog toga a 0 interpolant između negacije ovoga i negacije ovoga,;0:35:52.400000 - 0:35:59.400000
+onda, naravno, tu dobijem disjunkciju.;0:35:59.400000 - 0:36:01.400000
+Dobro.;0:36:04.400000 - 0:36:05.400000
+Tu, kad smo ovo radili, smo isto prvo samo zajedno pokazali, da je spunjeno.;0:36:06.400000 - 0:36:10.400000
+Da, da, bit će da se o tome radi, ali kažem, nisam ovopće sad tako siguran da je analogno,;0:36:11.400000 - 0:36:22.400000
+ali dobro, ajmo probati.;0:36:22.400000 - 0:36:23.400000
+Znači, dobro, ovo nam sigurno više ne treba.;0:36:23.400000 - 0:36:26.400000
+Svojstva.;0:36:30.400000 - 0:36:31.400000
+Ok, znači, možda stvarno treba sve skupa.;0:36:32.400000 - 0:36:38.400000
+Na šta se sve odnosi analogno?;0:36:39.400000 - 0:36:41.400000
+Dakle, da kažemo, za svaki n, što znači ne g i b n je ispunjeno.;0:36:41.400000 - 0:36:54.400000
+Ok, kako bismo to?;0:37:01.400000 - 0:37:03.400000
+Dobro, znači, za n je 0, ne g i b 0 je isto što i ne g i a 0,;0:37:04.400000 - 0:37:14.400000
+a to je logički ekvalentno sa ne g, a to je ispunjivo jer kad bi ne g bila ne ispunjiva,;0:37:14.400000 - 0:37:22.400000
+inače bi g bila valjena.;0:37:26.400000 - 0:37:30.400000
+A bi smo imali neki interpolant, recimo baš a 0.;0:37:33.400000 - 0:37:37.400000
+Znači, da.;0:37:49.400000 - 0:37:50.400000
+Dobro, a sad znači,;0:37:52.400000 - 0:37:54.400000
+da, n plus 1.;0:37:55.400000 - 0:37:57.400000
+Šta se tu zapravo mijenja?;0:37:59.400000 - 0:38:01.400000
+Pa ništa posebno, dakle,;0:38:01.400000 - 0:38:04.400000
+aha, ipak se mijenja ne g i b n plus 1,;0:38:04.400000 - 0:38:13.400000
+ne g i b n i, ili a n plus 1, ili ne a n plus 1.;0:38:13.400000 - 0:38:24.400000
+Da, ali kažem, ja sad...;0:38:35.400000 - 0:38:38.400000
+Možda treba koristiti još nekog od ovih slučajstva.;0:38:39.400000 - 0:38:43.400000
+Da, da, možda.;0:38:44.400000 - 0:38:45.400000
+A onda fakat nije analogno.;0:38:47.400000 - 0:38:49.400000
+Znači,;0:38:56.400000 - 0:38:57.400000
+znači, ono što sigurno znam je da,;0:38:57.400000 - 0:39:03.400000
+znači, za f i b n i g i b n ne postoji interpolant.;0:39:05.400000 - 0:39:20.400000
+To znamo, to je od onog prethodnog koraka.;0:39:23.400000 - 0:39:26.400000
+I još znamo da je, e, znači, predpostavka indukcije,;0:39:28.400000 - 0:39:35.400000
+ne g i b n je ispunila.;0:39:38.400000 - 0:39:41.400000
+Dobro?;0:39:45.400000 - 0:39:46.400000
+Da ja mogu birat koje je od ove dvije, onda bih rekao da,;0:39:47.400000 - 0:39:59.400000
+kad ne bi ni jedna od njih bila ispunjiva, njihova disjunkcija bi bila ne ispunjiva i gotovo.;0:40:00.400000 - 0:40:09.400000
+A njihova disjunkcija je upravo kvalina soli, ali ne mogu tako razmišljati.;0:40:10.400000 - 0:40:13.400000
+Znači, to mi je, da, znači, moram nekako iskoristiti ovu odosbu.;0:40:13.400000 - 0:40:24.400000
+Znači, ona je tako odabrana da za ove dvije ne postoji interpolant.;0:40:37.400000 - 0:40:41.400000
+A čekaj malo, pa ne.;0:40:44.400000 - 0:40:47.400000
+To znači zapravo doslovno ovo.;0:40:48.400000 - 0:40:50.400000
+Za svaku formulu H, H nije interpolant između ove dvije.;0:40:51.400000 - 0:40:58.400000
+Znači, ili f i b n nema za logičku postjedicu H,;0:40:59.400000 - 0:41:07.400000
+ili H nema za logičku postjedicu g i b n n.;0:41:08.400000 - 0:41:15.400000
+A da, opet ovo ima negaciju.;0:41:24.400000 - 0:41:26.400000
+Ok, ne znam, budem još pod pauzom pogledao.;0:41:30.400000 - 0:41:32.400000
+Ajmo samo dovršiti dokaz.;0:41:32.400000 - 0:41:34.400000
+Znači, nekako se dobije da je T unija negacija g konzistentna.;0:41:38.400000 - 0:41:41.400000
+A zašto je T potpun? To fakat je jednostavno jer jednostavno,;0:41:42.400000 - 0:41:45.400000
+dakle, bazira se na tome da sam u ovom nizu a n enumerirao sve sigma rješenica.;0:41:46.400000 - 0:41:50.400000
+T, sjetimo se, nad sigma, dakle, pazio sam da cijelo vrijeme držim signaturu konstantnom.;0:41:52.400000 - 0:41:58.400000
+Dakle, sve ove u T su nad sigma, dakle, dovoljno je vidjeti da za svaku rješenicu nad sigma;0:41:59.400000 - 0:42:05.400000
+je ona ili njezina negacija logička postjedica od T.;0:42:06.400000 - 0:42:09.400000
+Međutim, naravno, ona ili njezina negacija je već logička postjedica od b n,;0:42:10.400000 - 0:42:15.400000
+gdje je n njezin indeks na tom popisu.;0:42:16.400000 - 0:42:18.400000
+Dakle, to je upravo svojstvo 2.;0:42:19.400000 - 0:42:21.400000
+Dakle, ako si logička postjedica od nekog elementa od T,;0:42:22.400000 - 0:42:24.400000
+onda si logička postjedica od čitavog T.;0:42:24.400000 - 0:42:27.400000
+Dakle, kažem, to je jednostavno i onda po Robinsonu to slijedi.;0:42:28.400000 - 0:42:32.400000
+Da, sad imamo još par minuta, onda idemo se ipak vratiti.;0:42:34.400000 - 0:42:37.400000
+Ali, možemo formalnu pauzu proglasiti.;0:42:38.400000 - 0:42:43.400000
+Ne znam, jel neko možda online ima neki komentar korisni?;0:42:48.400000 - 0:42:52.400000
+Ili pratim uopće i online? Ne?;0:42:55.400000 - 0:42:57.400000
+A, dobro, dobro.;0:42:58.400000 - 0:42:59.400000
+Inače, nam je tu bio još jedan kolega, a sad smo...;0:43:01.400000 - 0:43:04.400000
+Bez njega ostali. Dobro, ništa, ajmo sad na pauzu.;0:43:07.400000 - 0:43:09.400000
+Ja ću probati malo pogledat' po literaturi šta kaže.;0:43:10.400000 - 0:43:13.400000

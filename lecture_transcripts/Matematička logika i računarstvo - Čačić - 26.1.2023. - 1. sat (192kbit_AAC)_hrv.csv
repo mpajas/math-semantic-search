@@ -1,0 +1,533 @@
+Speech;Timestamp
+Dobro, možemo?;0:01:30 - 0:01:59
+Ok, znači, prošli put smo završili sa teoremom o mašivanju tipova;0:02:00 - 0:02:06
+i vidjeli smo, zapravo, to je henkerova konstrukcija,;0:02:06 - 0:02:10
+samo što je malo promijenjena, naravno zbog toga što se radi;0:02:10 - 0:02:15
+ne o teorijama, nego o tipovima, ali više manje,;0:02:15 - 0:02:20
+ista stvar se treba napraviti. Trebaju se stvari nadopuniti;0:02:20 - 0:02:25
+do maksimalne konsistentnosti, trebaju se dodati henkinovi svjedoci,;0:02:25 - 0:02:31
+treba sve više manje, slična stvar. I na kraju se još mora,;0:02:31 - 0:02:35
+ovisno o tome, jer u teoriji imamo maksijume jednakosti,;0:02:35 - 0:02:46
+onda moramo napraviti onaj ples sa ne zapravo zatvoreni termin,;0:02:46 - 0:02:51
+nego klasa ekvivalencije zatvorenih terma s obzirom na relaciju.;0:02:51 - 0:02:56
+Jednakost između nekih zatvorenih terma je dokaziva u teoriji.;0:02:56 - 0:03:01
+Ali, kažem, to smo sve već bili napravili tamo kad smo objašnjavali henkina,;0:03:01 - 0:03:06
+tako da stvari koje ovdje treba promijeniti nisu pre različite.;0:03:06 - 0:03:11
+Ono što je malo drugačije je, znači ova svojstva su puno zapetljanija,;0:03:11 - 0:03:20
+odnosno trebamo puno više toga misliti kad to radimo,;0:03:20 - 0:03:24
+ali mislim, dobro, i hengrama konstrukcija je isto na svoj način zapetljana,;0:03:24 - 0:03:27
+tako da isto treba nekako paralelno izgrađivati ni iz signatura,;0:03:27 - 0:03:32
+ni iz teorija, ni iz formula, s jednom slobodnom variablom.;0:03:32 - 0:03:37
+No, dobro, idemo dalje. Dakle, idemo vidjeti sad kako izgledaju,;0:03:38 - 0:03:42
+mislim, jednostavno zapravo, ali kako izgledaju konzistentni tipovi;0:03:42 - 0:03:48
+alef-nula kategoričnih teorija. Dakle, alef-nula kategorična, to smo rekli,;0:03:50 - 0:03:53
+to je ona koju su svi prebrojivi modeli izomorfni zapravo smo vidjeli;0:03:53 - 0:03:58
+zbog Levene Hanskulama ovog teorema, na gori i na dolje,;0:03:58 - 0:04:01
+dakle zapravo ne možete vi nikad fiksirati kardinalnost iz teorije.;0:04:01 - 0:04:06
+Dakle, da teorija kaže svi moji modeli moraju biti kardinalnosti, ne znam,;0:04:06 - 0:04:10
+alef-17, niti moraju biti alef-nula, jer uvijek postoji Levene Hanskulama na gore.;0:04:10 - 0:04:16
+Ali, dobro, mislim, u nekom smislu, jel, ako zahtijevate normalne modele,;0:04:16 - 0:04:21
+onda teorija smije reći svi moji modeli moraju biti kardinalnosti 3.;0:04:21 - 0:04:24
+To da, dakle, za konačnu kardinalnost da, ali za bezkonačnu nikad.;0:04:24 - 0:04:29
+I onda smo rekli zapravo, ta kategoričnost u nekom apsolutnom smislu;0:04:29 - 0:04:33
+za logiku prvog reda nema smisla. Naravno, za neke druge logike bi mogla imat,;0:04:33 - 0:04:37
+ali to je druga stvar. Pa smo onda uveli ovaj kapa kategoričnosti,;0:04:37 - 0:04:42
+jel, dakle, svi modeli kardinalnosti kapa su međusobno izumorfi.;0:04:42 - 0:04:46
+I onda smo vidjeli da takvih teorija ima, na primjer, alef-nula kategorična je ona teorija;0:04:46 - 0:04:50
+koja kaže, ono, jel, dakle, dense linear orders with no endpoints.;0:04:50 - 0:04:56
+Dakle, ona, uređena karakterizacija skupa racionalnih brojeva.;0:04:56 - 0:05:01
+Dakle, svi prebrojivi modeli za D'Leono e su zapravo efektivno izumorfni;0:05:01 - 0:05:07
+skupu racionalnih brojeva sa standardnim uređenjima.;0:05:07 - 0:05:11
+Ali, opet vidimo da, naravno, ta teorija nije kategorična u pravom smislu,;0:05:12 - 0:05:16
+jer imamo jedan jako poznat, dobro poznat model njen koji nije prebrojiv.;0:05:16 - 0:05:21
+To je, naravno, skup realnih brojeva.;0:05:21 - 0:05:24
+Dobro. Ali, kažem, dakle, za ovakve kategorične teorije,;0:05:25 - 0:05:29
+kako izgledaju njezini, konzistentni tipovi.;0:05:29 - 0:05:31
+Njezini, svi konzistentni tipovi su izolirani.;0:05:31 - 0:05:34
+Dakle, vidjeli smo što znači izoleran.;0:05:34 - 0:05:37
+To znači da ga možete karakterizirati u onom unutarnjem modelu,;0:05:37 - 0:05:40
+pomoću nekakve formule, jel, dakle, svi oni koji su posljedice nekakve formule,;0:05:40 - 0:05:47
+koja je ispunjiva, koja se može, ono, dakle, ispuniti u smislu;0:05:47 - 0:05:51
+da nađem nekakvih konkretnih n objekata koji, kada je egzistencijalno zatvorim,;0:05:51 - 0:05:55
+onda je dokaziva.;0:05:55 - 0:05:57
+Nisam dokaziva, element teorije, ono, evo možda sad,;0:05:59 - 0:06:02
+za sad nikakav dokazni sustav.;0:06:02 - 0:06:04
+Dobro, uglavnom, znači, konzistentni tip mora biti izoliran;0:06:04 - 0:06:08
+ako se radi o Aleph-nula kategoričnoj teoriji.;0:06:08 - 0:06:10
+I zapravo, mislim, dokaz je vrlo jednostavan,;0:06:10 - 0:06:12
+jer samo treba uštekati sad sve Lego kockice koje imamo.;0:06:12 - 0:06:15
+Dakle, kaže, ako imaš neki konzistentni tip,;0:06:15 - 0:06:19
+mislim, pretpostavljamo suprotno, da imaš neki konzistentni tip koji nije izoliran,;0:06:19 - 0:06:22
+onda, ovaj, s jedne strane, činjenica da je konzistentan;0:06:22 - 0:06:27
+znači da ga neko realizira.;0:06:27 - 0:06:29
+E, ali ne samo da ga netko realizira, sad je važno, dakle, Henkin kaže,;0:06:29 - 0:06:33
+taj neko smiješ pretpostaviti da je, nije da mora biti prebrojen,;0:06:33 - 0:06:37
+ali smiješ pretpostaviti da je prebrojen.;0:06:37 - 0:06:39
+Dakle, uvijek, ne samo da postoji neki model,;0:06:39 - 0:06:41
+nego postoji neki prebrojeni model za tu teoriju koji realizira taj tip.;0:06:41 - 0:06:45
+Dobro, s druge strane, opet teorija omašivanja tipova kaže,;0:06:45 - 0:06:48
+ako je, vi ispao da nije izoliran, onda opet imaš neki model koji ga omašuje,;0:06:48 - 0:06:53
+ali ne samo to, nego opet, Henkinava konstrukcija, možeš zapravo dobiti,;0:06:53 - 0:06:57
+smiješ pretpostaviti da je taj model prebrojen.;0:06:57 - 0:06:59
+E, ali sad, ako je tako, onda imaš dva prebrojiva modela za teoriju T,;0:06:59 - 0:07:03
+a teorija T je alef nula kategorična, dakle, taj dva modela su izomorfne.;0:07:03 - 0:07:07
+A onda, naravno, ne može se dogoditi da je jedan od njih realizira,;0:07:07 - 0:07:11
+a sada drugi ga omašuje, jer jednostavno,;0:07:11 - 0:07:13
+Dijan realizira preko neke entorke,;0:07:13 - 0:07:15
+onda jednostavno tu entorku preslikate po izomorfizmu;0:07:15 - 0:07:18
+i onda će realizirati taj tip u ovom drugom modelu.;0:07:18 - 0:07:21
+Imali kao neku napomenu, ali nismo ništa čak ni komentirali,;0:07:21 - 0:07:25
+jer je stvarno jednostavno.;0:07:25 - 0:07:27
+Evo, entorku su izomorfni, onda istodobno ga ili realiziraju, ili ga omašuju.;0:07:27 - 0:07:33
+Dakle, pazite, naravno, ne pričam tu o elementarnoj ekvalenciji,;0:07:34 - 0:07:37
+naravno, elementarna ekvalencija je pre slaba tu,;0:07:37 - 0:07:39
+jer elementarna ekvalencija govori samo o rečenicama.;0:07:39 - 0:07:42
+Ovo nisu rečenice, ovo su baš formule sa jednih slobodnih variabli,;0:07:42 - 0:07:49
+ali sve jedno, izomorfizam je izomorfizam.;0:07:49 - 0:07:52
+Jednostavno, te sve stvari koje postoje ovdje, postoje i tamo,;0:07:52 - 0:07:55
+samo se drugačije zovu.;0:07:55 - 0:07:57
+I onda naravno, te iste stvari koje realiziraju tamo,;0:07:57 - 0:08:00
+jednom kad ih preslikamo po izomorfizmu, ovdje realiziraju.;0:08:00 - 0:08:04
+Dobro, dakle, sad će biti nekoliko tih karakterizacija;0:08:04 - 0:08:08
+alef nula kategoričnih teorija.;0:08:08 - 0:08:10
+Evo, prva od njih, dakle, potpune teorije,;0:08:10 - 0:08:13
+znači da potpune teorije,;0:08:13 - 0:08:15
+čekaj, zašto mi je bitno da je potpuna?;0:08:16 - 0:08:19
+Znači za teorije imamo još i menije tipove, evo.;0:08:21 - 0:08:24
+Da, za teorije imamo još i menije tipove,;0:08:24 - 0:08:26
+mora biti potpuna teorija, dobro.;0:08:26 - 0:08:28
+Uglavnom, a dobro, mislim da smo tipove zapravo definirali;0:08:30 - 0:08:34
+samo za potpunu teoriju.;0:08:34 - 0:08:36
+Uglavnom, znači, jedna moguća karakterizacija što za potpunu teoriju;0:08:36 - 0:08:40
+je dovoljno da bude, i nužno je dovoljno zapravo da bude;0:08:40 - 0:08:43
+alef nula kategorična, je upravo ovo.;0:08:43 - 0:08:45
+Znači, svaki konsistencijni tip je izoliran.;0:08:45 - 0:08:47
+Znači, sad smo vidjeli da alef nula kategoričnost povlači to,;0:08:47 - 0:08:50
+ali ne samo to, nego i to povlači alef nula kategoričnost.;0:08:50 - 0:08:53
+Kaže, bez dokaze, dobro.;0:08:53 - 0:08:55
+E sad, drugi način, znači, pomoću, možemo gledat na konsistencijne tipove,;0:08:57 - 0:09:01
+s druge strane, dualno nekako možemo gledat potpune tipove.;0:09:01 - 0:09:04
+Potpun tip je onaj koji, aha, je konsistentan, znači,;0:09:06 - 0:09:09
+ipak ono, naravno, to je uvijek priča.;0:09:09 - 0:09:11
+Potpunost možete gledat kao doslovno dualni pojam konsistentnosti,;0:09:11 - 0:09:14
+pa možete imat ove koje nisu konsistentne, one su trivialno potpune,;0:09:14 - 0:09:18
+jer sve je u njima, pa onda tako i formula i njena negacija,;0:09:18 - 0:09:23
+pa onda i možete reći da vrijedi formula ili njena negacija.;0:09:23 - 0:09:27
+Ali nekako često ljudi ne žele gledat taj slučaj,;0:09:28 - 0:09:31
+nego žele zapravo gledat potpune koji jesu konsistentni.;0:09:31 - 0:09:34
+Pa onda ćemo reći tako.;0:09:34 - 0:09:36
+Znači, potpun tip je konsistentan, koji još ima ovo svojstvo,;0:09:36 - 0:09:40
+ali naravno sad ne može reći da sve formule, to je besmislica,;0:09:40 - 0:09:43
+jer naravno te formule koje su u tipu, one govore samo nešto,;0:09:43 - 0:09:48
+nekakvih n objekata koje sam nazvao x1 do xn.;0:09:48 - 0:09:51
+Dakle, ja zapravo želim reći da je potpun ako za svaku formulu;0:09:51 - 0:09:54
+koja govori o tih n objekata, vrijedi da je ona u s ili njezina negacija u s.;0:09:54 - 0:09:59
+Naravno da kad vi imate samo formule sa slobodnom varijalom x1,;0:10:00 - 0:10:05
+onda mislim da ne možete sad očekivati da ta teorija zna nešto reći o x2.;0:10:05 - 0:10:09
+Dobro, skup svih potpunih n tipova označavamo sa lijepo s n, dobro.;0:10:11 - 0:10:15
+To će nam trebati za neki dokaz kasnije.;0:10:16 - 0:10:18
+Dobro, e sad da vidimo znači neke skroz jednostavne stvari.;0:10:20 - 0:10:23
+Dakle, za potpune n tipove vrijedi da ne mogu biti inkluzijski neusporedivi.;0:10:23 - 0:10:30
+Znači, ako je vrijedi jedna inkluzija, onda odmah vrijedi i druga.;0:10:30 - 0:10:33
+Zašto? Zato što, odnosno mislim, mogu biti inkluzijski neusporedivi, naravno,;0:10:34 - 0:10:39
+ali ne može jedan biti pravi podskup od drugoj.;0:10:39 - 0:10:41
+To sam htio reći.;0:10:41 - 0:10:42
+Znači, zašto? Zato što, valjda, prvomatrate negaciju.;0:10:45 - 0:10:48
+Znači, teoretički, zamislite da je x1 pravi podskup od s2,;0:10:48 - 0:10:52
+dakle, imaš neku formulu u s2 koja nije u s1,;0:10:52 - 0:10:55
+ali onda, ako nije u s1, onda je njera negacija u s1,;0:10:55 - 0:10:58
+jer mislim n tipovi su nad istim varijalom, znači njera negacija je u s1,;0:10:58 - 0:11:02
+ali x1 ti je podskup od s2, pa negacija je u s2,;0:11:02 - 0:11:05
+i onda dobiješ kontradikciju s konsistentnošću od s2.;0:11:05 - 0:11:08
+Vrlo elementarno.;0:11:10 - 0:11:11
+Ako je Godsko M model potpune teorije i nekakva entorka A u njemu,;0:11:13 - 0:11:19
+onda, dobro, ovo se jednostavno tako označava,;0:11:19 - 0:11:24
+dakle, T od A u M, znači,;0:11:24 - 0:11:30
+aha, hoću reći tip, to je kao, to je dualno,;0:11:32 - 0:11:37
+ne znam, teorije su kao tipove, dakle, to je dualno onom TH,;0:11:37 - 0:11:41
+dakle, TH od nekakvog modela su sve one formule,;0:11:41 - 0:11:46
+sve one rečenice koje u njemu vrijede.;0:11:46 - 0:11:48
+E sad, tip nekakve entorke u nekakvom modelu je ovo,;0:11:48 - 0:11:58
+znači sve formule koje on zadovoljava s obzirom na tu konkretnu entorku.;0:11:58 - 0:12:04
+Vrlo jasno da je to dualno u tom smislu.;0:12:04 - 0:12:08
+I, kaže, naravno, to je onda potpun tip, na isti način kao što je ovo potpuna teorija.;0:12:09 - 0:12:13
+Jednom kad sam ja fiksirao strukturu, stvar u njoj ili vrijedi ili ne vrijedi,;0:12:13 - 0:12:17
+ne možete imat neodlučive tvrdnje, u nekakvoj,;0:12:17 - 0:12:20
+logički neodlučene tvrdnje, u nekakvoj fiksiranoj strukturi.;0:12:22 - 0:12:26
+Isto tako ovdje, jednostavno, ako mu ja dam nekakvu strukturu i nekakvu entorku,;0:12:26 - 0:12:30
+onda za nju formula ili vrijedi ili ne vrijedi.;0:12:30 - 0:12:32
+Znači, nema ili je FUS ili nije.;0:12:32 - 0:12:35
+Naravno, pri tome, važno su to opet formule koje samo govore o tih ena objekata.;0:12:36 - 0:12:40
+Dobro.;0:12:41 - 0:12:42
+E, i ovo je možda važno. Dakle, svaki potpuni tip je ovog oblika.;0:12:45 - 0:12:49
+To moram priznati da mi nije baš sad jasno.;0:12:54 - 0:12:56
+Dakle, mislim, opet, negako je dualno, jel?;0:12:57 - 0:13:00
+Dakle, svaka potpuna teorija je zapravo TH od svog kanonskog modela.;0:13:00 - 0:13:05
+Dakle, to smo bili pričali tamo kad smo govorili o kanonskim modelima.;0:13:06 - 0:13:09
+Dakle, ta nekakva konstrukcija, Henkinova konstrukcija zapravo se vjerojatno;0:13:09 - 0:13:14
+može i ovdje proširiti.;0:13:14 - 0:13:16
+Samo kažem, nisam baš siguran.;0:13:16 - 0:13:18
+Ali, mislim, vjerojatno je opet isti algoritam.;0:13:18 - 0:13:21
+Dakle, krenem od...;0:13:22 - 0:13:24
+Ovaj...;0:13:24 - 0:13:25
+Znači, potpun je, onda je maksimalan u tom smislu, onda...;0:13:28 - 0:13:33
+Sad jel moram Henkinizaciju čitavu raditi ili mi je dovoljno samo uzeti;0:13:35 - 0:13:43
+kanonski model i...;0:13:43 - 0:13:45
+A opet, kak' najdem neku konkretnu mentorku?;0:13:46 - 0:13:49
+A, ne, zapravo, da.;0:13:49 - 0:13:51
+Dakle, najdem...;0:13:51 - 0:13:53
+Da, neće biti tako jednostavno, ali može se.;0:13:59 - 0:14:02
+Znači, u signaturu dodam n ovih, to su nekakvi n tipovi,;0:14:02 - 0:14:07
+znači, u signaturu dodam nekih novih...;0:14:07 - 0:14:10
+Novih n konstantskih simbola.;0:14:16 - 0:14:18
+To su mi sad imena unutar jezika za tih n objekata.;0:14:18 - 0:14:22
+I onda kažem, nad tom signaturom, dobro, onda to više nije potpuno,;0:14:22 - 0:14:28
+ali fala Bogu, Lindenbaum, znači mogu napuhat do potpunosti,;0:14:28 - 0:14:33
+mogu dodat Henkina, mogu sve, znači dobijem nekakav kanonski model;0:14:33 - 0:14:38
+za teoriju nad tom signaturom.;0:14:38 - 0:14:40
+I onda pogledam unutra jednostavno taj kanonski model,;0:14:40 - 0:14:44
+kak se u njemu interpretiraju C1 do Cn.;0:14:44 - 0:14:49
+I to će mi biti moja.;0:14:49 - 0:14:53
+I onda M, kaj smo mi doćavali, znači M redukcija na sigma,;0:14:53 - 0:14:59
+znači iz samog M-a izbrišem to, a tu informaciju koju sam time izgubio;0:14:59 - 0:15:07
+zakodiram u ovu entorku A.;0:15:07 - 0:15:10
+I kažem, to je to. Mislim, sad naravno treba dokazati da to stvarno je;0:15:10 - 0:15:14
+teoda u M, ali je.;0:15:14 - 0:15:17
+Ako formula izolira potpuni tip, onda je formula element tipa.;0:15:21 - 0:15:25
+Znači, naravno, formula ima nekakve veze s tipom, u smislu,;0:15:25 - 0:15:29
+formula svakako ima za posljedicu taj tip,;0:15:29 - 0:15:32
+rekli smo tip možemo zamišljati kao beskonačnu konjunkciju,;0:15:32 - 0:15:35
+u tom smislu ima za posljedicu, ali zanimljivo je ako je tip potpun,;0:15:35 - 0:15:39
+onda zapravo ne samo da ima za posljedicu, nego ona zapravo mora biti u S.;0:15:39 - 0:15:42
+Zašto? Pa vrlo jednostavno, zato što njezina negacija ne smije biti u S.;0:15:42 - 0:15:46
+Šta bi značilo da je negacija u S? Pa to bi značilo da,;0:15:46 - 0:15:49
+dakle, dobro, možemo ipak pozitivno razmišljati,;0:15:49 - 0:15:53
+da kaže u T sigurno vrijedi ono tamo.;0:15:53 - 0:15:57
+Znači, nekakvi objekti koji se dovoljavaju u F postoje.;0:15:57 - 0:16:01
+To je bio jedan od njih uvjeta, onaj prvi jednostavniji uvjet,;0:16:01 - 0:16:06
+da formula izolira neki tip.;0:16:06 - 0:16:08
+Evo, kaže onda sigurno, znači, sad kažem, gledam šta sve mogu tu staviti,;0:16:08 - 0:16:13
+ali ako tu stavim negaciju od F, onda to sigurno ne vrijedi,;0:16:13 - 0:16:16
+jer naravno F kondicionalna je equivalentno sa ne F.;0:16:16 - 0:16:19
+I onda pravila za negiranje kvantifikatora jednostavno kažu T je naravno potpuna teorija,;0:16:21 - 0:16:26
+ali i konsistentna teorija, znači ne može biti,;0:16:26 - 0:16:28
+ako je u njoj ova tu rečenica, onda ne može biti ova ovdje.;0:16:28 - 0:16:34
+I to je to, znači jednostavno ove formule su one koje takve da kad T to dokazuje,;0:16:35 - 0:16:42
+onda ima za logičku posljedicu, onda one žive u S.;0:16:42 - 0:16:46
+To znači da je S izolirane.;0:16:46 - 0:16:49
+Ne F ne smije tu stajati, dakle ne F nije u S,;0:16:50 - 0:16:54
+međutim S je potpun, onda je fizičko to...;0:16:54 - 0:16:57
+Dakle, naravno nekako F, F kažem restringira model na nekakav unutarnji model;0:16:58 - 0:17:03
+u kojem se realizira taj tip i sad naravno unutra može vrijediti svašta,;0:17:03 - 0:17:09
+ali svakako unutra treba vrijediti F, odnosno unutra,;0:17:09 - 0:17:12
+ako ćemo unutarnji model stvariti doslovno kao model,;0:17:12 - 0:17:14
+dakle neku konkretnu strukturu, onda činjenica da tamo vrijedi F;0:17:14 - 0:17:17
+znači da tamo ne može vrijediti ne F.;0:17:17 - 0:17:19
+Dobro, dakle, e sad potpuni, znači to su kao konsistentni tipovi,;0:17:24 - 0:17:30
+alef nula kategoričnih teorija možemo gledati kroz potpune tipove;0:17:30 - 0:17:33
+i sad kaže, aha, prethodni korolar, potpuna alef nula kategorična teorija,;0:17:35 - 0:17:40
+znači prije smo imali kao...;0:17:40 - 0:17:42
+Ne, to je bilo isto, dakle, potpuna alef nula kategorična teorija,;0:17:46 - 0:17:48
+ali prije je pisalo svaki konsistentni tip je izoliran,;0:17:48 - 0:17:51
+sad možemo reći svaki potpuni tip je izoliran,;0:17:51 - 0:17:54
+ali dobro, znači, kažem, sa obzira na to su potpuni tipovi;0:17:54 - 0:17:57
+i sa ovih specijalnih slučaje konsistentnih tipova,;0:17:57 - 0:18:00
+onda tu nema možda reći, znači ovo je prethodni korolar,;0:18:00 - 0:18:04
+zapravo ona je još tamo, ona je isti s početka, samo specijalni slučaj.;0:18:04 - 0:18:10
+E, ali ono što je zanimljivo je da i tu vrijedi obrat,;0:18:10 - 0:18:13
+znači to je sad naravno jače svojstvo, jer je ovaj smjer slabiji;0:18:13 - 0:18:16
+i onda je obrat jači, dakle, potpuna teorija;0:18:16 - 0:18:20
+kojoj je svaki potpuni tip izoliran, dakle, prije smo vidjeli;0:18:21 - 0:18:25
+da je svaki konsistentni tip izoliran bez dokaza,;0:18:25 - 0:18:28
+a i ovo će onda biti bez dokaza, naravno, jer je tešo za to kazati.;0:18:28 - 0:18:31
+Ak je potpuni tip izoliran, onda je teorija aleš nula kategorična,;0:18:31 - 0:18:35
+znači, kažemo, to je isto jedna karakterizacija.;0:18:35 - 0:18:39
+Dobro, e sad, veli, ima ovakav neki zanimljiv korolar.;0:18:40 - 0:18:44
+Ak imaš potpunu aleš nula kategoričnu teoriju, onda je SN uvijek konačan.;0:18:44 - 0:18:48
+Dakle, sjetimo se, SN je skup svih potpunih n tipova.;0:18:48 - 0:18:52
+Dakle, naravno, tipova može biti jako puno, ali potpunih n tipova,;0:18:52 - 0:18:58
+znači, nekako, kad zatvorim na logičku posljedicu,;0:18:58 - 0:19:01
+jednostavno, ne na logičku posljedicu, nego, zapravo, realiziram ga;0:19:01 - 0:19:04
+u nekakvoj konkretnoj strukturi, tu zapravo ne može biti beskonačno mnogo tih;0:19:04 - 0:19:10
+načina na koji netko može zadovoljiti nekakav, nekakvu beskonačnu konjunkciju.;0:19:13 - 0:19:18
+Ali to je zapravo dosta ovako zanimljivo za razmišljati.;0:19:18 - 0:19:21
+Pruža nekakvu ogradu na izražajnost logike prvog reda.;0:19:21 - 0:19:26
+Dobro, ajmo probati vidjeti kako bi to izgledalo.;0:19:29 - 0:19:34
+Znači, ako imaš potpuni, vidjela što je kakav element od SN,;0:19:34 - 0:19:38
+znači, potpuni n tip, onda je izoliran, dobro, to smo vidjeli.;0:19:41 - 0:19:45
+Dobro, i onda imamo nekakvu formulu koja se onda zove Fs,;0:19:48 - 0:19:55
+F od S, naravno, sa n slobodnih variabli, izolira S.;0:19:58 - 0:20:10
+Dakle, ta formula je ispunjiva u smislu egzistencijalna,;0:20:10 - 0:20:14
+dakle, ima nekakvih N objekata koji je zadovoljavaju;0:20:14 - 0:20:18
+i ona zapravo u onom smislu logičke posljedice povlači S.;0:20:18 - 0:20:27
+Dobro, tada je prema ovom korularu,;0:20:28 - 0:20:32
+onda Fs mora biti element od S, gdje je S potpun.;0:20:32 - 0:20:37
+Daj sad, kaže...;0:20:37 - 0:20:44
+Dakle, kako zapravo razlikujem tipove?;0:20:48 - 0:20:51
+Znači, ovo je na neki način, možemo reći, karakteristična formula tipa S.;0:20:51 - 0:20:55
+Dakle, ona svakako u nekom smislu povlači S, ali i S povlači nju, jel, dakle.;0:20:55 - 0:21:02
+Ona je element od S. Dakle, zapravo kaže ovo,;0:21:03 - 0:21:06
+kad goti imaš dva potpuna N tipa koji su različiti,;0:21:06 - 0:21:10
+oni jedan drugome ne sadrže karakteristične formule.;0:21:10 - 0:21:14
+Karakteristična formula jednog nije element drugog,;0:21:14 - 0:21:17
+odnosno, naravno, opet, sobzirano da je potpun,;0:21:17 - 0:21:19
+možemo reći negacija karakteristične formule jest element drugog.;0:21:19 - 0:21:23
+Važno, lako se vidi.;0:21:36 - 0:21:38
+Pa da, lako se vidi, jer, dakle, kažem, kad bi FS1 bilo element od S2,;0:21:39 - 0:21:45
+onda bi sve formule koje S1 povlači također bila u S2,;0:21:45 - 0:21:55
+a onda bi S1 bio podskup od S2, a onda bi bili jednaki, jel, dakle.;0:21:55 - 0:22:03
+Vidjeli smo da ne može biti pravi podskup.;0:22:03 - 0:22:06
+Dakle, to je, stvarno se lako vidi.;0:22:06 - 0:22:10
+E sad, znači, pretpostavljamo da je SN beskonačan za neki konkretani.;0:22:12 - 0:22:17
+Kaže ovako, dobro, to je ova već standardna priča;0:22:27 - 0:22:31
+signaturi teorije T, jeziku, dobro, može,;0:22:32 - 0:22:35
+dodajemo novih N konstantskih simbola C1 do Cn.;0:22:35 - 0:22:40
+I onda kažemo, aha, napraviš teoriju, napraviš dvije teorije, dobro, ajde.;0:22:41 - 0:22:51
+Znači, kaže ovako.;0:22:51 - 0:22:53
+Ne, a, ovo, dobro, ne znam.;0:22:54 - 0:23:01
+Ok, znači, kaže prvo ovako, za bilo kakav skup X, X podskup od SN,;0:23:02 - 0:23:08
+definiraš teoriju TX kao T unija negacija F na tim ceovima,;0:23:08 - 0:23:20
+pričemu F ide po X, ne, aha, F, Fs, pričemu S ide po S.;0:23:21 - 0:23:31
+Dakle, šta kaže? Ta teorija, znači, aha, X je konačan, dobro,;0:23:32 - 0:23:44
+i kaže ta teorija je sigurno konzistentna. Zašto je ta teorija konzistentna?;0:23:44 - 0:23:48
+Zato što uvijek mogu... Znači, T je sigurno konsistentna, dobro,;0:23:48 - 0:23:59
+i pritom T ne zna ništa, znači, ključno je da su ovi C1 do Cn novi.;0:24:00 - 0:24:05
+Znači, T ne zna ništa o ovim interpretacijama od C1 do Cn,;0:24:05 - 0:24:12
+znači ja ih mogu interpretirati kako hoću.;0:24:12 - 0:24:14
+E, a kako ih onda interpretiram? Pa tako da...;0:24:15 - 0:24:20
+Mi stio sam reći da budu oni za koje znam da postoje po maksijomu;0:24:26 - 0:24:32
+egzistencije za izoliranje tipova, ali ne, jer naravno želim negaciju F.;0:24:32 - 0:24:39
+Znači, ja...;0:24:44 - 0:24:46
+Dobro, zamislim da imam samo jedan element u X, ali znači X je konačan,;0:24:54 - 0:24:59
+može imati, ne znam, tri tipa unutra, ali za početak zamislim da imam jedan.;0:24:59 - 0:25:04
+Onda imam, znači, zapravo u T sam dodao jednu konkretnu formulu,;0:25:06 - 0:25:10
+znači jednu ovakvu stvar gdje je S neki konkretan tip.;0:25:10 - 0:25:14
+Svako potku pod S1 znači potpun tip.;0:25:15 - 0:25:18
+Zašto mi sad negacija Fs? Zašto Fs ne bi bila jednostavno;0:25:31 - 0:25:39
+tautologija, da njena negacija nije nikada ispunjivao.;0:25:39 - 0:25:45
+Šta tu ne volja?;0:25:46 - 0:25:48
+Aha, Fs mora izolirat S.;0:25:51 - 0:25:54
+Dobro, šta to znači? To znači da, opet sad kažem, sve formule iz S;0:25:55 - 0:26:02
+su nekako posljivice, ali...;0:26:02 - 0:26:04
+Evo sad možda malo, malo preciznije.;0:26:04 - 0:26:08
+Dakle, ovo je on.;0:26:09 - 0:26:11
+To znači da za sve... Dobro, sad F je vjerojatno kriva.;0:26:21 - 0:26:27
+Za sve g iz S, u te je formula za svaki x1, za svaki xn.;0:26:27 - 0:26:41
+Sad naravno treba obronuti, jer F je tako ja.;0:26:42 - 0:26:44
+Izolira Fs, a g je ovaj ovdje.;0:26:45 - 0:26:50
+G je ovaj ovdje.;0:26:50 - 0:26:52
+Znači, to vrijedi.;0:26:53 - 0:26:57
+Ja i da ne znam zašto to je bila... Znači, zamislim da mi je Fs tautologija.;0:27:04 - 0:27:09
+Onda naravno ovdje piše true, povlači g.;0:27:09 - 0:27:12
+To ti je zapravo g.;0:27:12 - 0:27:15
+I onda jednostavno u te vrijede sve formule iz S. Zašto ne?;0:27:16 - 0:27:21
+Znači, čitav unutarnji model je jednostavno sve, cijeli model.;0:27:21 - 0:27:25
+Zašto ne, Vanja?;0:27:28 - 0:27:30
+Dobro, ne znam.;0:27:39 - 0:27:41
+To ću možda malo morat pogledat.;0:27:42 - 0:27:46
+I to je samo za slučaje kada je ovaj x jednočlan.;0:27:56 - 0:27:59
+Kad je x, na primjer, tročlan, onda se stvari još mrvico kompliciraju,;0:27:59 - 0:28:03
+ali ne zapravo puno, jer je, ono, tipovi su zatvoreni na konjunkcije,;0:28:03 - 0:28:07
+pa mogu ono gledat' umjesto samih formula mogu gledat' konjunkcije.;0:28:07 - 0:28:10
+Po tri formule. Ali i dalje, ono, kažem, ovo za jednu formulu mi baš nije jasno.;0:28:11 - 0:28:20
+Konsistentna za svaki konečni.;0:28:26 - 0:28:29
+Dobro, ono što svakako je sad istina, zašto sam uopće uvodio ove c1 do cn,;0:28:32 - 0:28:38
+zato da mogu reći da su ovo sad nekakve rečenice i mogu primijeniti teorijem kompaktnosti.;0:28:38 - 0:28:43
+Svaki konečni podskup od ovakve teorije, tj. crtica, je također konečni podskup od ovakva nečega.;0:28:43 - 0:28:53
+Dakle, ako je to uvijek konzistentno, onda će i ovo biti.;0:28:53 - 0:28:58
+Mislim, sjetimo se, konzistentno je samo drugi naziv za ispunjivo.;0:28:58 - 0:29:02
+Dakle, to je zapravo teorijem kompaktnosti. To je jasno.;0:29:02 - 0:29:06
+T crtica je zapravo T čitav sn.;0:29:08 - 0:29:13
+Umjesto ovog x-a stavim sve.;0:29:14 - 0:29:17
+Ovo tu je konzistentno.;0:29:21 - 0:29:23
+Povlači. Ovo tu je konzistentno.;0:29:28 - 0:29:31
+Teorijem kompaktnosti.;0:29:34 - 0:29:35
+Ali zašto je ovo gore konzistentno, kažem?;0:29:36 - 0:29:38
+Znači, kako niste to prije, a po sve srednje,;0:29:38 - 0:29:42
+jesam da ne znam, čim se dajne, ne znam, ispunjivo je uvijek otočno.;0:29:42 - 0:29:46
+Da, da, da. Aha, aha, aha, da, da, točno.;0:29:46 - 0:29:49
+Ok, ok. Znači, različiti i pospuni, onda je ovaj element ovog drugog tipa.;0:29:52 - 0:29:59
+Aha, a taj drugi tip je također konzistentan?;0:30:00 - 0:30:03
+Ah, fascinantno. Znači zapravo problem nije kad je jedan samo u x.;0:30:05 - 0:30:10
+Kad su barem dvojica u x-u, onda fakat mogu primijeniti to.;0:30:11 - 0:30:15
+Da, ali dalje ne rješavam problem kad imam samo jednu formu u x-u.;0:30:16 - 0:30:20
+Ali dobro, to nije ni bitno jer mi i onako za teorijem kompaktnosti treba svi konačni, pa onda...;0:30:20 - 0:30:27
+Mislim, i onako će mi biti podskup. Neću ja sigurno uzeti cijelu teoriju te, ako uzem konačno.;0:30:28 - 0:30:35
+Mislim da zapravo, da, mislim, sasvim ste dobro primijenili.;0:30:35 - 0:30:40
+Inače, ova formula, inače ova rečenica nije koja razloga da tu bude.;0:30:40 - 0:30:45
+Da, da, vjerojatno s time veze.;0:30:45 - 0:30:48
+Ok, probat ću. Ali mislim, opet kažem, nekako baš je čudno što...;0:30:50 - 0:30:54
+Nekako, treba mi da su barem dvojica. Jer onda, aha, imam dva podskupna tipa.;0:30:58 - 0:31:03
+I mogu reći, aha, ovaj negacija jedne karakteristične formule je u ovom drugom,;0:31:03 - 0:31:09
+a taj drugi je konsistentan. Pa ono, ima...;0:31:09 - 0:31:13
+Ima model, model mora biti model za te, znači ovo je sve ispunjeno.;0:31:16 - 0:31:20
+A ono naravno ne zna ništa o C1 do Cn.;0:31:20 - 0:31:23
+Neko realizira, uzmem, dakle tako interpretiram C1 do Cn i štima.;0:31:23 - 0:31:28
+Da, ali fakat mi trebaju dvojice.;0:31:28 - 0:31:31
+Dobro. Zgodno.;0:31:32 - 0:31:35
+Aha, tu je sad.;0:31:38 - 0:31:40
+Zaista. A zaista.;0:31:41 - 0:31:43
+Na krivom mjestu ovaj presječeno.;0:31:44 - 0:31:47
+Dobro, ajmo sad probat onda vidjeti.;0:31:48 - 0:31:51
+Aha, aha, aha, tu je, tu je, tu je fakat.;0:31:54 - 0:32:00
+Dakle, to je kontradikcijski svijet.;0:32:00 - 0:32:02
+Ja želim dokazat da je ovaj Sn konačan.;0:32:02 - 0:32:08
+Ja živim u pogrešnoj pretpostavci da je Sn beskonačan.;0:32:08 - 0:32:13
+I onda kaže ovako, kad bi Sn bio beskonačan, onda bi ti svaki konačni x generirao ovo.;0:32:13 - 0:32:20
+Jer ti uzmeš dvojicu ne u x, nego uzmeš jednoga iz x, a drugoga koji nije u x.;0:32:20 - 0:32:24
+Jaja.;0:32:25 - 0:32:26
+Kažeš ovako.;0:32:31 - 0:32:33
+Uzmeš neki S0, znači uzmeš neki S koji je u x, a uzmeš S0 koji je u Sn, a nije u x.;0:32:33 - 0:32:39
+Takav sigurno postoji, jer je Sn po pretpostavci beskonačan, a x je naravno konačan.;0:32:39 - 0:32:45
+I onda kaže, aha, budući da je S0 potpun tip, on je tip neke konkretne entorke u nekom konkretnom modelu za te.;0:32:45 - 0:32:57
+I onda valjda s njima interpretiraš te jedan docenjen.;0:32:59 - 0:33:03
+Za svaki S iz x vrijedi ovo, jer jednostavno za svaki S iz x vrijedi da je ražito da je S0, jer S0 nije u x.;0:33:03 - 0:33:09
+I onda vrijedi ona tamo priča.;0:33:09 - 0:33:11
+I onda činjenica da je ovo tu zapravo znači da, s obzirom na to da je S0 to, znači ne fs jest element ovog tipa,;0:33:12 - 0:33:23
+dakle to točno po definiciji znači da u m za taj tu konkretnu entorku ne vrijedi formula fs.;0:33:23 - 0:33:30
+I kaže da.;0:33:31 - 0:33:32
+Onda dobiješ model za t x, tako da uzmeš model za t koji ne zna ništa o c-ovima, znači samo još moraš, kako se to zove,;0:33:32 - 0:33:39
+ekstenziju modela napraviti, tako da c-ove interpretiraš s a-ovima i sve je super.;0:33:39 - 0:33:47
+Da, da, ok, cool.;0:33:48 - 0:33:50
+Ja gledam ono, kako znam da su dvojica? Ne treba mi dvojica u x, treba mi jedan u x i jedan izvan x,;0:33:51 - 0:33:56
+tako da budem siguran da su radišci.;0:33:56 - 0:33:58
+Dobro, u svakom slučaju, dakle, t-crtica je unija svih tih konačnih proširenja,;0:33:59 - 0:34:05
+dakle, po teoremu kompaktnosti ona je isto konsistentna.;0:34:05 - 0:34:10
+Ima nekakav model, označimo ga sa n.;0:34:10 - 0:34:12
+E sad, naravno, opet unutrag. Jednom kad ja imam model za t-crtica, s obzirom na to da;0:34:12 - 0:34:18
+da je t-crtica u ovoj proširenoj signaturi, onda pogledam kak sam ja u tom modelu n;0:34:18 - 0:34:28
+interpretirao c1 do cn, kaže to su nekakvi b1 do bn elementi nosača od tog n-a.;0:34:28 - 0:34:36
+I onda za njih vrijedi da su svi ovi u sn realizirani na njemu.;0:34:36 - 0:34:48
+Da, jer je t-crtica, dakle, ovo tu po svim, po svim iz sn.;0:34:48 - 0:34:58
+A ovaj A1 mora biti model za sve to.;0:34:59 - 0:35:02
+Dobro, da, znači, ljepota ovih c1 do cn je ne samo da će ovo biti rečenica,;0:35:02 - 0:35:08
+nego da sam, da mogu primijeniti teorem kompaktnosti,;0:35:08 - 0:35:11
+nego i to da ću na kraju dobiti simultano.;0:35:11 - 0:35:15
+Dakle, u svakoj pojedinoj formuli sam on interpretirao na isti način.;0:35:15 - 0:35:19
+Ne moram više razmišljati, aha, hoće li mi valuacije pasati.;0:35:19 - 0:35:24
+Dobro, ali to je nemoguće, jer naravno onda...;0:35:25 - 0:35:29
+Na kraju sam dobio da ne zadovoljava karakterišnu funkciju,;0:35:35 - 0:35:38
+karakterišnu formulu nijednog ovog sn.;0:35:38 - 0:35:42
+Dakle, specijalno ispalo bi da ovaj tip nije u sn,;0:35:42 - 0:35:46
+ali taj tip je potpun i jest n-tip.;0:35:46 - 0:35:50
+Dakle, efektivno je raslalo paradoks.;0:35:50 - 0:35:54
+Dobio sam kontradikciju.;0:35:54 - 0:35:57
+Dobro, jako zanimljiv dokaz u svakom slučaju.;0:35:57 - 0:36:00
+Dobro, u svakom slučaju, ova pretpostavka da je sn bezkonačan;0:36:00 - 0:36:04
+je dovelo do kontradikcije, dakle, sn zapravo mora biti konačan.;0:36:04 - 0:36:08
+Dobro, a value ovdje je isto.;0:36:09 - 0:36:11
+Dakle, ova tvrdnja da je svaki pojedini sn konačan;0:36:11 - 0:36:15
+je također povlači alef nula kategorišnost potpunih teorija.;0:36:15 - 0:36:21
+Pa možete to isto gledati kao jedan zanimljiv način za karakterizaciju.;0:36:21 - 0:36:26
+Dobro, i sad trebamo zapravo još nešto reći o eliminaciji kvantifikatora.;0:36:27 - 0:36:33
+Dobro, imamo vremena.;0:36:33 - 0:36:35
+Dobro, nekakav uvod kaže ovdje,;0:36:37 - 0:36:40
+za dokaze potpunosti možete koristiti Bosch Wattov test,;0:36:40 - 0:36:43
+ali on nije uvijek primjenjiv, jer naravno, jednostavno,;0:36:43 - 0:36:49
+nije da se potpunost svake teorije može dokazati;0:36:49 - 0:36:53
+Bosch Wattovim testom, jer postoje potpunost teorije;0:36:53 - 0:36:56
+koje nisu kategorišne, naravno, najčešće alef nula se gleda,;0:36:56 - 0:37:00
+ali možete reći jednostavno za neki drugi bezkonačani kardinalni broj,;0:37:00 - 0:37:04
+ali dakle nisu, niza jedan bezkonačani kardinalni broj lambda kategorišne.;0:37:07 - 0:37:11
+Naravno, kao i ove koje su, na primjer, tri kategorišne,;0:37:13 - 0:37:16
+to da, takve mogu biti potpune, mislim, prilično jednostavno,;0:37:16 - 0:37:21
+ali ovdje sad pričamo o bezkonačnostima.;0:37:21 - 0:37:24
+I da kaže, dakle, naravno, trebali nam još nekakve druge tehnike;0:37:24 - 0:37:27
+za ustanovljavanje potpunosti, jedna dosta važna tehnika;0:37:27 - 0:37:31
+je eliminacija kvantifikatora.;0:37:31 - 0:37:33
+Šta eliminacija kvantifikatora zapravo kaže?;0:37:33 - 0:37:36
+Kaže da iz formule možeš eliminirati kvantifikatora.;0:37:36 - 0:37:41
+Možeš je zapravo zapisati u obliku bez kvantifikatora.;0:37:41 - 0:37:44
+Šta to znači? To znači, naravno, mislim, ona mora imat neke varijable u sebi,;0:37:45 - 0:37:49
+onda će ona imat slobodne varijable, ali te slobodne varijable ću ja;0:37:50 - 0:37:53
+univerzalno zatvoriti, u smislu, dakle, formula o nekakvim varijablama,;0:37:53 - 0:37:57
+koja govori nešto o nekakvim objektima, znači ona,;0:38:00 - 0:38:02
+pored tih slobodnih varijabli koristi i neke druge vezane varijable.;0:38:02 - 0:38:05
+Te vezane varijable ja mogu eliminirati.;0:38:06 - 0:38:08
+Specijalni slučaj je naravno kad je formula F rečenica sa nekim kvantifikatorima,;0:38:09 - 0:38:13
+onda je ovaj G zapravo, kak bi to čovjek zvao? Atomarna rečenica.;0:38:13 - 0:38:18
+Dakle, ona samo govori, mislim, može govoriti o konstantkim simbolima,;0:38:18 - 0:38:22
+ali jednostavno nekakvi zatvoreni termi ili bulovske kombinacije čak takvih.;0:38:23 - 0:38:29
+Ali ovo zapravo je i više. Znači, teorija dopušta eliminaciju kvantifikatora;0:38:31 - 0:38:35
+i kako ne samo iz rečenica nego iz bilo kakvih formula;0:38:35 - 0:38:38
+se mogu kvantifikatori eliminirati u ovom smislu.;0:38:39 - 0:38:42
+Na primjer, šta ja znam?;0:38:46 - 0:38:48
+Koliko je to snažno? Mislim da mogu pokazati možda ovako.;0:38:49 - 0:38:54
+Recimo, teorija realnih polja, ono kao realno zatvornih polja,;0:38:55 - 0:38:59
+naravno ona ima, da, nismo o tome pričali, to ćemo možda u sljedećem djedanju,;0:39:00 - 0:39:04
+ali od prilike, to je teorija u kojoj zapravo vi razmišljate kad kažete;0:39:05 - 0:39:11
+aha, polinom neparnog stupnja sigurno ima 0.vr ili tako nešto.;0:39:12 - 0:39:17
+Šta vam treba da biste provoli takvo razmišljanje?;0:39:18 - 0:39:21
+Treba vam nekakva analiza, ali zapravo vam ne trebaju neki teški limesi i tako nešto.;0:39:21 - 0:39:25
+Supremni, nego možete razmišljati elementarnije.;0:39:25 - 0:39:29
+Šta sam htio reći? Kakvo izgleda kad u takvim teorijama promatrate,;0:39:30 - 0:39:34
+naprimjer, polinom neparnog stupnja, onda imate recimo ono, šta ja znam,;0:39:34 - 0:39:38
+postoji x takav da je a puta x puta x plus b puta x plus c jednako 0.;0:39:38 - 0:39:46
+Znači, kao kvadratna jednadžba ima rješenje.;0:39:47 - 0:39:50
+Dobro, naravno uz a nije 0. Na neki način možete to još karakterizirati,;0:39:53 - 0:40:00
+recimo, na primjer, ima invers ili tako nešto.;0:40:00 - 0:40:03
+To je valjda, kako tu formulu možete napisati tako da ne koristite ovo variable x,;0:40:06 - 0:40:13
+tako da koristite samo a, b i c.;0:40:13 - 0:40:15
+b puta b je većeg i jednako od 4 puta a puta c.;0:40:17 - 0:40:23
+Naravno.;0:40:24 - 0:40:25
+Jel se stvarno, jel teorija realnih zatvornih polja dopušta eliminaciju kvantifikatora?;0:40:26 - 0:40:30
+Naravno, ovo je samo jedan primjer, ali pokazuje kako je vrlo netrivijalno.;0:40:30 - 0:40:35
+Nisam baš siguran, možete smisli nekakav algoritam koji će primiti ovo i ispljuniti ovo van.;0:40:35 - 0:40:40
+Na prvi pogled treba vam nekakav važan uvid u to, na primjer, kako parabole izgledaju ili tako nešto.;0:40:41 - 0:40:48
+Dakle, kažem, eliminacija kvantifikatora zna biti vrlo zapetljana.;0:40:49 - 0:40:52
+Čak i kod teorija koja dopuštaju eliminaciju kvantifikatora,;0:40:52 - 0:40:55
+jedno je ovo, znači za svaku postoji, a drugo je imaš algoritam koji stvarno eliminira kvantifikatora iz formulu.;0:40:57 - 0:41:06
+Dakle, kažem, tu sam sad otišao u tešku artiljeriju, ali nekakve jednostavne stvari tipa nekakve aritmetike,;0:41:07 - 0:41:13
+ne znam, Presburger o aritmetika sigurno dopušta eliminaciju kvantifikatora.;0:41:14 - 0:41:19
+Tu se baš lijepo može vidjeti kak se stvarno mogu eliminirati kvantifikatori algoritamski, ali o tom potom.;0:41:19 - 0:41:26
+Dobro, kaže, aha, dobro, sad ova, da, to je to, eliminacija kvantifikatora.;0:41:30 - 0:41:39
+Cijenje je sad nekako vidjeti da ne moram sad baš za sve formule.;0:41:40 - 0:41:45
+Možda mogu samo iz nekakvih, ajme reći, kanonskih ili reprezentativnih formula eliminirati kvantifikatore,;0:41:45 - 0:41:52
+pa da mi to bude dovoljno da znam da zapravo mogu i svi.;0:41:53 - 0:41:55
+Na primjer, što ja znam? Prilično jasno je da ako ja mogu iz egzistencijalno kvantificiranih formula;0:41:56 - 0:42:02
+eliminirati egzistencijalne kvantifikatore, da mogu onda i iz univerzalno kvantificiranih;0:42:02 - 0:42:06
+eliminirati univerzalne kvantifikatore, jednostavno negaciju napravim i eliminiram,;0:42:06 - 0:42:10
+i vratim negaciju naprijed.;0:42:10 - 0:42:12
+Ili recimo, ako imam dvostruh egzistencijalno kvantificirane formule,;0:42:12 - 0:42:16
+onda jednostavno samo za razliku od ono kako obično idemo izvana prema unutra kvantifikatora,;0:42:16 - 0:42:22
+ovdje trebamo iznutra prema van, ali ne, ovo je sad nekakva...;0:42:22 - 0:42:25
+Ovo je formula koja ima slobodnu variablu x, na koju primjenim eliminaciju kvantifikatora;0:42:25 - 0:42:41
+kako bih eliminirao y, onda što uvijek dobijem nekakav p od a x,;0:42:41 - 0:42:47
+a onda na ovo primjenim eliminaciju kvantifikatora pa dobijem ovo.;0:42:48 - 0:42:54
+Znači mogu više struge kvantifikatore, mogu suprotne kvantifikatore i tak,;0:42:55 - 0:43:00
+i onda se zapravo stvar svede na ovo.;0:43:00 - 0:43:03
+Znači samo jedan, a ne, tu ih ipak ima više, a ne, tu piše se samo jedan.;0:43:04 - 0:43:15
+Dobro, ok, ali znači iz nekog razloga nam treba i ovo, pa ćemo i to imati.;0:43:15 - 0:43:19
+Primitivna, egzistencijalna sigma formula je ovo tu.;0:43:20 - 0:43:26
+Znači ima samo egzistencijalne, to smo rekli da imamo ono kao sigma1,;0:43:26 - 0:43:30
+a g je ne čak samo bilo kakva otvorena formula, znači to je prekomplicirano,;0:43:31 - 0:43:38
+nego elementarna konjunkcija.;0:43:38 - 0:43:41
+Dakle, zašto je to dovoljno?;0:43:46 - 0:43:49
+Ha, zato što zapravo, da, to isto zgodno.;0:43:50 - 0:43:52
+Dakle, to nisam pričao, znači prvo mogu smanjiti broj kvantifikatora,;0:43:52 - 0:43:56
+drugo mogu uraniti i dvrsto kvantifikatora, treće ovu matricu,;0:43:56 - 0:43:59
+dakle matricu zapravo, formule, nakon kvantifikatora mogu srezati.;0:43:59 - 0:44:05
+Zašto? Zato što kad imam samo egzistencijalni kvantifikator,;0:44:05 - 0:44:08
+eto ona priča, egzistencijalni komutiraju sa disjunkcijom.;0:44:08 - 0:44:12
+Jer egzistencijalni su zapravo beskonačne disjunkcije, više manje.;0:44:16 - 0:44:20
+Drugačije prošljita.;0:44:21 - 0:44:23
+Znači, onda zapravo ja ovu matricu mogu napraviti,;0:44:27 - 0:44:31
+napisati u disjunktivnoj normalnoj forme, dakle,;0:44:31 - 0:44:34
+dakle to su disjunkcije vanjske, a konjunkcije unutarnje,;0:44:34 - 0:44:37
+i onda raspisati pomoću ovog tu, i dovoljno mi je onda gledat pojedine.;0:44:37 - 0:44:44
+A pojedine su naravno onda sve elementarnim konjunkcijama.;0:44:44 - 0:44:47
+Ština?;0:44:47 - 0:44:48
+Dobro, dakle, mislim, sintaksne igre.;0:44:49 - 0:44:51
+Evo, da, svaka egzistencijalna je logički ekvivalentna disjunkciji primitivnih.;0:44:53 - 0:44:58
+A disjunkcije su ok, jer nemaju kvantifikatore.;0:44:59 - 0:45:01
+Dakle, teorija dopušta eliminaciju kvantifikatora,;0:45:01 - 0:45:04
+ako i samo ako je svaka primitivna egzistencijalna;0:45:04 - 0:45:08
+sa samo jednim egzistencijalnim kvantifikatorom,;0:45:08 - 0:45:10
+takva da se iz nje može eliminirati kvantifikator.;0:45:11 - 0:45:14
+Znači, dovoljno mi je gledat jedan egzistencijalni i nakon njega elementarna konjunkcija.;0:45:14 - 0:45:22
+Dobro, to je sad nekakva teška priča sa indukcijom posloženosti,;0:45:26 - 0:45:30
+ali stvarno mislim da smo zapravo dokazali to.;0:45:30 - 0:45:33
+Dobro, dakle, sad ima jedan dosta važan semantički kriterij;0:45:33 - 0:45:49
+za eliminaciju kvantifikatora, ali, dobro, možda ipak da odemo na pauzu,;0:45:49 - 0:45:56
+pa ćemo nakon pauze ovo eliminirati. Ima puno pisanja.;0:45:56 - 0:46:00
+Hvala vam!;0:46:03 - 0:46:05

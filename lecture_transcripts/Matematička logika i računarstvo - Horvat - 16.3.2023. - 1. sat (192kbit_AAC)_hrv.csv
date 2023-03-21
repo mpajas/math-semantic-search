@@ -1,0 +1,735 @@
+Speech;Timestamp
+Ideja danas je dokazati Gensenov Haupzatz za sistem LK.;0:00:00 - 0:00:06
+A da bismo ga dokazali, dokazat ćemo prvo jedan rezultat koji se zove glavna lema,;0:00:08.360000 - 0:00:12.260000
+koji praktički direktno dokazuje Gensenov Haupzatz.;0:00:12.260000 - 0:00:15
+Dakle, ideja je eliminirati rez.;0:00:15.360000 - 0:00:17.500000
+Znači, nekak...;0:00:18.060000 - 0:00:19.060000
+Glavna lema, će mi reći, mogu... Aha, dobro, ajde, neću vam reći još. Budete vi meni reći.;0:00:20.360000 - 0:00:25.300000
+Dobro, znači eliminirali rez mi već jesmo u LK,;0:00:26.100000 - 0:00:29.560000
+ali samo na jednom primjeru, sad bi to htjeli napraviti općerit, jel?;0:00:29.560000 - 0:00:32.760000
+Dobro?;0:00:33.860000 - 0:00:34.360000
+Ajmo se malo samo prisjetiti nekih sitnih definicija.;0:00:34.560000 - 0:00:37.260000
+Dakle, H od velko pi mi znači visinu stabla velko pi.;0:00:37.560000 - 0:00:42.760000
+Ovaj rang od a mi znači rang formule a,;0:00:43.860000 - 0:00:47.260000
+dakle broju uklopljenih kvantifikatora i veznika, smo rekli, jel?;0:00:47.360000 - 0:00:51.260000
+Dobro.;0:00:52.260000 - 0:00:52.760000
+Imamo i onu lemu koja kaže da ako imam veliko stablo izvoda, jel?;0:00:53.520000 - 0:01:00.220000
+I sad identificiram neku variablu, ono a, jel?;0:01:00.220000 - 0:01:03.720000
+Ovoga imam nekakav term T spreman, mogu samo piknuti taj term T svuda gdje piše a;0:01:03.720000 - 0:01:09.720000
+i stvarno će to biti izvod sekvente gamma T za a izvodi delta T za a;0:01:09.720000 - 0:01:18.020000
+i taj izvod onda ima smisla označit sa pi T za a.;0:01:18.020000 - 0:01:22.220000
+Dobro.;0:01:22.380000 - 0:01:22.880000
+Ok.;0:01:24.880000 - 0:01:25.380000
+E sad, ajde probajte mi reći šta zapravo ova lema govori.;0:01:26.180000 - 0:01:31.380000
+Znači, imam formulu a, ranga D, u redu.;0:01:31.680000 - 0:01:36.680000
+Tu vjerojatno ne bih trebalo ništa reći, ali vjerojatno veće od jedan, dobro, nije važno.;0:01:38.880000 - 0:01:42.680000
+Znači, ranga D i neka su pi 1 i pi 2 izvodi nekakvih sekventi skrozopćenito,;0:01:42.680000 - 0:01:50.880000
+ali su izvodi rangova manjih od D, strogo manjih od ovog tu D.;0:01:51.540000 - 0:01:55.840000
+Tada postoji izvod i sad za neku malo neobičnu možda sekventu,;0:01:57.340000 - 0:02:03.340000
+čiji je rang također manji od D.;0:02:03.340000 - 0:02:05.540000
+E sad, naravno, prije nego idemo nešto dokazivati, posebno ovak razgranato,;0:02:06.340000 - 0:02:11.840000
+bilo bi dobro da razumijemo šta se događa.;0:02:12.340000 - 0:02:14.840000
+Znači, kako biste mogli to malo parafrazirati?;0:02:15.340000 - 0:02:17.540000
+Pijanica;0:02:21.340000 - 0:02:23.340000
+Ajmo malo ovako razmišljati.;0:02:29.340000 - 0:02:31.340000
+Ja sam u ovoj situaciji, jel?;0:02:34.340000 - 0:02:36.340000
+Znači, pi 1 mi je izvod sekvente, kaj smo rekli, gamma 1 izvodi delta 1;0:02:36.840000 - 0:02:49.840000
+Ponekad ću ovo čitat iz vodi ili da je,;0:02:50.300000 - 0:02:52.800000
+iako se malo tuče s tim da je ovo izvod u LK, ali dobro.;0:02:52.800000 - 0:02:56.800000
+Znači, imam to, imam izvod za gamma 2 izvodi delta 2, ok?;0:02:57.800000 - 0:03:06.800000
+I sad, šta sam iz toga napravio?;0:03:07.300000 - 0:03:09.300000
+Znači, negakav izvod za gamma 1, gamma 2,;0:03:09.300000 - 0:03:15.300000
+Nadam se da vam neće smetat, ne bih tio sad tisuću vitica napisat po ploči.;0:03:16.260000 - 0:03:20.760000
+Znači, kad iz skupa izuzimam formulu, to znači ono, bez singleton ta formula.;0:03:21.260000 - 0:03:26.760000
+Dobro, znači, mislim, čak nije ni skup, što je najbolje.;0:03:27.260000 - 0:03:30.760000
+Jel ovo tu je zapravo konačan niz, ok?;0:03:30.760000 - 0:03:33.260000
+Ovo tu mi samo znači da iz njega vadim formulu A.;0:03:33.760000 - 0:03:36.760000
+Da sam ju želio izvaditi iz ovog niza, onda bi ovak napisao.;0:03:37.260000 - 0:03:41.760000
+Dobro, tak ću pisat samo zato da malo bude kraće.;0:03:42.260000 - 0:03:44.760000
+A nije niš manje točno, budući onak nisu skupovi.;0:03:45.220000 - 0:03:48.720000
+Dobro, ok.;0:03:49.220000 - 0:03:51.220000
+Izvodi, šta, delta 1 bez A, delta 2, valjda, tim redom.;0:03:53.720000 - 0:03:58.720000
+Da.;0:04:00.220000 - 0:04:00.720000
+I sad kao, hoće reći, ak su tu rangovi manji od D,;0:04:02.220000 - 0:04:06.220000
+onda je i ovaj se da napravi tak da je ranga;0:04:08.220000 - 0:04:14.720000
+možda je bolje reći ono, izvod za ovo tu cijelo kupni,;0:04:15.720000 - 0:04:19.720000
+će biti ranga manjeg od D.;0:04:20.220000 - 0:04:21.720000
+Koje biste u načelu pravilo iskoristili da od ovoga dođete do ovoga?;0:04:25.220000 - 0:04:30.220000
+Jel vam to liči na neko pravilo?;0:04:31.220000 - 0:04:32.720000
+Znači kao, odavde se miče A i odavde se miče A.;0:04:34.720000 - 0:04:40.220000
+Koje je to pravilo?;0:04:40.720000 - 0:04:41.720000
+Da bi smo zaključili uniju ljevih strana, izvodi uniju desnih strana.;0:04:42.680000 - 0:04:46.680000
+Pravilo reza, jel tako?;0:04:53.680000 - 0:04:55.680000
+Znači, na neki način smo izgubili ovu suvišnu formulu,;0:04:56.180000 - 0:04:59.680000
+a to je ono što nam smeta za podformulnost.;0:05:00.180000 - 0:05:02.680000
+Jel vidite, A je podformula od, ne A, naravno ovo tu sve samo prepisujemo,;0:05:03.180000 - 0:05:07.680000
+B je podformula od A i B, A i B su podformule od A i B, itd.;0:05:08.640000 - 0:05:13.640000
+Dobro?;0:05:14.140000 - 0:05:14.640000
+Znači, nekako za svojstvo podformulnosti u sistemu LK nam smetaju upravo rezovi.;0:05:14.640000 - 0:05:20.140000
+Sad ih se pokušavamo riješiti, pokušavamo provjest normalizaciju, jel tako?;0:05:20.140000 - 0:05:23.640000
+Dobro?;0:05:26.640000 - 0:05:27.140000
+E, i sad, drugim riječima,;0:05:28.140000 - 0:05:31.140000
+ovo je mjesto gdje bismo mi željeli napraviti rez.;0:05:32.640000 - 0:05:36.640000
+Jel tako?;0:05:37.100000 - 0:05:37.600000
+Ali mi ga ne želimo napraviti, jer bi nam onda porastao rang ovog izvoda.;0:05:38.600000 - 0:05:44.100000
+Dobro, onda bi rang izvoda bio točno D,;0:05:44.600000 - 0:05:47.600000
+jer bi maksimalna složenost neke formule reza bila upravo;0:05:47.600000 - 0:05:52.100000
+te formule A po koje se ovaj rez pravi.;0:05:52.600000 - 0:05:55.100000
+Znači, dignuli bismo rang izvoda, odnosno,;0:05:55.600000 - 0:05:59.600000
+maksimalni rang neke formule reza, bismo digli na D.;0:06:00.600000 - 0:06:04.600000
+Jel to jasno?;0:06:05.100000 - 0:06:06.100000
+Ok.;0:06:07.100000 - 0:06:07.600000
+Znači, ako je tu, ne znam, rang 5, tu rang 7,;0:06:08.100000 - 0:06:11.100000
+a rang formule A bi bio 13, recimo, da napravimo rez,;0:06:11.100000 - 0:06:17.100000
+onda smo sa tih rangova, ono, manjih od 8,;0:06:17.100000 - 0:06:23.100000
+prešli na rang 13, prešli na rang veći.;0:06:23.100000 - 0:06:26.100000
+Ili, ajde, manjih od 13 prešli na 13. Dobro?;0:06:26.600000 - 0:06:29.600000
+Tako se zapravo treba reći.;0:06:30.600000 - 0:06:32.100000
+Ok.;0:06:32.600000 - 0:06:33.100000
+E, i sad, znači, koji bi bio plan jednom kad to dobijemo?;0:06:34.060000 - 0:06:38.060000
+Kako ćemo onda normalizirati izvod?;0:06:38.060000 - 0:06:41.560000
+Kako ćemo izbaciti sve rezove?;0:06:41.560000 - 0:06:48.060000
+Mi sad, ako se dobro želi, pokazujemo da sve za štrobnih dokona;0:06:49.560000 - 0:06:53.560000
+koji koristili reze, možemo dokazati.;0:06:53.560000 - 0:06:55.560000
+Tako je, tako je.;0:06:56.060000 - 0:06:57.560000
+I, znači, da, način na koji ćemo, ajmo reći,;0:06:58.020000 - 0:07:03.020000
+nekako sistematično pristupiti tom pitanju,;0:07:03.020000 - 0:07:06.520000
+je taj da ovoga, ono, jednom kad ovo dobijemo,;0:07:07.020000 - 0:07:13.020000
+onda ćemo moći reći sljedeće.;0:07:13.520000 - 0:07:15.520000
+Ima neka, ono, maksimalna formula reza,;0:07:15.520000 - 0:07:18.520000
+znači izvod je ovoga, izvod je tog ranga, jel?;0:07:18.520000 - 0:07:23.020000
+I ima jedno deset, recimo, takvih formula, jel?;0:07:23.520000 - 0:07:27.020000
+Tog maksimalnog ranga.;0:07:27.480000 - 0:07:28.980000
+I onda te rezove, jel, svih tih deset rezova,;0:07:28.980000 - 0:07:32.480000
+izbacujemo na onaj način koji smo prošli put pričali,;0:07:32.480000 - 0:07:34.980000
+znači, negako u dozbo krećemo, jel tako?;0:07:34.980000 - 0:07:36.980000
+Znači, čim, vidite, čim sam, ono, nešto dobio rezom,;0:07:36.980000 - 0:07:42.980000
+a gore nemam tako jakih rezova, nemam rezova tolikog ranga,;0:07:42.980000 - 0:07:48.480000
+onda mogu ovaj reze zamijeniti sa negakvim izvodom;0:07:48.480000 - 0:07:51.980000
+koji ne koristi taj rez, u redu.;0:07:51.980000 - 0:07:53.980000
+I onda, znači, jednom kad, ono, gore porješavam se tih rezova,;0:07:54.440000 - 0:07:58.440000
+pa sve niže, niže, niže, ovoga,;0:07:58.440000 - 0:08:01.440000
+onda sad sam se riješio svih rezova, ne znam, ranga sto, u redu.;0:08:01.440000 - 0:08:04.940000
+Ja sad imam rezove ranga sedamnesti, ok?;0:08:04.940000 - 0:08:07.940000
+Možda pet komada ili petisuća komada i tak dalje, ok?;0:08:07.940000 - 0:08:11.440000
+I vidite da je to konačan postupak,;0:08:11.440000 - 0:08:13.440000
+znači, sičeću negako skroz dolje i riješit ću se svih rezova, jel?;0:08:13.440000 - 0:08:17.940000
+Dobro.;0:08:18.400000 - 0:08:19.400000
+Znači, nama je, naravno, najteži dio ovoga dokazati jedan korak u tom postupku.;0:08:21.400000 - 0:08:27.400000
+Ja sad, tu bih vas samo molio,;0:08:28.400000 - 0:08:30.400000
+vidite, tu je ljepše to napisano nego što je kod mene,;0:08:30.900000 - 0:08:33.900000
+ali će cijelo vrijeme se ta relativno loša notacija nalazit na slajdovima.;0:08:33.900000 - 0:08:38.900000
+Znači, ovo tu nije primjena jednog pravila, zapravo.;0:08:38.900000 - 0:08:42.400000
+Ja upravo kažem, neću napraviti rez, u redu.;0:08:42.400000 - 0:08:45.900000
+Ovo bi nekak možda bilo jedno pravilo da je to stvarno rez.;0:08:46.360000 - 0:08:49.360000
+Ali ja hoću reći, ako imam ovaj izvod,;0:08:49.360000 - 0:08:52.360000
+imam ovaj izvod, onda imam izvod ono P3,;0:08:52.360000 - 0:08:55.860000
+koji završava s ovim tu, a nije se povećao rank.;0:08:55.860000 - 0:08:59.360000
+Dobro? Kužite.;0:08:59.360000 - 0:09:00.860000
+Znači, ova tu crta mi je više kao ono, točkice, nekakve.;0:09:00.860000 - 0:09:05.860000
+U redu.;0:09:05.860000 - 0:09:06.860000
+A da smo u nekom trenutku u tom jednom izvodu imali neki rez,;0:09:07.860000 - 0:09:11.360000
+onda bi se sigurno rank povećao?;0:09:11.360000 - 0:09:13.360000
+Da, nije problem neki rez, nego je bitno da je rez po A.;0:09:13.820000 - 0:09:17.320000
+Jer formula A je ta koja je ranga D.;0:09:18.320000 - 0:09:22.320000
+A u ovim izvodima možete li imati rezove da pače?;0:09:22.320000 - 0:09:26.320000
+Da pače? U redu.;0:09:26.820000 - 0:09:28.320000
+Jer upravo to je poanta, mi ćemo nekak rješavati se nekih rezova.;0:09:28.320000 - 0:09:32.320000
+Dobro?;0:09:32.820000 - 0:09:33.320000
+Je.;0:09:34.320000 - 0:09:34.820000
+Dosta je ovak' triki, ali mislim da ćete shvati dok sve malo još izdježamo.;0:09:36.320000 - 0:09:40.820000
+Znači, sad je otprilike to jasno.;0:09:43.820000 - 0:09:45.820000
+Znači, već smo se dogovorili da ćemo raditi indukcijom po zbroju visina izvoda.;0:09:47.320000 - 0:09:52.820000
+Zašto? Zato što čim jednoga od njih smanjem,;0:09:54.820000 - 0:09:57.820000
+ono, uzmem izvod bez zadnjeg pravila primjenjenog,;0:09:57.820000 - 0:10:01.320000
+ovoga već ću moći se malo, to ja zovem, klackati.;0:10:01.820000 - 0:10:05.320000
+Znači, imaću HP1 crtica, gdje je taj za jedan kraći,;0:10:05.320000 - 0:10:09.320000
+stablo je za jedan niže,;0:10:10.320000 - 0:10:12.320000
+i ovoga H od pi2.;0:10:12.780000 - 0:10:14.780000
+Znači, taj zbroj, ta dva broja je sad već manji;0:10:14.780000 - 0:10:17.780000
+i već mi ova potpuna indukcija, mogu se prištekati na nju, jel tako?;0:10:17.780000 - 0:10:23.780000
+Mislim, čak sam smanjio samo za jedan, a ne sad za proizvodno, ali dobro.;0:10:24.280000 - 0:10:28.780000
+Ok.;0:10:32.280000 - 0:10:32.780000
+Jesam li mogao možda indukciju raditi po maksimumu?;0:10:33.280000 - 0:10:37.780000
+Jel bi to bilo malo u načelu drugačije?;0:10:38.740000 - 0:10:44.240000
+Ili je to potpuno ista stvar?;0:10:44.740000 - 0:10:46.740000
+Šta biste rekli?;0:10:47.740000 - 0:10:48.740000
+Drugačije, tako je.;0:10:52.240000 - 0:10:53.240000
+Znači, jer u čemu je problem?;0:10:53.240000 - 0:10:55.240000
+Znači, tu čim malo smanjim bilo koji od dva izvoda, odmah je manji broj.;0:10:55.240000 - 0:11:00.740000
+A kad bi bio maksimum, onda bi morao smanjiti veći od dva izvoda, u redu.;0:11:00.740000 - 0:11:05.740000
+A ne želim to. Hoću da mi je život jednostavniji.;0:11:06.200000 - 0:11:09.200000
+Ok.;0:11:10.700000 - 0:11:11.200000
+Znači, baza, naravno, najmanje mogući izvodi koji postoje su aksiomi.;0:11:11.200000 - 0:11:15.200000
+Jel visine 1, odnosno, evo ih.;0:11:15.200000 - 0:11:18.200000
+B izvodi B i C izvodi C za neke formule B i C.;0:11:19.200000 - 0:11:23.700000
+I već smo o ovoga, mislim, prošli put pričali, da sad imamo četiri mogućnosti, jel?;0:11:24.200000 - 0:11:29.200000
+Nekak je samo bitno koja od tih formula, možda obje, možda nijedna, je A.;0:11:30.200000 - 0:11:35.200000
+Dobro. Pa ajde sad da vidimo.;0:11:35.660000 - 0:11:37.660000
+Znači, ako ja imam, koja je prva situacija? B je A.;0:11:41.660000 - 0:11:46.160000
+Znači, imam ovo i imam ovo tu s time da C nije A.;0:11:47.160000 - 0:11:53.160000
+I sad, ja bih htio izve šta? Šta smo ono rekli?;0:11:54.160000 - 0:11:57.160000
+Znači, ja bih htio...;0:11:58.160000 - 0:12:00.160000
+Znači, htio bi maknut A odavde, dobro?;0:12:05.260000 - 0:12:10.660000
+I htio bi maknut A odavde i napisat šta dobijem. U redu.;0:12:11.160000 - 0:12:15.160000
+Znači, šta će to biti? To će valjda biti A C izvodi C, jel je?;0:12:15.160000 - 0:12:22.160000
+Jel tako?;0:12:24.160000 - 0:12:25.160000
+Znači, šta mi je? Gamma 1 mi je A, gamma 2 mi je C.;0:12:25.160000 - 0:12:30.160000
+Iz C ovoga C bez A je još uvijek C, jer predpostavljam da je C različito da.;0:12:30.620000 - 0:12:38.120000
+Jel tako? Dobro.;0:12:38.120000 - 0:12:40.120000
+I znači, desno šta? A bez A je ništa, a C prepišem. U redu.;0:12:41.620000 - 0:12:48.120000
+Znači, kak ću ja od ove dvije stvari doći do ovoga tu?;0:12:48.620000 - 0:12:52.620000
+Naravno da ne koristim rez, mislim, naravno da ga ne bih ni koristio, jel?;0:12:53.120000 - 0:12:57.620000
+Jel mi je dovoljna samo jedna od ove dvije stvari?;0:12:58.580000 - 0:13:01.080000
+I jel jako bitno koju iskoristim?;0:13:01.580000 - 0:13:03.580000
+Jako je bitno koju iskoristim.;0:13:09.080000 - 0:13:11.080000
+Vidite, neću nekak preći sa A na C, dobro?;0:13:11.580000 - 0:13:15.080000
+Jer bi nekak morao izgubiti taj A, a to ne mogu. U redu.;0:13:15.580000 - 0:13:19.080000
+Znači, nećemo ovo, nego ćemo samo koristiti ovo tu.;0:13:19.580000 - 0:13:23.580000
+Dobro. E sad, koje pravilo ću iskoristiti?;0:13:24.580000 - 0:13:27.580000
+Malo da slabljenje, jer tu je sad negak nastao A.;0:13:28.040000 - 0:13:30.040000
+Al ću onda imat mali problemić, jer već smo rekli da nam slabljenje,;0:13:30.540000 - 0:13:34.540000
+naravno ljevo slabljenje, kad velim slabljenje sada,;0:13:35.040000 - 0:13:37.040000
+ovoga slabljenje s ljeve strane, to je ono ljevo pravilo slabljenja,;0:13:37.540000 - 0:13:41.040000
+ovoga, kad njega primjenim, onda sam dobio A blizu turnstajla.;0:13:41.540000 - 0:13:45.040000
+Dobro? Znači, sad će mi trebat još jedna permutacija.;0:13:45.540000 - 0:13:48.040000
+Aha, dobro, tu već pišem.;0:13:50.540000 - 0:13:52.040000
+Evo, znači, direktno je tu.;0:13:54.540000 - 0:13:56.040000
+U redu.;0:13:57 - 0:13:58
+Ok. Šta bi bilo...;0:13:59 - 0:14:01.500000
+Dobro, sad naravno B je turnstajl B i A turnstajl A, to je isto.;0:14:02 - 0:14:07.500000
+Mislim, isto možda s druge strane, samo slabimo je.;0:14:10.500000 - 0:14:13.500000
+Dobro, ovoga.;0:14:14 - 0:14:15.500000
+Šta još imamo? Znači imamo...;0:14:17 - 0:14:20
+Kad su oba pravila A, izvodi A,;0:14:20.960000 - 0:14:25.460000
+šta onda trebam dobiti?;0:14:26.960000 - 0:14:28.460000
+Onda jedna mi svakak ne treba i već imam svoj izvod visine 1,;0:14:31.960000 - 0:14:38.460000
+jel' tako, bezvjese? Dobro?;0:14:38.960000 - 0:14:40.460000
+E, a šta će biti kad ću imat prave B i C,;0:14:40.960000 - 0:14:45.460000
+ono koji nisu A?;0:14:45.960000 - 0:14:47.460000
+Šta ću onda?;0:14:50.960000 - 0:14:52.960000
+Hoću li mi sad trebat oba ili je dovoljan jedan?;0:14:53.960000 - 0:14:57.460000
+Jel' mogu samo jednog skrižat' i slabit'?;0:14:59.960000 - 0:15:03.960000
+Ne?;0:15:05.960000 - 0:15:06.960000
+Znači, šta bi htio dobit'?;0:15:08.960000 - 0:15:10.460000
+Htio bi dobit' ovoga B, C bez A, to je B, e, B, C.;0:15:10.960000 - 0:15:18.460000
+E, B bez A, C.;0:15:20.960000 - 0:15:25.460000
+Znači B, C.;0:15:25.960000 - 0:15:26.960000
+Trebamo ovoga.;0:15:28.460000 - 0:15:29.460000
+Trebamo ovoga.;0:15:29.960000 - 0:15:30.960000
+Ja mislim da ne treba.;0:15:30.960000 - 0:15:31.960000
+Jer pazite, slabljenje imate s obje strane.;0:15:32.960000 - 0:15:34.960000
+Sjetite se.;0:15:36.460000 - 0:15:37.460000
+Ovako, jel'?;0:15:40.460000 - 0:15:41.460000
+Jer pazite, znači, ak' ja, ono, imam model za gamma,;0:15:41.960000 - 0:15:47.460000
+taj je model za delta, pa je gotovo.;0:15:47.920000 - 0:15:49.420000
+Nema frke, ne?;0:15:49.920000 - 0:15:50.920000
+A ak' imam, ono, viška pretpostavku, to je isto okej.;0:15:51.420000 - 0:15:54.920000
+Dobro?;0:15:55.920000 - 0:15:56.920000
+Znači, nekak' ljevo je konjunkcija, desno je disjunkcija,;0:15:56.920000 - 0:15:59.920000
+pa zato malo izgleda možda neobično,;0:15:59.920000 - 0:16:02.920000
+ali fakat slabljenje je, ima i desno pravilo i ljevo pravilo,;0:16:02.920000 - 0:16:06.920000
+koja su na tu stranu identična, jel'?;0:16:06.920000 - 0:16:09.420000
+Dobro?;0:16:10.420000 - 0:16:11.420000
+Znači, stvarno mogu uzet' koje god si vi izaberete.;0:16:11.920000 - 0:16:15.420000
+I sad je samo pitanje koliko slabljenja, koliko permutacija.;0:16:16.380000 - 0:16:19.880000
+U oba slučaja će bit' isto, jel'?;0:16:21.380000 - 0:16:23.380000
+Šta biste rekli?;0:16:24.380000 - 0:16:25.380000
+Dva slabljenja, a koliko permutacija?;0:16:26.880000 - 0:16:29.880000
+Koliko puta ću imat' sreće da mi baš kod turnstajla treba nešto nastat'?;0:16:29.880000 - 0:16:34.380000
+Jer vidite, u oba slučaja je kod turnstajla, dobro?;0:16:34.880000 - 0:16:37.380000
+Jedanput ću imat' sreće, jedanput neću imat' sreće, jel' tako?;0:16:38.880000 - 0:16:41.380000
+Znači šta?;0:16:41.880000 - 0:16:42.880000
+Tu kad uvedem C sam imao sreće, jel',;0:16:43.340000 - 0:16:46.840000
+a tu kad uvedem C nisam imao sreće.;0:16:47.340000 - 0:16:49.840000
+I gotovo.;0:16:52.340000 - 0:16:53.340000
+Dobro? I permutacija, jel'?;0:16:53.840000 - 0:16:55.840000
+Ok? Znači trivič, trivič.;0:16:56.340000 - 0:16:58.340000
+E sad, toliko o bazi.;0:16:59.840000 - 0:17:01.840000
+Ajmo razgovarat' o koraku.;0:17:04.340000 - 0:17:06.840000
+Kak' će to sad izgledat'?;0:17:06.840000 - 0:17:08.340000
+Kako je korak?;0:17:13.840000 - 0:17:15.840000
+Znači, pretpostavit' ćemo da za sve, za stvar stabla ovoga,;0:17:16.840000 - 0:17:21.840000
+mislim, za sve prirodne brojeve manje od visina od pi1 plus visina od pi2,;0:17:22.840000 - 0:17:30.340000
+ovoga tvrnja vrijedi, jel'?;0:17:30.840000 - 0:17:33.340000
+I pogledat' ćemo šta je sa izvodom koji je visok točno;0:17:33.840000 - 0:17:39.840000
+h od pi1 plus h od pi2.;0:17:40.800000 - 0:17:42.800000
+E sad, kak' biste recimo pametno;0:17:43.800000 - 0:17:46.800000
+rasparcelirali ovoga proof obligation-e?;0:17:48.800000 - 0:17:53.300000
+Znači, kak' ćemo pokupit' nekako sve moguće slučajeve,;0:17:53.800000 - 0:17:58.300000
+ali da to na pametan način napravimo?;0:17:58.300000 - 0:18:00.800000
+Znači, vjerojatno budući da dokazujemo nekakvom indukcijom po stablu,;0:18:01.300000 - 0:18:05.300000
+vjerojatno ćemo napravit' totalnu disjunkciju;0:18:05.300000 - 0:18:07.800000
+nekako po zadnjem pravilu u izvodu, jel' tako?;0:18:08.260000 - 0:18:10.760000
+Jer čim se dignemo, jel', bez obzira sad jel' to pravilo unarno;0:18:10.760000 - 0:18:15.260000
+il' je možda binarno, ter' nanih nema.;0:18:15.760000 - 0:18:17.760000
+Vidite kol'ko je tu zgodnije nego u prirodnoj dedukciji.;0:18:18.760000 - 0:18:21.760000
+Tam' je bilo ono čudo ovoga eliminacije disjunkcije,;0:18:21.760000 - 0:18:26.260000
+ona konstruktivna dilema, ima tri,;0:18:26.260000 - 0:18:28.260000
+ono, stablo čiji čvor ima troje djece, jel' tako?;0:18:30.260000 - 0:18:35.260000
+Ovoga. Tu to nemamo.;0:18:36.220000 - 0:18:38.220000
+Znači, jak malo idete i pogledate, vidjet ćete da su pravila takva.;0:18:38.220000 - 0:18:42.220000
+Dobro, evo rez, komplicirani, ovo kao komplicirano.;0:18:42.720000 - 0:18:46.220000
+Ali nema tri komada, samo dvije premise, ajmo reći.;0:18:46.720000 - 0:18:50.720000
+Dobro? Dvije ili češće još jedna, u redu.;0:18:52.720000 - 0:18:56.720000
+Znači, šta biste onda rekli? Kako to zadnje pravilo može biti?;0:19:00.220000 - 0:19:03.720000
+Kako smo mi pravila uopće raspodijelili?;0:19:03.720000 - 0:19:07.680000
+S jedne strane smo imali slabljenje, jel' tako?;0:19:13.180000 - 0:19:16.180000
+Pardon, strukturna pravila sam htio reći.;0:19:18.680000 - 0:19:20.680000
+Znači, imali smo slabljenje, kontrakciju i permutaciju, jel' tako?;0:19:21.180000 - 0:19:26.180000
+Znači, slabljenje... Strukturna pravila, bože.;0:19:26.680000 - 0:19:30.180000
+Strukturna pravila.;0:19:30.680000 - 0:19:32.680000
+Možda ovako, zadnje pravilo...;0:19:34.680000 - 0:19:37.680000
+Zadnje pravilo, ono, primjenjeno u izvodu, jel', je strukturno.;0:19:40.180000 - 0:19:46.180000
+Šta smo još imali?;0:19:46.680000 - 0:19:48.680000
+Bili su aksijon i rez potrpani zajedno, to su pravila o identitetu.;0:19:49.680000 - 0:19:53.680000
+Ali je valjda dosta jasno da su krajnje različita,;0:19:59.680000 - 0:20:02.680000
+pogotovo kad o rezu razgovaramo, pa ćemo vjerojatno imati dva slučaja.;0:20:02.680000 - 0:20:06.640000
+Aha, možda sam malo krivo ovo rekao.;0:20:18.640000 - 0:20:20.640000
+Zapravo, me ne zanima toliko zadnje pravilo u izvodu.;0:20:21.140000 - 0:20:26.640000
+Znači, ne...;0:20:27.140000 - 0:20:28.640000
+Jer, kužite, to zadnje pravilo nekakvu izvodu je specificirano praktički.;0:20:29.600000 - 0:20:35.600000
+Znači, to je ovo što... Mislim, jako je teško to sad izgovoriti.;0:20:36.100000 - 0:20:39.600000
+Ali, znači, želim zaobić rez, u redu.;0:20:40.100000 - 0:20:42.600000
+Znači, kao zadnje što radim je u principu taj rez, odnosno njegovo zaobilaženje.;0:20:43.100000 - 0:20:48.100000
+Ono što me zapravo zanima je ovo.;0:20:48.600000 - 0:20:51.100000
+Koje je to pravilo, možda sa više premisa, jel',;0:20:51.600000 - 0:20:55.100000
+iskorišteno u jednom, odnosno drugom izvodu. U redu.;0:20:55.560000 - 0:20:59.560000
+Kužite što hoću reći.;0:21:00.560000 - 0:21:02.060000
+Znači, ne ovo zadnje pravilo, zadnje, zadnje,;0:21:02.560000 - 0:21:05.560000
+nego u ovim izvodima gore.;0:21:06.060000 - 0:21:08.060000
+Znači, ak' imam...;0:21:08.560000 - 0:21:10.060000
+Šta smo rekli?;0:21:10.560000 - 0:21:12.060000
+Gamma jedan, pi dva, gamma dva, delka dva.;0:21:14.560000 - 0:21:20.560000
+I sad to ide...;0:21:21.020000 - 0:21:22.520000
+Gamma jedan, gamma dva, del za.;0:21:23.020000 - 0:21:26.020000
+Delka jedan, del za, delta dva.;0:21:27.520000 - 0:21:30.520000
+Ovdje me zanima što je zadnje pravilo i ovdje.;0:21:31.520000 - 0:21:34.020000
+U redu.;0:21:34.520000 - 0:21:35.520000
+Znači, ovak' bi trebalo reći...;0:21:36.020000 - 0:21:37.520000
+Nek' je tu zadnje pravilo R1, ovdje.;0:21:44.020000 - 0:21:47.520000
+Znači, ovdje zadnje pravilo...;0:21:48.480000 - 0:21:51.480000
+je R1, a ovdje nek' se nalazi R2.;0:21:56.980000 - 0:22:00.480000
+Dobro, naravno, to je pravilo koje izvodi gamma jedan u delta jedan,;0:22:00.980000 - 0:22:05.980000
+a R2 je pravilo koje isto ima nekoliko djece,;0:22:06.480000 - 0:22:09.980000
+a korijen je...;0:22:10.480000 - 0:22:11.980000
+Ova sekventa gamma dva izvodi delta dva.;0:22:13.480000 - 0:22:16.480000
+Dobro.;0:22:16.940000 - 0:22:17.440000
+Znači, ono što sam zapravo htio reći je...;0:22:17.940000 - 0:22:20.940000
+barem jedno...;0:22:22.440000 - 0:22:23.440000
+od tih pravila R1, R2...;0:22:26.440000 - 0:22:28.440000
+je strukturno.;0:22:30.940000 - 0:22:31.940000
+U redu.;0:22:31.940000 - 0:22:32.940000
+Barem jedno je aksiom.;0:22:33.940000 - 0:22:35.440000
+Barem jedno...;0:22:36.440000 - 0:22:37.440000
+barem jedno je pravilo reza.;0:22:39.940000 - 0:22:41.440000
+U redu.;0:22:44.940000 - 0:22:45.440000
+Šta je treće? Logička pravila, je li tako?;0:22:46.940000 - 0:22:49.940000
+Znači, barem jedno od ta dva pravila je logičko,;0:22:54.940000 - 0:22:58.440000
+ali sad ću to malo još...;0:22:58.940000 - 0:23:00.440000
+razrezati.;0:23:02.940000 - 0:23:03.440000
+Dakle...;0:23:03.940000 - 0:23:04.440000
+nekak...;0:23:06.440000 - 0:23:06.940000
+se ta logička pravila malo kompliciraju,;0:23:07.940000 - 0:23:10.440000
+ovisno o tome je li A glavna formula ili nije.;0:23:10.440000 - 0:23:13.940000
+I zapravo je možda...;0:23:14.400000 - 0:23:15.900000
+ono, malo kompliciranije, pa se treba s tim pozabavit.;0:23:16.400000 - 0:23:19.900000
+Kad ovo VUGAM je...;0:23:20.400000 - 0:23:23.400000
+Kad su obje...;0:23:25.400000 - 0:23:26.400000
+Znači, R1 i R2...;0:23:26.900000 - 0:23:28.900000
+Aha, barem jedno od...;0:23:29.400000 - 0:23:30.400000
+Dobro, znači, ajde, ne barem jedno, nego tu R1 i R2...;0:23:30.900000 - 0:23:35.900000
+Znamo kada to napišem.;0:23:37.900000 - 0:23:39.400000
+Aha, barem jedno od R1 i R2 je logičko;0:23:40.400000 - 0:23:42.900000
+i A glavna u oba pravila...;0:23:43.360000 - 0:23:47.860000
+U oba pravila, znači R1 i R2...;0:23:50.860000 - 0:23:53.860000
+I nije glavna...;0:23:57.860000 - 0:23:58.860000
+Znači, A nije glavna...;0:24:01.360000 - 0:24:02.860000
+ni u R1...;0:24:05.860000 - 0:24:06.860000
+ni u R2.;0:24:09.360000 - 0:24:10.360000
+Evo, jel se sad slažete da smo sve pokupili?;0:24:11.320000 - 0:24:13.320000
+Što je ako je glavna u jednom pokupili i nije?;0:24:17.320000 - 0:24:19.820000
+Aha, aha...;0:24:21.820000 - 0:24:22.820000
+A glavna...;0:24:23.320000 - 0:24:24.320000
+Aha, sorry, ne, šta sam htio...;0:24:25.820000 - 0:24:27.320000
+A nije glavna u barem jednom, to sam ti...;0:24:27.820000 - 0:24:29.820000
+Negacije su teške.;0:24:30.320000 - 0:24:31.320000
+A nije glavna u barem jednom pravilu.;0:24:32.320000 - 0:24:35.320000
+To.;0:24:35.820000 - 0:24:36.320000
+Naravno, mislim R1 i R2.;0:24:41.320000 - 0:24:43.320000
+To.;0:24:45.320000 - 0:24:45.820000
+Jel sad ok?;0:24:46.320000 - 0:24:47.320000
+Ok.;0:24:48.320000 - 0:24:48.820000
+E, to bi bio nekakav plan.;0:24:49.320000 - 0:24:50.320000
+Pa idemo sad da vidimo malo, da malo počnemo to vježbati.;0:24:50.820000 - 0:24:54.320000
+Šta bi, valjda bi, akcija on bi bio najlakši, jel tak ide prvo?;0:24:56.320000 - 0:24:59.320000
+Evo da vidim koji ima reda sedam da idemo otprilike.;0:25:00.820000 - 0:25:03.320000
+Je.;0:25:04.820000 - 0:25:05.320000
+Znači...;0:25:06.320000 - 0:25:07.320000
+Znači...;0:25:08.280000 - 0:25:09.280000
+Pazite, nismo sad baš više u...;0:25:12.280000 - 0:25:14.280000
+Nismo više u bazi, iako će ovo sad slično vjerojatno izgledat.;0:25:18.780000 - 0:25:22.780000
+Jer smo mi nekak...;0:25:23.280000 - 0:25:24.280000
+Ono, u bazi smo zapravo koristili samo jednu od toga, jel?;0:25:25.280000 - 0:25:29.280000
+Znači, kao, evo imamo ovakvu situaciju.;0:25:29.280000 - 0:25:31.280000
+Znači, B.;0:25:31.780000 - 0:25:32.280000
+Znači, tu je sad nekak prvi slučaj u koraku, gdje nam je...;0:25:33.780000 - 0:25:36.780000
+barem jedno od zadnjih pravila u izvodima P1, odnosno P2, akcijom.;0:25:37.740000 - 0:25:43.740000
+Dobro?;0:25:43.740000 - 0:25:44.240000
+Znači...;0:25:44.740000 - 0:25:45.240000
+A naravno, jedini način da bude akcijom, zadnje pravilo,;0:25:48.240000 - 0:25:51.740000
+je da bude prvo pravilo i jedino pravilo.;0:25:52.240000 - 0:25:54.240000
+Dobro?;0:25:54.740000 - 0:25:55.240000
+Znači, čitav izvod, recimo, P1, bez manjenja općenitosti, je B izvodi B.;0:25:55.740000 - 0:26:00.740000
+Ok?;0:26:01.740000 - 0:26:02.240000
+A onda imam P2 ovdje za gamma 2 izvodi delta 2.;0:26:03.200000 - 0:26:11.200000
+I sad, ono što bih ja htio dokazati...;0:26:12.200000 - 0:26:16.700000
+Jel tako?;0:26:17.200000 - 0:26:17.700000
+Je da ja sad, pomoću toga svega, mogu izvesti što?;0:26:18.200000 - 0:26:22.200000
+Mogu izvesti B, gamma 2 bez A.;0:26:23.200000 - 0:26:26.700000
+A...;0:26:27.660000 - 0:26:28.160000
+B bez A, delta 2, tako da ne napravim res.;0:26:30.660000 - 0:26:36.160000
+Kako biste to napravili?;0:26:37.660000 - 0:26:39.160000
+Ajmo se prvo dogovoriti, recimo, je li B jednak A ili je B različito da?;0:26:43.660000 - 0:26:48.160000
+Pa evo, neke je B različito da.;0:26:48.660000 - 0:26:50.160000
+Dobro?;0:26:50.660000 - 0:26:51.160000
+Znači, ako je B različito da, dobro.;0:26:51.660000 - 0:26:53.160000
+Onda mi se ne da sad više pisat', pa ću napisat' ovo.;0:26:53.620000 - 0:26:57.120000
+Ok?;0:26:58.620000 - 0:26:59.120000
+Kako bismo to dobili?;0:27:00.620000 - 0:27:03.120000
+Što biste rekli da je mega konceptualno najjednostavnije?;0:27:11.120000 - 0:27:14.120000
+Jako pocijeća na bazu.;0:27:17.620000 - 0:27:19.120000
+Je li mi ovo tu trebao uopće?;0:27:20.620000 - 0:27:22.120000
+Mogu slabiti s lijeva i s desta koliko god hoću.;0:27:24.120000 - 0:27:27.620000
+Znači, ovo tu mi ne treba.;0:27:28.120000 - 0:27:29.620000
+Dobro?;0:27:31.120000 - 0:27:31.620000
+Znači, tu sam u koraku u toliko jednostavne situacije;0:27:32.120000 - 0:27:34.620000
+da mi čak ne treba niti predpostavka indukcije uopće.;0:27:34.620000 - 0:27:37.120000
+Mislim, ne bi mi trebala ni da sam odavde krenuo.;0:27:37.620000 - 0:27:40.120000
+Jedino što je tu sad problem, vidite, iz gamma 2 bi mestala A.;0:27:41.120000 - 0:27:45.120000
+E, to...;0:27:45.620000 - 0:27:46.120000
+To ne bi bilo dobro.;0:27:47.120000 - 0:27:48.120000
+Znači, ovo mi treba.;0:27:48.620000 - 0:27:50.120000
+Dobro?;0:27:50.620000 - 0:27:51.120000
+I sad, naravno, velim, ova tu crta je sad malo bez veze.;0:27:52.080000 - 0:27:56.080000
+Trebalo bi to lijepo napisat, ali...;0:27:56.080000 - 0:27:58.080000
+Znači, jednostavno...;0:27:58.580000 - 0:27:59.580000
+Pogledam koliko tu ima formula, napravim toliko slabljenja;0:28:00.580000 - 0:28:03.580000
+i to napravim ih tim redom da ne moram permutacije radit uopće.;0:28:04.080000 - 0:28:07.580000
+Ovoga.;0:28:08.080000 - 0:28:09.080000
+A ovdje ću jednostavno morat.;0:28:09.580000 - 0:28:11.080000
+Kojim god redom napravim, ću ih uvijek morat;0:28:11.080000 - 0:28:13.080000
+šibat desno od B, pa ću morat radit permutacije.;0:28:14.080000 - 0:28:16.580000
+Dobro?;0:28:17.080000 - 0:28:17.580000
+Evo, mislim da je ovo vrlo jednostavno.;0:28:18.580000 - 0:28:20.080000
+E sad, šta bi bilo da je bilo A?;0:28:20.540000 - 0:28:22.540000
+Pretpostavljam da je tak i napravljeno tamo.;0:28:23.540000 - 0:28:27.040000
+A opet, jel bi bilo isto?;0:28:27.540000 - 0:28:29.040000
+Znači, samo tu ne bi bilo ničega.;0:28:29.540000 - 0:28:31.040000
+Opet bi bilo isto, jel da?;0:28:32.040000 - 0:28:33.540000
+Znači da su A...;0:28:33.540000 - 0:28:35.040000
+A izvodi A.;0:28:37.040000 - 0:28:38.540000
+I tu ovo šta već fiše.;0:28:39.040000 - 0:28:40.540000
+A gamma 2 beza.;0:28:43.540000 - 0:28:46.540000
+I tu je bilo B beza.;0:28:47 - 0:28:49
+Znači, to je ništa.;0:28:49.500000 - 0:28:51
+Delta 2.;0:28:52 - 0:28:53
+Dobro, ajde budem ipak napisao.;0:28:53 - 0:28:55
+Znači, pi 2 gamma 2 delta 2.;0:28:56 - 0:29:01
+Šta ćemo tu?;0:29:02.500000 - 0:29:03.500000
+Opet isto, jel?;0:29:06.500000 - 0:29:07.500000
+Da.;0:29:08 - 0:29:08.500000
+Jel tako?;0:29:08.500000 - 0:29:09
+Mislim da je to...;0:29:09 - 0:29:10
+Ne.;0:29:10.500000 - 0:29:11
+Mislim da je to ovo.;0:29:11 - 0:29:12
+Ovo je to.;0:29:12 - 0:29:13
+Ovo je to.;0:29:13 - 0:29:14
+Ovo je to.;0:29:14 - 0:29:15
+Ovo je to.;0:29:15 - 0:29:16
+Ovo teško istine nisu prijavni.;0:29:16.460000 - 0:29:18.460000
+Ali nisu.;0:29:18.460000 - 0:29:19.460000
+Mislim...;0:29:19.460000 - 0:29:19.960000
+Nisu baš, da.;0:29:19.960000 - 0:29:20.960000
+Da, jako blizu je.;0:29:21.460000 - 0:29:22.960000
+Ok, znači jasno je to sve kak ide.;0:29:23.460000 - 0:29:25.460000
+Ovoga.;0:29:27.460000 - 0:29:28.460000
+Dobro.;0:29:29.460000 - 0:29:29.960000
+To nam je bio kad je jedan aksion.;0:29:30.460000 - 0:29:32.960000
+Mislim da nema šta teže se tu više reći.;0:29:32.960000 - 0:29:34.960000
+Dajte samo ovo malo oškicnite.;0:29:37.460000 - 0:29:39.460000
+Jel se slažete onda da je to ovaj setup i da točno to radimo?;0:29:39.460000 - 0:29:42.960000
+Aha, čekaj.;0:29:46.960000 - 0:29:47.960000
+Jesam...;0:29:48.460000 - 0:29:48.960000
+Malo sam krivo rekao, jel da?;0:29:48.960000 - 0:29:50.460000
+U slučaju je barem jedan od izvoda...;0:29:50.960000 - 0:29:52.960000
+A ne, dobro sam rekao.;0:29:52.960000 - 0:29:54.460000
+Ovo jedinica je čudno napisana.;0:29:54.960000 - 0:29:56.960000
+Dobro.;0:29:57.460000 - 0:29:57.960000
+Ali to je isto.;0:29:58.960000 - 0:29:59.960000
+Ovo je ekvivalentno sa barem jedno od pravila R1, R2 je aksion.;0:29:59.960000 - 0:30:05.460000
+Ok.;0:30:05.960000 - 0:30:06.460000
+Dobro.;0:30:07.460000 - 0:30:07.960000
+Ajde idemo onda da vam ne spojlam.;0:30:08.960000 - 0:30:10.960000
+Idemo pogledat samo taj slučaj.;0:30:10.960000 - 0:30:12.960000
+Znači,;0:30:13.920000 - 0:30:14.420000
+bez manjenja općenitosti,;0:30:15.420000 - 0:30:17.420000
+evo pi 1, dobro sam.;0:30:17.420000 - 0:30:19.420000
+Znači taj ljevi je kratki.;0:30:19.420000 - 0:30:21.420000
+Znači dva su pod slučaje,;0:30:22.420000 - 0:30:23.920000
+ili je A ili nije A.;0:30:23.920000 - 0:30:25.920000
+Znači sad, ak je A izvodi A,;0:30:26.920000 - 0:30:28.920000
+imamo ovo tu.;0:30:28.920000 - 0:30:30.920000
+Dobro.;0:30:30.920000 - 0:30:31.420000
+I naravno budući da se do toga došlo...;0:30:31.920000 - 0:30:33.920000
+Aha.;0:30:35.920000 - 0:30:36.420000
+Dobro.;0:30:37.420000 - 0:30:37.920000
+Ovdje čak ne ide...;0:30:38.420000 - 0:30:39.920000
+Ide odavde kao.;0:30:40.880000 - 0:30:42.880000
+Da, dobro, to je možda čak i bolje.;0:30:44.380000 - 0:30:46.380000
+Služite, ne moramo odavde.;0:30:46.380000 - 0:30:49.380000
+Znači ili je u gamma 2,;0:30:52.380000 - 0:30:54.380000
+ili ima barem jedan A.;0:30:54.380000 - 0:30:57.380000
+Uredno.;0:30:57.380000 - 0:30:57.880000
+I onda ga mogu otvorat skroz ljevo.;0:30:58.380000 - 0:31:00.380000
+Dobro, služite.;0:31:01.880000 - 0:31:02.880000
+I onda ga mogu otvorat skroz ljevo.;0:31:03.880000 - 0:31:05.380000
+I onda ga mogu otvorat skroz ljevo.;0:31:06.380000 - 0:31:07.880000
+Dobro, služite.;0:31:08.340000 - 0:31:08.840000
+Ili ga nema,;0:31:10.340000 - 0:31:11.340000
+pa onda sad ovo je isto što i gamma 2,;0:31:13.340000 - 0:31:15.340000
+pa mogu slabiti jedan put.;0:31:16.840000 - 0:31:17.840000
+I otvorat ga skroz ljevo.;0:31:18.840000 - 0:31:19.840000
+Uredno.;0:31:20.340000 - 0:31:20.840000
+Znači mogo sam ići odavde,;0:31:20.840000 - 0:31:22.840000
+ali smo mi negako odlučili ići odavde.;0:31:23.840000 - 0:31:25.840000
+Uredno.;0:31:26.840000 - 0:31:27.340000
+Aha, dobro.;0:31:29.840000 - 0:31:30.340000
+Ok.;0:31:30.840000 - 0:31:31.340000
+Ma ne, niš nije krivo.;0:31:32.340000 - 0:31:33.840000
+Vi ste tako shvatili jer je to bolji način,;0:31:33.840000 - 0:31:35.840000
+jer je kraći zapravo.;0:31:35.840000 - 0:31:37.840000
+Tu ima puno više slabljenja.;0:31:38.300000 - 0:31:39.800000
+Ali dobro, uglavnom jasno je.;0:31:41.800000 - 0:31:43.300000
+Dobro.;0:31:44.300000 - 0:31:44.800000
+E, a sad naravno,;0:31:45.300000 - 0:31:46.800000
+ak imamo ovoga,;0:31:46.800000 - 0:31:48.300000
+ovo.;0:31:49.300000 - 0:31:49.800000
+Da.;0:31:49.800000 - 0:31:50.300000
+Znate zašto je meni nekak bilo prirodnije?;0:31:51.300000 - 0:31:53.300000
+Jer smo u bazi,;0:31:53.300000 - 0:31:54.300000
+smo nekak dosta slabili.;0:31:54.300000 - 0:31:55.800000
+I tu sam krenuo prvo s ovim tu.;0:31:56.300000 - 0:31:58.300000
+Kužite.;0:31:58.800000 - 0:31:59.300000
+I sad nekak tu vam treba to.;0:31:59.300000 - 0:32:01.300000
+Znači tu stvarno nećemo ovoga.;0:32:01.300000 - 0:32:03.300000
+Neg idemo sa puno slabljenja i permutacija.;0:32:03.800000 - 0:32:06.300000
+I onda sam nekak rekao i tu je isto.;0:32:06.760000 - 0:32:08.260000
+Dobro.;0:32:08.760000 - 0:32:09.260000
+Ali kao ove tu slučaje bolje riješit odavde jer je kraće kao.;0:32:09.760000 - 0:32:13.760000
+Dobro, manje slabljenja i permutacija u principu.;0:32:14.260000 - 0:32:16.760000
+Dobro.;0:32:17.260000 - 0:32:17.760000
+Ok.;0:32:19.760000 - 0:32:20.260000
+To je bilo što se tiče aksioma.;0:32:21.260000 - 0:32:24.260000
+E sad šta ako je barim jedno od pravila R1, R2 strukturno?;0:32:24.760000 - 0:32:28.760000
+Šta biste onda rekli? Kako to ide?;0:32:28.760000 - 0:32:30.760000
+E sad ćemo tu već morat malo počet mislit.;0:32:33.760000 - 0:32:35.760000
+E sad ćemo tu već morat malo počet mislit.;0:32:36.760000 - 0:32:38.760000
+Jer sad nam tu ono pravilo.;0:32:41.260000 - 0:32:42.760000
+Doći će ono kao nijedokuda zadnje u izvodu koji ne znamo točno kak izgleda.;0:32:44.260000 - 0:32:48.260000
+Onda to pravilo je.;0:32:48.260000 - 0:32:49.260000
+Pa sad stvarno ćemo morat abstraktno dosta razmišljati.;0:32:49.260000 - 0:32:52.260000
+Znači šta ja sad zapravo imam?;0:32:53.260000 - 0:32:55.260000
+Znači imam negakav P1.;0:32:56.260000 - 0:32:58.260000
+Ali ću ga rađe napisat kao P1 crtica.;0:32:59.260000 - 0:33:01.260000
+Jer ću reć.;0:33:01.760000 - 0:33:02.760000
+P1 je ovo tu.;0:33:03.720000 - 0:33:04.720000
+Dobro, znači sad hoću.;0:33:05.720000 - 0:33:06.720000
+Aha, sorry, bez ove crta smo radili.;0:33:06.720000 - 0:33:08.720000
+Znači hoću reć ovo je zadnja sekventa u izvodu P1 crta.;0:33:11.720000 - 0:33:14.720000
+Znači taj P1 crta je izvod za tu sekventu.;0:33:14.720000 - 0:33:16.720000
+I zadnje pravilo je strukturno pravilo.;0:33:17.720000 - 0:33:19.720000
+U redu.;0:33:20.720000 - 0:33:21.720000
+Zato ću sad otići korak natrag.;0:33:21.720000 - 0:33:23.720000
+Dobro.;0:33:24.720000 - 0:33:25.720000
+Kak strukturna pravila izgledaju?;0:33:25.720000 - 0:33:27.720000
+Pa znamo već jako dobro.;0:33:27.720000 - 0:33:28.720000
+Znači imamo.;0:33:29.720000 - 0:33:30.720000
+Znači imamo.;0:33:31.680000 - 0:33:32.680000
+Dobro, sad mogu označiti.;0:33:34.680000 - 0:33:36.680000
+Recimo bez smanjenja općenitosti ću ići na lijevo pravilo.;0:33:37.680000 - 0:33:40.680000
+Dobro.;0:33:40.680000 - 0:33:41.680000
+Pa mogu ovako.;0:33:41.680000 - 0:33:42.680000
+Dobro, znači gledam da je to bez smanjenja općenitosti lijevo pravilo.;0:33:50.680000 - 0:33:55.680000
+Mislim, sad smanjenje općenitosti je ono prvi slučaj zapravo.;0:33:56.680000 - 0:34:00.680000
+Znači radit ćemo pravilo ovoga slabljenja.;0:34:01.640000 - 0:34:05.640000
+Dobro, znači lijevo slabljenje gledamo.;0:34:06.640000 - 0:34:08.640000
+Samo hoću da mi je ovo kužite gamma 1 a ovo delta 1.;0:34:09.640000 - 0:34:12.640000
+Tak si zgodno si organiziramo oznake.;0:34:13.640000 - 0:34:15.640000
+E, i sad šta imam još?;0:34:16.640000 - 0:34:18.640000
+Bar je mi jedno je pravilo lijevog slabljenja, a za drugo nemam pojma šta je.;0:34:19.640000 - 0:34:24.640000
+Dobro, znači gama, pišem gamma 2, delta 2.;0:34:24.640000 - 0:34:26.640000
+Jel tako?;0:34:27.640000 - 0:34:28.640000
+Ovo ono želim simulirati da tak velim.;0:34:28.640000 - 0:34:32.600000
+Želim simulirati gamma 1, gamma 2 bez A, delta 1 bez A, delta 2.;0:34:32.600000 - 0:34:47.600000
+Dajte samo provjerit da sam dobro napisan.;0:34:49.600000 - 0:34:51.600000
+Znači kak je išlo?;0:34:52.560000 - 0:34:54.560000
+Gamma 1, gamma 2 bez A, izvodi delta 1 bez A, delta 2.;0:34:55.560000 - 0:35:02.560000
+Uredno.;0:35:03.560000 - 0:35:04.560000
+Ej čekaj, malo se ne vidi, znam.;0:35:06.560000 - 0:35:08.560000
+Možda ovak bolje.;0:35:09.560000 - 0:35:10.560000
+Jel sad bolje vidite?;0:35:12.560000 - 0:35:13.560000
+Ok.;0:35:15.560000 - 0:35:16.560000
+Kak ćemo to napraviti?;0:35:17.560000 - 0:35:19.560000
+Znači koja će tu generalno biti ideja za dalje?;0:35:20.520000 - 0:35:26.520000
+Jer sad su svi dalje slučajevi značajno komplicirani.;0:35:26.520000 - 0:35:34.520000
+Svuda ćemo više manje koristiti predpostavku indukcije.;0:35:34.520000 - 0:35:40.520000
+Možda čak dva puta, jer će biti jako komplicirano.;0:35:40.520000 - 0:35:43.520000
+Mislim, sve je to zapravo bez veze, strašno jedno kad znate pa pogledate u to.;0:35:43.520000 - 0:35:48.520000
+Ali sad za početak treba se malo domisliti.;0:35:49.480000 - 0:35:53.480000
+Znači koja ja sad dva izvoda zapravo želim gledat;0:35:53.480000 - 0:35:56.480000
+i na njih primijeniti nekakvu predpostavku indukcije?;0:35:56.480000 - 0:35:59.480000
+Ne mogu pi 1, pi 2, jer je to preveliko.;0:36:02.480000 - 0:36:05.480000
+To je točno visina ukupna koju...;0:36:05.480000 - 0:36:09.480000
+Znači jedino što mogu, je li tako? Pi 1 crta i pi 2.;0:36:10.480000 - 0:36:13.480000
+Znači ta dva izvoda sad gledam;0:36:14.480000 - 0:36:16.480000
+i za njih mi vrijedi predpostavku indukcije.;0:36:16.480000 - 0:36:18.480000
+I onda šta? Samo je u prazno glavo zapišem.;0:36:18.480000 - 0:36:21.480000
+Dobro? Znači neću sad još počet misliti.;0:36:21.480000 - 0:36:24.480000
+Ali ajde, znači malo samo da vas pitam.;0:36:24.480000 - 0:36:28.480000
+Znači ovo tu će nekak izrezat A.;0:36:28.480000 - 0:36:30.480000
+Znači kad pogledam ovo i ovo, izrezat će A iz valjda delta 1 i gamma 2.;0:36:31.480000 - 0:36:36.480000
+Ostalo ćemo unirati, jel?;0:36:36.480000 - 0:36:38.480000
+I šta ću onda napraviti da bi dobio ovo tu?;0:36:38.480000 - 0:36:41.480000
+Znači ja ću sad primijeniti na ovo tu, kako ste rekli, predpostavku indukcije. Jel tako?;0:36:46.480000 - 0:37:02.480000
+I onda ću šta dobiti? Dobit ću gamma 1 crta gamma 2 bez A.;0:37:02.480000 - 0:37:06.480000
+Izvodi delta 1 bez A delta 2.;0:37:06.480000 - 0:37:09.480000
+Šta sad moram napraviti da zapravo dobijem ovo tu?;0:37:10.480000 - 0:37:14.480000
+Pa ništa sad, još neko možemo primijeniti, ne?;0:37:14.480000 - 0:37:17.480000
+Ne baš. Samo primijenim pravilo koje?;0:37:17.480000 - 0:37:21.480000
+A ovo, slabljenje.;0:37:21.480000 - 0:37:22.480000
+Tako je, slabljenje s lijeva, jel tako?;0:37:22.480000 - 0:37:25.480000
+I onda će tu sad biti permutacije i gluposti, jel tako?;0:37:25.480000 - 0:37:29.480000
+Ali to je to. U redu. Znači to će biti čitava poanta.;0:37:29.480000 - 0:37:33.480000
+Znači ja ću uvijek imat nekakvu klackalicu, nekakva ono dva manja izvoda;0:37:33.480000 - 0:37:39.480000
+koja dovedu do većega, jel?;0:37:39.480000 - 0:37:41.480000
+U kojem bih tio izbjeći res, jel? Po A.;0:37:41.480000 - 0:37:44.480000
+I onda ću ja sad pogledat... I dobro, i možda ovaj drugi izvod, ok?;0:37:44.480000 - 0:37:49.480000
+Znači možda će ih biti tri, zato što ću imat ono;0:37:49.480000 - 0:37:52.480000
+pi 1, 1, pi 1, 2 i pi 2, dobro?;0:37:53.480000 - 0:37:56.480000
+Znači mogu imat tu dvije stvari koje vode u jednu, ne moram imat...;0:37:56.480000 - 0:38:02.480000
+Dva izvoda koji se spajaju, ok?;0:38:02.480000 - 0:38:05.480000
+Znači u svakom slučaju imat ću ono...;0:38:06.480000 - 0:38:09.480000
+Nekak ću ovak to pogledat, ili ovak, ili možda ono ovako i ovako,;0:38:09.480000 - 0:38:14.480000
+pa ću imat ovoga predpostavku indukcije;0:38:14.480000 - 0:38:18.480000
+koja će mi zapravo izvesti bez dizanja ranga nešto u ovom stilu.;0:38:18.480000 - 0:38:24.480000
+Ali ono što će uvijek faliti je upravo ovo tu što se bilo dogodilo, jel?;0:38:24.480000 - 0:38:29.480000
+Znači primijenit ću predpostavku indukcije, pa ono isto pravilo;0:38:29.480000 - 0:38:33.480000
+koje sam već bio primijenio uz eventualne negakve permutacije,;0:38:33.480000 - 0:38:37.480000
+slabljenja i tako dalje. U redu?;0:38:37.480000 - 0:38:39.480000
+Znači, bit će dosta... Ono, stvarno je jednostavno,;0:38:39.480000 - 0:38:42.480000
+samo je strašno kad čovjek ide napisati i razmišljati o detaljićima nekakim.;0:38:42.480000 - 0:38:48.480000
+Ali ima zanimljivih detalja, samo da ne bi sad mislio;0:38:48.480000 - 0:38:51.480000
+da sam trebao jednostavno reći nečemu o tome pričati uopće.;0:38:51.480000 - 0:38:54.480000
+Znači šta ću napraviti? Ovo što sam najavio, jel?;0:38:57.480000 - 0:39:00.480000
+Znači imamo pi1 crtica koji izvodi gamma1 crtica;0:39:00.480000 - 0:39:06.480000
+ga je delta1 i s ove strane imam pi2 sa svojim gamma2 delta2;0:39:06.480000 - 0:39:16.480000
+i ništa, predpostavka indukcije, jel vidite da je smanjena ukupna visina,;0:39:16.480000 - 0:39:22.480000
+ono, zbroj visina? Znači gamma1 crta gamma2 bez A;0:39:22.480000 - 0:39:27.480000
+izvodi delta1 bez A delta2.;0:39:27.480000 - 0:39:33.480000
+Dobro. I sad ovo što kažete, znači idemo ljevo oslabljanje, naravno.;0:39:33.480000 - 0:39:39.480000
+Dobro, znači gamma1 crtica gamma2 bez A,;0:39:40.480000 - 0:39:46.480000
+s čim ću oslabiti, a valjda s B, jel?;0:39:46.480000 - 0:39:49.480000
+Delta1 bez A delta2. Dobro, i sad šta?;0:39:51.480000 - 0:39:56.480000
+I sad naravno gamma2 bez A bi naravno mogo bit prazan, jel?;0:39:56.480000 - 0:40:01.480000
+I dobro, onda ništa, onda tu piše isto što i ovdje,;0:40:01.480000 - 0:40:05.480000
+ali ako gamma2 nije prazan, recimo, onda moram furat B, jel tako?;0:40:05.480000 - 0:40:11.480000
+Moram ga furat, gamma2 bez A nije prazan, moram furat B sa permutacijama, jel tako?;0:40:11.480000 - 0:40:17.480000
+Dobro. I znači, jel vidite da tu nisam imao rez po A?;0:40:18.480000 - 0:40:23.480000
+Znači uspio sam ovoga napraviti korak indukcije u ovom slučaju.;0:40:23.480000 - 0:40:28.480000
+Dobro. Ok.;0:40:28.480000 - 0:40:32.480000
+Barem jedno od pravila R1, R2, aha, strukturna pravila,;0:40:35.480000 - 0:40:39.480000
+napravili smo šta smo napravili slabljenje.;0:40:39.480000 - 0:40:43.480000
+Sad idemo napraviti još kontrakciju i šta je još ono, i permutaciju.;0:40:43.480000 - 0:40:51.480000
+Ahoj, da vidimo kak bi kontrakcija išla.;0:40:51.480000 - 0:40:59.480000
+Znači, aha, znači tu sad ne bi, samo malo,;0:40:59.480000 - 0:41:04.480000
+jel bi bilo nešto zanimljivo da je tu bilo baš A?;0:41:04.480000 - 0:41:08.480000
+Pa ne bi ništa zanimljivo bilo.;0:41:10.480000 - 0:41:12.480000
+Tu bi kao stavili A, tu bi maknuli A, pa ili ga ima, pa bi ga prošetali,;0:41:12.480000 - 0:41:17.480000
+ili ga nema, pa bi oslabili, to je uvijek ista priča,;0:41:17.480000 - 0:41:20.480000
+što sad ne pričam svaki put.;0:41:20.480000 - 0:41:22.480000
+Dobro. Znači, da vidimo šta bi bilo s kontrakcijom.;0:41:22.480000 - 0:41:27.480000
+Onda bi imo situaciju, pi 1 crtica,;0:41:27.480000 - 0:41:31.480000
+aha, dobro, pi 1 crtica, znači gamma 1 crtica, delta 1,;0:41:36.480000 - 0:41:42.480000
+dobro, to sam mogo stvarno ostaviti, a ne obrisati, ali ne vjeze.;0:41:42.480000 - 0:41:46.480000
+Znači gamma 2 u delta 2.;0:41:46.480000 - 0:41:49.480000
+I sada, znači, primijenim preko stavku indukcije.;0:41:50.480000 - 0:41:55.480000
+Dobro.;0:42:02.480000 - 0:42:03.480000
+Ok. I sad naravno primijenim kontrakciju, jel?;0:42:07.480000 - 0:42:10.480000
+Aha, s time da sad bi tu pisalo, malo sam se zabunio.;0:42:10.480000 - 0:42:13.480000
+Znači, pisalo bi, evo, baš ovak izgledalo naravno.;0:42:13.480000 - 0:42:17.480000
+Znači, tu će pisat b, b, a tu će pisat d.;0:42:21.480000 - 0:42:24.480000
+E tako, aha.;0:42:24.480000 - 0:42:26.480000
+Jel je ovo pravilo kontrakcije tak smo ga, ja mislim, napisali.;0:42:28.480000 - 0:42:31.480000
+Dobro. Znači, šta mi je tu, onda još dva b-a mi fale.;0:42:31.480000 - 0:42:35.480000
+E, sad sam baš zeznio.;0:42:39.480000 - 0:42:40.480000
+E, mh, mh.;0:42:43.480000 - 0:42:45.480000
+Dobro.;0:42:50.480000 - 0:42:51.480000
+Znači, pazite sad.;0:42:57.480000 - 0:42:58.480000
+Ovaj b-a se odnosi na gamma 2.;0:43:03.480000 - 0:43:06.480000
+Dobro. Znači, ovo mi sve preživi.;0:43:06.480000 - 0:43:10.480000
+Ovaj a, ak se iz čega makne, se makne iz gamma 2.;0:43:10.480000 - 0:43:13.480000
+Dobro. Jer bi inače stavio bi one zagrade što sam vam obećao da ću staviti.;0:43:13.480000 - 0:43:18.480000
+Ok? I šta sad?;0:43:18.480000 - 0:43:20.480000
+Pa sad napravim kontrakciju.;0:43:23.480000 - 0:43:24.480000
+Jedini problem je što moram sve prvo dofurat do turnstajla,;0:43:24.480000 - 0:43:28.480000
+jer je tako bilo, ono, gamma, zares b, zares b,;0:43:28.480000 - 0:43:31.480000
+i onda ide u gamma, zares b s te strane.;0:43:31.480000 - 0:43:34.480000
+Znači, prvo ih dofuram, naravno to sad ono milijun puta možda, jel?;0:43:34.480000 - 0:43:38.480000
+I onda ih kontrahiram i onda otfuram nazad.;0:43:39.480000 - 0:43:46.480000
+Jel tako? Bitno je da završi između gamma 1 crta i gamma 2 b-a.;0:43:46.480000 - 0:43:51.480000
+Jel tako? Jer ovo tu je sve skupa gamma 1.;0:43:51.480000 - 0:43:55.480000
+Dobro.;0:43:56.480000 - 0:43:57.480000
+U svakom slučaju, nakon puno posla, se dogodi baš to.;0:43:59.480000 - 0:44:02.480000
+Muko trpnog, ali ne pametnog posla.;0:44:04.480000 - 0:44:07.480000
+Pij-1;0:44:09.480000 - 0:44:10.480000
+Dobro. Znači, opet hvrlo jednostavno i praktički sve na istu šemu.;0:44:17.480000 - 0:44:22.480000
+Ovo smo pogledali zajedno.;0:44:26.480000 - 0:44:27.480000
+Evo slabljenje, jel tako?;0:44:30.480000 - 0:44:32.480000
+Znači, pij-1 je naprosto oblikao ono pij-1 crta,;0:44:32.480000 - 0:44:36.480000
+gamma-1 crta izvodi delta-1, gamma-1 crta b-a izvodi delta-2.;0:44:36.480000 - 0:44:42.480000
+Evo, znači, ove točkice su taj izvod, jel tako? Za tu sekventu, ovo gore.;0:44:42.480000 - 0:44:47.480000
+I sad, zaista je zbroj visina ovoga manji od n,;0:44:47.480000 - 0:44:53.480000
+pa na pij-1 crta i pij-2 možemo primijeniti predpostavku indukcije,;0:44:53.480000 - 0:44:57.480000
+pa postoji izvod pij-crta.;0:44:57.480000 - 0:44:59.480000
+Vidite, puno ljepše je napisano, ja samo podvučem.;0:44:59.480000 - 0:45:03.480000
+U nekim slučajima čak i piše, tako u nekima ne, dobro, nije sad naročito važno, mislim da razumijete.;0:45:04.480000 - 0:45:10.480000
+Znači, dobijemo ovo, ko što smo valjda negdje i bili napisali, dobro.;0:45:10.480000 - 0:45:15.480000
+Gdje to piše? Aha, slabljenje sad više ne piše, dobro.;0:45:16.480000 - 0:45:20.480000
+Znači, samo jednostavnije nego ovo.;0:45:20.480000 - 0:45:22.480000
+I, znači, vidite, range ostao isti, jel tako?;0:45:23.480000 - 0:45:27.480000
+Znači, mislim, isti, manji od d, još uvijek.;0:45:27.480000 - 0:45:29.480000
+Primjenom jednog ljevog slabljenja dobivamo traženi izvod pi.;0:45:30.480000 - 0:45:35.480000
+I očito je naravno, d od pi jednako d od pi-crta manje od d, jer mi smo koristili respo A.;0:45:35.480000 - 0:45:43.480000
+Dobro?;0:45:43.480000 - 0:45:44.480000
+Evo sa kontrakcijom, znači, to je doslovno ovo tu što piše, jo.;0:45:44.480000 - 0:45:51.480000
+Ovo ovdje.;0:45:51.480000 - 0:45:53.480000
+I, znači, primjenom jedne ljeve kontrakcije dobivamo traženi izvod.;0:45:53.480000 - 0:45:57.480000
+Recite sad, jel ima nekakvu tu nejasnoća ili sam ja nešto krivo napravio?;0:45:58.480000 - 0:46:02.480000
+Ako ne, ovo je.;0:46:03.480000 - 0:46:04.480000
+Znači, nije ovo što je jedna kontrakcija?;0:46:04.480000 - 0:46:06.480000
+Primjena?;0:46:07.480000 - 0:46:08.480000
+Ne, ne, kontrakcija će biti jedna.;0:46:10.480000 - 0:46:12.480000
+Mislim, primjenom mnogih ovoga permutacija i jedne ljeve kontrakcije, da, da, dobivamo traženi izvod.;0:46:12.480000 - 0:46:20.480000
+Dobro?;0:46:20.480000 - 0:46:21.480000
+Ok.;0:46:22.480000 - 0:46:23.480000
+Kaj sad imamo? Aha, idemo odmah dalje.;0:46:24.480000 - 0:46:26.480000
+Dobro.;0:46:26.480000 - 0:46:27.480000
+Znači, treće.;0:46:27.480000 - 0:46:28.480000
+Još bi trebalo valjda napraviti za permutaciju, ali jednaki cijelo vrijeme wave off-om.;0:46:28.480000 - 0:46:33.480000
+Dobro?;0:46:33.480000 - 0:46:34.480000
+Znači, barem jedno od pravila R1, R2 je pravilo reza.;0:46:34.480000 - 0:46:38.480000
+E sad je to malo zbiljnije, jel?;0:46:38.480000 - 0:46:40.480000
+Jel baš pauza?;0:46:43.480000 - 0:46:44.480000
+Je. Ajde, idemo pauzu napraviti, pa ćemo poslije to.;0:46:44.480000 - 0:46:47.480000
+A vi možete razmisliti takvom seda.;0:46:47.480000 - 0:46:49.480000

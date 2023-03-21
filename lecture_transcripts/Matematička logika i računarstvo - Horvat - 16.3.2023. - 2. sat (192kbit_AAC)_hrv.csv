@@ -1,0 +1,612 @@
+Speech;Timestamp
+Šta, stigli smo do ovog trećeg, jel?;0:00:00 - 0:00:04
+Barem jedno od pravila R1, R2 je pravilo reza.;0:00:04 - 0:00:07.500000
+E sad, dajmo to vjerit, kak bi to uopće izgledalo?;0:00:08.500000 - 0:00:11
+Znači, sad mi trebaju vrlo ozbiljne...;0:00:11 - 0:00:14
+Znači, trebaju mi tu recimo Pi 1,1, jel tako?;0:00:14.500000 - 0:00:18
+I sad imam Gamma 1,1, Delta 1,1.;0:00:18 - 0:00:23.500000
+Pa imam Pi 1,2, Gamma 1,2, Delta 1,2.;0:00:24 - 0:00:31
+Aha, barem jedno, a dobro, onda nije tako strašno.;0:00:33 - 0:00:36
+Znači, Pi 2, ok.;0:00:36 - 0:00:38.500000
+Dobro, mogu tako.;0:00:42 - 0:00:43.500000
+Znači, ovo je rez, jel?;0:00:44.500000 - 0:00:47
+Ovo je rez, a ovo je bilo šta.;0:00:54 - 0:00:58
+Sve šta treba onda dokazat, da se može simulirat.;0:01:06 - 0:01:11
+Aha, dobro, ne baš, joj, ispričavam se, nisam htio A napisat.;0:01:13 - 0:01:17
+Naravno, da rez ne razumijem.;0:01:18 - 0:01:19.500000
+Ne radimo rez po A.;0:01:19.500000 - 0:01:21.500000
+Ja sad sam sve zeznim, samo malo.;0:01:22 - 0:01:24
+Znači...;0:01:24 - 0:01:25
+Ajde nek mi se vidi eksplicitno ta formula B.;0:01:27.500000 - 0:01:30.500000
+Neću da mi se ne vidi, razumijete?;0:01:30.500000 - 0:01:34
+Znači, hoću ju stvarno stavit, i kak je tamo u pravilu,;0:01:34 - 0:01:38
+ja mislim stavljeno odmah do turnstajla.;0:01:38 - 0:01:42
+Znači, ovak je doslovno napisano u pravilu.;0:01:42 - 0:01:44
+Znači, ovak je dostupno napisano u pravilu.;0:01:44 - 0:01:46
+Odmah do turnstajla. Znači, ovak je doslovno napisano u pravilu, ako se ne varam.;0:01:46 - 0:01:50.500000
+Tu dođe B, ovako, pa tu bude delta 1,1.;0:01:50.500000 - 0:01:56.500000
+A ovdje dođe isto do... Znači, prvo ljevo kod turnstajla,;0:01:56.500000 - 0:02:00.500000
+onda desno kod turnstajla. Mislim da smo takto pisali.;0:02:00.500000 - 0:02:04.500000
+Dobro.;0:02:10.500000 - 0:02:11.500000
+E, i sad samo uklonim, jel?;0:02:11.500000 - 0:02:13.500000
+Znači, samo uklonim.;0:02:14.500000 - 0:02:16
+Dakle, mogo bi u principu pisati gama 1 izvodi delta 1,;0:02:21.500000 - 0:02:28
+jer će to biti u njime, i bit će ono gama 1,1 konkateniran sa gama 1,2,;0:02:28 - 0:02:33
+ljevo tom je gama 1, a desno ću imat ovu dvojicu, to je to gama 2.;0:02:33 - 0:02:37
+Al mogu i ovak napisati, ako hoćete.;0:02:37 - 0:02:39
+Neko je učinio.;0:02:44 - 0:02:45
+Dobro, to je pravilo reza, baš primjenjeno na neku formulu.;0:02:48 - 0:02:51.500000
+U redu.;0:02:51.500000 - 0:02:52.500000
+Jel može ta formula biti A?;0:02:52.500000 - 0:02:54.500000
+Jel smije biti A?;0:02:54.500000 - 0:02:56
+Sjetite se, rang ovog izvoda mora biti strogo manji od D.;0:03:00.500000 - 0:03:04.500000
+Znači, kad bi ovaj B bio jednak A, onda ne bi bio, onda bi bio točno D.;0:03:04.500000 - 0:03:09.500000
+Pa ne može, u redu.;0:03:09.500000 - 0:03:11.500000
+Znači, ovaj tu B je 100%, nema ono, treći slučaj, jedan,;0:03:11.500000 - 0:03:17.500000
+pa sad B jednako A, ne postoje. U redu, nemoguće.;0:03:17.500000 - 0:03:21
+Znači, imamo ono treći slučaj, gdje je sad B različito od A;0:03:21 - 0:03:26.500000
+i jedno od pravila, barem je pravilo reza.;0:03:26.500000 - 0:03:29.500000
+Dobro, a ono što želim izsimulirati bez da režem po A je što?;0:03:32 - 0:03:37
+Pa znači, po stoti put pišem jedno te isto, jel?;0:03:37.500000 - 0:03:43.500000
+Jel ovo?;0:03:55.500000 - 0:03:57.500000
+Znači, ovo pa ovo bez A;0:04:00.500000 - 0:04:05.500000
+a s desne strane ovo tu bez A, pa ovo.;0:04:07 - 0:04:12
+Dobro? Znači, to je ono što stalno pokušavamo izvest, jel?;0:04:12.500000 - 0:04:17.500000
+Nekako koristeći nekakvu indukciju.;0:04:17.500000 - 0:04:20.500000
+Dobro, recite.;0:04:20.500000 - 0:04:22.500000
+B ne može biti A.;0:04:28.500000 - 0:04:30.500000
+B ne može biti A zato što je predpostavka da imamo dva izvoda.;0:04:30.500000 - 0:04:35.500000
+Ovoga, koji su ranga manje kod D.;0:04:36.500000 - 0:04:40
+A ovdje je primjenjeno pravilo reza na B.;0:04:41 - 0:04:44.500000
+U tom, u jednom od tih izvoda.;0:04:44.500000 - 0:04:47
+Dobro, a sada što mi je taj ispod povodit, kada nam on je u B?;0:04:47 - 0:04:51
+Ne, ne. Znači, ovoga, čim ima rez po B;0:04:51 - 0:04:58
+Niste me sad shvatili možda.;0:05:00 - 0:05:01
+Znači, pod predpostavkom da je B jednak A.;0:05:01.500000 - 0:05:04.500000
+Da je B baš A.;0:05:04.500000 - 0:05:06.500000
+Pa, znači, definicija ranga izvoda je;0:05:11.500000 - 0:05:15
+maksimalni rang formule reza u tom izvodu.;0:05:15 - 0:05:19
+A A bi bila formula reza u tom izvodu, a njen rang je D.;0:05:19.500000 - 0:05:23.500000
+Znači, cijela poanta svega je izbjegavati rez po A.;0:05:25.500000 - 0:05:30.500000
+A izbjegavati ovdje.;0:05:31 - 0:05:33
+A ovdje ga ne smijemo ni imati.;0:05:33 - 0:05:35
+Jer onda bi već imali veće, barem D.;0:05:35 - 0:05:39
+E sad, di smo, di smo, di smo?;0:05:43 - 0:05:46
+Čovjek se lako gubi.;0:05:46 - 0:05:48
+Ok, znači, kak bi ste sad ovo napravili?;0:05:48 - 0:05:54
+Znači, odsimulirali ovo ovdje.;0:05:54 - 0:05:56
+Sad to već izgleda malo netrivijalno, jel?;0:05:56 - 0:05:59
+Znači, nekak smo bili, rekli,;0:06:01 - 0:06:06
+izabiri si izvode, primijeni predpostavku indukcije;0:06:06 - 0:06:11
+i onda napravi ono šta si htio napraviti.;0:06:11 - 0:06:15
+Jel? Recimo rez ovdje po B.;0:06:15 - 0:06:18
+Dobro?;0:06:18 - 0:06:19
+E, ali da napravimo rez po B,;0:06:19 - 0:06:22
+mi zapravo trebamo nekakve dvije stvari dobiti.;0:06:22 - 0:06:26
+To znači da ću nekak valjda primijeniti;0:06:26.500000 - 0:06:29.500000
+predpostavku indukcije dva put.;0:06:29.500000 - 0:06:32.500000
+A znamo da ju primjenjujemo na dva izvoda.;0:06:32.500000 - 0:06:35.500000
+Znači, trebati će mi jedna dva izvoda,;0:06:35.500000 - 0:06:38.500000
+druga dva izvoda i onda na ta dva,;0:06:38.500000 - 0:06:41.500000
+na te dvije dobivene sekvente;0:06:41.500000 - 0:06:45.500000
+ovoga primjenim pravilo reza.;0:06:45.500000 - 0:06:47.500000
+Po B, vjerojatno.;0:06:47.500000 - 0:06:49.500000
+Ovoga, kak ću dobiti dvije situacije,;0:06:49.500000 - 0:06:55.500000
+dva izvoda, takva da je njihova visina ipak manja;0:06:55.500000 - 0:06:59.500000
+od visine od pi 1 plus visine od pi 2.;0:06:59.500000 - 0:07:03.500000
+Opet je zapravo dosta jednostavno jer je jedna jedina mogućnost.;0:07:05 - 0:07:09
+Znači, koja ću dva izvoda upariti u jednom slučaju,;0:07:09 - 0:07:14
+a koja dva izvoda u drugom slučaju?;0:07:14 - 0:07:16
+Jel kužite što pitan?;0:07:21 - 0:07:23
+Ajde recite neka dva izvoda na ploći;0:07:26.500000 - 0:07:29
+na koja se da primijeniti pretpostavka indukcije.;0:07:29 - 0:07:32
+Jedan mali, jedan veći.;0:07:36 - 0:07:38
+A da je se na pi 1, 1, 1, pi 2.;0:07:38 - 0:07:41.500000
+Tako je. A koji je druga situacija?;0:07:41.500000 - 0:07:45
+Pi 1, 2, pi 2.;0:07:47 - 0:07:48.500000
+Tako je. Dobro. I jednom kad to dvoje napravimo,;0:07:48.500000 - 0:07:52
+onda ćemo imat dvije sekvente na koje ćemo primijeniti res po b.;0:07:52.500000 - 0:07:57
+Dobro. Ajmo to čudovište prvo napisat, pa ćemo onda vidjeti;0:07:57.500000 - 0:08:01.500000
+kak će to izgledat. Dobro?;0:08:01.500000 - 0:08:03.500000
+Sad mi bude jako žao što nisam ovo sitnije napisao,;0:08:05 - 0:08:07.500000
+jer to će sad biti veliki problem.;0:08:07.500000 - 0:08:09.500000
+Neavezno.;0:08:10 - 0:08:11
+Budem sad sitno pisao, pa će samo biti još ružnije.;0:08:13 - 0:08:16
+Sve skupa, neavezno.;0:08:16 - 0:08:17.500000
+Znači, ja imam ovu situaciju sada.;0:08:18.500000 - 0:08:21
+Jel' tako? Imam ovo.;0:08:23 - 0:08:25
+Šta nam daje predpostavka indukcije?;0:08:34 - 0:08:36
+Pa ono što nam je već 500 puta dala.;0:08:36 - 0:08:38
+Znači, gamma 1, 1, b, gamma 2 bez a,;0:08:38 - 0:08:45.500000
+gamma 2 bez a, delta 1, 1 bez a, delta 2.;0:08:46 - 0:08:55
+To mi neće malo pocijeća kad mi jedan kolega šahist;0:08:58 - 0:09:01
+sad mogli bi ovog pijuna pomaknut,;0:09:03 - 0:09:05
+ali nećemo to sad napraviti, jer bi ga pojao ovaj tu.;0:09:05 - 0:09:09.500000
+I onda ide idući potes, koji više nije u svemiru predpostavke,;0:09:10 - 0:09:15
+dogodi sljedeći potes, veli, e sadak pojedemo onog pijuna;0:09:16 - 0:09:20
+i onda tak prođe jedno deset poteza, a još uvijek je taj pijun živ.;0:09:20 - 0:09:23.500000
+Ja velim, pa već si ga deset puta pojel.;0:09:23.500000 - 0:09:25.500000
+On veli, ne, nisam ga pojel ni jedan put još.;0:09:25.500000 - 0:09:27.500000
+Tako mi se čini ovoga.;0:09:28 - 0:09:29.500000
+Stvarno, toliko puta smo primijenili već tu predpostavku indukcije.;0:09:30 - 0:09:33.500000
+Dobro, znači,;0:09:33.500000 - 0:09:35.500000
+znači, to je sad ovaj jedna od ove dvije sekvente, jel' tako,;0:09:38 - 0:09:41.500000
+koja nam treba, ok? Znači, ovo.;0:09:41.500000 - 0:09:43.500000
+Dobro, e, a sad druga će biti koja?;0:09:44.500000 - 0:09:47
+Aha, sorry, tu sam malo pogriješio, jel' pi 1 je trebalo pisati.;0:09:47.500000 - 0:09:51.500000
+Dobro.;0:09:51.500000 - 0:09:52.500000
+Koja je ova druga sekventa?;0:09:54 - 0:09:56
+Pi, aha, hoću sad malo miješat redosljed ili da ostavim,;0:10:00 - 0:10:06.500000
+nisam sam siguran.;0:10:08.500000 - 0:10:09.500000
+Ajde, dobro, možda neću miješat redosljed.;0:10:10.500000 - 0:10:13.500000
+Teško mi je baš sve predvidjeti, ona treba dosta brain power-a za to šta zapravo radim.;0:10:17.500000 - 0:10:22.500000
+Dobro.;0:10:28 - 0:10:29
+Mislim, koliko goti je bedasto i tak dalje, ali, ono, treba se skoncentrirat malo.;0:10:32.500000 - 0:10:37
+Znači, ok.;0:10:37 - 0:10:39
+I sad kaj? Sad ćemo dobiti, ovo ćemo istu priču, valjda, znači šta?;0:10:39.500000 - 0:10:48.500000
+Gamma 1, 2, da, jel' da, dobro, će biti dobro, ovako.;0:10:49 - 0:10:52.500000
+I sad,;0:10:53 - 0:10:54.500000
+ovo bi bila druga, jel' je?;0:11:02.500000 - 0:11:04.500000
+Znači, gamma 1, 2, gamma 2 bez A,;0:11:05 - 0:11:08.500000
+s druge strane, B, delta 1, 2 bez A, to zajedno, jel' i delta 2.;0:11:09 - 0:11:16
+Dobro.;0:11:16.500000 - 0:11:17.500000
+Znači, to bi bila druga.;0:11:19 - 0:11:20.500000
+Dobro.;0:11:25 - 0:11:26
+E, i sad, da vidimo, ajde, idemo samo na njih dvije,;0:11:27 - 0:11:33
+idemo primijeniti pravilo reza.;0:11:33.500000 - 0:11:35.500000
+Dobro, po B.;0:11:36 - 0:11:37
+Jel' vidite da je tu B i tu B.;0:11:37.500000 - 0:11:40
+Uredno.;0:11:40.500000 - 0:11:41.500000
+Sad, naravno, trebalo bi ga dofurati do turnstajla.;0:11:42 - 0:11:44.500000
+I, ovaj tu već je na svu sreću.;0:11:45.500000 - 0:11:47.500000
+Aha, samo tu treba možda malo paziti.;0:11:48 - 0:11:50
+Ali, vidite, nije problem, neće ovaj B ubiti ovaj A.;0:11:50.500000 - 0:11:53.500000
+Jer smo se dogovorili, mislim, znamo da B i A nisu isti.;0:11:53.500000 - 0:11:57
+Tako da, ovo tu je zapravo delta 1, 2 bez A.;0:11:57.500000 - 0:12:01
+Uredno.;0:12:01.500000 - 0:12:02.500000
+Ovak.;0:12:08 - 0:12:09
+Dobro.;0:12:09.500000 - 0:12:10.500000
+Ok, ajde da sad to vidimo.;0:12:11 - 0:12:13
+Znači, sad ću tu samo,;0:12:13.500000 - 0:12:15
+zamislite se da mi tu pišu ove dvije stvari, jel';0:12:15.500000 - 0:12:19
+i sad idem primijeniti rez.;0:12:19.500000 - 0:12:22
+Ovo tu je tu ljevo, dobro.;0:12:22 - 0:12:24.500000
+Ovo tu je tu desno.;0:12:25 - 0:12:26.500000
+Idem primijeniti rez po B.;0:12:27 - 0:12:28.500000
+Šta će mi to efektivno značit?;0:12:29 - 0:12:30.500000
+Da ću iskrižat ove B-ove;0:12:31 - 0:12:32.500000
+i napravit' uniju ljevih strana i desnih strana, jel' tak?;0:12:34 - 0:12:36.500000
+Mislim, uniju lijepo ću pisat' po redu.;0:12:37 - 0:12:39
+Zamislit' ću se da sam B tu dofuro;0:12:39.500000 - 0:12:41.500000
+i onda će bit' po redu ovo, pa ovo, pa ovo tu;0:12:42 - 0:12:46.500000
+bez B, jer radim rez po B sada.;0:12:49 - 0:12:51.500000
+Dobro?;0:12:52 - 0:12:52.500000
+Mislim, aha, B sam uklonio, ispričavam se.;0:12:55.500000 - 0:12:57.500000
+Znači, samo radim uniju ovih strana,;0:12:57.500000 - 0:12:59
+zapravo vizualno i uniju ovih strana.;0:12:59 - 0:13:01
+Znači, da vidim kaj će mi pisat'.;0:13:02 - 0:13:03.500000
+Gamma 1, 1, gamma 2 bez A.;0:13:05 - 0:13:09
+Gamma 1, 2, gamma 2 bez A.;0:13:10.500000 - 0:13:14.500000
+Dobro.;0:13:17.500000 - 0:13:18.500000
+I sad na desnoj strani delta 1, 1 bez A, delta 2.;0:13:19.500000 - 0:13:25.500000
+Tu delta 1, 2 bez A, delta 2.;0:13:31.500000 - 0:13:36
+E sad, ovo tu je sad stvarno čuštaj.;0:13:42.500000 - 0:13:47
+Ajde da vidimo.;0:13:47 - 0:13:48
+Znači, u gamma 2 bez A i u gamma 2 bez A se nalaze iste formule.;0:13:48.500000 - 0:13:55.500000
+Znači, ja uz dovoljno permutacija i kontrakcija;0:13:56 - 0:13:59
+se mogu riješit' kompletno jednog od tih.;0:13:59 - 0:14:01.500000
+Jel' tako?;0:14:02 - 0:14:02.500000
+E sad, ovoga tu mi se paše riješit', dobro?;0:14:03 - 0:14:06.500000
+Jer ovaj tu je već fino pozicioniran'.;0:14:07 - 0:14:09
+Uredo?;0:14:09.500000 - 0:14:10
+Pa ću malo glumit' da sam ovoga ispermutirao do ovde i, ok?;0:14:10 - 0:14:13.500000
+Znači, ovoga sam ubio permutacijama i kontrakcijama.;0:14:14.500000 - 0:14:18
+Dobro?;0:14:18.500000 - 0:14:19
+Primijetite da je sad ljeva strana točno ono što trebam dobit'.;0:14:19.500000 - 0:14:23
+Ok?;0:14:23.500000 - 0:14:24
+Ljeva strana je točno ono što trebam dobit'.;0:14:24.500000 - 0:14:27
+A šta je s ovim?;0:14:27.500000 - 0:14:28.500000
+E sad, da vidimo malo.;0:14:29 - 0:14:30.500000
+Vidite, opet ista priča tu.;0:14:32 - 0:14:34
+Znači, imam delta 2, mi treba jedan komada, imam dva komada.;0:14:34.500000 - 0:14:37.500000
+Uredo?;0:14:38 - 0:14:38.500000
+Pa ću jednoga ubit' permutacijama i kontrakcijama.;0:14:38.500000 - 0:14:41
+Opet, biram ubit' ovoga tu samo zato što mi ovo je fino pozicioniran' već'.;0:14:41 - 0:14:45
+Uredo?;0:14:45.500000 - 0:14:46
+Dobro.;0:14:48.500000 - 0:14:49
+Ovoga...;0:14:50 - 0:14:50.500000
+E, imam delta 1,1 i delta 1,2.;0:14:53 - 0:14:56.500000
+Sad su više manje na dobrem pozicijama.;0:14:57 - 0:14:59
+Ali A se oduzima dva put.;0:14:59.500000 - 0:15:01.500000
+Uredo?;0:15:02.500000 - 0:15:03
+Tu se oduzima jedan put, a tu se oduzima dva put.;0:15:03 - 0:15:07
+Šta ću sada?;0:15:07 - 0:15:08
+Šta ću sada s tim?;0:15:09 - 0:15:10
+E, to je dobro.;0:15:12 - 0:15:13
+Tu isti su...;0:15:15 - 0:15:16
+Mislim, ako možemo permutacijama, to je uvek bolje.;0:15:17 - 0:15:22
+E, ali pazite, fora je u tome da smo ga tu oduzeli samo jedan puta.;0:15:24 - 0:15:28
+E.;0:15:28.500000 - 0:15:29
+Mislim, permutacijama...;0:15:30.500000 - 0:15:32
+Čekajte, ovo bez A, to znači kao...;0:15:33 - 0:15:36
+Iz niza da smo oduzeli jedan A, da.;0:15:37 - 0:15:39.500000
+Jedan A?;0:15:39.500000 - 0:15:40
+Da, jedan.;0:15:40 - 0:15:41
+To je sve?;0:15:41 - 0:15:41.500000
+Ne.;0:15:41.500000 - 0:15:42
+Aha.;0:15:42 - 0:15:42.500000
+Ok, jasno.;0:15:44 - 0:15:44.500000
+Bar se meni čini tako.;0:15:44.500000 - 0:15:46.500000
+Samo malo.;0:15:47.500000 - 0:15:48
+Jeste možda vi upravi, jer sad zapravo nisam sto posta sigurno nekak bi zakrpo.;0:15:49.500000 - 0:15:53.500000
+Samo trenutno.;0:15:53.500000 - 0:15:54.500000
+Znači, ak je tu bio recimo točno jedan A...;0:15:55 - 0:15:58.500000
+Aha, ak je bio točno jedan A, onda sve jedno.;0:15:59 - 0:16:02
+Jer ono, onda ih tu nema, a nema ih niti tu.;0:16:03 - 0:16:07
+Ak su bila dva...;0:16:08 - 0:16:10
+Ak je bilo nula A, opet isto.;0:16:10 - 0:16:11.500000
+Ak su bila dva A, to bi onda moglo biti problem.;0:16:11.500000 - 0:16:17.500000
+Ak su bila dva A...;0:16:25.500000 - 0:16:27
+Aha, maknuli smo jednoga sa malo, onda je tu jedan, a tu bi trebalo biti...;0:16:27 - 0:16:33
+Da, to je problem.;0:16:33 - 0:16:34
+Ne, znači onda valjda, onda mislim da ste upravi možda.;0:16:34.500000 - 0:16:37.500000
+Kak mi je to promaknulo?;0:16:37.500000 - 0:16:39
+Moguće je da onda kad oduzimamo van, onda oduzimamo sve kopije.;0:16:40 - 0:16:44.500000
+Da, da, da.;0:16:46 - 0:16:47
+Je, onda možemo ovo zaključiti zapravo.;0:16:47.500000 - 0:16:50.500000
+Znači da bi ovo, kad ja to napišem...;0:16:50.500000 - 0:16:54.500000
+Zapravo bilo isto što i...;0:16:57.500000 - 0:16:59.500000
+Ono, isto što i...;0:17:00 - 0:17:01.500000
+Ne znam kaj bi to napisao, jednako ajde kao nekakvi...;0:17:02.500000 - 0:17:05.500000
+Znači, delta 1 1 bez A, zares delta 1 2 bez A.;0:17:06 - 0:17:14.500000
+Ovako.;0:17:14.500000 - 0:17:15.500000
+Je li istina?;0:17:16.500000 - 0:17:17.500000
+Znači, kad oduzimam A ove, oduzeo sam ih sve koji su unutra.;0:17:18.500000 - 0:17:23.500000
+Odnosno, isto je kod da sam ih prvo oduzeo iz delta 1 1,;0:17:23.500000 - 0:17:26.500000
+pa konkatenirao sa oduzetima svima iz delta 1 2.;0:17:26.500000 - 0:17:30.500000
+Da, da, sorry. Istina.;0:17:31.500000 - 0:17:33.500000
+Znači, ne ponašamo se s tim stvarima kao sa multiskupovima u tom slučaju,;0:17:33.500000 - 0:17:40.500000
+nego ta baš razlika znači maknemo ih sve van.;0:17:40.500000 - 0:17:44.500000
+Maknemo ih sve van.;0:17:45.500000 - 0:17:46.500000
+Dobro. Još ću to za svaki slučaj pogledat,;0:17:47.500000 - 0:17:50
+ali sad kad velite...;0:17:50 - 0:17:51
+Jer kužite, upravo problem sa rezom bi bio dobivanje...;0:17:51 - 0:17:56
+Micanje jedne formule.;0:17:56.500000 - 0:17:58
+Jer ja od tuda da dođem tu,;0:17:59 - 0:18:01
+s onom semantikom koju sam imao u glavi,;0:18:01 - 0:18:03
+bi morao maknuti ovoga formulu, a to ne mogu.;0:18:03 - 0:18:07.500000
+To ne mogu napraviti. Uvijek mogu dodat.;0:18:07.500000 - 0:18:09.500000
+Slabljenja smo već koristili na tisuće, ali ovo...;0:18:09.500000 - 0:18:12.500000
+Jedino da nisam negdje fula.;0:18:14.500000 - 0:18:17.500000
+Da malo da još pogledam.;0:18:17.500000 - 0:18:19
+Dajte i vi malo pogledajte, li vam se to čini ok.;0:18:21.500000 - 0:18:24.500000
+Tu smo napravili rez, jednostavno smo ostali bez beja.;0:18:25 - 0:18:28
+Onda smo na ovo dvoje primijenili...;0:18:33 - 0:18:38
+Mislim, primijenili...;0:18:39 - 0:18:40
+Vidjeli smo što hoćemo dobiti.;0:18:40 - 0:18:42
+Tako je.;0:18:48 - 0:18:49
+I onda...;0:18:49 - 0:18:50
+Onda smo tu...;0:18:52 - 0:18:54
+Aha, napravili smo...;0:18:55.500000 - 0:18:58
+Primijenili smo predpostavku indukcije, je li tako?;0:19:01 - 0:19:05
+Znači na ovo...;0:19:05 - 0:19:07
+Na ovo tu...;0:19:08 - 0:19:09
+I na ovo.;0:19:10 - 0:19:11
+Dobro.;0:19:11 - 0:19:12
+I ovo je onda dobro.;0:19:15 - 0:19:17
+Ok.;0:19:18 - 0:19:19
+I ovdje...;0:19:20 - 0:19:21
+To je isto tako dobro.;0:19:25 - 0:19:27
+Dobre.;0:19:31 - 0:19:32
+I onda...;0:19:35 - 0:19:36
+Aha, sad rez po beje.;0:19:38 - 0:19:40
+Znači samo smo uklonili beje, ovaj union napravili.;0:19:40 - 0:19:43
+Union.;0:19:48 - 0:19:49
+Aha, da.;0:19:49 - 0:19:50
+I dobili dupliče, dva dupliča.;0:19:50 - 0:19:52
+To smo makli.;0:19:52.500000 - 0:19:53.500000
+Da.;0:20:01.500000 - 0:20:02.500000
+Da, definitivno.;0:20:04.500000 - 0:20:05.500000
+Onda mora bi da bi sve štimalo.;0:20:05.500000 - 0:20:07.500000
+Znači ovo tu počupa sve ova ove van.;0:20:07.500000 - 0:20:09.500000
+U redu, sve aove.;0:20:09.500000 - 0:20:11.500000
+Moguće da je to trebalo hintati.;0:20:14.500000 - 0:20:16.500000
+Ovoga kad su slagani, slagani.;0:20:17.500000 - 0:20:19.500000
+Ovoga kad su slagani, slajdovi.;0:20:20 - 0:20:22
+Moguće je da je zato ovako single, kao tu nisu skupovi,;0:20:23 - 0:20:26
+ali sve jedno je skupovno.;0:20:26 - 0:20:28
+Ono, možda se hoće reći ono, ne znam, makni slike niza,;0:20:28 - 0:20:32
+ono, kužite tako nešto.;0:20:32 - 0:20:34
+Dobro.;0:20:34 - 0:20:35
+Stvarno fascinantno da nisam to...;0:20:36 - 0:20:38
+Da, da.;0:20:43 - 0:20:45
+Istina je.;0:20:47 - 0:20:48
+Definitivno.;0:20:48 - 0:20:49
+Ok.;0:20:50 - 0:20:51
+Dobro, dobro.;0:20:53 - 0:20:54
+Dobro, ovdje, aha, tu je samo ispričavan se.;0:20:57 - 0:21:00
+Trebao sam ovoga raspisati, ali isto je.;0:21:01 - 0:21:03
+Dobro, znači ovdje pi2 je res.;0:21:04 - 0:21:07
+Odnosno zadnje pravilo u pi2 je res.;0:21:08 - 0:21:11
+Dobro.;0:21:11 - 0:21:12
+Pa opet, imamo dva put predpostavku indukcije,;0:21:14 - 0:21:17
+koja nam da ove dvije sekvente.;0:21:17.500000 - 0:21:19.500000
+Jel' jesu iste? Dajte pogledajte samo.;0:21:20.500000 - 0:21:23.500000
+Aha, ovo tu, jel'?;0:21:26.500000 - 0:21:28.500000
+Gama...;0:21:30.500000 - 0:21:31.500000
+Da, dobro, gama1b, gama2b za delta1b za delta2b.;0:21:32.500000 - 0:21:39.500000
+To bi bio analogovan, jel' tudi su...;0:21:39.500000 - 0:21:41.500000
+Ovdje su kod mene dva indeksa, tamo je jedan i obrnota.;0:21:41.500000 - 0:21:45.500000
+Jel' tako?;0:21:45.500000 - 0:21:46.500000
+Znači, a ovo gore bi bilo gama1, gama2, 1 bez a, delta...;0:21:46.500000 - 0:21:54
+Tu je sad b nesto... Aha, nekoga je krivo napisao na krivo mjesto, neva veze.;0:21:56 - 0:22:01
+Znači, s deste strane opet b, ovaj 1 bez a i tako je.;0:22:01 - 0:22:07
+To je to.;0:22:08 - 0:22:09
+Da, predlama, recite.;0:22:10 - 0:22:11
+Samo oni kažu, bez svega ne učinite se da je dva res.;0:22:11 - 0:22:14.500000
+Dobro.;0:22:14.500000 - 0:22:15
+Ali to mi se ne čini tako učinit.;0:22:15 - 0:22:17.500000
+Ne, pa to sam i ja napravio. To je ovo tu. Res po b.;0:22:17.500000 - 0:22:21
+Dobro, da, da, jasno. To je tekst, mi se pa ovo...;0:22:21 - 0:22:23.500000
+Mislim, nije to simetrično. Nije isto, ali jedan i drugi.;0:22:23.500000 - 0:22:27.500000
+Ono što želimo dobiti nije...;0:22:30 - 0:22:31.500000
+Ma, dobro, besmanjenja općenitosti nam znači trivialno je prevesti jedno u drugo.;0:22:32 - 0:22:38
+Nije baš isto, ali kao možda bi bilo mrvicu tu i tam teže da sam uzeo desna pravila,;0:22:38 - 0:22:44.500000
+nego ljeva ili nešto, ali sve je to isto, više manje.;0:22:44.500000 - 0:22:48
+Naravno, naravno, treba često provesti baš, ali je slično.;0:22:49.500000 - 0:22:53
+I sad samo da pogledamo, da vidim je li dobro to prepisano tu.;0:22:57 - 0:23:01
+Samo malo, ok, ok.;0:23:05 - 0:23:07
+Gore je ispričano se.;0:23:08 - 0:23:11
+Evo ga. Znači, ovo tu je sad prepisane su ove dvije sekvente, jel?;0:23:11.500000 - 0:23:16.500000
+I jel se sad tu isto ovo pojavljuje što smo sad upravo skužili?;0:23:16.500000 - 0:23:20.500000
+Znači, šta? B je obrisan.;0:23:22.500000 - 0:23:25.500000
+Tako je. Znači, tako je. Evo ga.;0:23:26.500000 - 0:23:28.500000
+Gamma 1. Jel tako samo jedna kopija od gamma 1 dođe?;0:23:28.500000 - 0:23:33.500000
+I vidite, imamo gamma 2, 2 bez A i gamma 2, 1 bez A. Što je gamma 2 bez A?;0:23:34.500000 - 0:23:39.500000
+Dobro. Znači, ono, gore je oduzet k'o fol dva puta,;0:23:40 - 0:23:45
+ali zapravo je to isto što i jedan put, jer ih sve makne.;0:23:45 - 0:23:49
+Ok, evo, sad smo sigurni 100%.;0:23:49 - 0:23:51
+Dobro. Znači, ok.;0:23:51 - 0:23:54
+E da, nisam pitao glavno pitanje.;0:23:54 - 0:23:56
+Zašto sad, rekli smo da izvigavamo rez?;0:23:56 - 0:23:59
+Zašto sad nije porastao ovoga rang?;0:23:59 - 0:24:03
+Nakon što smo ove rez napravili.;0:24:03 - 0:24:05
+Po B. Tako je.;0:24:05.500000 - 0:24:07.500000
+Znači, rez je po B, a on nije A.;0:24:07.500000 - 0:24:10.500000
+Dobro, on nije... Aha, kako znamo da je B...;0:24:10.500000 - 0:24:14.500000
+Možda je B ranga D, bez da bude A.;0:24:15.500000 - 0:24:18.500000
+Kužite? Znači, to što smo napravili rez po formuli koja nije A,;0:24:18.500000 - 0:24:22.500000
+ne znači da nismo napravili po formuli istog ranga.;0:24:22.500000 - 0:24:26.500000
+Sad, to je se pojavilo u...;0:24:26.500000 - 0:24:28.500000
+Nije dovoljno da se pojavila, nego treba da je baš bila formula reza.;0:24:28.500000 - 0:24:33.500000
+Tako je. Bravo. Znam da ste to dobro mislili.;0:24:34 - 0:24:37
+Ovoga... Znači, ovdje, vidite, u izvodu koji je ranga manjik od D,;0:24:37 - 0:24:44
+manjik od ranga od A, se pojavila D kao formula reza.;0:24:44 - 0:24:48
+Drugim rječima, ona sigurno ne može imat rang D.;0:24:48 - 0:24:52
+Ok? To je ključno. To je apsolutno ključno ovdje.;0:24:52 - 0:24:56
+Dobro?;0:24:56 - 0:24:58
+Ok.;0:24:59 - 0:25:01
+Dobro, ajde idemo sad. Neću vas više pilit previše.;0:25:01.500000 - 0:25:05.500000
+Idemo sad više gledat' nego pisat',;0:25:05.500000 - 0:25:08.500000
+jer mislim da vam je odavno već sve jasno.;0:25:09.500000 - 0:25:13.500000
+Ali, kao formalno gledano, ostala je još negde polovica tih slajdova,;0:25:14.500000 - 0:25:18.500000
+pa idemo malo samo ih pogledat'.;0:25:18.500000 - 0:25:20.500000
+Svaki slučaj je u opisu.;0:25:21 - 0:25:23
+Ali, evo, čisto dobro vam je vidjet' da kad čovjek se bavi s detaljima,;0:25:27 - 0:25:32
+da svašta mu može promaknut'.;0:25:32 - 0:25:34
+Pitanje je sad, jer jesmo u ovom razinom abstrakcije slajdova;0:25:34 - 0:25:38
+možda opet propustili neku tehnikaliju u dokaz.;0:25:38 - 0:25:41
+To, ono, ko će znati, jel?;0:25:41 - 0:25:44
+Dobro. Znači, dogovorili smo se da će nam četvrti slučaj;0:25:44.500000 - 0:25:50.500000
+bit' gdje imamo ova, u ovim manjim izvodima, gdje imamo oba pravila logička.;0:25:50.500000 - 0:25:55.500000
+A u barem jednom od njih, pa recimo u drugom, nije glavna formula.;0:25:57.500000 - 0:26:04.500000
+U redu. Šta znači da nije glavna formula?;0:26:04.500000 - 0:26:08.500000
+Da nije ona, ona žestoka formula, jel?;0:26:08.500000 - 0:26:11.500000
+Sjećate se, ako hoćemo negaciju, onda je negacija A,;0:26:12 - 0:26:15.500000
+glavna formula A i B, ili A ili B, itd.;0:26:15.500000 - 0:26:19.500000
+Znači, nekako stalno imamo ovu potformulnost u glavi,;0:26:20 - 0:26:24
+dok ne govorimo o rezu. Znači, gore su male formule;0:26:24 - 0:26:27
+i dolje se pretvore u veću formulu, jel, u složeniju formuli.;0:26:27 - 0:26:31
+Znači, u barem jednom, u R2, nije glavna formula.;0:26:32 - 0:26:35
+E sad, tu su opet, to možda sam trebao još nacrtati tamo na početku,;0:26:36 - 0:26:40
+znači, opet postoje dvije relativno različite situacije.;0:26:40 - 0:26:43.500000
+R2, znači, to logičko pravilo, može imat jednu premisu;0:26:43.500000 - 0:26:48.500000
+ili dvije premise, jel tako?;0:26:48.500000 - 0:26:50.500000
+E sad, ako ima samo jednu premisu,;0:26:51 - 0:26:53.500000
+onda, gledajte kak je zgodan način na koji ćemo sad sve pokupiti.;0:26:53.500000 - 0:26:57.500000
+Znači, ponekad, recimo, kod negacije, negacija ima jednu premisu,;0:26:57.500000 - 0:27:02.500000
+znači, tu bude A i onda se tu prebaci, dobra, ide B,;0:27:02.500000 - 0:27:07.500000
+sad da ne velim A, tu se prebaci negacija od B.;0:27:07.500000 - 0:27:11
+Kužite, na neki način su gamma 2,1 je posto gamma 2, delta 2,1 je posto delta 2.;0:27:11 - 0:27:18
+Ali ima nekih, ono, pravila, gdje se samo stvari mijenjaju;0:27:18 - 0:27:23
+na desnoj strani ili na ljevoj, recimo, kod disjunkcije, valjda.;0:27:23 - 0:27:28
+Da, kod disjunkcije, recimo, ako bi tu možda bilo B,;0:27:28 - 0:27:32
+onda bi tu sad bilo A ili B na jedan put, u redu.;0:27:32 - 0:27:35.500000
+Znači, nekak, jel je, mislim da je to bilo, kako sam rekao?;0:27:36 - 0:27:40.500000
+A, ne, je, je, evo ga, disjunkcija.;0:27:44 - 0:27:47
+Dobro, znači, nekak sa ovim zapisom, kao gdje sam dozvolio;0:27:47 - 0:27:53
+da se kao ljeva i desna strana istovremeno promijene,;0:27:53 - 0:27:56.500000
+sam, kao, pokupio sve slučaje, dajmo reći, za jednu premisu za logičko pravilo.;0:27:56.500000 - 0:28:01
+Dobro, evo, i sad šta slijedi s pretpostavke indukcije?;0:28:01 - 0:28:06
+Slijedi da postoji izvod, šta, opet ovo isto, a, ovo je pi2, jel imamo još pi1,;0:28:06 - 0:28:14.500000
+pa znači gamma1, gamma2, 1 bez A, delta1 bez A, delta2, 1, jel?;0:28:14.500000 - 0:28:24
+Znači, postoji takav izvod, ranga manje god D.;0:28:26 - 0:28:28.500000
+I onda šta napravimo, kak dobijemo traženi izvod?;0:28:28.500000 - 0:28:31.500000
+Pa jednostavno, posljednje pravilo koje primjenimo će biti to R2, jel?;0:28:31.500000 - 0:28:36
+I sad opet, možda kontrakcije nekakve,;0:28:36 - 0:28:39
+ili permutacije, što god, slabljanja, nije naročito bitno, ok?;0:28:40.500000 - 0:28:45
+Znači, vrlo jednostavno. I slična priča kao kod reza;0:28:45 - 0:28:49.500000
+je zapravo sad, ako smo imali dvije premise, jel?;0:28:50.500000 - 0:28:53
+Opet, barim jedno pravilo ima dvije premise, pa sad imamo još i treći izvod;0:28:53 - 0:28:58
+i onda dobijemo ovo tu. I kao što smo primjenili rez,;0:28:58.500000 - 0:29:02.500000
+sad primjenimo logičko pravilo, ok, bez veze.;0:29:02.500000 - 0:29:05.500000
+Dobro, e sad, možda mrvicu treba tu diskutirati.;0:29:06.500000 - 0:29:11
+Znači, primijetite, ako su oba pravila R1, R2 logička;0:29:11 - 0:29:16
+i A je glavna formula u oba.;0:29:16 - 0:29:18.500000
+E sad, ako se mi dogovorimo da je A,;0:29:19 - 0:29:23
+znači, rekli smo glavna formula, način da A bude glavna formula;0:29:25 - 0:29:28
+je da bude negacija B, recimo, to je jedan način.;0:29:28 - 0:29:30.500000
+E, onda, jel jasno da su i R1 i R2 pravila negacije?;0:29:31 - 0:29:35.500000
+Kužite, jer nekak, vidite, imamo to zadnje pravilo u ovom malom izvodu;0:29:36 - 0:29:41.500000
+i zadnje pravilo u ovom malom izvodu,;0:29:41.500000 - 0:29:44
+i A je glavna formula u oba.;0:29:44.500000 - 0:29:46.500000
+Ako je negacija glavna formula u oba,;0:29:46.500000 - 0:29:49.500000
+onda su oba pravila negacije.;0:29:49.500000 - 0:29:52
+Uredno.;0:29:52.500000 - 0:29:53.500000
+Evo, recimo, bez smanjenja općenitosti, neke R1 desno pravilo negacije,;0:29:55.500000 - 0:29:59.500000
+šta to znači?;0:29:59.500000 - 0:30:01
+Vidite, sad se potvrdilo se ono što sam mislio zadnji put.;0:30:01.500000 - 0:30:04.500000
+Znači, desno pravilo negacije je ono gdje,;0:30:04.500000 - 0:30:07.500000
+u kojem na desnoj strani završi glavna formula,;0:30:08.500000 - 0:30:11
+u kojem na desnej strani završi, jer, kao mogli bi se pitat,;0:30:11 - 0:30:13.500000
+je li ovo lijevo ili desno pravilo.;0:30:13.500000 - 0:30:15.500000
+Znači, ok, sa pi 1 1 označimo ovaj izvod gore;0:30:16 - 0:30:23
+i sa delta 1 1 samo maknemo negaciju od B,;0:30:23 - 0:30:28.500000
+tako da delta 1 dobijemo, tako da negaciju od B dodamo, delta 1 1.;0:30:28.500000 - 0:30:34.500000
+Dobro, vidite, to će se tu dogoditi, jer će ovaj B,;0:30:35 - 0:30:39
+dobro, sa negacijom prijeći tu unutra.;0:30:39 - 0:30:41.500000
+Uredno.;0:30:42 - 0:30:43
+Znači, doslovno smo u ovaj delta 1 1 smo dodali negaciju.;0:30:43 - 0:30:48.500000
+Aha, i sad, da, i ovo brisanje svih negacija odavde će isto napraviti.;0:30:50.500000 - 0:30:59.500000
+Ovo tu će isto brisat sve negacije.;0:30:59.500000 - 0:31:01.500000
+Tako da nije bitno je li smo ju dodali ili nismo.;0:31:01.500000 - 0:31:04.500000
+Dobro? Ok.;0:31:05 - 0:31:06.500000
+Dobro.;0:31:09.500000 - 0:31:10.500000
+Aha, kak znam, pazite, je smo tu neki rez, aha, ne, dobro.;0:31:11 - 0:31:19.500000
+Tu mi smo imali rez.;0:31:22 - 0:31:24
+Dobro, tu nema frke, ne diram rang.;0:31:26.500000 - 0:31:30
+Uredno, bez obzira šta sam sad radio, nisam dirao rang, jer nisam dodavao rez.;0:31:30 - 0:31:35
+To je dosta važno. Ok.;0:31:35.500000 - 0:31:37.500000
+Dobro?;0:31:38.500000 - 0:31:39.500000
+Ok, slična priča.;0:31:42 - 0:31:43.500000
+Mislim, pazite, rang se zapravo je, znači ova formula koju sad gledam ima manji rang.;0:31:43.500000 - 0:31:49
+Znači ovaj B, jel pod negacijom, ima manji rang od A.;0:31:49.500000 - 0:31:53.500000
+Tako da čak i kad bi trebao tu nešto rezat po B, a možda bi se i dalo tako nešto pojedno stavit,;0:31:53.500000 - 0:31:58.500000
+ovaj smio bi, uredno, znači smio bi rez po B radit, jer je B strogo manjeg ranga od A.;0:31:59 - 0:32:05.500000
+Sjedite se u klopljeni veznici, znači ova negacija poveća rang za 1. Uredno?;0:32:05.500000 - 0:32:11.500000
+Dobro? Isto vrijedi ovdje. Ok.;0:32:13 - 0:32:15.500000
+Znači A ima točno za 1 veći rang od...;0:32:15.500000 - 0:32:19.500000
+Aha, ne točno. Uredno.;0:32:20 - 0:32:22
+Jedna, barem od ove dvije formule, B i C, ima rang za točno 1 manji od A.;0:32:23 - 0:32:30
+Ova druga ne mora.;0:32:30 - 0:32:31.500000
+Može, ljeva možda ima rang 5, druga 2, ali ova onda ima rang 6.;0:32:32.500000 - 0:32:39.500000
+Sjedite se u maksimum, jel?;0:32:39.500000 - 0:32:41.500000
+Dobro. I sad...;0:32:42.500000 - 0:32:44.500000
+Ok, slična neka priča, da sad ne pričam.;0:32:45 - 0:32:49
+Dobro, niš jako pametno.;0:32:49 - 0:32:51
+Već smo to puno put vidjeli, pa dajte sami to probajte i raspišite još ova dva slučaja.;0:32:52 - 0:32:57.500000
+Još ćemo mi pogledat malo sa kvantifikatorima.;0:32:58 - 0:33:01
+Šta se događa, jer tu ipak bitna sad stvar, jel?;0:33:01 - 0:33:04
+Znači, evo, recimo, bez manjenja općenosti, neke R1 desno,;0:33:04 - 0:33:09
+a R2 ljevo pravilo za existencijalni kvantifikator.;0:33:09 - 0:33:12.500000
+Dajte si razmislite malo, jel mogu oba biti desna ili oba ljeva,;0:33:12.500000 - 0:33:17
+a da sve jedno budemo u nekakoj situaciji s onim upitnikom, jel?;0:33:17 - 0:33:21.500000
+Znači, jesu to mogući slučajevi uopće za ono šta hoćemo, dobro?;0:33:21.500000 - 0:33:26
+E sad, znači, izvodi P1 i P2, vidite šta smo rekli,;0:33:27 - 0:33:31.500000
+nekad smijemo samo s variable preći na vezivanje,;0:33:31.500000 - 0:33:35
+a nekad sa čitavog terma možemo.;0:33:35 - 0:33:37.500000
+Ali imamo onu lemu, aha, dobro, to nećemo sad još.;0:33:37.500000 - 0:33:42
+Ok, sad prvo označimo koristivo predpostavku indukcije,;0:33:42 - 0:33:45.500000
+sad opet onako klackasto, znači za ovo, jel, u jednom slučaju,;0:33:45.500000 - 0:33:51
+a za ovo, kako to označim, aha, ovako sam htio napraviti ovo, dobro,;0:33:51 - 0:34:00
+to u jednom slučaju i ovo u drugom slučaju, dobro.;0:34:00 - 0:34:04.500000
+Znači svakoga u obas manjim za jedan i iskoristim predpostavku indukcije.;0:34:04.500000 - 0:34:10
+Dobro, e, i sad gledajte, sad ću opet dobiti sličnu foru sa rezom,;0:34:11 - 0:34:15.500000
+ali sad malo trebamo biti pažljivi.;0:34:15.500000 - 0:34:18
+Gledajte, znači tu ovaj izvod, lijevo je bio A samo,;0:34:18 - 0:34:23.500000
+nisam skako sa terma, u redu.;0:34:23.500000 - 0:34:27
+Znači nisam skočio ovdje sa terma na vezivanje, a ovdje jesam.;0:34:31.500000 - 0:34:39
+Pa sad imam tu neki malo disbalans, kužite, tu imam B od T,;0:34:39 - 0:34:42.500000
+a tu imam B od A, dobro, ali imam onaj rezultats početka;0:34:42.500000 - 0:34:47.500000
+koji mi kaže da mogu sve Aove zamijeniti sa T.;0:34:47.500000 - 0:34:50.500000
+Ovo tu je malo pogrešno, ova tu crta ne bi tu baš trebala biti,;0:34:51 - 0:34:54.500000
+nego ovo tu postoje kao izvod, u redu, to smo predpostavili,;0:34:55 - 0:35:01
+i sad možemo u tom izvodu sve Aove zamijeniti sa T ovima,;0:35:01 - 0:35:05
+pa onda sad recimo da ovo više ne postoji.;0:35:05 - 0:35:07
+Dobro, znači samo sam ovo tu transformirao, znači ovo tu je recimo P od A,;0:35:07 - 0:35:13
+dobro, a ja sad prelazim na P od T, bez ovog reda, na P od T za A.;0:35:13 - 0:35:18.500000
+Uredo, znači samo sam substituciju napravio svuda, dobro,;0:35:18.500000 - 0:35:22.500000
+i sad vidite sad imam B od T i B od T, uredo,;0:35:22.500000 - 0:35:26.500000
+i sad stvarno mogu napraviti rez po tom B od T.;0:35:26.500000 - 0:35:29.500000
+E, ali zašto B od T, vidite, prije toga u ljevom podstablu;0:35:30 - 0:35:35
+primjera tehničke leve, e, ali zašto, kak sad znam;0:35:35 - 0:35:39
+da B od T nije naraso u rangu?;0:35:39.500000 - 0:35:43
+Jer kužite, ja sam sad na svaku, B ima možda deset pojava tog A,;0:35:44.500000 - 0:35:49
+i ja sam sad u svih tih deset pojava upisao nekakav proizvoljen term,;0:35:49 - 0:35:53
+doslovno proizvoljen. I sad zašto, zašto rang nije narastao?;0:35:53 - 0:35:59
+Zašto B od T za A nema značajno veći rang od B od A?;0:36:01.500000 - 0:36:07.500000
+Pa znači to je samo term unutra došao, dobro?;0:36:10 - 0:36:15
+Znači nemam novih uklapanja, nikakvih veznika,;0:36:15 - 0:36:18
+kvantifikatora, ničega, uredo?;0:36:18 - 0:36:20.500000
+Znači, znači, nište značajno nije promijenilo, ok?;0:36:20.500000 - 0:36:24.500000
+Znači, rang formule je isti, ok?;0:36:24.500000 - 0:36:27.500000
+I isto će vam biti za ovoga univerzalni kvantifikator.;0:36:27.500000 - 0:36:31.500000
+E, i sad znači što želimo vidjeti,;0:36:31.500000 - 0:36:34.500000
+da za svaki izvod ranga D nekog večerki, jel,;0:36:34.500000 - 0:36:38.500000
+postoji izvod iste sekvente nižeg ranga, dobro?;0:36:38.500000 - 0:36:43.500000
+Ovoga, to je zapravo direktno odavde, jel?;0:36:43.500000 - 0:36:47
+Znači, velim, ono možemo razmišljati o nekakvom...;0:36:47 - 0:36:52
+Gdje god smo imali nekakav viši rang od što god, jel, jedan,;0:36:53.500000 - 0:36:59.500000
+ovoga mogli smo ga smanjiti na način da zaobiđemo res po formuli;0:36:59.500000 - 0:37:05.500000
+koja je definirala rang tog izvoda, jel?;0:37:06 - 0:37:11
+Znači, jer iznad te formule, jel, iznad tog reza,;0:37:11 - 0:37:15
+nigdje nema rezova tog ranga, dobro?;0:37:15 - 0:37:19
+Znači, uvijek možemo naći mjesta gdje se, ono,;0:37:19 - 0:37:23.500000
+nalazi formula tog ranga koji je rang izvoda,;0:37:23.500000 - 0:37:27
+a iznad nje nema toga, jel?;0:37:27 - 0:37:30
+I onda uvijek možemo ga ukloniti za obiđ ko što smo vidjeli tu.;0:37:30.500000 - 0:37:35.500000
+Dobro?;0:37:35.500000 - 0:37:36.500000
+E, i onda smo zapravo dokazali Gensenov-Haupzac, jel, za sistem LK.;0:37:36.500000 - 0:37:41.500000
+Znači, kad tak porežemo sve, ovoga, maknemo sve rezove na ranga 100,;0:37:41.500000 - 0:37:49.500000
+što god, tak je najveći, onda pređemo na ove koji su preostali,;0:37:49.500000 - 0:37:53.500000
+recimo 17, itd. i jednostavno dođemo do izvoda iste sekvente bez reza.;0:37:53.500000 - 0:37:59
+E, sad, postoji vam jedan članak od Bulosa,;0:37:59.500000 - 0:38:04
+koji se zove Don't Eliminate Cut,;0:38:04 - 0:38:06
+koji vam kaže da, znači, konstruira, odnosno, pokaže da postoje, jel,;0:38:06.500000 - 0:38:15
+takav izvod u LK da stane na jedno do dvije stranice,;0:38:17.500000 - 0:38:22.500000
+a ako eliminirate sve rezove unutra, onda on nešto kaže čudno, tipa,;0:38:22.500000 - 0:38:30
+ima toliko, ne znam dovoljno fizike da bi bude jasno što se hoće reći,;0:38:30 - 0:38:35.500000
+ali, znači, ima toliko simbola u dokazu završnom,;0:38:35.500000 - 0:38:39.500000
+koliko ima nanosekundi između dva Big Banga.;0:38:39.500000 - 0:38:42.500000
+Sad, ja ne znam kak može biti puno Big Bangova, nemam pojma,;0:38:43 - 0:38:47
+neko veli da dokaz stane u vidljivi svemir, bla, bla,;0:38:47 - 0:38:51.500000
+uglavnom nešto jako veliko, ne znam, rađe bi čul nekakav broj,;0:38:51.500000 - 0:38:55
+nego ovakve stvari, ali, uglavnom, može se proizvojno povećati dokaz sa tim, dobro?;0:38:55.500000 - 0:39:02
+Mislim, možete dobiti proizvojno veliki dokaz.;0:39:04 - 0:39:06.500000
+E sad, potformulnost, to smo pričali, znači, ak smo izbjegli sve rezove,;0:39:06.500000 - 0:39:13
+a jedino rez je bio takav da pređem sa nečega na potformule,;0:39:13 - 0:39:18
+inače sam uvijek imao baš obrnuto, znači,;0:39:19 - 0:39:22
+dolje pišu formule velike, a gore pišu potformule, ok?;0:39:22 - 0:39:26
+Znači, sad imam potformulnost. Znači, ako je neka, tu krivo piše, naravno,;0:39:26 - 0:39:31
+ja sam zaboravio ispraviti, znači, ako je dokaziva sekventa,;0:39:32 - 0:39:37.500000
+ono, turnstile F u LK, onda za nju postoji izvod;0:39:39 - 0:39:43
+u kojem se upotrebljavaju samo potformule od F, dobro?;0:39:43 - 0:39:46
+Znači, ne možete u LK dokazati formulu, u LK možete dokazati sekventu.;0:39:46 - 0:39:52
+A misli se na ovu sekventu, ok? Dobro?;0:39:52 - 0:39:56
+I sad, ono što smo zadnji put komentirali,;0:39:58 - 0:40:02
+znači, korolar je odmah konzistentnost sistema LK.;0:40:02 - 0:40:06
+Znači, u sistemu LK ne postoji izvod za praznu sekventu,;0:40:06 - 0:40:09
+jer kad bi postojao, onda bi ovoga, vidite,;0:40:09 - 0:40:13
+upotrebljavaju se samo potformule desne strane,;0:40:14 - 0:40:17
+potformula desne strane nema.;0:40:17 - 0:40:20
+Znači, morali bi smo krenuti od prazne sekvente,;0:40:20 - 0:40:24
+a prazna sekventa nije aksijom. Dobro?;0:40:24 - 0:40:27
+Znači, u biti smo dokazali konzistentnost sistema LK,;0:40:27 - 0:40:31
+ali je fora u tome da to nije bila Gensenova ideja.;0:40:31 - 0:40:35
+Gensenova ideja je bila dokazati, to je napravio,;0:40:35 - 0:40:39
+zato je to išlo sve radit, dokazati konzistentnost PA.;0:40:39 - 0:40:43
+A mi nismo sad napisali sličan sistem sekvenata za PA,;0:40:43 - 0:40:50
+ali da jesmo, onda bismo mogli slično razmišljati;0:40:50 - 0:40:55
+i dokazati konzistentnost od PA. Dobro?;0:40:55 - 0:40:58
+Znači, to je ono zašto je ovo zapravo vrijedno.;0:40:58 - 0:41:01
+Ok. I onaj korolar, Gensenov teorema mid sekventi,;0:41:01 - 0:41:05
+ajde samo da kažem. Znači, S je sekventa koja ima izvodu LK,;0:41:05 - 0:41:09
+sadrži samo formule u preneksnoj normalnoj formi,;0:41:09 - 0:41:12
+tada ju možemo izvesti bez reza, koji sadrži sekventu S crta,;0:41:12 - 0:41:17
+o takozvanom mid sekventu.;0:41:17 - 0:41:19
+Tako da formule iz S crta ne sadrže kvantifikatore,;0:41:19 - 0:41:23
+svako pravilo izvode iznad S crta je strukturno ili proposicijsko,;0:41:23 - 0:41:27
+a ispod S crta je strukturno ili kvantifikatorsko. Dobro?;0:41:27 - 0:41:31
+Evo, to je bila ta patnja. O ovoj idući put idemo na izračuvanje.;0:41:32 - 0:41:37
+Dobro? Recite ak ima kakvih pitanja.;0:41:37 - 0:41:40
+Ak ne, evo, dvije minute prije vas pustim.;0:41:42 - 0:41:45

@@ -1,0 +1,523 @@
+Speech;Timestamp
+Može. E dobro. Evo danas malim kašljenjem isprihe.;0:00:00 - 0:00:05
+Dakle, o ovoga što smo zadnji put radili? Pa dosta smo pričali o nekako prirodnoj dedukciji,;0:00:05 - 0:00:11
+koja je prirodna možda iz perspektive nekoga ko radi nekakav dokaz unutra,;0:00:11 - 0:00:15
+ali za meta teoreme nije sjajna jer ima previše pravila.;0:00:15 - 0:00:18
+U svakom slučaju, pomoću nekakvih hekova, naravno gledali smo što je rez, jel' tako, i kako ih se riješiti,;0:00:20 - 0:00:27
+i za te stvari da bismo uopće uspjeli, uveli smo nekakve hekove.;0:00:27 - 0:00:33
+Već su bili neki hekovi možda i za definirat pravila, budući da ono, trebalo je pričati o nekakvim termima,;0:00:33 - 0:00:40
+slobodnima za variablu, u nekakvoj formuli i tak dalje.;0:00:40 - 0:00:43
+Naravno sad nije da ćemo danas pričati o nečemu skroz trivialnom, gdje neće biti nikakvih takvih hekova,;0:00:43 - 0:00:51
+ali ono, reko bi da je to ipak elegantni pristup, pogotovo ako želite nešto dokazati o teoriji,;0:00:51 - 0:00:57
+kao što genice nije, uvodivši upravo tako jedan sistem.;0:00:57 - 0:01:02
+Ali dobro, ajmo samo još kratko pričati o dokazu teorema normalizacije za prirodnu dedukciju.;0:01:03 - 0:01:10
+Znači, evo, već tu se vidi malo hekines nekakav, i ova preimenovanja i tak dalje.;0:01:11 - 0:01:21
+Znači, u sistemu sekvenata ćemo nekak imati malo, ajmo reći, jednostavniji pristup svemu tomu.;0:01:21 - 0:01:30
+Dakle, kako bismo sad ipak u takvom vrlo heki environmentu dokazali teorem normalizacije za prirodnu dedukciju?;0:01:31 - 0:01:39
+Dakle, vidite, ako imamo izvode D i D crta, već smo prošli put rekli da možemo nekako;0:01:40 - 0:01:47
+D u kojem je recimo rez transformirati u D crta tako da tog reza više nema.;0:01:48 - 0:01:54
+Dobro, i možemo to raditi puno, možemo puno puta to napraviti.;0:01:54 - 0:02:00
+I sad ovako, kažemo da je izvod normaliziran ako ne možemo to nijednom napraviti,;0:02:00 - 0:02:04
+a može se normalizirati ako postoji nekakav niz transformacija, tako da,;0:02:04 - 0:02:09
+konačno niz transformacija, tako da se dođe do normalizirane izvode.;0:02:09 - 0:02:13
+Sad rekli smo slabonormalizacijsko svojstvo, znači da se izvod, svaki izvod, može normalizirati;0:02:13 - 0:02:24
+na pametan način, dakle, postoji način da se normalizira.;0:02:24 - 0:02:29
+A jako normalizacijsko svojstvo jednostavno kaže ono kako god probamo normalizirati,;0:02:29 - 0:02:34
+tako da radimo ove transformacije, bit će u redu zato što imamo dobro utemeljenu;0:02:34 - 0:02:39
+ovoga relaciju, odnosno inverzno dobro utemeljenu, ako hoćete gledati ovo veće.;0:02:41 - 0:02:45
+Tu sam spomenuo, valjda, neku tehničku sitnicu gdje se introdukcija negacije;0:02:46 - 0:02:53
+i redukciju ad absurdum mogu ograničiti samo na slučajeve u kojima je konkluzija atomarna formula.;0:02:53 - 0:02:57
+To je jako zgodno, zato što onda tu nema reza.;0:02:57 - 0:03:00
+Dobro, znači tu se nekako odmah riješimo tih pravila, ne moramo ih promatrati u našem dokazu teorema normalizacije.;0:03:00 - 0:03:07
+A ovoga čisto skicat dokaza tog teorema, znači ove slabe normalizacije,;0:03:07 - 0:03:14
+da uvijek imamo, da se svaki izvod da normalizirate, jel?;0:03:14 - 0:03:20
+Znači, prvo se definira rang reza, jel?;0:03:20 - 0:03:24
+A ako imamo izvode i u njemu imamo neku formulu reza na koju smo se odločili skoncentrirati,;0:03:24 - 0:03:29
+složenost te formule reza je rang tog reza.;0:03:29 - 0:03:34
+Ako imamo više formula tog istog ranga, jel? I taj rang bude baš maksimalni rang u čitavom izvodu,;0:03:36 - 0:03:46
+onda...;0:03:46 - 0:03:48
+Aha, ne, pardon, tu još nije, ako imamo više, pardon.;0:03:50 - 0:03:53
+Znači, ako je slučajno rang te formule,;0:03:53 - 0:03:56
+složenost te formule, odnosno rang tog reza najveći,;0:04:00 - 0:04:03
+ono maksimalan kad se pogleda čitav izvod,;0:04:03 - 0:04:06
+onda se ta formula reza zove maksimalna formula reza.;0:04:06 - 0:04:11
+I ono što pokušavam reći na nebaš dobar način je da ih može biti puno.;0:04:11 - 0:04:17
+U redu. Znači, recimo, maksimalni rang bi mogao biti,;0:04:17 - 0:04:21
+maksimalna formula reza bi mogla biti ona čije je složenost 100;0:04:21 - 0:04:27
+i sad ovoga tih formula reza koje imaju istu složenost,;0:04:27 - 0:04:39
+ovoga može biti više. Dobro?;0:04:39 - 0:04:42
+I onda zapravo rang reza izvoda neću definirati kao jedan broj,;0:04:43 - 0:04:47
+nego kao dva broja. U redu.;0:04:47 - 0:04:49
+Znači, prvo nađem nekako složenost maksimalne formule reza.;0:04:49 - 0:04:54
+Recimo, neke najveći takav broj 100.;0:04:54 - 0:04:57
+I sad nađem svih, ne znam, tisuću ili milijun ovoga maksimalnih formula reza sa tim rangom.;0:04:58 - 0:05:05
+I onda će, naravno, ideja teorema normalizacije biti leksikografski;0:05:05 - 0:05:09
+i smanjivati rang reza izvoda tako definiran.;0:05:09 - 0:05:13
+Služite, znači, samo da prvo vam to napisat.;0:05:13 - 0:05:18
+Evo, šta smo rekli.;0:05:18 - 0:05:19
+Znači, zamislite si da je složenost maksimalne formule reza 100.;0:05:19 - 0:05:30
+Dobro? Znači da ima nekako 100 ovih vezdika, kvantifikatora.;0:05:30 - 0:05:37
+I sad, možda takvih formula, znači koje imaju složenost,;0:05:37 - 0:05:44
+koje su maksimalne formule reza, a imaju složenost 100, možda ih ima, ne znam, 20, recimo.;0:05:44 - 0:05:51
+Dobro? I sad ideja je, naravno, mi možemo sa onom jednom transformacijom,;0:05:51 - 0:05:57
+sa ovom transformacijom, mi možemo se riješiti jednog od tih rezova.;0:05:57 - 0:06:04
+Jel' tako? Jednog od tih rezova u kojima je formula reza upravo takva maksimalna formula reza.;0:06:04 - 0:06:13
+I onda zapravo nije da smo smanjili složenost maksimalne formule reza,;0:06:13 - 0:06:21
+ostaje ista, dobro? Ali smo si riješili jedne od njih.;0:06:21 - 0:06:26
+Dobro. Znači riješili smo se negako, dobro, možda bi trebalo reći samo,;0:06:26 - 0:06:35
+znači mogu ja imat' istu, potpuno istu maksimalnu formulu reza na više različitih mjesta.;0:06:35 - 0:06:42
+Ovdje samo hoću reći ono, 20 je pojavljivanja, pa sam prešao na 19 pojavljivanja itd.;0:06:42 - 0:06:48
+Dobro? Svih skupa.;0:06:48 - 0:06:51
+I sad, još kad napravim 18 koraka, još uvijek ću imat' jednu maksimalnu formulu reza složenosti 100, dobro?;0:06:52 - 0:07:04
+Ali, kao što se neko biće, jedna. Što će bit' iduće na šta ću preći?;0:07:04 - 0:07:11
+Znači, ja kad sad tu jednu eliminiram, jel' tako, što će se dogodit' s ovim brojem?;0:07:11 - 0:07:22
+Jel' se ono nužno mora smanjiti? Jel' se može povećati i ostati isti?;0:07:25 - 0:07:31
+Znači, pazite, imam jednu jedinu maksimalnu formulu reza čio je složenost 100.;0:07:33 - 0:07:39
+Jednom kad nju maknem, hoću li još uvijek imati maksimalni formula reza složenosti 100?;0:07:40 - 0:07:46
+Neću, jel' tako? E, ali onda neće tu sad pisat', pazite, 100 zarez 0, jel'?;0:07:47 - 0:07:55
+Jer ak' imam 0 takvih formula, onda ih nema, jel'?;0:07:55 - 0:07:59
+Znači, ovo će se smanjiti sada. Dobro? Koliko se to može smanjiti? Čisto ovak' načelno.;0:08:01 - 0:08:08
+Znači, hoće li to baš nužno past' na 99?;0:08:09 - 0:08:12
+Znači, rješili smo se svih maksimalnih formula reza, one su imale složenost 100.;0:08:20 - 0:08:26
+I sad, koja bi iduća morala bit' maksimalna složenost maksimalne formule reza?;0:08:27 - 0:08:34
+Ne znamo, jel' tako? Tako je, manja svakako, ali u načelu bi mogla bit' i 7, recimo.;0:08:34 - 0:08:41
+7. Dobro? Znači, ovo tu može past' bilo, ono, proizvoljno. Dobro? Ovisi.;0:08:42 - 0:08:48
+A ovo tu, koliko to sad može narast? Isto proizvoljno, moglo bi ih bit' 500 komada, jel' tako?;0:08:49 - 0:08:56
+Dobro? I tak', ali vidite da ovo tu je konačan postupak, jel' tako?;0:08:57 - 0:09:03
+Znači, leksikografski, pa da, a radi se o dobro utemeljenom uređaju.;0:09:03 - 0:09:11
+Zato vidite da ne može baš svaki past na bilo koji proizvod?;0:09:12 - 0:09:16
+To već vidite da ne može.;0:09:19 - 0:09:21
+Pa da li si prepostavio da možeš, da uvijek, da možeš, znači, primjer, da pada na bilo koji uređaj?;0:09:21 - 0:09:32
+Da, znači, vi da specificirate niz kakav hoćete, a da se može naći dokaz.;0:09:32 - 0:09:37
+To mislite da se ne bi dalo, jel'?;0:09:37 - 0:09:39
+Meni je, mislim, ovo kako sto kvade, recimo, cena.;0:09:39 - 0:09:43
+Ne možeš past na bilo koji uređaj.;0:09:43 - 0:09:45
+E da, da, pa to kažem. Znači, vi, ja bih htio, ono, da upobrgnem ovo što vi velite,;0:09:45 - 0:09:50
+napiso bi niz kakav ja hoću ovakav, i vi velite ne može se nužno naći, znači, postoji nekakav takav niz da se ne može naći takav izgod, jel'?;0:09:50 - 0:10:00
+E, ali ne znam, znači, nemam pojma, ja bih, recimo, rekao da se može.;0:10:01 - 0:10:06
+Znači, kakav god vi tu napišete, ono, niz, da se da, ali ne znam.;0:10:06 - 0:10:13
+Okej.;0:10:15 - 0:10:16
+Ali jasna je ideja, jel' šta se tu događa.;0:10:16 - 0:10:19
+Mi samo smanjujemo ovo tu i to je to.;0:10:19 - 0:10:22
+Naravno, sad treba to nekak dosta, ono, pametno napraviti, jel'?;0:10:23 - 0:10:29
+To je taj, slaba normalizacija, ima pameta način, jel'?;0:10:29 - 0:10:33
+E sad da vidimo.;0:10:33 - 0:10:34
+Neka je D izvod u kojem rez nastupa na samom kraju,;0:10:34 - 0:10:38
+pri čemu je rang tog reza m, a drugih rezova u tom izvodu strogo manji od m.;0:10:38 - 0:10:43
+Tada transformacijom izvoda D na tom rezu dobivamo izvod čiji svi rezovi imaju rang strogo manji od m.;0:10:43 - 0:10:49
+To je nekak, valjda, zaočekivati, jel' tako?;0:10:49 - 0:10:52
+I sad, kak' biste onda vi rezove micali?;0:10:52 - 0:10:56
+Znači, recimo da imate nekako ono, imate nekako jako razgranato stavlo, jel',;0:10:56 - 0:11:04
+koje izvodi tu formulu koja vas zanima, jel'?;0:11:04 - 0:11:08
+I sad, ne znam, evo, tu je formula reza, tu, tu, tu, tu,;0:11:09 - 0:11:14
+ono, ima sve posvuda, ima nekakvi formula reza.;0:11:14 - 0:11:17
+Dobro?;0:11:17 - 0:11:18
+I sad, na koji način biste nekak krenuli?;0:11:19 - 0:11:22
+Od kojih formula?;0:11:23 - 0:11:25
+Od kojih?;0:11:26 - 0:11:27
+Donjih.;0:11:32 - 0:11:33
+Jer pazite, ak' imam izvod u kojem je rez na samom kraju ovoga,;0:11:33 - 0:11:39
+a iznad nemam rezove tog ranga, u redu, znači, samo niže,;0:11:39 - 0:11:44
+e, onda, ak' se riješim tog reza, onda stvarno gore nisam ništa pokvario.;0:11:44 - 0:11:51
+Tak' da, meni se čini možda tu bolje krenut'.;0:11:51 - 0:11:54
+Jel' vidite, recimo da su ovo sve, da je to tih 20 komada, jel',;0:11:54 - 0:12:00
+rezova ranga 100, i sad, vidite, znači, jednog kad se ja riješim ovoga,;0:12:00 - 0:12:06
+nisam se tu povećao, nisam pokvario. Dobro?;0:12:06 - 0:12:09
+Tak' da stvarno sam prešao na 100.19. Dobro?;0:12:09 - 0:12:13
+Pa nekak' više mi ima smisa, dobro, sad, naravno, pitanje je kak' te grane točno idu,;0:12:13 - 0:12:17
+al' ajmo reć' da su ovi fakat iznad ovoga i tak', znači da, ono.;0:12:17 - 0:12:22
+Nekako je ovako, možda grane, dobro.;0:12:25 - 0:12:30
+Znači da su ovi stvarno u svojim granama najviše gore,;0:12:30 - 0:12:34
+onda se idem riješit' njih prvo i tak' dalje. Dobro?;0:12:34 - 0:12:37
+Evo, znači šta, ak' nisam na najniže mogućem ovoga rangu,;0:12:40 - 0:12:46
+znači nisam na 0.0, onda uvijek mogu nekako napredovati.;0:12:46 - 0:12:50
+To je ta važna lema. I odmah, čim napravim jedan korak,;0:12:50 - 0:12:55
+odmah ću nekako smanjiti rang. Dobro? To bi bila ta ideja.;0:12:55 - 0:12:59
+Ok? Drugim riječima, stvarno, svaki izvod se može normalizirati.;0:12:59 - 0:13:04
+Naravno, sad, ovo je stvarno samo skica, dakle, tu bi sad puno toga svega trebalo.;0:13:04 - 0:13:10
+Vjerujem, dosta je ono heki i tak'.;0:13:10 - 0:13:14
+Dosta treba da se to svojstvo podformulnosti nakon te normalizacije još dobije.;0:13:15 - 0:13:21
+Al' fore je u tome da mi se to sad ne da radit' upravo zato što ćemo preći na sistem sekvenata;0:13:21 - 0:13:29
+i onda će se to tam' zapravo vidjet' strašno lako.;0:13:29 - 0:13:32
+Znači, ovo svojstvo podformulnosti, kužite, sad pričali smo o tome,;0:13:32 - 0:13:37
+ja lak' imam normalizirani izvod koji pokazuje da S izvodi F,;0:13:37 - 0:13:40
+tada je svaka formula u tom izvodu ili podformula od F ili podformula od S;0:13:40 - 0:13:46
+ili podformula neke pretpostave koje je poništena primjerom redukciju od absurdu.;0:13:46 - 0:13:52
+Zašto? Zašto još to treba dodat'? Pa vidite, zato što tu imam A,;0:13:52 - 0:13:59
+ali vidite, možda mogu imat' negakvu podformulu ne baš od A, nego od negacije A.;0:13:59 - 0:14:08
+Razumijete, mogu bi se ta negacija od A, bi mi se mogla negdje pojaviti.;0:14:08 - 0:14:12
+U tom smislu ovoga svojstva podformulnosti. Ne mogu računati samo na ovaj A,;0:14:12 - 0:14:16
+nego još moram uzeti u obzir i ovu negaciju koja se može negdje pojaviti.;0:14:16 - 0:14:21
+Dobro, znači, nekak ovaj dokaz nećemo provesti, jel';0:14:25 - 0:14:33
+a idući put ćemo napravit' dokaz glavne leme i stvarno ćemo;0:14:33 - 0:14:37
+u sistemu LKA, u tom Gensenovom sustavu sekvenata, ćemo stvarno provesti dokaz.;0:14:37 - 0:14:43
+Dobro, nećemo sad baš sve detalje, ajde, ali tamo ću bar moći reć' puno detaljniju ideju;0:14:43 - 0:14:49
+nego što ću to ovdje napraviti.;0:14:49 - 0:14:51
+Aha, ovo tu sam valjda prošli put već pričao. Znači, kad god tu govorimo o podformulama,;0:14:53 - 0:14:58
+znači ja bih tio A gdje sa T zamijenim sve slobodne nastupe variable X,;0:14:58 - 0:15:08
+ja bih tio to smatrat' kao podformulu od formule za svaki XA.;0:15:08 - 0:15:12
+Iako nije, vi taj T nećete vidjet' na mjestima od X-a,;0:15:12 - 0:15:16
+ali nekako ono, kao, ajmo reć', spustili smo se u neku ruku, jel' hoću da mi to bude podformula,;0:15:16 - 0:15:22
+da mi ovakve stvari imaju smisla. Uredo? Jer vidite da imam to pravilo, ne?;0:15:22 - 0:15:27
+Kužite, hoćete u jednom smjeru, u drugom smjeru.;0:15:29 - 0:15:33
+Znači, hoću ono sad govorit' tu da sam stvarno kao prešao na podformulu.;0:15:33 - 0:15:38
+Dobro? Ok.;0:15:38 - 0:15:41
+Dobro, i sad naravno jaka normalizacija se onda dokaže pomoću podformulnosti;0:15:46 - 0:15:51
+da svaki niz transformacija vodi na normalni oblik, ali to nema šanse.;0:15:51 - 0:15:55
+Dobro, znači, kažem, sad nekak radili smo prvo račun sudova predikata,;0:15:55 - 0:16:03
+znači, nekako ono, dugački su dokazi, prilično netransparentni,;0:16:03 - 0:16:09
+znači, nekako hoćemo ili s jedne strane transparentne dokaze u ovoga;0:16:09 - 0:16:14
+prirodnoj dedukciji, ili nekakve možda kraće, odnosno, bar smanje pravila dokaze;0:16:15 - 0:16:21
+u, recimo, sistemu sekvenatno na koji ćemo sad preći ovoga,;0:16:21 - 0:16:26
+kako bismo mogli lakše dokazivati metateoreme bez toliko puno različitih pravila.;0:16:26 - 0:16:31
+Što više, prirodna dedukcija čak ima i više problema.;0:16:31 - 0:16:35
+Znači, ako ja sad vama dam neki ogromni izvod ili dokaz u prirodnoj dedukciji,;0:16:35 - 0:16:41
+i sad pogledam ovako jedan čvor, dobro, u tom ogromnom stablu,;0:16:41 - 0:16:45
+tko sad zna, prvo, koje su uopće bile privremene predpostavke da bi se taj dokazao, ta formula.;0:16:45 - 0:16:52
+Drugo, jesu te privremene predpostavke zatvorene ili su još otvorene?;0:16:52 - 0:16:57
+Razumijete koliko bi sad trebalo računalu da trči po tome svemu, jel tako?;0:16:57 - 0:17:01
+Mislim, čovjeku pogotovo, a i računalu.;0:17:01 - 0:17:03
+Ovoga, da, evo, jel neka formula, predpostavka itd.;0:17:04 - 0:17:10
+Znači, u sistemu sekvenata nećemo imati taj problem.;0:17:10 - 0:17:15
+Znači, jednostavno će svaki čvor biti ono self-contained.;0:17:15 - 0:17:20
+Dakle, u njemu će pisati šta se predpostavlja i šta se dokazuje.;0:17:20 - 0:17:24
+U redu. Znači, kompletno ono dokazno stanje je unutra.;0:17:24 - 0:17:28
+Nadalje ovoga. Imali smo lemu o preimenovanju u prirodnoj dedukciji;0:17:32 - 0:17:38
+koja je omogućila da slobodne i vezane varijable mogu biti različite uvijek.;0:17:38 - 0:17:43
+A ovdje ćemo naprosto izbjeći taj problem tako da imamo dvije vrste varijable.;0:17:44 - 0:17:47
+Znači, imat ćemo neke varijable koje nikad ne dolaze vezane;0:17:48 - 0:17:52
+i druge varijable koje nikad ne dolaze slobodne.;0:17:52 - 0:17:54
+Mislim, osim u nekakvim definicijskim, međukoracima, ali svakako ne u dokazu samom.;0:17:56 - 0:18:03
+Dobro. I onda, dobro, sad na žalost tu se malo komplicira ta čijenica.;0:18:03 - 0:18:10
+Sve uvijek treba platiti, jel? No free lunch.;0:18:10 - 0:18:13
+Ovoga, osim terma i formula, imat ćemo pseudoterme i pseudoformule. Zašto?;0:18:14 - 0:18:20
+Zato što, sad, kužite, ja bih htio kao u terme stavljati samo slobodne varijable,;0:18:20 - 0:18:26
+jer unutar samog terma nema vezanih varijabli, jel one se tek jave u formulama.;0:18:26 - 0:18:31
+Ali, kužite, ja svejedno hoću kvantificirat ovoga formulu koja sadrži nekakav term,;0:18:31 - 0:18:40
+a kvantificirat mogu samo po one varijable koje iz ovih tipa vezanih varijabli.;0:18:40 - 0:18:45
+Dobro. Znači, moram nekak dozvolit pseudoterme koji smiju imat vezane varijable;0:18:45 - 0:18:50
+i moram dozvolit ovoga pseudoformule koje mogu imat slobodne nastupe vezanih varijable.;0:18:50 - 0:18:57
+Dobro. Ali onda, naravno, kad uvedem kvantifikator, onda moja pseudoformula postaje formula.;0:18:57 - 0:19:03
+Ako sam pokvantificirao sve. Dobro.;0:19:03 - 0:19:08
+Ok, ajde, još jednom. Znači, slobodne varijable, to će mi biti recimo ABC,;0:19:09 - 0:19:13
+po njima se ne može kvantificirati. Imaću vezane varijable XYZ, koje ne mogu nastupit slobodno.;0:19:13 - 0:19:19
+Imaću terme koji se grade, ko što ste navikli, od slobodnih varijabli i funkcijskih simbola.;0:19:20 - 0:19:25
+I sad ću još imat te, dobro, sad, ajmo reći, navikli ste na terme koji smiju imat bilo kakve varijable, jel?;0:19:25 - 0:19:32
+Ovi ne smiju. Ovi smiju imat samo slobodne varijable, ali pseudotermi mogu imat i vezane varijable,;0:19:32 - 0:19:38
+koje ćemo unutar formule zavezati, jel?;0:19:38 - 0:19:41
+Pseudoformula može imat slobodne nastupe vezanih varijabli.;0:19:42 - 0:19:46
+Atomarne formule sadrže samo terme.;0:19:47 - 0:19:49
+Dobro, znači, čim je ovoga formula, onda mora sve biti ispravno, jel? Nema pseudo više.;0:19:49 - 0:19:55
+Dobro, znači, vjerujem, ako je f od x pseudoformula, koja može sadržavati pseudoterme s varijablom x,;0:19:56 - 0:20:02
+i to samo s varijablom x, onda su za svaki x f od x i postoji x f od x formule, dobro?;0:20:02 - 0:20:07
+Kad bi sad još sadržavala tipa varijablu Y, onda ne bi, onda bi bila samo pseudoformula, jel tako?;0:20:07 - 0:20:14
+Dobro, e, i sad idemo na ovaj dio koji bi trebao biti prilično jednostavniji od onoga što smo imali prije,;0:20:15 - 0:20:23
+bar se meni tak čini. Znači, sa gamma i delta ćemo označavati konačne nizove formule, pazite,;0:20:23 - 0:20:30
+a sa a i b formule. Ovo sve se, inače, da prezentirati pomoću skupova formula;0:20:30 - 0:20:37
+i pomoću multiskupova formula, nekak su tri načina, dobro?;0:20:37 - 0:20:40
+Mi smo se tu odlučili za konačne nizove formula, nekak je možda najčešći način.;0:20:40 - 0:20:45
+Znači, ajde malo sad da se bavimo s tim nizovima formula, konačnim nizovima formula.;0:20:46 - 0:20:52
+Dakle, ako napišem delta zarez a, to mi znači ono da sam samo spojio niz tih formula delta;0:20:52 - 0:21:00
+i na kraj konkatenirao još a, u redu.;0:21:00 - 0:21:03
+Znači, ako je ovo bio konačan niz od pet formula, onda je delta a konačan niz od šest formula.;0:21:03 - 0:21:10
+I sad, izraze ovog oblika, znači, ljevo niz gamma, desno delta u sredini turnstile, zovemo sekvente.;0:21:12 - 0:21:21
+Znate ono, kaj je taj turnstile, to je ono kad imate u dućanu ili kaj znam di,;0:21:23 - 0:21:28
+ono kaj vas pušta unutra, dobro, zato tako se zove, jer tako na to malo uviči.;0:21:28 - 0:21:34
+Intuicija, ovako semantička, čisto to ćemo, danas ćemo puno jako pričati o semantičkoj intuiciji za stvari.;0:21:37 - 0:21:43
+Znači, kad ljevo napišem gamma, a desno delta, onda to znači da konjunkcija od gamma;0:21:44 - 0:21:53
+povlači disjunkciju od delta. Znači, to vam je sad možda malo neobično, vi ste nekako navikli;0:21:53 - 0:21:59
+da kad ljevo stavim nešto, da to stvarno bude konjunkcija, znači, ono, ajmo reći imam sve te pretpostavke, jel?;0:21:59 - 0:22:06
+Ali kad bi stavio desno, onda valjda hoćete reći, ono, mogu sve to dokazati. E ne baš sve, u redu.;0:22:07 - 0:22:13
+Pa mislim, što više. Možda i nije tako neprirodno, jer kao vi bi s desne strane;0:22:13 - 0:22:19
+vjerojatno stavili jednu formulu, ono, kao mogu dokazati tu jednu formulu.;0:22:19 - 0:22:23
+Sad vam samo govorem, znači, kad se to generalizira na, ajmo reći, konačno niz formula ili skup,;0:22:23 - 0:22:28
+onda to jednostavno znači disjunkcija s desne strane.;0:22:28 - 0:22:34
+Dobro, znači, Gensenov klasični sistem sekvenata se zove LK.;0:22:37 - 0:22:43
+E sad, rekao sam prošle godine šta je to, pa ću reći sad.;0:22:43 - 0:22:47
+Znači, to vam, koji puno tu stvari dolazi iz Njemačkog, jel?;0:22:48 - 0:22:55
+To vam je, evo.;0:22:55 - 0:22:58
+Znači, klasična logika predikata, ili na Njemačnom klasiče predikaten logik,;0:23:04 - 0:23:10
+je ono od kud je to LK. E sad, L je ovaj tu, kao logika, jel?;0:23:10 - 0:23:17
+A K je ovaj tu, kao klasična. Dobro? Znači, ono, logika klasična, klasična logika.;0:23:17 - 0:23:23
+Taj sistem je zadan sa tri, ajmo reći, vrste, tri grupe pravila.;0:23:25 - 0:23:30
+Znači, imate strukturna pravila, imate pravila o identitetu i logička pravila.;0:23:30 - 0:23:36
+Ok. E sad, znači, kak ih nekak razlikovati?;0:23:36 - 0:23:43
+Vidite, logička pravila su ova negak uobičajena, gdje se negak uvode logički veznici.;0:23:43 - 0:23:52
+Dobro? Pazite, uvode, to je prekrasna stvar, jer ćete podformulnost iščitati s svega.;0:23:52 - 0:23:59
+Dobro? Vidite, gore su same podformule od ovoga dolje. Uredo?;0:24:00 - 0:24:04
+Znači, neću ja tu sad praktički ništ morat dokazivat, znači, podformulnost će se vidjet.;0:24:04 - 0:24:09
+Osim, u pravilu reza. Tu je sad pojavio se negakvi A koji nema veze s ničim.;0:24:10 - 0:24:16
+Jel tako? Ali u ovdje, drugdje, podformulnost vidim odmah. Ok.;0:24:16 - 0:24:22
+Znači, logička pravila su ta standardna negak pravila gdje vi imate introdukciju, ajmo reći,;0:24:25 - 0:24:30
+logičkih veznika, znači, ne eliminaciju, samo introdukciju i to ili s ljeve strane ili s desne strane.;0:24:30 - 0:24:37
+Znači, još jedna O s podijele pravila će biti na ljeva i na desna pravila. Uredo?;0:24:37 - 0:24:43
+Dobro. To su logička pravila. Sad, pravila o identitetu su,;0:24:44 - 0:24:49
+ona, moramo od nečeg početi, moramo imat ovoga pravila reza. Jel?;0:24:49 - 0:24:54
+Dobro, a strukturna pravila su negak pravila koja samo govore o dodavanju formula;0:24:55 - 0:25:02
+ili o negakvom permutiranju formula ili o negakvom oduzimanju formula.;0:25:02 - 0:25:08
+Znači, nije ono da vi uzmete dvije formule i vežete ih logičkim veznikom.;0:25:08 - 0:25:14
+Nego je to da formule dolaze ili nestaju. Uredo? Ali ne baš bilo kak. Jel?;0:25:14 - 0:25:20
+Podformulno će se tu čuvati, očito. Jel? Znači, vidite i sami da tu samo imam;0:25:21 - 0:25:28
+ovoga nešto novo, pa su ovo gore sve podformule. Jel tako?;0:25:28 - 0:25:32
+Ovoga ovdje isto, bez obzira što nešto gubim, jer to nešto što gubim je ono što već imam.;0:25:32 - 0:25:39
+Uredo? I tu se samo ovo kreću stvari. Dobro?;0:25:39 - 0:25:44
+Ali ajmo polako i po redu. Znači, ajmo gledat sa semantičke strane slabljenja.;0:25:44 - 0:25:51
+Dobro? I pogledajte kak je ovo lijepo i simetrično.;0:25:51 - 0:25:54
+Nekak čovjek ne bi se onak nadao da će biti simetrično kad su desno nekak disjunkcije,;0:25:54 - 0:25:59
+lijevo konjunkcije. Znači, jel se slažete da ak gama na semantičkoj razini;0:25:59 - 0:26:07
+povlači nekoga iz delta, da onda povlači i nekoga iz a i delta.;0:26:07 - 0:26:14
+Znači, moglo bi biti a, ali ne mora jer znamo da je neko iz delta povučeno od strane gama.;0:26:14 - 0:26:21
+Dobro? Znači, logička posjedica reklo bi se od gama. Dobro?;0:26:21 - 0:26:25
+E sad, šta je ovo? A ovo je ono, dokazivanje pomoću pretpostavke više. Jel tako?;0:26:27 - 0:26:32
+Znači, ak imam nekakav model, sad sam s semantičke strane, ak imam model za gama,;0:26:32 - 0:26:37
+a, pardon, ak imam model za gama i a, onda imam model za gama, onda imam model za delta,;0:26:40 - 0:26:45
+a to mi je trebalo. Dobro?;0:26:45 - 0:26:48
+Ovo ga, šta je sa kontrakcijom? Pa jasno je, jel? Znači, vi možete pisati formule koliko god puta hoćete,;0:26:49 - 0:26:58
+jel u nekakvim dokazima, jel tako? Ono, možete ih koristiti više puta, te činjenice.;0:26:58 - 0:27:04
+Znači, ne trebate ju imati dva puta, dovoljno je da ju imate jedan puta.;0:27:04 - 0:27:08
+Ili da ne kažem, model ovoga, ak imam model za gama a, onda imam model za gama a, a i to je to.;0:27:08 - 0:27:15
+Slično tu. Sad, model za gama je mogo biti model za a, u redu.;0:27:18 - 0:27:26
+Ak je, onda, dobro, evo, onda je model za ove tu a.;0:27:26 - 0:27:30
+Ak nije, onda ovoga, pardon, ak nije, onda tu vidimo da mora biti, nije model za ovo, nije model za ovo,;0:27:30 - 0:27:38
+ovoga može biti model za nekoga iz delta i to je to. U redu.;0:27:38 - 0:27:43
+Permutacija, opet ono, valjda je jasno, jel? Na semantičkoj razini stvarno nije bitan, reda se.;0:27:45 - 0:27:51
+E, ali zašto imam tu kontrakciju i permutaciju? Zašto sam to stavio uopće?;0:27:51 - 0:27:55
+Koliko je bitno da ta pravila budu unutra?;0:27:55 - 0:27:58
+Zašto se to stavlja, nešto tako očito i bezvezno?;0:28:07 - 0:28:11
+Evo, hinta.;0:28:13 - 0:28:14
+Da mogu napisati ova pravila, jel? Jer ovo tu sad kaže, ak imaš gamma i na kraju,;0:28:26 - 0:28:34
+ono, iza tog niza imaš a. Ja, šta da je a na početku ili u sredini?;0:28:34 - 0:28:38
+Onda, kao, ovo tu ne bi vrijedilo. Pa, naravno, da ne bi sintaktički govoreći,;0:28:38 - 0:28:44
+jel sintaks to govoreći, moram imat ovo što mi omogući da dofuram sve kam treba za ta pravila, jel?;0:28:44 - 0:28:51
+Znači, sad, ak imam, ne znam, ak imam a, jedan a na početku, jedan na kraju,;0:28:51 - 0:28:56
+onda da bih stiso u jedan, jel? Moram ga prvo dofurati, ok?;0:28:56 - 0:29:01
+I onda kad ga dofuram na kraju, onda ga stisnem i to je to.;0:29:01 - 0:29:04
+Dobro? A kad sam ga stisnuo, je onda mogu pogledat šta se s tim a događa, jel?;0:29:04 - 0:29:08
+I tak da.;0:29:09 - 0:29:10
+Dobro.;0:29:10 - 0:29:11
+Ovo poslaženje, mislim, se čini dosta jednostavno dobro.;0:29:12 - 0:29:17
+Mislim, ti imaš vježbu.;0:29:17 - 0:29:19
+Mislim, ne možeš uhoditi. Mislim, dobro, vrijedi, mislim, logično.;0:29:37 - 0:29:42
+Da.;0:29:43 - 0:29:44
+E sad, jel bi se ono dalo dokazati pomoću ovih drugih pravila?;0:29:45 - 0:29:49
+Kužite, ono, cijelo vrijeme treba razmišljati šta treba za adekvatnost, šta treba za potpunost, jel tako?;0:29:52 - 0:29:57
+Mislim, svakako, ajmo reći, ono, sa nekakvog aspekta efikasnosti.;0:29:59 - 0:30:04
+A mislim, čak niti efikasnosti, nego ono,;0:30:06 - 0:30:08
+ne znam, jel si mogu zamisliti nekakav dokaz u kojem imam tu nesreću da imam previše toga dokazanog;0:30:08 - 0:30:16
+i sad moram izbaciti neke stvari da bi mogo, ono, pomoću toga nešto dokazati, kužite.;0:30:16 - 0:30:22
+Ili se uvijek baš može sakriti.;0:30:23 - 0:30:25
+Jer ono, ovo tu govorim, ono, kao, jel bi rekao,;0:30:27 - 0:30:33
+mislim, uvijek razmišljam o backward searchu, jel? Znači, tu nekak, ono, pokušavam dokazat ovo tu, tak da dokažem ovo, jel?;0:30:39 - 0:30:48
+Znači, cijelo vrijeme razmišljam o tome kak se to popenje natrag, ne razmišljam toliko o tome kak idem prema dolje.;0:30:48 - 0:30:54
+I onda sad, u biti, sad se zamišljam sa hrpom stvari, jel, i hoću negdje drugdje možda nastaviti nekakav dokaz.;0:30:54 - 0:31:00
+I sad si razmišljam, ono, mora bi zanemariti dosta toga, jel, možda 3-4 nekakve formule;0:31:00 - 0:31:07
+pomoću 3-4 slabljenja i onda tek mi se to namijesti da funkcionira s nekim pravilom.;0:31:07 - 0:31:14
+Mislim, zapravo si ne mogu zamisliti da se to mora napraviti baš.;0:31:14 - 0:31:19
+Ne znam, ali jako dobro pitanje, evo, bude malo razmislio, pa ću vam reći o ovoga.;0:31:20 - 0:31:24
+Jel mora biti unutra slabljenje, odnosno, jel potrebno za adekvatnost ili za potpunost.;0:31:24 - 0:31:29
+Dobro.;0:31:30 - 0:31:31
+Znači, ajmo sad na pravilo identitetu. Vjerujem, negdje morate početi, jel, jer, vidite,;0:31:37 - 0:31:44
+još niš nemamo. Znači, ak imamo ovo, imamo ovo. Ak imamo ovo tu, imamo ovo.;0:31:45 - 0:31:50
+Dobro, znači, od nečeg moramo krenuti, jel, u listovima naših stabla.;0:31:50 - 0:31:54
+Dobro, pa evo, krećemo od ovoga, uvijek.;0:31:54 - 0:31:56
+Znači, jedino što fakat imamo su aksiomi.;0:31:57 - 0:32:00
+I sad pazite, bitno je, tu se dozvoljava ono ljevo formula i desno ta ista formula.;0:32:00 - 0:32:06
+Nisu skupovi formula. Znači, nije da sad tu imam neki jako lus,;0:32:06 - 0:32:10
+ono, kao ak predpostavim delta, da sam ja dobio, ono, barem jednu formulu iz delta, dobro,;0:32:11 - 0:32:18
+nego, ono, baš A, term style A.;0:32:18 - 0:32:21
+I, vidite, nemojte misliti da je to nekakva privremena predpostavka,;0:32:21 - 0:32:24
+kao u prirodnoj dedukciji. Znači, to je sekventa koja iz ničega napravi,;0:32:24 - 0:32:29
+pravilo zaključivanja koje, ono, iz ničega dobije nešto.;0:32:30 - 0:32:34
+To je A, term style A.;0:32:34 - 0:32:36
+Znači, to smiju biti listovi u mom stablu.;0:32:37 - 0:32:40
+Ponekad se čak i ispušta ta gornja crta jer nema potrebe za njom.;0:32:41 - 0:32:45
+Rekli.;0:32:46 - 0:32:47
+Ovo slavljanje možda onda, sad iz ovog tu akcijona poblačim,;0:32:47 - 0:32:51
+da možemo napraviti zapravo del, dramat, uveči dramat, ili?;0:32:51 - 0:32:57
+Ne znam, možda je nešto krivo.;0:32:58 - 0:33:00
+Samo malo, dajte ponovite.;0:33:00 - 0:33:01
+Znači, ovo što si rekao da nije, da imamo samo jednu formulu.;0:33:01 - 0:33:05
+Dobro, da, da, da.;0:33:05 - 0:33:06
+Znači, ovo slavljanje možemo dobiti, zapravo da spug formula povlači,;0:33:06 - 0:33:09
+ta isti spug formula.;0:33:09 - 0:33:11
+Delta, znači delta.;0:33:12 - 0:33:14
+Aha, samo malo.;0:33:16 - 0:33:19
+Da delta povlači delta.;0:33:24 - 0:33:26
+A onda bi se ja tu popeo, znači šta, ovaj a bi u zadnjem koraku;0:33:26 - 0:33:33
+bio recimo ta prva formula iz delta, jel tako?;0:33:33 - 0:33:37
+E, ali onda bi se ja popeo gore skroz do nečega gdje piše;0:33:37 - 0:33:40
+da gamma izvodi, gamma turnstile prazno.;0:33:40 - 0:33:45
+A prazno, mislim, hoćete dobiti?;0:33:45 - 0:33:51
+Delta turnstile delta, jel?;0:33:52 - 0:33:55
+I sad, kak ga hoćete dobiti pomoću više strukog slavljenja, ili?;0:33:56 - 0:34:01
+E, znači tu imate u principu A i delta crta, gdje je...;0:34:01 - 0:34:06
+Delta je baš ono A i delta crta.;0:34:06 - 0:34:09
+Jel, za redom.;0:34:09 - 0:34:10
+I sad, šta ćete napraviti?;0:34:10 - 0:34:12
+Napravit ćete ovo tu, gdje će sad tu biti delta dvo crtica,;0:34:12 - 0:34:16
+evo tu je A1, tu je nego tu je A2, jel?;0:34:16 - 0:34:19
+I onda ćete u nekom trenutku dobiti delta turnstile prazno.;0:34:19 - 0:34:25
+I sad, kako se ovaj prazno ponekad i ne piše, nek piše samo ovo.;0:34:25 - 0:34:28
+Jel to ste mislili?;0:34:28 - 0:34:30
+Mislio sam, znači, delta je jednak A1, A2, jel možemo to...;0:34:30 - 0:34:35
+Da, da, da, pa to i jesam tu predpostavio, možeš.;0:34:35 - 0:34:38
+I sad, A1 povlači A1.;0:34:38 - 0:34:43
+Dobro.;0:34:44 - 0:34:45
+I onda sad, A1 povlači A1, A2.;0:34:46 - 0:34:51
+Aha, tako, A1, A2.;0:34:52 - 0:34:56
+I onda A1, A2 povlači A1, A2.;0:34:56 - 0:34:59
+Mislite A1...;0:35:02 - 0:35:04
+Onda sad ovo drugo, desno.;0:35:05 - 0:35:07
+Aha, tu vam je trebalo samo malo...;0:35:07 - 0:35:10
+Ovo može ovako, može se oslabiti sa bilo kojom.;0:35:10 - 0:35:14
+Dobro.;0:35:15 - 0:35:16
+I sad, ovo drugo.;0:35:16 - 0:35:17
+Da, i možete A3.;0:35:17 - 0:35:18
+Ovo hoćete dalje.;0:35:18 - 0:35:19
+A1, A2, A3.;0:35:20 - 0:35:21
+Ne, mislim to nakon što potrebimo u drugu.;0:35:22 - 0:35:25
+I onda A1, A2 povlači A1, A2.;0:35:25 - 0:35:30
+Aha, ali vi možete slabiti na kraju.;0:35:34 - 0:35:37
+Možete prvo tu doći do...;0:35:37 - 0:35:39
+Uživite.;0:35:39 - 0:35:40
+Možete dobiti do A1 sve i sad ćeš tu dodavati, jel?;0:35:40 - 0:35:45
+Možeš.;0:35:45 - 0:35:46
+Možeš sad dodavati, jel?;0:35:46 - 0:35:48
+Može, može, kužim.;0:35:48 - 0:35:49
+Da, da, sorry, sad kužim što ste pijeli.;0:35:49 - 0:35:51
+To je u redu.;0:35:51 - 0:35:52
+Dobro, znači može se dobiti.;0:35:52 - 0:35:54
+Da.;0:35:54 - 0:35:55
+Mislim, možda je to oslabjenje potrebno.;0:35:55 - 0:35:58
+Da, teško bi je reći.;0:35:58 - 0:36:00
+Dobro, sad...;0:36:00 - 0:36:01
+Ne, ne, ne, imate pravo, skroz.;0:36:01 - 0:36:03
+Sad, jelo, zato...;0:36:03 - 0:36:05
+Da, ne znam.;0:36:07 - 0:36:08
+Evo, to je ovako dosta duboko pitanje.;0:36:08 - 0:36:11
+Baro za mene u ovom tridutku.;0:36:11 - 0:36:13
+Dobro?;0:36:13 - 0:36:14
+Ovo ga, ali budem razmislio, dobro.;0:36:14 - 0:36:16
+Mislim, treba zapravo pogledat' dokaz, vjerojatno.;0:36:16 - 0:36:19
+Ok.;0:36:19 - 0:36:20
+Znači...;0:36:21 - 0:36:22
+Šta smo htjeli pričati?;0:36:25 - 0:36:27
+Aha, dobro, aksiome smo pričali.;0:36:27 - 0:36:29
+E sad, pravilo reza.;0:36:29 - 0:36:31
+Ajde da vidimo jel se s njim slažete.;0:36:31 - 0:36:34
+Znači, ono, kao gama 1 bi kao izveo delta,;0:36:34 - 0:36:37
+1 na gama 2 delta 2, ali još imam A tu njevo,;0:36:37 - 0:36:41
+a tu ga imam desno.;0:36:41 - 0:36:42
+I sad, kao mogu ga ono frknut' van.;0:36:42 - 0:36:45
+Jel?;0:36:45 - 0:36:46
+Znači, očito ideja reza se negak tu očuvala,;0:36:46 - 0:36:49
+ali dajte da vidimo semantički jel se slažemo.;0:36:49 - 0:36:52
+Znači, ja recimo sad imam gama 1 i gama 2.;0:36:52 - 0:36:56
+Kad kažem imam, mislim imamo model za A, odnosno,;0:36:56 - 0:36:59
+istiniti su, dobro, formule iz njih.;0:36:59 - 0:37:01
+Znači, sve.;0:37:01 - 0:37:02
+I sad, A, ili jest ili nije.;0:37:02 - 0:37:06
+Dobro, znači, taj model koji gledam, veliki je, jel?;0:37:06 - 0:37:09
+Ili jest model za A, ili nije.;0:37:09 - 0:37:11
+I sad, ajde recimo da jest.;0:37:12 - 0:37:15
+Dobro, ak jest, imam gama 1, imam A,;0:37:15 - 0:37:18
+znači imam nešto iz delta 1, gotovo.;0:37:18 - 0:37:20
+U redu.;0:37:20 - 0:37:21
+E, a ak nije, ha dobro, onda bar imam gama 2.;0:37:21 - 0:37:25
+U redu.;0:37:25 - 0:37:26
+Ak imam gama 2, ha onda, iz toga da nije A,;0:37:26 - 0:37:31
+znam da jest nešto iz delta 2, gotovo.;0:37:31 - 0:37:34
+Dobro.;0:37:34 - 0:37:35
+Znači, to pravilo ima smisla.;0:37:35 - 0:37:37
+Ok.;0:37:37 - 0:37:38
+Ok.;0:37:38 - 0:37:39
+Ok.;0:37:41 - 0:37:42
+Ajmo na logička pravila.;0:37:42 - 0:37:44
+Ajde, budemo još malo, pa ćemo napravi nekakvu pauzu.;0:37:47 - 0:37:51
+Šta, koliko smo kasni?;0:37:53 - 0:37:54
+Možda 5 minuta, pa ćemo to, tih 5.;0:37:54 - 0:37:57
+Znači, ajmo vidjeti kak izgledaju logička pravila.;0:37:57 - 0:38:00
+Znači, ajde, razmislite, jel vam ovo tu prirodno nekako?;0:38:00 - 0:38:04
+Dakle, ak imam gama, sad opet, slično je zapravo razmišljenje ko tu gore.;0:38:04 - 0:38:11
+Znači, ili imam ili ne imam A.;0:38:11 - 0:38:13
+Dobro.;0:38:13 - 0:38:14
+Ak imam A, onda imam nekoga iz delta.;0:38:14 - 0:38:16
+A ak ne imam A, onda ne imam A. Tu je.;0:38:16 - 0:38:19
+Dobro.;0:38:19 - 0:38:20
+Cijelo vrijeme tu razmišljate u klasičnoj logici, jel tako?;0:38:22 - 0:38:25
+To piše tu.;0:38:26 - 0:38:27
+Dobro.;0:38:27 - 0:38:28
+Znači, ne moramo sad jako biti pažljivi.;0:38:28 - 0:38:30
+Ok, i tu je ista priča, jel?;0:38:31 - 0:38:34
+Znači, ak imam gama, a ne imam A, dobro, onda mi je gama dao nešto što nije A,;0:38:34 - 0:38:41
+to je ovo iz delta.;0:38:41 - 0:38:42
+Dobro.;0:38:42 - 0:38:43
+Ove formule u kojima se dogodi taj bitan dio, odnosno ta introdukcija, jel,;0:38:45 - 0:38:51
+logičkog veznika ili operatora, će se zoveti glavna formula.;0:38:51 - 0:38:56
+Ovo drugo se zove pomoćna formula.;0:38:56 - 0:38:58
+Kamo smo introdukciju bili napravili, dobro.;0:38:58 - 0:39:02
+Ok, sad, znači, nekak je dosta jasno.;0:39:03 - 0:39:07
+Dakle, za svaki veznik, ne govorimo sad više o eliminaciji i introdukciji,;0:39:07 - 0:39:11
+ali za svaki veznik govorimo o ljevom i o desnom pravilu.;0:39:11 - 0:39:14
+Dobro.;0:39:14 - 0:39:15
+Znači, kak se on može sad pojaviti, jel?;0:39:15 - 0:39:18
+Zašto? Pa upravo zato da bi taj backward proof search mogli napraviti, jel?;0:39:18 - 0:39:22
+Znači, kad oćemo nešto dokazati, da, ono, možemo s ljeve i s desne strane;0:39:22 - 0:39:27
+dobiti ono što hoćemo, jel?;0:39:27 - 0:39:29
+Dobro, znači, da vidimo šta je s konjunkcijom.;0:39:29 - 0:39:33
+Znači, ako sam ja pomoću gamma i a mogo dokazati delta,;0:39:34 - 0:39:39
+onda svakako pomoću gamma i a i b mogu dokazati delta, jel tako?;0:39:39 - 0:39:45
+Slično je ako imam samo b, jel?;0:39:45 - 0:39:48
+Dobro, to je nekak riješilo ljevu stranu, ok?;0:39:49 - 0:39:53
+A kaj je sa desnom stranom?;0:39:53 - 0:39:55
+Znači, nekak ovaj a i b vežem u konjunkciju, znači, ono, napravim zapravo uniju ljevih strana;0:39:58 - 0:40:05
+i uniju desnih strana, samo što a i b nisu sami, nego je a i b.;0:40:05 - 0:40:10
+Sad tu se malo taj tip poremeti, jel? Tu dođu disjunkcije svuda između,;0:40:10 - 0:40:15
+a tu mi je nekak konjunkcija, hajde da vidimo.;0:40:15 - 0:40:17
+Znači, imam gamma 1 i gamma 2, iz gamma 1 dobijem...;0:40:17 - 0:40:22
+Aha, e, da.;0:40:24 - 0:40:26
+Znači, nekak treba razmišljati o četiri mogućnosti, jel?;0:40:26 - 0:40:30
+Ili vrijede i a i b, ili ne vrijede ni jedan ni drugi,;0:40:30 - 0:40:34
+ili vrijedi točno jedan sad koji, jel?;0:40:34 - 0:40:37
+Pa, ak recimo ne vrijedi niš u redu, ne vrijedi ni a ni b, dobro?;0:40:37 - 0:40:44
+Spakak neće mi onda vrijediti a i b, jel?;0:40:44 - 0:40:47
+Znači, ak ne vrijedi ni a ni b, onda sam pomoću gamma 1 dobio nekoga iz delta 1,;0:40:47 - 0:40:53
+pomoću gamma 2 sam dobio nekoga iz delta 2, dobro?;0:40:53 - 0:40:56
+Tako da čak vrijedi nešto malo jače nego tu piše.;0:40:56 - 0:41:00
+Nije da mi vrijedi jedna formula iz delta 1 i delta,;0:41:00 - 0:41:04
+ono, iz delta 1 zarez delta 2, nego mi dvije čak vrijede, barem.;0:41:04 - 0:41:08
+U redu? Ne kužite što hoću riješiti.;0:41:08 - 0:41:11
+Znači, iz ovoga tu sam dobio neku formulu iz delta 1.;0:41:11 - 0:41:14
+Iz ovoga tu sam dobio neku formulu iz delta 2.;0:41:14 - 0:41:17
+Znači, imam jednu formulu iz delta 1 i jednu formulu iz delta 2 koje vrijede.;0:41:17 - 0:41:21
+Ali mogle su biti ista formula jer mogle bi imat neprazan presjek ti delta 1 i delta 2.;0:41:21 - 0:41:26
+Dobro? Pa ono, u neku ruku je jače, u neku ruku nije.;0:41:26 - 0:41:31
+Isto mi jašta, ali sad to vrijedi, to je pitanje što znači da nešto vrijede?;0:41:31 - 0:41:36
+Al' će to stvarno vrijedi?;0:41:36 - 0:41:38
+Znači, semantički govorim sad, znači, govorim ak imam model za gamma 1 i gamma 2,;0:41:38 - 0:41:43
+onda sad to može i ne mora biti model za a odnosno za b.;0:41:43 - 0:41:48
+I sad sam bio razriješio slučaj kad nije model ni za a ni za b.;0:41:48 - 0:41:52
+Dobro? Naravno, ak je model i za a i za b, onda svakako je model za a i b.;0:41:52 - 0:41:59
+E, ak je model samo za jedno, recimo za a, dobro, onda ne moram pomoću gamma 1;0:41:59 - 0:42:05
+izvući niš od delta 1, ne mora mi vrijediti niš iz delta 1, ali iz delta 2 mora.;0:42:05 - 0:42:10
+Jer imam gamma 2, dobro, a znam da ne vrijedi b, onda mora biti nešto iz delta 2.;0:42:10 - 0:42:16
+U redu. I obrnuto za, ak a ne vrijedi, a b vrijedi.;0:42:17 - 0:42:21
+Dobro? Reći te, il' ima tu kakvih pitanja? Nema.;0:42:21 - 0:42:27
+Dobro? To ćemo još.;0:42:28 - 0:42:32
+Hajde, evo, još samo onda disjunkciju napravimo, pa ćemo dalje, malo i za pauze.;0:42:34 - 0:42:38
+Znači, šta mi disjunkcija kaže? Dobro, tu valjda nemam šta.;0:42:38 - 0:42:43
+Znači, ovo tu je kao slabljenje malo, jel?;0:42:43 - 0:42:46
+Samo nije ono da je a, ono, neće biti b zarez a, pa nekakva permutacija,;0:42:46 - 0:42:52
+nego jednostavno kažem da mogu ubaciti ono pravu disjunkciju.;0:42:52 - 0:42:59
+I naravno, sad, ak imam model za gamma, on će biti model ili za nekog iz delta,;0:42:59 - 0:43:05
+pa sam gotov, ili će biti model za a, ali onda će biti model za a ili b.;0:43:05 - 0:43:10
+Stično ovdje. E, i sad još ovo tu da vidimo šta je.;0:43:11 - 0:43:15
+Znači, vidite koliko se pojednostavilo ovoga pitanje disjunkcije, jel?;0:43:18 - 0:43:24
+Znači, tamo smo imali ono komplicirano pravilo.;0:43:24 - 0:43:27
+Bilo je prirodno, zato smo izvali prirodnom ovoga dedukcijom, ali je bilo komplicirano dosta.;0:43:27 - 0:43:33
+A tu je trivialno. U redu. Znači, šta?;0:43:33 - 0:43:36
+Recimo da imam model za gamma 1, gamma 2 i a ili b.;0:43:37 - 0:43:41
+To znači da je taj model ili model za a, ili za b, ili oboje.;0:43:43 - 0:43:49
+Ali ovo oboje me ne zanima. Znači, ak je model za a, imam nekoga tu,;0:43:51 - 0:43:55
+a ak je model za b, imam nekoga tu. I dobro.;0:43:55 - 0:43:58
+Budemo poslje pauze napravili ostatak.;0:44:00 - 0:44:03

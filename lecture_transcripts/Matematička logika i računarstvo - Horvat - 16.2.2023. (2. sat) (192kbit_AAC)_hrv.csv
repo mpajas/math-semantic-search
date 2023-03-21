@@ -1,0 +1,565 @@
+Speech;Timestamp
+Sad htio odmah malo ovak' foreshadowat'. Dakle,;0:00:00 - 0:00:04.500000
+nekak' je možda zaočekivati da ono,;0:00:06.840000 - 0:00:09.500000
+ak' je na nekom;0:00:11.700000 - 0:00:12.680000
+ukviru valjana ovakva formula, da je taj refleksivan i obratno.;0:00:14.380000 - 0:00:22
+U redu.;0:00:22.400000 - 0:00:22.900000
+Nekak';0:00:23.640000 - 0:00:24.340000
+dovoljno je jak taj pojam valjanosti da nekak' može presložiti okvir malo,;0:00:24.340000 - 0:00:30.840000
+ajmo to tak' reć', da ono, nekako utječe na njegovu strukturu, taj R.;0:00:30.840000 - 0:00:38.340000
+Kod modela to nije slučaj.;0:00:40.340000 - 0:00:41.840000
+Znači, ne možete vi sad prčkat' sa tim variablicama nekako;0:00:42.340000 - 0:00:46.340000
+i postić' to isto. Znači, da bi se sad model;0:00:46.840000 - 0:00:50.840000
+mogao pomoć' u ovakve jedne formule, recimo u ove refleksivnosti,;0:00:51.340000 - 0:00:55.840000
+da bi sad on bio refleksivan, odnosno priležeća ovoga relacija R;0:00:56.840000 - 0:01:04.840000
+bila refleksivna, ako i samo ako je ova formula na njemu globalno istinita.;0:01:04.840000 - 0:01:10.340000
+Dobro?;0:01:10.840000 - 0:01:11.340000
+Znači, ima jedna fundamentalna razlika između valjanosti na ukvirima;0:01:11.840000 - 0:01:16.840000
+i istinitosti na modelima.;0:01:16.840000 - 0:01:18.840000
+U redu, to su jako različite životinje, treba jako paziti tu.;0:01:18.840000 - 0:01:22.340000
+I mislim, budemo o tome puno pričali, samo čisto sad da vas odmah upozorim.;0:01:23.340000 - 0:01:27.840000
+Znači, naravno, ako je refleksivan priležeći okvir,;0:01:28.840000 - 0:01:35.340000
+odnosno, ako je model refleksivan, onda će ova formula biti istinita.;0:01:35.340000 - 0:01:40.340000
+Jel? To je za očekivati.;0:01:40.840000 - 0:01:42.340000
+Samo, nije da, ako je ta formula istinita, da je model nužno refleksivan.;0:01:42.340000 - 0:01:49.840000
+Jel možete smisliti neki model koji jest refleksivan,;0:01:49.840000 - 0:01:56.840000
+znači R je stvarno refleksivna relacija...;0:01:56.840000 - 0:01:59.840000
+Ne, pardon. Znači, R nije refleksivna relacija,;0:02:02.840000 - 0:02:06.840000
+ali ovo tu sve jedno vrijedi.;0:02:06.840000 - 0:02:08.840000
+Dobro? Znači, nije istinita ova implikacija,;0:02:09.340000 - 0:02:11.840000
+ovo je istina povlači refleksivnost modela,;0:02:12.340000 - 0:02:15.840000
+nego postoji model takav da ova tu formula jest globalno istinita njemu,;0:02:16.340000 - 0:02:23.840000
+a model nije refleksivan.;0:02:24.340000 - 0:02:26.340000
+Skoro. Ne smijemo.;0:02:30.340000 - 0:02:32.340000
+Ne smijemo, ali skoro. I to će biti dobro.;0:02:34.340000 - 0:02:37.340000
+Znači, to je najjednostavniji mogući Kripkeov model.;0:02:37.340000 - 0:02:41.340000
+Znači, jedna točka, prazna relacija i prazna valuacija.;0:02:41.840000 - 0:02:45.840000
+Jel se slažete da taj model očito nije refleksivan,;0:02:46.340000 - 0:02:49.340000
+jel fali ova petljica? Dobro?;0:02:49.840000 - 0:02:52.840000
+A jel se slažete da ova tu formula je na njemu globalno istinita,;0:02:53.840000 - 0:02:58.340000
+odnosno na tom jednom jedinom svijetu, jer nije P?;0:02:58.340000 - 0:03:00.840000
+Dobro. I gotovo. Ok. Znači, zgodno je smišljati te primjere;0:03:01.840000 - 0:03:06.840000
+i često ovako bude, vidite, i puno lakše nego bi možda čovjek očekivao.;0:03:06.840000 - 0:03:11.340000
+Ali samo vam hoću reći. Znači, u okviri i modeli tu postoje;0:03:11.840000 - 0:03:15.840000
+odnosno valjanost i istinitost jako velike razlike.;0:03:15.840000 - 0:03:18.840000
+Različito se ponašaju jako.;0:03:20.340000 - 0:03:22.340000
+Dobro. Znači, zamislite si da imamo nekakav Kripkeov okvir;0:03:22.840000 - 0:03:26.340000
+i imamo relaciju dostiživosti R. Dobro? Znači, duplo V i R.;0:03:26.840000 - 0:03:30.840000
+Tada, vidite, na njemu će sigurno ovo vrijediti. U redu.;0:03:31.840000 - 0:03:36.340000
+Znači, na svakom okviru, na svakom Kripkeovom okviru;0:03:36.840000 - 0:03:40.840000
+je valjana ova formula. U redu.;0:03:41.340000 - 0:03:44.840000
+Sjećate se. Mislim, to bismo i htjeli, jel?;0:03:45.340000 - 0:03:47.840000
+Znači, da nam je dokazivost i valjanost jednote isto.;0:03:47.840000 - 0:03:51.340000
+Pa ovo svakako hoćemo da bude i je.;0:03:51.840000 - 0:03:54.340000
+Odnosno, zato smo tu formulu natrpali u K.;0:03:54.840000 - 0:03:57.840000
+Jer nam niš' drugo nije trebalo, osim onih ta utologija;0:03:58.840000 - 0:04:01.840000
+u proširenom jeziku.;0:04:02.840000 - 0:04:04.840000
+Aha, čak sam to već pokazao.;0:04:07.840000 - 0:04:10.840000
+Znači, zašto će to vrijediti ovoga na svakom okviru?;0:04:11.840000 - 0:04:18.840000
+Zato što jednom kad na njega stavim bilo koju valuaciju;0:04:18.840000 - 0:04:21.840000
+i usredotočim se na bilo koji svijet, objasnili smo.;0:04:22.340000 - 0:04:25.840000
+Znači, pretpostavim da imam ovo tu.;0:04:26.840000 - 0:04:29.840000
+Dobro? I ovoga, onda ću iz ovoga dobiti ovo.;0:04:30.340000 - 0:04:35.840000
+Dobro, trebali bismo možda to malo drugčije napraviti,;0:04:37.840000 - 0:04:40.840000
+ali ajde ovako, semantički.;0:04:40.840000 - 0:04:42.840000
+Ovo, naravno, neće biti valjana formula.;0:04:47.840000 - 0:04:51.840000
+Ali vidjeli smo, ako je R refleksivna,;0:04:52.840000 - 0:04:54.840000
+onda je vajda jasno da je na svakom priležećem modelu;0:04:55.840000 - 0:04:58.840000
+ovoga, ova formula je istinita u svakom svijetu.;0:04:59.840000 - 0:05:04.340000
+Pa onda to znači i na okviru gdje je R refleksivna.;0:05:04.340000 - 0:05:09.340000
+Ono što je bitno, budući da sad tu imamo okvir, vrijedit će obrat.;0:05:10.840000 - 0:05:14.340000
+Vidjeli smo da ne vrijedi obrat za modele,;0:05:15.340000 - 0:05:17.340000
+ali za okvire će vrijediti obrat.;0:05:17.840000 - 0:05:20.340000
+Dobro. Ovo je transitivnost.;0:05:24.340000 - 0:05:30.340000
+U redu. Opet.;0:05:30.340000 - 0:05:32.340000
+Ako vam se ne sviđa ovak sa kvadratićima, tu je možda malo teže.;0:05:36.340000 - 0:05:39.840000
+Nekak tu ne možete razmišljati o jednom i dva koraka.;0:05:40.340000 - 0:05:42.840000
+Nekak je možda nepraktično napisano.;0:05:43.340000 - 0:05:46.340000
+Vidite, opet možemo napraviti ovo, jel?;0:05:47.340000 - 0:05:49.340000
+Dobro, sad ovo tu mi ne treba.;0:05:55.340000 - 0:05:57.340000
+Ovo ga kontrapoziciju napravim, pa dobim dajmont, dajmont, nepe.;0:05:58.340000 - 0:06:04.840000
+U dajmont, nepe.;0:06:06.340000 - 0:06:08.340000
+Dobro. I sad, jel vidite zašto sad mogu prebacite sa nepe i nepe na pe i pe?;0:06:09.840000 - 0:06:16.840000
+Jer govorimo o valjanosti na okvirima. U redu.;0:06:17.340000 - 0:06:20.340000
+Znači, kak je mogla biti valuacija takva da ovo bude istina,;0:06:20.840000 - 0:06:24.340000
+tak je isto mogla biti valuacija da to ne bude istina. Razumijete?;0:06:25.340000 - 0:06:29.340000
+Pa mi je sve jedno, jel razmatram valjanost formule dajmont, dajmont, nepe,;0:06:29.840000 - 0:06:34.340000
+povlači dajmont, nepe, ili razmatram valjanost formule dajmont, dajmont, pe,;0:06:34.340000 - 0:06:40.340000
+povlači dajmont, pe. U redu. Možete si to malo raspisati,;0:06:40.840000 - 0:06:45.340000
+nisam na najbolji način možda to rekao.;0:06:47.340000 - 0:06:49.340000
+Ali, jel sad vidite što obavim u dva koraka, obavit ću u jednom.;0:06:49.840000 - 0:06:52.840000
+Znači, transitivnost opet. Recite.;0:06:52.840000 - 0:06:54.840000
+Čekaj, jel to vrijedi obrat?;0:06:55.340000 - 0:06:56.840000
+Da, da, da, da, vrijedi obrat.;0:06:57.340000 - 0:06:59.840000
+Dobro. Vrijedi će i tu, i tu.;0:07:03.840000 - 0:07:07.840000
+Drugim riječima ovoga, ova formula definira refleksivnost okvira.;0:07:08.340000 - 0:07:14.840000
+Ova formula definira transitivnost okvira.;0:07:15.340000 - 0:07:18.840000
+Ova EU klitskost, nemam pojma.;0:07:18.840000 - 0:07:21.840000
+Ovo, da. Transitivnu, inverznu, dobru temeljenost.;0:07:22.840000 - 0:07:27.840000
+Dobro, sad neću sad previše, znači, ajde, nacrtaću samo ovo tu.;0:07:30.840000 - 0:07:35.840000
+Ovoga kao tu, nekakvu usmjerenost.;0:07:36.340000 - 0:07:37.840000
+Vidite, ovo je ona naša negativna introspekcija.;0:07:38.340000 - 0:07:40.840000
+Dobro, vidite transitivnost. Zašto je lijepo nekak razmišljati o ovome?;0:07:40.840000 - 0:07:44.340000
+Jer sam rekao dva koraka pređu u jedan.;0:07:44.340000 - 0:07:46.840000
+A ovako je lijepo razmišljati, jer sad vidimo da je to pozitivna introspekcija.;0:07:46.840000 - 0:07:51.340000
+Kužite, lijepo je razmisliti i preko boksova i preko dajmovna.;0:07:51.840000 - 0:07:55.340000
+Isto tako, ovo je negativna introspekcija. Čemu odgovara?;0:07:55.340000 - 0:07:59.340000
+Odgovara okvirima za koje vrijedi nekakav tip usmjerenosti, ja bih rekao.;0:07:59.340000 - 0:08:04.340000
+Znači, je li to baš usmjerenost? Dobro.;0:08:04.340000 - 0:08:07.840000
+VRU i VRV.;0:08:09.340000 - 0:08:13.840000
+Pa je, ja bih rekao da se može reći da je to nekakva usmjerenost,;0:08:17.840000 - 0:08:21.340000
+da tu onda dođe R. Dobro.;0:08:21.340000 - 0:08:24.340000
+Znači, jak imam VRU i VRV, onda imam URV.;0:08:24.340000 - 0:08:27.340000
+Dobro. I znači, jak imam to, onda imam da je ova formula na tom okviru valjana.;0:08:28.340000 - 0:08:36.840000
+Dobro. Znači, ne jedna od tih formula nije valjana, ko što tu piše.;0:08:37.340000 - 0:08:43.340000
+U redu, samo je valjana na takvim okvirima, odnosno karakterizira takve okvire.;0:08:43.340000 - 0:08:47.840000
+E, dobro. Ova L'ova formula, rekli smo, R je transitivna i inverzno dobro utemeljena.;0:08:48.840000 - 0:08:54.340000
+Ne postoji ovakav beskonačni lanac.;0:08:54.340000 - 0:08:57.340000
+Sad, ajde, možda da to malo probam.;0:08:57.840000 - 0:09:00.340000
+U redu.;0:09:00.840000 - 0:09:02.340000
+Ajde ovak, pretpostavimo, pretpostavimo suprotno, to jest da...;0:09:10.840000 - 0:09:16.340000
+Znači, gledam ovo. Ako je R transitivna i inverzno dobro utemeljena,;0:09:17.840000 - 0:09:20.840000
+da mora biti istinita ova formula. U redu.;0:09:20.840000 - 0:09:23.840000
+Da mora biti valjana ta formula. Znači, pretpostavim da ne mora.;0:09:23.840000 - 0:09:27.840000
+Odnosno da nije. Znači, da postoji nekakva valuacija, dobro, takva da...;0:09:27.840000 - 0:09:35.840000
+I svijet, jel? Tak da...;0:09:36.840000 - 0:09:39.840000
+Kaj? Da...;0:09:41.340000 - 0:09:42.840000
+Jest antecedenta.;0:09:45.340000 - 0:09:47.840000
+Dobro? I, često neću pisat model, neću gubit vrijeme, nego znamo di smo, jel?;0:09:50.840000 - 0:09:57.340000
+I ne vrijedi, ne vrijedi ili vrijedi negacija, kak ću već napisat, od boks P.;0:09:57.840000 - 0:10:05.340000
+Dobro? Ta ne znam kaj mi je zgodnije. Ajde, ne vrijedi boks P.;0:10:05.840000 - 0:10:10.840000
+Dobro, jel ovo u redu početak dokaza? Jel vam se čini u redu?;0:10:11.840000 - 0:10:15.840000
+Dobro? E, i sad da vidimo zašto to ne može biti.;0:10:16.340000 - 0:10:20.840000
+U redu, zašto to ne može biti? Pa da vidimo.;0:10:21.340000 - 0:10:23.840000
+Znači, jak ja imam... Aha, možda će mi trebati samo malo da dohvatim nekoga, ovo mi se ne sviđa.;0:10:23.840000 - 0:10:31.840000
+Znači, negacija od boks P. Dobro.;0:10:32.840000 - 0:10:37.840000
+Tako je. Znači, na duplo V, iz ovoga tu, jel? Je istinita negacija od boks P.;0:10:40.340000 - 0:10:46.840000
+Jel se slažete? E, to je po definiciji istinitosti na točkovnom modelu.;0:10:47.340000 - 0:10:51.840000
+Znači, ak je istinita negacija od boks P, šta to znači?;0:10:51.840000 - 0:10:55.340000
+Da postoji neki sljedbenik na kojem nije P. Jel tako?;0:10:55.840000 - 0:11:00.840000
+Znači, postoji sljedbenik na kojem nije P. Dobro.;0:11:01.340000 - 0:11:03.840000
+Evo, V. Ili... Dobro. Znači, nije P.;0:11:08.340000 - 0:11:12.840000
+Ovak ću napisat, kao, ne bih sad ti ostavio prazno, pa da iz toga zaključite da nema P,;0:11:13.340000 - 0:11:18.840000
+nego reći ću istinit je ne P ovdje. Iako sam vješao samo variable.;0:11:18.840000 - 0:11:23.840000
+Dobro. Tu je istinit ne P. E sad šta? Šta ćemo sad?;0:11:24.340000 - 0:11:28.840000
+Gledajte, mi imamo tu nekakvu univerzalnu priču o sljedbenicima od duplog V. Jel tako?;0:11:29.340000 - 0:11:35.340000
+Pa ajde idemo vidjeti. Šta osim ne P vrijedi na tom sljedbeniku od duplog V?;0:11:36.340000 - 0:11:43.340000
+Pa vrijedi boks P povlači P. Jel tako?;0:11:43.840000 - 0:11:46.840000
+Dobro.;0:11:48.840000 - 0:11:49.840000
+Ok. Šta ćemo sad? Kak ćemo sad dobit kontradikciju?;0:11:53.340000 - 0:11:58.840000
+Šta mogu iz ove dvije stvari onako bulovski zaključiti?;0:12:00.340000 - 0:12:04.840000
+Ovo tu je sad čista propozicijska logika, gdje je ovaj boks P je V. U redu.;0:12:05.340000 - 0:12:11.340000
+Šta ja mogu iz ne P i V povlači P zaključiti?;0:12:11.840000 - 0:12:15.840000
+Da, znači htjeli biste kontrapoziciju i modus ponens na to. Jel tako?;0:12:19.840000 - 0:12:24.340000
+Jel se to zove modus ponens? Ne, neće. Nije ovo.;0:12:24.840000 - 0:12:28.840000
+Drugim rječima nije ni ovo. Jer ne može biti ovo i ne ovo. Jel?;0:12:29.340000 - 0:12:33.340000
+Znači mora ovoga tu vrijediti, sad nemam više di pisati, ali mora vrijediti ovoga...;0:12:33.840000 - 0:12:41.340000
+Ajde zapravo tu ću dolje napisati.;0:12:43.340000 - 0:12:44.840000
+Mora vrijediti ne boks od P.;0:12:45.840000 - 0:12:50.340000
+Ali vidite to smo već negdje imali. Jel? Ovaj ne boks od P smo već imali.;0:12:50.840000 - 0:12:55.340000
+O tome smo pričali. Dobro? Pa se sad skoro...;0:12:55.840000 - 0:12:58.340000
+Kao da smo se vratili u identičnu situaciju.;0:12:59.340000 - 0:13:02.340000
+Ali ne još baš. Zašto?;0:13:02.840000 - 0:13:05.340000
+Zato što sad imamo sljedbenika od V na kojem nije P. Jel tako?;0:13:05.840000 - 0:13:10.840000
+E kaj ja znam, ajde V kaj dođe U.;0:13:15.340000 - 0:13:18.340000
+Ne, nije baš, ali... Dobro, U.;0:13:19.340000 - 0:13:21.840000
+Ovoga na njemu nije P, recimo. Uredno.;0:13:22.340000 - 0:13:25.340000
+Ali pazite, ja bi sad htio ovo primijeniti koji prije.;0:13:25.840000 - 0:13:29.340000
+Ali ja to nemam. Ja to imam samo za sljedbenike od duploga V.;0:13:29.840000 - 0:13:34.340000
+Ovdje ne možemo pretpostaviti transitivno sada. Dobro? Ne možemo.;0:13:34.840000 - 0:13:39.340000
+Na koju foru ću sad ispovezati duplo V sa U?;0:13:40.340000 - 0:13:44.340000
+Ne znam.;0:13:44.840000 - 0:13:46.340000
+Ne znam, ne znam.;0:13:52.840000 - 0:13:54.340000
+Ok, pa...;0:13:56.340000 - 0:13:57.340000
+Aha, joj, isprečavam se. Pa da, imamo transitivnost.;0:13:57.840000 - 0:14:00.840000
+Da. Onda sam trebao to drugčije pitati, ali ne, veze.;0:14:01.340000 - 0:14:05.340000
+Ok, pardon. Imamo transitivnost. Da. Dobro, dobro.;0:14:05.840000 - 0:14:09.340000
+Ok. E sad smo fakat u istoj situaciji u kojoj smo bili, jel tak?;0:14:10.840000 - 0:14:14.340000
+I sad ću reći, ok, tu je moj sljedbenik, jedan od duplog V-a,;0:14:14.840000 - 0:14:18.840000
+a na svima vrijedi ovo, pa vrijedi i na njemu.;0:14:19.340000 - 0:14:21.340000
+I ono, samo na temelju toga sam se tu nastavio gibati i idem dalje.;0:14:23.340000 - 0:14:26.840000
+E, ali onda imam beskodački lanac.;0:14:27.340000 - 0:14:29.340000
+To je kontradikcija sa inverznom dobrom u tebelje doću.;0:14:29.840000 - 0:14:35.340000
+Dobro? Jer baš, ono, kaže, ne postoji. Uredno?;0:14:35.840000 - 0:14:39.840000
+Evo. Znači, čisto da vidite kakvom izgledaju takvi dokaze,;0:14:40.340000 - 0:14:43.840000
+to će biti dobro. S time da...;0:14:43.840000 - 0:14:45.840000
+Sad, rekao bim, možda je to malo jednostavniji smjer, jel?;0:14:47.340000 - 0:14:52.840000
+Znači, odavde ovamo...;0:14:52.840000 - 0:14:54.840000
+Pa, dobro, ajde. Nevažno.;0:14:55.840000 - 0:14:58.840000
+Uglavnom, u ovim konkretnim propozicijama će vrijediti obrate za okvire.;0:14:59.340000 - 0:15:06.840000
+S time da sad negako definabilnost koju ćemo gledat,;0:15:07.840000 - 0:15:11.340000
+znači, ona dopušta puno više od samo jedne formule. Uredno?;0:15:12.340000 - 0:15:15.840000
+Znači, tu vidite da su okarakterizirane klase okvira;0:15:16.340000 - 0:15:21.340000
+pomoću jedne formule. Uredno?;0:15:21.840000 - 0:15:24.340000
+A mogli biste zamisliti pet formula. Mogli biste beskonačno.;0:15:24.840000 - 0:15:27.840000
+E sad, ak ih je pet i ak je dozvoljena jedna, to je potpuno identično.;0:15:28.340000 - 0:15:32.340000
+Jer ja mogu konjunkciju napisati i to je sad jedna formula postala.;0:15:32.840000 - 0:15:36.840000
+Ali ne mogu pisati beskonačne konjunkcije. Dobro?;0:15:37.340000 - 0:15:39.340000
+Pa onda kad se pita je li se nešto radi jednom formulom ili skupom formula,;0:15:39.340000 - 0:15:45.840000
+onda se hoće reći konačno formula vs. beskonačno formula. Uredno?;0:15:46.340000 - 0:15:50.840000
+Znači, govorit ćemo o definabilnosti skupom formula,;0:15:51.840000 - 0:15:55.340000
+a to što smo za sad imali sreće sa svojstvima koja su nas zanimala,;0:15:55.840000 - 0:15:58.840000
+to je druga priča.;0:15:58.840000 - 0:16:00.340000
+Evo, znači, rekli smo vrijede tu i obrati i reći ćemo onda da,;0:16:02.340000 - 0:16:05.840000
+kad je tak, znači kad stvarno imam i jedan i drugi smjer,;0:16:05.840000 - 0:16:09.840000
+da formula definira i sad ja bih tu napisao refleksivnost okvira,;0:16:10.340000 - 0:16:14.840000
+da bude puno ono, žešće, da stvarno to samo za okvire imamo. Uredno?;0:16:14.840000 - 0:16:19.840000
+Znači, neće definirati refleksivnost modela kao što smo vidjeli.;0:16:20.840000 - 0:16:24.340000
+I sad je pitanje je li se to može uopće? Dobro?;0:16:25.340000 - 0:16:27.840000
+Znači, je li to modelno definabilno svojstvo?;0:16:27.840000 - 0:16:30.340000
+Hoće li i beskonačno formula biti dosta?;0:16:30.340000 - 0:16:32.840000
+Ok. Idemo pričat sad o modelnoj definabilnosti ovak pošteno.;0:16:33.340000 - 0:16:38.840000
+Uzmem si skup sigma modelnih formula, pisat ću MV forsira sigma;0:16:40.340000 - 0:16:45.840000
+ako su sve formule i sigma istinite na MV, dobro, na tom točkom na modelu.;0:16:46.340000 - 0:16:50.840000
+Ili na svijetu duplo V u modelu M, ja obično kažem.;0:16:51.340000 - 0:16:54.340000
+Slično, naravno, za globalnu istinitost na modelu i za valjanost na okviru.;0:16:54.840000 - 0:16:59.840000
+Nemamo tu baš. Mogli biste možda vi pričati o točkovnim okvirima F duplo V,;0:17:00.340000 - 0:17:06.840000
+pa onda istinitost ili valjanost na tom točkovnom okviru bi bila;0:17:06.840000 - 0:17:11.840000
+kad god stavite neku valuaciju, dobro.;0:17:11.840000 - 0:17:13.840000
+To obično ne gledamo, znači, bar u ovim slajdovima ne govorimo;0:17:13.840000 - 0:17:17.840000
+o točkovnim okvirima, nego il je nekaj valjano na okviru ili nije.;0:17:17.840000 - 0:17:21.340000
+Ok. Oznake će biti ovakve. Znači, ako mi sigma definira;0:17:22.840000 - 0:17:29.340000
+Pardon, reći ćemo da sigma definira ovu klasu točkovnih modela, jel?;0:17:30.840000 - 0:17:36.340000
+Znači, ovu klasu. Vidite, sigma definira klasu točkovnih modela tu.;0:17:36.340000 - 0:17:44.340000
+Sigma definira klasu modela ovu, dobro,;0:17:45.340000 - 0:17:49.340000
+ovoga i definira klasu okvira ovu tu.;0:17:50.340000 - 0:17:54.340000
+Znači, to su točkovni modeli na kojima je sigma istinit,;0:17:54.840000 - 0:18:01.840000
+modeli na kojima je sigma istinit i okviri na kojima je sigma istinit.;0:18:01.840000 - 0:18:07.840000
+Dobro?;0:18:07.840000 - 0:18:08.840000
+Aha, dobro, kao ispuštamo vitice, ako je baš jedna formula.;0:18:10.840000 - 0:18:14.840000
+Dobro. E sad, dobro, ovo sam već stoput rekao.;0:18:16.840000 - 0:18:19.840000
+Znači, sigma definira svojstvo struktura,;0:18:19.840000 - 0:18:21.840000
+ako definira klasu svih struktura s tim svojstvom.;0:18:21.840000 - 0:18:24.840000
+Recimo, kažemo da box P povlači P, ili P povlači dajmont P,;0:18:24.840000 - 0:18:29.340000
+definira refleksivnost, jer definira klasu,;0:18:29.340000 - 0:18:32.340000
+opet, možda bolje, definira refleksivnost okvira,;0:18:32.340000 - 0:18:35.340000
+jer definira klasu svih refleksivnih okvira.;0:18:35.340000 - 0:18:39.340000
+Znači, kažemo da je klasa, odnosno svojstvo struktura,;0:18:40.340000 - 0:18:43.840000
+modelno definabilna, ili definabilno,;0:18:43.840000 - 0:18:47.340000
+ako postoji skup modelnih formula koje je definira.;0:18:47.340000 - 0:18:50.340000
+Znači, opet, izuzetno, ono najvažnije riječ ovdje je skup.;0:18:50.340000 - 0:18:53.840000
+Znači, može biti beskoračan.;0:18:53.840000 - 0:18:55.840000
+Evo vidite, ove dvije formule, ali svaka zasebno.;0:18:56.340000 - 0:19:00.840000
+Znači, to je ista formula što se okvira tiče,;0:19:00.840000 - 0:19:03.840000
+valjanosti na okviru tiče.;0:19:03.840000 - 0:19:05.840000
+Znači, nedavan te dvije trebaju da bi definirali refleksivnost okvira,;0:19:05.840000 - 0:19:08.840000
+nego ova definira refleksivnost okvira i ova.;0:19:08.840000 - 0:19:11.840000
+Isto tak, ista priča za transitivnost, ovo smo već pokazali.;0:19:11.840000 - 0:19:15.340000
+Ovu euklitskost, znači ovu negativnu introspekciju,;0:19:16.340000 - 0:19:19.840000
+ako ju raspišete, opet kontrapozi...;0:19:19.840000 - 0:19:22.840000
+Ono, raspišete neke od boksova sa dajmondima i ubacite ove...;0:19:22.840000 - 0:19:30.340000
+Znači, rješite se duplih negacija, okrenete po kontrapoziciji;0:19:30.840000 - 0:19:35.840000
+i ne P i ne P prozovete P i P.;0:19:35.840000 - 0:19:38.840000
+Onda ćete dobiti ovu formulu i vidjet ćete da se definira;0:19:39.340000 - 0:19:43.340000
+baš klasa svih euklitskih okvira.;0:19:43.340000 - 0:19:45.840000
+Ok. Možete si pomoću ovoga probati na crtat onu usmjerenost.;0:19:50.840000 - 0:19:56.840000
+Jel vam tako, jel možda pomaže taj prijevod?;0:19:56.840000 - 0:20:00.840000
+Ok. I L'ova formula, vidjeli smo jedan smjer, znači,;0:20:00.840000 - 0:20:04.840000
+ako imamo transitivan inverzno dobro utemeljen okvir,;0:20:04.840000 - 0:20:07.340000
+onda će ova formula biti valjana na tom okviru,;0:20:07.340000 - 0:20:10.840000
+ali ako je valjana, onda ovoga će okvir priležeći,;0:20:10.840000 - 0:20:15.840000
+mislim, relacija će biti transitivna inverzno dobro utemeljena,;0:20:15.840000 - 0:20:18.840000
+znači, formula definira klasu takvih okvira.;0:20:18.840000 - 0:20:21.840000
+Ok. E sad, da. Znači, ovo tu je jedan od najvažnijih pojmova;0:20:22.840000 - 0:20:26.840000
+u modalnoj logici, pojam bisimulacije.;0:20:26.840000 - 0:20:29.840000
+Znači, vi sad imate nekak jedan model koji, ono,;0:20:30.840000 - 0:20:34.840000
+možete si zamišljati korake u tom modelu, jel?;0:20:35.840000 - 0:20:38.840000
+I sad nekako korake, ono, znači, ako možete u jednom modelu koraknut,;0:20:38.840000 - 0:20:44.840000
+onda taj, i to od nekog svijeta na kojem vrijede jedne propozicijske variable;0:20:44.840000 - 0:20:50.840000
+do svijeta na kojem vrijede druge, onda i u ovom drugom možete nekak simulirati taj korak.;0:20:50.840000 - 0:20:56.840000
+Znači, imate svijet u kojem vrijede iste propozicijske variable, kao i tamo,;0:20:56.840000 - 0:21:01.840000
+i sad ste opet koraknuli do svijeta u kojem vrijede iste, kao tamo.;0:21:01.840000 - 0:21:04.840000
+Dobro? Znači, nekako, bisimulacija vam dozvoljava da se uvijek krećete u oba smjera.;0:21:04.840000 - 0:21:12.840000
+Dobro? Znači, jedan model simulira drugi i drugi simulira prvi.;0:21:12.840000 - 0:21:16.840000
+Znači, ajmo opet. Imamo dva modela, M i M'crta. Dobro?;0:21:16.840000 - 0:21:21.840000
+Nekak se tu nalazimo u M, tu se nalazimo u M'crta. Dobro?;0:21:22.840000 - 0:21:27.840000
+I sad imamo ovdje svijet duplo V, ovdje svijet duplo V'crta,;0:21:27.840000 - 0:21:32.840000
+i sad šta to znači da su oni u bisimulaciji Z?;0:21:32.840000 - 0:21:36.840000
+E, vidite, to vam znači da, kao prvo, iste propozicijske variable su istinite.;0:21:37.840000 - 0:21:46.840000
+Znači, za svaku vari...ak je duplo V Z duplo V'crta, onda za svaku propozicijsku variablu vrijedi da je na duplo V forsira na P,;0:21:46.840000 - 0:21:56.840000
+ako i samo ako je na duplo V'crta forsira na P. Dobro?;0:21:56.840000 - 0:22:00.840000
+Što se inače tu prvo zapitate kad to vidite?;0:22:00.840000 - 0:22:04.840000
+Znači, imamo da su za bisimulirane svijetove, imamo da su iste propozicijske variable istinite.;0:22:05.840000 - 0:22:12.840000
+E sad, što ćemo se odmah zapitati? Jesu li iste što istinite?;0:22:13.840000 - 0:22:16.840000
+Iste formule istinite. I, naravno da jesu. To je čitava poanta, jel?;0:22:16.840000 - 0:22:22.840000
+Dobro. To svojstvo se zove et, u redu, kao et. Tamo je isto. Dobro?;0:22:23.840000 - 0:22:32.840000
+Ok? Sad imamo svojstvo forth. Znači, idemo napraviti...;0:22:32.840000 - 0:22:35.840000
+Imamo jedan korak u gornjem modelu, idemo ga odsimulirati u donjem modelu. Uredo?;0:22:35.840000 - 0:22:41.840000
+Znači, tu napravim korak, jel? Tu mogu napraviti korak u neki svijet V i ovoga...;0:22:41.840000 - 0:22:50.840000
+To je pretpostavka. Znači, imam svijetove duplo V i V, takve da je duplo V R V.;0:22:51.840000 - 0:22:57.840000
+I ovo još uvijek imam, znači, duplo V Z duplo V'crta.;0:22:57.840000 - 0:23:01.840000
+E sad mogu koraknut, ali ne sad baš bilo kako, nego tako da se ovo opet sinkronizira. Uredo?;0:23:01.840000 - 0:23:08.840000
+Znači, mogu koraknut po R'crta do nekog svijeta V'crta, tako da ovdje vrijedi Z.;0:23:08.840000 - 0:23:20.840000
+Odnosno da je V Z V'crta. Dobro? Kužite to.;0:23:20.840000 - 0:23:25.840000
+Znači, jak imam ovu situaciju, ovoga mogu koraknut pametno. Jel?;0:23:26.840000 - 0:23:31.840000
+Znači, koraknut ću, ali tak da sam ovoga u efektivno istoj situaciji kao što bi bio tu.;0:23:31.840000 - 0:23:40.840000
+Dobro? Iste propozicijske variable vrijede tu. Ok?;0:23:40.840000 - 0:23:44.840000
+Beg potpuno ista fora, samo ovo će biti scrtkano, a ovo će biti popunjeno. Jel tako?;0:23:46.840000 - 0:23:54.840000
+Znači, imam situaciju ovo i ovo, mogu naći ovoga tu, tako da napravim ovaj korak i da si ovo paše po B simulaciji. Uredo?;0:23:55.840000 - 0:24:05.840000
+To je beg. Dobro? Jel treba tu nešto možda još već? Čini mi se dosta ovako, jednostavno, intuitivno.;0:24:06.840000 - 0:24:14.840000
+Dobro. E, i sad, nekak ako su svijetovi duplo V i duplo V crta B simulirani, uredo, to ću ovako značit, onda svakako imam da su modalno ekvivalentni.;0:24:15.840000 - 0:24:37.840000
+Dobro, znači, iste formule su na njima istilite. Ovo tu znači modalno ekvivalentni, ovo znači B simulirani.;0:24:37.840000 - 0:24:45.840000
+Vidite, znači, čim imam B simulirane svijetove, s nekom B simulacijom uopće me nije briga, ovoga, točno će iste formule na njima vrijedit, modalne.;0:24:46.840000 - 0:24:55.840000
+E, i sad se pitam šta je s ovim. Je li to istina? Šta biste rekli? Nije.;0:24:56.840000 - 0:25:06.840000
+Ovoga, odnosno, uglavnom nije. Ne onak, kako bi mislili, jel ovak baš direktno.;0:25:07.840000 - 0:25:19.840000
+Ono što je istina je da su ti, da nekak duplo V, modalno ekvivalentno sa duplo V crta, dovode do B similarity somewhere else.;0:25:20.840000 - 0:25:32.840000
+Dobro? Znači, oni će biti B simulirani negdje drugdje. Ne baš oni, ali nešto jako slično njima.;0:25:32.840000 - 0:25:39.840000
+Znači, imat ćemo nešto što se zove ultrafiltar proširenje ovoga jednog i drugog modela. Uredno?;0:25:39.840000 - 0:25:54.840000
+I onda će ovim svijetovima odgovarati ultrafiltri i B svijetovi tamo. Duplo V U i duplo V crtica U.;0:25:54.840000 - 0:26:04.840000
+Ja ih inače više volim pisati pi duplo V i pi duplo V crtica U, pravo zato da se ovo ne dogodi, jel ne vezi?;0:26:05.840000 - 0:26:11.840000
+E, i oni će biti B simulirani. Dobro? Znači, kad gotovo imam ovu situaciju, imat ću i ovu.;0:26:12.840000 - 0:26:18.840000
+Samo će biti negdje drugdje, u nekim drugim modelima, ali to je jedna jako važna stvar o kojoj ćemo pričati već.;0:26:19.840000 - 0:26:25.840000
+Možda, čak danas. Dobro. Znači, ok. Samo bi ovo tu možda rekao.;0:26:25.840000 - 0:26:34.840000
+Jel znate dokazivati ovakve negakve stvari indukcijom po složenosti formule,;0:26:34.840000 - 0:26:40.840000
+samo sad ćete imati još slučaje gdje vrijedi diamond fee.;0:26:40.840000 - 0:26:44.840000
+I kak ćete se sad riješiti tog slučaja? Pa, tog slučaja ćete se riješiti.;0:26:44.840000 - 0:26:49.840000
+Znači, kaj, ako imam da mi je, kaj hoću? Aha, imam VZV, jel? VZV crta. Dobro.;0:26:50.840000 - 0:26:57.840000
+I sad na V vrijedi fee. Dobro? Diamond fee. Jel? Ajde, neki je fee, diamond, psi. Dobro?;0:26:57.840000 - 0:27:07.840000
+Šta ću sad napraviti? Znači, recimo da sam ove druge, ono,;0:27:08.840000 - 0:27:15.840000
+da imam predpostavku indukcije, jel naravno. Znači, šta sad mogu iz ovoga zaključiti?;0:27:17.840000 - 0:27:24.840000
+Znači, mogu zaključiti da postoji ovaj V na kojem bi bio psi. Dobro?;0:27:24.840000 - 0:27:28.840000
+Znači, tu mi je diamond psi. Jel? Znači, imam V na kojem mi je psi.;0:27:28.840000 - 0:27:33.840000
+I imam upravo ovu situaciju. Dobro? Znači, pomoću forth mogu naći ovoga. Jel tako?;0:27:33.840000 - 0:27:40.840000
+I po predpostavci indukcije, jel, budući da sad govorimo o formuli psi,;0:27:42.840000 - 0:27:48.840000
+na njemu će biti istinita psi. Jel tako? E, a budući da je na njemu istinita psi,;0:27:48.840000 - 0:27:53.840000
+onda je valjda tu diamond psi istinita. Jel tako? Pa smo dobili da je tu ovoga;0:27:53.840000 - 0:27:58.840000
+istinita diamond psi i povuklo da je na duplove crta istinita diamond psi.;0:27:58.840000 - 0:28:03.840000
+I u drugom smjeru mi treba, naravno, back. Dobro? Znači, nemojte misliti da ovo možete izostaviti slučajno.;0:28:03.840000 - 0:28:10.840000
+Jer treba će vam sada. Dobro? A gdje u indukciji treba at?;0:28:10.840000 - 0:28:15.840000
+Znači, treba u bazi indukcije. Gotovo. Dobro? Znači, trivić. Teški trivić. Ok?;0:28:15.840000 - 0:28:21.840000
+Ko što bi čovjek i očekivao kad nešto tako, ajmo reći, homomorfno.;0:28:21.840000 - 0:28:29.840000
+Nije baš najbolja riječ, ali ono kao homomorfno ono proširuje ovak nešto jednostavno.;0:28:29.840000 - 0:28:36.840000
+Nije dobro tako pričati.;0:28:37.840000 - 0:28:39.840000
+Dobro. Ovo tu, znači, šta smo rekli? Bisimulirani svjetovi su modalno ekivalentni.;0:28:52.840000 - 0:28:59.840000
+Odnosno, možemo to još reći, modalne formule su invariantne na bisimulacije.;0:28:59.840000 - 0:29:04.840000
+Dobro? Kad god izbisimuliramo, ostane ista ovoga istinita, odnosno lažna, jel?;0:29:04.840000 - 0:29:13.840000
+Znači, to je samo da se naviknemo na tu terminologiju, jer će nam jako trebat kod teorije korespondenzije.;0:29:13.840000 - 0:29:21.840000
+Dobro. Znači, aha, samo malo. Aj, dobro, neću vas malo tretirati.;0:29:22.840000 - 0:29:30.840000
+Znači, rekli smo da je refleksivnost okvira modalno definabilna ovom formulom.;0:29:31.840000 - 0:29:35.840000
+Ili ono, P, povlači, da, P, kondicional, diamond, P.;0:29:35.840000 - 0:29:40.840000
+No, refleksivnost modela nije.;0:29:41.840000 - 0:29:44.840000
+Vidite, šta smo mi zapravo bili pokazali? Mi smo pokazali, aha, samo malo.;0:29:46.840000 - 0:29:56.840000
+Mi smo pokazali da ova formula nije dobra, jel tako?;0:29:56.840000 - 0:30:05.840000
+Mi smo pokazali da ta formula nije dobra.;0:30:06.840000 - 0:30:08.840000
+Ali mi bi sad htjeli pokazati da nijedan skup formula nije dobar.;0:30:08.840000 - 0:30:12.840000
+Znači, pokazali smo da ova formula može vrijediti na modelu koji nije refleksivan.;0:30:17.840000 - 0:30:22.840000
+Ali nismo vidjeli da stvarno nema nijedne formule ili skupa formula;0:30:23.840000 - 0:30:28.840000
+koji bi karakterizirao refleksivnost modela.;0:30:28.840000 - 0:30:30.840000
+To nismo napravili. U redu. To je puno teže, očito.;0:30:30.840000 - 0:30:35.840000
+E sad, neka je K klasa svih modela takvih da je R refleksivna.;0:30:36.840000 - 0:30:42.840000
+U redu. Znači, potrpali smo sve refleksivne modele u klasu K.;0:30:42.840000 - 0:30:47.840000
+I sad gledajte ova dva modela. Jedan će od njih biti refleksivan,;0:30:47.840000 - 0:30:51.840000
+a drugi neće. U redu. Znači, koji je to koji nije refleksivan,;0:30:51.840000 - 0:30:56.840000
+to je one koje smo već vidjeli. Dobro?;0:30:56.840000 - 0:30:59.840000
+Znači, jesmo baš tako? Jesmo. Ovo tu je točno one prvi koji sam vam pokazao.;0:30:59.840000 - 0:31:04.840000
+Znači, pogledamo prirodne brojeve sa standardnim uređajem,;0:31:04.840000 - 0:31:08.840000
+ovim, i refleksivnim, i uzmemo da niš nije istina.;0:31:08.840000 - 0:31:13.840000
+Dobro? Znači, V od P je prazno za sve P.;0:31:13.840000 - 0:31:16.840000
+E, i sad.;0:31:17.840000 - 0:31:19.840000
+Dobro? I uzmemo jednu točku koja je povezana sama sa sobom.;0:31:19.840000 - 0:31:34.840000
+Nije one najjednostavniji mogući model, nego drugi po redu.;0:31:34.840000 - 0:31:38.840000
+I opet uzmem isti V, jel? Iz očitih razloga.;0:31:43.840000 - 0:31:47.840000
+I sad gledajte, koja će biti moja bisimulacija? Pa jasno je, ne?;0:31:47.840000 - 0:31:51.840000
+Znači, povezat ću jedan s jedinim šta mogu, kak se ove zove dupli V,;0:31:51.840000 - 0:31:55.840000
+dva sa dupli V, tri, itd. Dobro?;0:31:55.840000 - 0:31:58.840000
+Znači, šta? N puta singleton duplo V će biti bisimulacija. Jel se slažete?;0:31:58.840000 - 0:32:05.840000
+Jel tako da su iste propozicijske varijable istinite tu i tu?;0:32:05.840000 - 0:32:10.840000
+Tu i tu, tu i tu, nijedna, jel? Tako smo definirali.;0:32:10.840000 - 0:32:15.840000
+Znači, uvjet et u definiciji bisimulacije, uvjet et vrijedi.;0:32:16.840000 - 0:32:23.840000
+Jel vrijedi uvjet fort? Jel kad se ja tu pomaknem, dobro?;0:32:24.840000 - 0:32:30.840000
+I sad naravno zamišljam si ovaj bisimulirani dio tu, dva duple V.;0:32:30.840000 - 0:32:34.840000
+Kad se ja tu pomaknem, jel se mogu odavdje pomaknut nekamo;0:32:34.840000 - 0:32:39.840000
+gdje će opet biti bisimulirano sa tri? Pa, hvala Bogu, ne? Tu.;0:32:39.840000 - 0:32:44.840000
+Jel vidite da kol'ko god se tu mičem, tak se isto i tu mogu micat.;0:32:44.840000 - 0:32:49.840000
+A k se tu mičem, pa onda se i tu od bilo koga mogu dalje micat.;0:32:49.840000 - 0:32:54.840000
+I sve cijelo vrijeme bisimulirano tak da o tome uopće ne moram misliti.;0:32:54.840000 - 0:32:57.840000
+Dobro? Mislim, u toj relaciji za koju tvrdim da je bisimulacija.;0:32:57.840000 - 0:33:02.840000
+Dobro. Znači, jedan od ovih modela je u klasika,;0:33:02.840000 - 0:33:12.840000
+jedan nije u klasika, a imamo bisimulaciju između njih.;0:33:12.840000 - 0:33:16.840000
+Pa, to je veliki problem. Dobro?;0:33:16.840000 - 0:33:18.840000
+Pretpostavimo da neki skup modelnih formula sigma;0:33:19.840000 - 0:33:22.840000
+definira tu klasu K. Odnosno, da je klasa K jednaka svim modelima;0:33:22.840000 - 0:33:28.840000
+na kojima je globalno istinit čitav sigma. Dobro?;0:33:28.840000 - 0:33:32.840000
+Dakle, M2 je u toj klasi K. Dobro? Znači, ovoga M2 forsira sigma.;0:33:32.840000 - 0:33:41.840000
+Je li tako? Dobro? Ali znamo da su modelne formule;0:33:41.840000 - 0:33:45.840000
+invariantne na bisimulacije. Kofolnatočkovnom modelu, ali sad;0:33:45.840000 - 0:33:49.840000
+za svaku točku imamo, pa onda imamo i globalno, jel?;0:33:49.840000 - 0:33:53.840000
+Znači, čim imam ovo tu, imam za svaki svijet, pa čim imam bisimulaciju;0:33:53.840000 - 0:33:57.840000
+s nekim svijetom, s kojim god hoću, ovoga imat ću tamo;0:33:57.840000 - 0:34:02.840000
+i onda imam na čitavom modelu, jel? Znači, ovoga M1 forsira sigma.;0:34:02.840000 - 0:34:07.840000
+Dobro? E, ali kak M1 forsira sigma, a M1 nije, tu bi trebalo valjda biti,;0:34:07.840000 - 0:34:14.840000
+nije element, jel tako? Aha, ne, tu treba biti element, dobro.;0:34:14.840000 - 0:34:19.840000
+Znači, M1 je iz toga element od mod G od sigma što je jednako K,;0:34:19.840000 - 0:34:23.840000
+a tu piše da nije. Dobro? Evo, vidite koliko strašno snažnu stvar;0:34:23.840000 - 0:34:30.840000
+smo dokazali sa nekakvim relativno jednostavnim razmatrenjima, jel?;0:34:30.840000 - 0:34:34.840000
+Ali vidite kak te bisimulacije jako zgodno dođu, jel?;0:34:34.840000 - 0:34:37.840000
+I često ćete identificirat nekakvu bisimulaciju i onda ćete pomoću toga moć;0:34:37.840000 - 0:34:42.840000
+brutalnu stvar dokazat u modelnoj logici, jel?;0:34:42.840000 - 0:34:45.840000
+Dobro, idemo kak stojimo. Ajde, idemo još malo.;0:34:46.840000 - 0:34:53.840000
+Znači, obično sam volio tu napraviti ono, pauzu,;0:34:53.840000 - 0:34:57.840000
+odnosno do drugog puta čekat, jer o ovome ćemo jako pričati idući put.;0:34:57.840000 - 0:35:03.840000
+Ali nema veze, možda bolje da malo damo uvod pa ćemo idući put ozbiljno o tome.;0:35:03.840000 - 0:35:13.840000
+Budem sad skroz na prste. Znači, šta je vam je generirani podokvir,;0:35:16.840000 - 0:35:22.840000
+ak imate okvir? Evo, idem nekakvi okvir crtat, kaj ja znam.;0:35:22.840000 - 0:35:28.840000
+Evo, ovo tu sve skupa neka mi je okvir.;0:35:33.840000 - 0:35:42.840000
+Dobro? I sad šta znači da je neki podokvir, a sad šta bi bilo podokvir?;0:35:42.840000 - 0:35:48.840000
+Počupam ovoga svijetove koje hoću, ovoga i između njih;0:35:48.840000 - 0:35:53.840000
+ak ima ikakvih bridova, isto. Ne mogu baš odustat od bridova.;0:35:53.840000 - 0:35:59.840000
+Ovoga, mislim, dobro, teoretski bih mogoo reći da je i to podokvir, nevaze.;0:36:00.840000 - 0:36:06.840000
+Generirani znači da želim sačuvati sve sljedbenike,;0:36:07.840000 - 0:36:12.840000
+ali ne sad sve sljedbenike samo tih svijetova,;0:36:12.840000 - 0:36:15.840000
+nego i sad ak je neko ušao u skup sljedbenika, onda još dalje.;0:36:15.840000 - 0:36:19.840000
+Znači, drugim riječima, transit imeno zatvorenje.;0:36:19.840000 - 0:36:22.840000
+Dobro, znači, ako uzmem, aha, ajde možda da malo onda zanimljivije bude.;0:36:22.840000 - 0:36:30.840000
+Dobro, zapravo sam imao i tu, ali nevaze.;0:36:30.840000 - 0:36:32.840000
+Znači, ak uzmem recimo ovaj svijet i uzmem, ne znam, ovaj svijet,;0:36:32.840000 - 0:36:41.840000
+onda moram uzeti i sve ovo tu. Dobro, sve poslje, u redu.;0:36:42.840000 - 0:36:50.840000
+Znači, moram uzeti ovoga, ove strelice i budući da je i ovo sljedbenik,;0:36:50.840000 - 0:36:57.840000
+moram uzeti ovoga. Dobro, znači sve sam ovo uzeo.;0:36:57.840000 - 0:37:01.840000
+To vam je jedan generirani podokvir.;0:37:05.840000 - 0:37:07.840000
+A sad generirani podmodel, samo dodam valuaciju, koja je dosta jasna kakva je.;0:37:07.840000 - 0:37:13.840000
+Dobro, znači, počupam bilo kakve svijetove, koje god ja hoću, nema problema.;0:37:13.840000 - 0:37:18.840000
+E sad, ono što moram uzeti je ipak sve što ih nekak spaja, što ih je do sad spajalo,;0:37:18.840000 - 0:37:26.840000
+mora ih i dalje. Nije da je podskup, nego je baš jednako.;0:37:26.840000 - 0:37:30.840000
+Uzmem, znači, što je u modelu bilo istinito na tim svijetovima,;0:37:34.840000 - 0:37:42.840000
+to će biti dalje. Dobro, znači, ak je P.E. bio na nekom svijetu;0:37:42.840000 - 0:37:47.840000
+u duplo V crta, dok smo gledali cijeli model, onda će biti dalje.;0:37:47.840000 - 0:37:52.840000
+I nećemo ništa dodavati. E, i sad, ak sam uzeo neki svijet,;0:37:53.840000 - 0:37:58.840000
+a u velikom modelu je on imao sljedbenika V, onda moram i V izabrati.;0:37:58.840000 - 0:38:05.840000
+Je li to jasno? Znači, nekak uzmem, kada god uzmem svijet,;0:38:07.840000 - 0:38:11.840000
+uzmem sve poslje njega. E, to se onda kaže generirani podokvir.;0:38:11.840000 - 0:38:18.840000
+Naravno, slično je u podmodelu. Dobro, sad sam jedno krenuo pričat.;0:38:18.840000 - 0:38:23.840000
+Nevazime. Znači, kažemo da je okvir F generiran svijetom duplo V,;0:38:23.840000 - 0:38:28.840000
+ako je najmanji generirani podokvir od F, koji sadrži duplo V, upravo F.;0:38:28.840000 - 0:38:34.840000
+Dobro, znači, mogli bismo reći da je ovaj podokvir generiran ovim svijetom.;0:38:34.840000 - 0:38:42.840000
+Je li tako? To je podokvir ovog čitavog okvira generiran ovim svijetom duplo V.;0:38:42.840000 - 0:38:49.840000
+Dobro, znači, samo sam uzao taj svijet i sve iza njega i to je taj moj podokvir.;0:38:51.840000 - 0:38:56.840000
+E, ali zašto tako? Pa, očito je, zato što hoću sačuvati istinitost,;0:38:56.840000 - 0:39:02.840000
+odnosno valjanost. Jer ne može, kužite, kak će meni vrijediti dajmont Fi;0:39:02.840000 - 0:39:07.840000
+u podokviru, ako ja nisam uzao sljedbenika? Ne? Mislim, moram uzeti sve sljedbenike;0:39:07.840000 - 0:39:15.840000
+da bi ja mogo reći da će sad vrijediti dalje. Razumijete?;0:39:15.840000 - 0:39:18.840000
+To što je prije bio neki, ne znači da ja sad mogu zanemariti ih 15.;0:39:18.840000 - 0:39:23.840000
+Možda je u tih 15 baš taj jedini. Znači, generirani podmodeli čuvaju istinitost,;0:39:23.840000 - 0:39:30.840000
+a generirani podokviri čuvaju valjanost modelnih formula.;0:39:30.840000 - 0:39:33.840000
+I sad, kako to možete ovoga vrlo formalno dokazati?;0:39:33.840000 - 0:39:37.840000
+Pa, diagonala na duplo V crta je B simulacija između M i M crta.;0:39:38.840000 - 0:39:44.840000
+Jel' tako? Očito et vrijedi, jel'? I mislim, cijelo vrijeme sam zapravo u jednom jedinom modelu,;0:39:44.840000 - 0:39:52.840000
+pa ak' idem naprijed, na isti način idem naprijed u podmodelo, jel'?;0:39:52.840000 - 0:39:56.840000
+I natrag, natrag. Dobro? Odnosno, ono, forth, forth i back, back.;0:39:56.840000 - 0:40:02.840000
+Jel' ima tu kakvih pitanja možda u vezi s tim?;0:40:08.840000 - 0:40:11.840000
+Znači, to je jedna od četiri najvažnije konstrukcije okvira,;0:40:11.840000 - 0:40:14.840000
+odnosno, modela koju ćemo raditi. Dobro? I ja bih rekao da je druga;0:40:14.840000 - 0:40:18.840000
+po redu najlakša. Prva po redu najlakša je disjunktna unija.;0:40:18.840000 - 0:40:22.840000
+Znači, kak' ćemo u disjunktnu uniju trpat nekakve modele?;0:40:22.840000 - 0:40:26.840000
+Pa jasno je, znači, ako imam ovaj model,;0:40:26.840000 - 0:40:32.840000
+dobro, imam ovaj model, ne znam, a ovoga, šta će biti njihova disjunktna unija?;0:40:36.840000 - 0:40:45.840000
+Kužite, ovo su dva modela, dobro? Šta će biti njihova disjunktna unija?;0:40:45.840000 - 0:40:49.840000
+Pa ovo. Samo što će sad, u toj disjunktnoj uniji će ovo biti svijet duplo V1,;0:40:49.840000 - 0:40:56.840000
+duplo V crta 1 i duplo V dvo crta 1. Ovo će biti, kaj znam, V2 i V crta 2.;0:40:58.840000 - 0:41:13.840000
+Disjunktna unija, ne? E, ali sad naravno treba se zapitati;0:41:14.840000 - 0:41:20.840000
+što će biti povezano u toj disjunktnoj uniji. Pa isto što je bilo.;0:41:21.840000 - 0:41:26.840000
+Znači, da bi uopće VI bio povezan sa VJ, I mora biti isto što je J.;0:41:27.840000 - 0:41:32.840000
+Ne želim ja niš' dodavati, to je samo natrpo samih na jedno mjesto.;0:41:32.840000 - 0:41:36.840000
+Znači, možemo razgovarati, je li ovo povezano, je li ovo povezano?;0:41:37.840000 - 0:41:41.840000
+Pa je, jer je i bilo. Znači, I je jednak J i V, R i V.;0:41:41.840000 - 0:41:46.840000
+Ovoga, kad je istina nešto, pa piše. Evo, jel piše na V dve crte jedan;0:41:48.840000 - 0:41:55.840000
+i je istiniti su P i R. Znači, ak je duplo V, element VI od P.;0:41:55.840000 - 0:42:02.840000
+U redu je ovo. Dobro? Isto za disjunktna unija okvira.;0:42:02.840000 - 0:42:09.840000
+Samo ne brinemo o tome što je obješeno nigdje. Dobro?;0:42:09.840000 - 0:42:13.840000
+I naravno, propozicija je da će disjunktna unija čuvati istinitost;0:42:14.840000 - 0:42:17.840000
+i valjanost modalnih formula. Zašto? Zato što ću imati ovoga;0:42:17.840000 - 0:42:23.840000
+bisimulaciju između ovih malih modela i disjunktne unije.;0:42:23.840000 - 0:42:28.840000
+Jel se slažete? Znači, isto kak smo nekak imali kod generiranih pod okvira,;0:42:28.840000 - 0:42:34.840000
+pod modela, ne, svaki svijet je bio povezan sam sa sobom.;0:42:34.840000 - 0:42:38.840000
+Pa u principu je to isto i tu. Znači, ovoga duplo V će biti povezan;0:42:38.840000 - 0:42:45.840000
+preko bisimulacije sa duplo V1. V dvo crta sa duplo V dvo crta 1;0:42:45.840000 - 0:42:53.840000
+i duplo V crta sa duplo V crta 1. I isto za ovaj VV crta.;0:42:53.840000 - 0:42:59.840000
+Jel? I to jasno je da je to bisimulacija odmah.;0:42:59.840000 - 0:43:02.840000
+Ali dajte si to raspišite. Znači, te tvrdnje je uvijek dobro.;0:43:02.840000 - 0:43:05.840000
+Koliko god su sitne i bezvezne, jako vam ih je dobro raspisati.;0:43:05.840000 - 0:43:10.840000
+Pogotovo sada da se naviknete. Znači, originalni autor tih slajdova je;0:43:11.840000 - 0:43:17.840000
+Tim Perkov i fantastično ih je složio po meni.;0:43:17.840000 - 0:43:20.840000
+Znači, točno vam da ono taste ovoga modelne logike;0:43:20.840000 - 0:43:26.840000
+sa ono idealnim rezultatima i definicijama i svime,;0:43:26.840000 - 0:43:30.840000
+a bez da ulazite u nekakve jako duboke, jako čudne stvari.;0:43:31.840000 - 0:43:36.840000
+Znači, ovo tu je baš ono kak treba izgledati po meni uvod.;0:43:36.840000 - 0:43:42.840000
+I upravo se sad ovim malim blesavim dokazićima trebate baliti.;0:43:42.840000 - 0:43:48.840000
+Znači, jednom kad ih svi sami prođete, značete sve što tu ima.;0:43:48.840000 - 0:43:52.840000
+Ono, kad ih detaljno ispišete, ajmo to tako reći.;0:43:54.840000 - 0:43:57.840000
+Dobro, ajmo na drugu poredu najtežu stvar.;0:43:57.840000 - 0:44:01.840000
+Znači, ograničeni morfizam. Zapravo nije teško upravo zato što smo radili bisimulaciju.;0:44:01.840000 - 0:44:07.840000
+Znači, to je kao bisimulacija, samo što se radi o funkciji sada.;0:44:08.840000 - 0:44:12.840000
+Znači, ograničeni morfizam, bisimulacija bi bila relacija koja zadovoljava F40 back,;0:44:13.840000 - 0:44:19.840000
+a ovo će biti funkcija između dva modela koja zadovoljava F40 back.;0:44:19.840000 - 0:44:23.840000
+Znači, ako je na VP, onda je na F od duplo VP i obrnuto.;0:44:23.840000 - 0:44:29.840000
+U redu, to je F. Znači, doslovno je isto kao bisimulacija,;0:44:29.840000 - 0:44:33.840000
+samo što sad nemate 15, ne ide iz V, ne ide 15 vezat prema dolje, nego ide jedna jedina.;0:44:33.840000 - 0:44:40.840000
+U redu, točno sa jednim je vezan. Za svaki postoji točno jedan.;0:44:40.840000 - 0:44:44.840000
+To je iz srednje škole. Znači, duplo V, F od duplo V.;0:44:44.840000 - 0:44:52.840000
+Znači, imamo et, tu su i tu iste ove propozicijske variable istinite.;0:44:52.840000 - 0:44:58.840000
+Dobro, ak mogu koraknut u gornjem modelu, znači, i sad ne moram više govori da je tu nekakvi duplo V crta.;0:44:58.840000 - 0:45:09.840000
+Nije nekakvi, nego taj jedan jedini. Znači, F od duplo V i tu već znam,;0:45:09.840000 - 0:45:13.840000
+tu ću sad isto zapravo popuniti ovu crtu ovoga.;0:45:13.840000 - 0:45:17.840000
+F od V, dobro, sad imam zapravo tri stvari već dobivene,;0:45:18.840000 - 0:45:23.840000
+a ono što dobivam novo je ovo.;0:45:23.840000 - 0:45:28.840000
+Dobro, znači, ak imam V, R, V, onda imam F od duplo V, R crta, F od V.;0:45:28.840000 - 0:45:36.840000
+Dobro, e i sad malo back je ružni samo zato što sad kao imam već ovaj V u relaciji,;0:45:36.840000 - 0:45:45.840000
+odnosno preslikan po F u F od duplo V.;0:45:45.840000 - 0:45:49.840000
+I sad, čak i ovako sličnije možda bi simulacije. I sad tu imam nekakav V crta.;0:45:50.840000 - 0:45:56.840000
+Sad ga moram nekak nazvati, ne moram sad reći da mi je to F od V, pa postoji V.;0:45:56.840000 - 0:46:01.840000
+Čudo bi bilo, jel? Ovoga, znači, imam V crta, takav da, mislim, ispričavam se,;0:46:01.840000 - 0:46:07.840000
+imam duplo V, F od V i V crta, tako da ovo vrijedi.;0:46:07.840000 - 0:46:11.840000
+I onda mogu po R-u koraknut u V, takav da je V crta baš jednak F od V.;0:46:11.840000 - 0:46:24.840000
+Dobro? Ok. Dobro, znači, ograničeni morfizam okvira definira se isto.;0:46:24.840000 - 0:46:32.840000
+E i sad ono što je važno, surijektivni, surijektivni ograničeni morfizam,;0:46:32.840000 - 0:46:37.840000
+ili ona kak se nekad kaže, dobro, čuva valjanost modelne formule.;0:46:37.840000 - 0:46:42.840000
+Jel čuva istinitost na modelu? Pa naravno. Mislim, to je zapravo bisimulacija.;0:46:42.840000 - 0:46:49.840000
+Jel naravno da čuva istinitost? Nemam pojma zašto ne piše,;0:46:49.840000 - 0:46:52.840000
+ali ovoga, vidite, graf ograničenog morfizma je bisimulacija.;0:46:52.840000 - 0:46:57.840000
+Duplo V za R-ezefo duplo V, to je bisimulacija. Po svim duplim V.;0:46:59.840000 - 0:47:04.840000
+Vidite da je dosta bitno da je surijektivan. Odnosno, još se nekad kaže;0:47:04.840000 - 0:47:08.840000
+pravljenje slika prij ograničenim morfizmima, ili, ne, ovako, slika surijektivnog;0:47:08.840000 - 0:47:18.840000
+ograničenog morfizma i sad nešto. Dobro? Recimo, na njoj je iste su modelne formule valjane, čuvaju valjanost i tak.;0:47:18.840000 - 0:47:26.840000
+Dobro. Znači, sad smo napravili tri važne, od četiri najvažnije konstrukcije;0:47:27.840000 - 0:47:35.840000
+modela i okvira. Ono što ćemo još imati su...;0:47:35.840000 - 0:47:39.840000
+Aha, ajde da vas još pitam iz Afrikancije. Znači, radit ćemo još ultrafiltar proširenja.;0:47:40.840000 - 0:47:46.840000
+Šta biste rekli za nerefleksivnost, konačnost i refleksivnost?;0:47:48.840000 - 0:47:52.840000
+Jesu li modelno definabilne? Ajde, samo ću kratko produžiti to.;0:47:52.840000 - 0:47:56.840000
+Evo, ispričava se danas da dovršimo ovu narančastu priču.;0:47:56.840000 - 0:48:01.840000
+Znači, je li nerefleksivnost...;0:48:04.840000 - 0:48:07.840000
+Nerefleksivnost okvira modelno definabilna? Nije. Zašto?;0:48:14.840000 - 0:48:19.840000
+Ne, nije to. Samo da vidim, jer smo modele... Da, da, da.;0:48:23.840000 - 0:48:29.840000
+Znači, okviri su sada još u priči. Znači, nerefleksivnost okvira.;0:48:29.840000 - 0:48:34.840000
+E sad, šta mi treba? Znači, ja sad imam tri konstrukcije,;0:48:34.840000 - 0:48:37.840000
+sam vam dao, nisam četiri, tako da nećete sve znat napraviti,;0:48:37.840000 - 0:48:41.840000
+ali imate tri konstrukcije koje čuvaju valjanost, jel tako, na okvirima.;0:48:41.840000 - 0:48:51.840000
+I sad, znači, šta mi treba? Treba mi da, ako hoću dokazati;0:48:52.840000 - 0:48:58.840000
+da nerefleksivnost nije modelno definabilna,;0:48:58.840000 - 0:49:01.840000
+treba mi neka od tih tri konstrukcije, znači, koja će uzeti nešto;0:49:02.840000 - 0:49:10.840000
+gdje formula ovoga jest valjana i dobiti nešto gdje nije. Dobro?;0:49:10.840000 - 0:49:18.840000
+Znači, kako ovoga... Šta mogu napraviti sa nerefleksivnim modelima,;0:49:21.840000 - 0:49:29.840000
+a da dobijem...sa nerefleksivnim okvirima, a da dobijem refleksivni okvir?;0:49:29.840000 - 0:49:34.840000
+Pa nismo li to baš imali? Čini mi se da je to točno bilo. Jel tako?;0:49:42.840000 - 0:49:49.840000
+Ovaj je nerefleksivan, bez obzira ali podrazumijevate;0:49:51.840000 - 0:49:59.840000
+transitivnost ili ne? Dobro? A. Ovaj je refleksivan i još je slika;0:49:59.840000 - 0:50:06.840000
+pri surjektivnom ograničenom morfizmu. Ona naša bisimulacija koju smo imali;0:50:06.840000 - 0:50:11.840000
+je zapravo surjektivni ograničeni morfizam. Jel tako? Točno.;0:50:11.840000 - 0:50:16.840000
+Znači, ovoga nerefleksivnost okvira nije modelno definibilna.;0:50:16.840000 - 0:50:25.840000
+Jel tako? Aha, ne, čak je tu. Čak ne samo nerefleksivnost,;0:50:25.840000 - 0:50:28.840000
+čak smo i i refleksivnost odmah pokrili. Jel tako? Nerefleksivnost, da?;0:50:28.840000 - 0:50:36.840000
+Aha, jedno i drugo. Ovo je dobar primjer za jedno i drugo,;0:50:36.840000 - 0:50:39.840000
+što je najbolje od svega. Ajde još konačnost.;0:50:39.840000 - 0:50:42.840000
+Koju konstrukciju dosta očito mogu provesti na konačnim okvirima;0:50:46.840000 - 0:50:52.840000
+i dobiti beskodačlji. Tako je. Uzmem ih koliko god hoću,;0:50:52.840000 - 0:50:57.840000
+mogu jedan te isti sto puta. Mislim da je sto puta,;0:50:57.840000 - 0:51:00.840000
+nego beskodačlji puta. Aha, može ovako generirani podokvir;0:51:00.840000 - 0:51:06.840000
+nerefleksivnog okvira, može biti refleksivan. Pardon, evo još lakši primjer.;0:51:06.840000 - 0:51:11.840000
+Znači, ovaj okvir je nerefleksivan, jel tako? Ima svijet koji nije refleksivan, dobro.;0:51:11.840000 - 0:51:19.840000
+A ovaj generirani podokvir nema. Uredno. Konačnost nije, jer disjunktna unija;0:51:19.840000 - 0:51:26.840000
+može biti beskonačna. Aha, i refleksivnost isto dobra šema.;0:51:26.840000 - 0:51:32.840000
+Znači, ako se ne varam ovako, možemo ovako.;0:51:32.840000 - 0:51:36.840000
+Jer samo mi treba da koračam, ne naprijed-natrak.;0:51:37.840000 - 0:51:41.840000
+Dobro? Mogu ovako. Ovo je i refleksivni okvir, ali ovo je surjektivni;0:51:41.840000 - 0:51:47.840000
+ograničen je morfiza. Dobro? Evo, to je to.;0:51:47.840000 - 0:51:52.840000
+Ako imate kakvih pitanja, naravno, slobodno pitajte, ali uvijek me možete;0:51:52.840000 - 0:51:56.840000
+i mailom i bilo kak.;0:51:56.840000 - 0:51:58.840000

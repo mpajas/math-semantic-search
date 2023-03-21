@@ -1,0 +1,736 @@
+Speech;Timestamp
+Što je čujem?;0:00:00 - 0:00:02
+Treba ovdje.;0:00:02 - 0:00:04
+Dobro.;0:00:04 - 0:00:06
+Dobro.;0:00:06 - 0:00:08
+Aha.;0:00:16 - 0:00:18
+Vektor.;0:00:18 - 0:00:20
+Ako se ne znaš,;0:00:24 - 0:00:26
+ne znam.;0:00:26 - 0:00:28
+Ako se ne znam, ne znam.;0:00:28 - 0:00:30
+Dobro.;0:00:58 - 0:01:00
+Dobro. Možemo početi.;0:01:02 - 0:01:04
+Ok. Znači,;0:01:04 - 0:01:06
+tu smo stali;0:01:06 - 0:01:08
+prošle godine.;0:01:08 - 0:01:10
+Dakle,;0:01:10 - 0:01:12
+Walsh's theorem o ultraproduktima;0:01:14 - 0:01:16
+zapravo ovak';0:01:16 - 0:01:18
+kako smo ga mi;0:01:18 - 0:01:20
+iskazali je;0:01:20 - 0:01:22
+korolar;0:01:22 - 0:01:24
+ovog općenitog teorema;0:01:24 - 0:01:26
+koju smo dokazali, ali naravno zapravo;0:01:26 - 0:01:28
+najčešće;0:01:28 - 0:01:30
+je važno za rečenice;0:01:30 - 0:01:32
+to gledat', ne za;0:01:32 - 0:01:34
+općenite formule, ali;0:01:34 - 0:01:36
+da bi se dokazalo za rečenice;0:01:36 - 0:01:38
+zapravo treba dokazat';0:01:40 - 0:01:42
+za općenite formule;0:01:42 - 0:01:44
+i onda samo vidjet';0:01:44 - 0:01:46
+specijalni slučaj. Naravno, kad imate općenite formule;0:01:46 - 0:01:48
+onda su komplicirane ove valuacije,;0:01:48 - 0:01:50
+pa inducirane valuacije;0:01:50 - 0:01:52
+nekom familijom valuacija;0:01:52 - 0:01:54
+i tako treba vidjet' šta se tu zapravo zbiva.;0:01:54 - 0:01:56
+To je nekakvo gledanje;0:01:56 - 0:01:58
+dvodimenzionalne tablice,;0:01:58 - 0:02:00
+jedna po indeksima;0:02:00 - 0:02:02
+samih struktura, druga po;0:02:02 - 0:02:04
+indeksima variabli koje se pojavljuju,;0:02:04 - 0:02:06
+ali je;0:02:06 - 0:02:08
+komplicirano jer stvari koje su;0:02:08 - 0:02:10
+unutra nisu striktno;0:02:10 - 0:02:12
+određene, nego su fazi s obzirom na to;0:02:12 - 0:02:14
+da imate;0:02:14 - 0:02:16
+elemente filtera;0:02:18 - 0:02:20
+unutra, odnosno;0:02:20 - 0:02:22
+nekakve glasove;0:02:22 - 0:02:24
+koji glasaju;0:02:24 - 0:02:26
+za to kolika će bit' valuacija;0:02:26 - 0:02:28
+na nekakve variabli.;0:02:28 - 0:02:30
+Dobro, ali kažem, to smo sve;0:02:30 - 0:02:32
+napravili i zapravo ovo je;0:02:32 - 0:02:34
+ono što treba;0:02:34 - 0:02:36
+zabaviti, što ćemo koristiti.;0:02:36 - 0:02:38
+Dakle, nekako kao što smo;0:02:40 - 0:02:42
+za atomarne rečenice;0:02:42 - 0:02:44
+rekli, jednostavno, to je praktički;0:02:44 - 0:02:46
+definicija relacijskih simbola,;0:02:46 - 0:02:48
+da ovo vrijedi, znači, jednostavno za atomarnu rečenicu;0:02:48 - 0:02:50
+ćemo propisati da ona vrijedi;0:02:50 - 0:02:52
+na ultraproduktu struktura;0:02:52 - 0:02:54
+ako, kad pogledam;0:02:54 - 0:02:56
+skup svih indeksa;0:02:56 - 0:02:58
+struktura na kojima vrijedi,;0:02:58 - 0:03:00
+to bude element ultrafiltera.;0:03:00 - 0:03:02
+Sada smo to;0:03:02 - 0:03:04
+vidjeli da to zapravo onda vrijedi;0:03:04 - 0:03:06
+za sve formule,;0:03:06 - 0:03:08
+odnosno u ovom slučaju;0:03:08 - 0:03:10
+bez valuacija za sve rečenice.;0:03:10 - 0:03:12
+I sad, naravno,;0:03:12 - 0:03:14
+za razliku od ono što smo prije imali,;0:03:14 - 0:03:16
+dakle, na primjer, mogli smo vidjeti;0:03:16 - 0:03:18
+reducirani produkt;0:03:18 - 0:03:20
+familije Polja, on nije općenito;0:03:20 - 0:03:22
+polje, ili čak;0:03:22 - 0:03:24
+obični kartezijev produkt familije Polja;0:03:24 - 0:03:26
+nije polje;0:03:26 - 0:03:28
+za linarno uređene skupove;0:03:28 - 0:03:30
+itd. Ali sad, naravno, vidimo da sve to;0:03:30 - 0:03:32
+se čuva. Ultraprodukt;0:03:32 - 0:03:34
+familije Polja je polje, ultraprodukt familije;0:03:34 - 0:03:36
+linarno uređenih skupova;0:03:36 - 0:03:38
+je ponovno linarno uređen i općenito;0:03:38 - 0:03:40
+za bilo kakvu strukturu prvog reda;0:03:40 - 0:03:42
+to možemo napraviti jer;0:03:42 - 0:03:44
+aksiomatika te strukture se može zapisati,;0:03:44 - 0:03:46
+zato se zove struktura prvog reda,;0:03:46 - 0:03:48
+se može zapisati u logici prvog reda,;0:03:48 - 0:03:50
+dakle, to onda znači da će;0:03:50 - 0:03:52
+ultraprodukt to čuvati.;0:03:52 - 0:03:54
+Na primjer, što ja znam ako ćeme kaže;0:03:56 - 0:03:58
+linarno uređene skupove, što je to?;0:03:58 - 0:04:00
+A, imaš, znači, signatura je nekakva;0:04:00 - 0:04:02
+imaš jednakost;0:04:04 - 0:04:06
+imaš relaciju;0:04:06 - 0:04:08
+i sad ima nekakvih aksioma;0:04:08 - 0:04:10
+koji kažu ova relacija je;0:04:10 - 0:04:12
+refleksivna, ova relacija;0:04:12 - 0:04:14
+je transitivna,;0:04:14 - 0:04:16
+svi elementi su;0:04:16 - 0:04:18
+usporedivi s obzirom na tu relaciju;0:04:18 - 0:04:20
+i;0:04:20 - 0:04:22
+i to je valjda to, znači;0:04:22 - 0:04:24
+za linarno uređene skupove to je;0:04:24 - 0:04:26
+to je dovoljno, konjunkcija te tri formule;0:04:26 - 0:04:28
+znači jedna;0:04:28 - 0:04:30
+jedna konkretna formula je ona rečenica, znači nema;0:04:30 - 0:04:32
+slobodnih variabli unutra i;0:04:32 - 0:04:34
+onda zapravo;0:04:34 - 0:04:36
+ta rečenica;0:04:38 - 0:04:40
+po ovom korolaru;0:04:40 - 0:04:42
+vrijedi na ultraproduktu;0:04:42 - 0:04:44
+ako i samo ako;0:04:44 - 0:04:46
+vrijedi na;0:04:46 - 0:04:48
+dovoljno puno;0:04:48 - 0:04:50
+elementa tog;0:04:50 - 0:04:52
+niza, odnosno te familije;0:04:52 - 0:04:54
+indeksirane familije strukture. Naravno,;0:04:54 - 0:04:56
+ako imate familiju;0:04:56 - 0:04:58
+linarno uređene skupove, onda;0:04:58 - 0:05:00
+znači svi su oni linarno uređeni, znači na svima njima vrijedi;0:05:00 - 0:05:02
+onda je skup, naravno, čitav;0:05:02 - 0:05:04
+čitav skup i koji je element;0:05:04 - 0:05:06
+od U i gotovo;0:05:06 - 0:05:08
+Dobro, i sad;0:05:08 - 0:05:10
+jedna ovako ne;0:05:10 - 0:05:12
+na prvi pogled očita;0:05:12 - 0:05:14
+znači ove su, dajmo reći,;0:05:14 - 0:05:16
+očite primjene;0:05:16 - 0:05:18
+Oschovog teorema, jedna neočita;0:05:18 - 0:05:20
+primjena je dokaz teorema;0:05:20 - 0:05:22
+kompaktnosti. Dakle, pocićam, mi smo naravno;0:05:22 - 0:05:24
+teorem kompaktnosti dokazali puno;0:05:24 - 0:05:26
+drugačije, dakle preko;0:05:26 - 0:05:28
+preko henkinizacije;0:05:28 - 0:05:30
+preko, dakle, u procesu;0:05:30 - 0:05:32
+smo zapravo dokazali teorem potpunosti;0:05:32 - 0:05:34
+ovaj;0:05:34 - 0:05:36
+ali evo jedan;0:05:36 - 0:05:38
+zgodan način na koji se;0:05:38 - 0:05:40
+može provesti dokaz teorema;0:05:40 - 0:05:42
+kompaktnosti pomoću Oschovog teorema;0:05:42 - 0:05:44
+Dakle, kažu ovako;0:05:44 - 0:05:46
+S je neki skup rečenica;0:05:46 - 0:05:48
+dakle, prisjetimo se, teorem kompaktnosti kaže da;0:05:48 - 0:05:50
+skup rečenica je ispunjiv;0:05:50 - 0:05:52
+ako i samo ako je svaki njegov konačni;0:05:52 - 0:05:54
+podskup ispunjiv i pritom je jedan smjer;0:05:54 - 0:05:56
+trivialan, dakle, valjda, ako je skup;0:05:56 - 0:05:58
+ispunjiv, onda je svaki njegov podskup ispunjiv;0:05:58 - 0:06:00
+pa tako i svaki konačan podskup;0:06:00 - 0:06:02
+i to što je zanimljivo je;0:06:02 - 0:06:04
+svaki;0:06:04 - 0:06:06
+konačni;0:06:06 - 0:06:08
+podskup;0:06:08 - 0:06:10
+iz bizarnog razloga;0:06:10 - 0:06:12
+dakle, zbog toga što će po tome;0:06:12 - 0:06:14
+na kraju ići;0:06:14 - 0:06:16
+produkt, ćemo ga uznaviti;0:06:16 - 0:06:18
+sa I;0:06:18 - 0:06:20
+od S je;0:06:20 - 0:06:22
+ispunjiv;0:06:22 - 0:06:24
+Dakle;0:06:26 - 0:06:28
+S je;0:06:28 - 0:06:30
+ispunjiv;0:06:30 - 0:06:32
+Dakle;0:06:34 - 0:06:36
+to želimo vidjeti da vrijedi;0:06:36 - 0:06:38
+i sad kažem, ideja je da;0:06:38 - 0:06:40
+po ovim tu;0:06:40 - 0:06:42
+konačnim podskupovima upravo ide;0:06:42 - 0:06:44
+ta familija;0:06:44 - 0:06:46
+Dakle, kaže ovako;0:06:46 - 0:06:48
+prvo, valjda,;0:06:48 - 0:06:50
+odaberem;0:06:50 - 0:06:52
+sa veliko I;0:06:52 - 0:06:54
+onda označimo;0:06:54 - 0:06:56
+skup svih;0:06:56 - 0:06:58
+konačnih;0:06:58 - 0:07:00
+podskupova;0:07:00 - 0:07:02
+od S;0:07:04 - 0:07:06
+I, za svaki I;0:07:10 - 0:07:12
+odaberemo;0:07:14 - 0:07:16
+jedan model, jednu strukturu.;0:07:20 - 0:07:22
+I označimo ga sa M I;0:07:26 - 0:07:28
+To možemo, jer;0:07:30 - 0:07:32
+po predpostavci;0:07:32 - 0:07:34
+svaki konačni;0:07:34 - 0:07:36
+svaki konačni;0:07:38 - 0:07:40
+podskup od S je ispunjiv;0:07:40 - 0:07:42
+dakle, ima puno;0:07:42 - 0:07:44
+modela, ali, fiksiram jedan;0:07:44 - 0:07:46
+i to je to;0:07:46 - 0:07:48
+I sad, dobro, još su ovo;0:07:50 - 0:07:52
+zgodne oznake, dakle;0:07:52 - 0:07:54
+svaki F iz S;0:07:56 - 0:07:58
+sa S F;0:07:58 - 0:08:00
+ćemo označiti sve;0:08:00 - 0:08:02
+ijeve koje imaju ta F;0:08:02 - 0:08:04
+a sa E ćemo označiti skup svih;0:08:12 - 0:08:14
+takvih S F-ova;0:08:14 - 0:08:16
+Naravno, sama činjenica da smo ga označili sa E;0:08:20 - 0:08:22
+govori da ćemo na njega;0:08:22 - 0:08:24
+primjenjivati zapravo;0:08:24 - 0:08:26
+svojstvo konačnih presjeka;0:08:26 - 0:08:28
+Zašto? Dakle, šta nam tu treba?;0:08:32 - 0:08:34
+Želimo vidjeti da;0:08:34 - 0:08:36
+niti jedan presjek;0:08:36 - 0:08:38
+elemenata od E;0:08:38 - 0:08:40
+niti jedan konačni presjek elemenata od E;0:08:40 - 0:08:42
+nije prazan, jo?;0:08:42 - 0:08:44
+Dakle, neka je;0:08:48 - 0:08:50
+E satica;0:08:50 - 0:08:52
+ili možda ovako;0:08:52 - 0:08:54
+Znači, unutra žive neki S F;0:08:54 - 0:08:56
+odi S F1;0:08:56 - 0:08:58
+do S F;0:08:58 - 0:09:00
+k;0:09:00 - 0:09:02
+proizvodni;0:09:02 - 0:09:04
+konačni;0:09:06 - 0:09:08
+podskup;0:09:08 - 0:09:10
+od E;0:09:10 - 0:09:12
+I šta tad tvrdim?;0:09:12 - 0:09:14
+Tvrdim da je S F1;0:09:14 - 0:09:16
+presjek;0:09:18 - 0:09:20
+S F2;0:09:20 - 0:09:22
+presjek;0:09:22 - 0:09:24
+S F k;0:09:24 - 0:09:26
+Što bi to bilo? Dakle, S F1 je;0:09:26 - 0:09:28
+skup svih ijeva koji sadrže;0:09:28 - 0:09:30
+formulu F1;0:09:30 - 0:09:32
+S F2 je skup svih ijeva;0:09:34 - 0:09:36
+koji sadrže formulu F2;0:09:36 - 0:09:38
+Što bi bio njihovo presjek? To je bili svi;0:09:38 - 0:09:40
+ijevi, svi konačni podskupovi;0:09:40 - 0:09:42
+od S koji sadrže;0:09:42 - 0:09:44
+i formulu;0:09:44 - 0:09:46
+F1 i formulu F2;0:09:46 - 0:09:48
+Aha, sad bih htio reći kao konjunkcija;0:09:48 - 0:09:50
+ali da, ne mogu zapravo to tako reći;0:09:50 - 0:09:52
+Dobro, nije bitno, ali u svakom slučaju;0:10:04 - 0:10:06
+predpostavimo;0:10:08 - 0:10:10
+da je ovo prazno;0:10:10 - 0:10:12
+to bi značilo da;0:10:12 - 0:10:14
+nema;0:10:14 - 0:10:16
+strukture;0:10:18 - 0:10:20
+Ha, ne, ne, ne, krivo, krivo reći;0:10:24 - 0:10:26
+Dakle, to sigurno sadrži;0:10:26 - 0:10:28
+ovaj tu skup;0:10:28 - 0:10:30
+Dakle, ovo je;0:10:32 - 0:10:34
+nekakav;0:10:34 - 0:10:36
+konačan podskup od S;0:10:36 - 0:10:38
+Dakle, to jest nekakav i;0:10:38 - 0:10:40
+i ovaj, on je;0:10:40 - 0:10:42
+sigurno;0:10:42 - 0:10:44
+iz S F1;0:10:44 - 0:10:46
+jer je F1 njegov element;0:10:46 - 0:10:48
+je iz S F2, jer je F2 njegov element;0:10:48 - 0:10:50
+i tako dalje, ono, to;0:10:50 - 0:10:52
+to trivijeno vrijedi, ok.;0:10:52 - 0:10:54
+Ne treba nikakva konjunkcija.;0:10:54 - 0:10:56
+Dakle,;0:10:56 - 0:10:58
+to zapravo onda znači;0:10:58 - 0:11:00
+da je ovaj tu skup;0:11:00 - 0:11:02
+različit od prazno;0:11:02 - 0:11:04
+i onda što smo jedan konkretni element u notri.;0:11:04 - 0:11:06
+Dakle, E ima svojstvo;0:11:06 - 0:11:08
+konačnih presjeka.;0:11:08 - 0:11:10
+Po ono što smo dokazali;0:11:10 - 0:11:12
+prošli put, znači;0:11:12 - 0:11:14
+E se može proširiti do ultrafiltera.;0:11:14 - 0:11:16
+Takav da je;0:11:30 - 0:11:32
+E;0:11:32 - 0:11:34
+Dobro, i sad jednom kad smo se dočepali;0:11:38 - 0:11:40
+ultrafiltera, naravno imamo ovu;0:11:40 - 0:11:42
+familiju;0:11:42 - 0:11:44
+Mi, dakle;0:11:44 - 0:11:46
+sa M;0:11:46 - 0:11:48
+označimo produkt;0:11:48 - 0:11:50
+po svim tim ijevima,;0:11:50 - 0:11:52
+ali reduciren po ultrafilteru;0:11:52 - 0:11:54
+od Mi;0:11:58 - 0:12:00
+tvrdimo da je M;0:12:02 - 0:12:04
+model za čitav S.;0:12:04 - 0:12:06
+Zašto? Zato što;0:12:06 - 0:12:08
+za svaku formulu iz S;0:12:08 - 0:12:10
+neka je F;0:12:12 - 0:12:14
+iz S;0:12:14 - 0:12:16
+proizvodna.;0:12:16 - 0:12:18
+Kaže Mi;0:12:22 - 0:12:24
+je model, aha, znači;0:12:24 - 0:12:26
+želimo vidjeti da je Mi;0:12:26 - 0:12:28
+model za SF.;0:12:28 - 0:12:30
+Dakle, i element;0:12:36 - 0:12:38
+SF;0:12:38 - 0:12:40
+to znači;0:12:40 - 0:12:42
+da je F element I;0:12:42 - 0:12:44
+pa to znači da;0:12:44 - 0:12:46
+Mi je bio model za čitav I;0:12:46 - 0:12:48
+pa tako za sve njegove elemente.;0:12:48 - 0:12:50
+I je model za I;0:12:54 - 0:12:56
+iz toga slijedi da je Mi;0:12:56 - 0:12:58
+model za F.;0:12:58 - 0:13:00
+Znači, aha, za bilo koji;0:13:00 - 0:13:02
+I iz SF;0:13:02 - 0:13:04
+Mi je model;0:13:04 - 0:13:06
+za F, međutim;0:13:06 - 0:13:08
+SF je element;0:13:10 - 0:13:12
+od E.;0:13:12 - 0:13:14
+A je podskup od U;0:13:18 - 0:13:20
+jer smo ovaj;0:13:20 - 0:13:22
+tako proširili,;0:13:24 - 0:13:26
+znači SF je element od U;0:13:26 - 0:13:28
+i za svaki;0:13:32 - 0:13:34
+I iz SF;0:13:34 - 0:13:36
+Mi;0:13:36 - 0:13:38
+na Mi vrijedi F;0:13:42 - 0:13:44
+dakle, sad ne mogu reći;0:13:44 - 0:13:46
+skup svih I iz I;0:13:46 - 0:13:48
+takvih da;0:13:48 - 0:13:50
+na njih, na Mi;0:13:50 - 0:13:52
+vrijedi F.;0:13:52 - 0:13:54
+Ne mogu reći da je to baš jednako;0:13:54 - 0:13:56
+SF jer se ništa ne kaže o ovim;0:13:56 - 0:13:58
+ostalima, ali je svakako;0:13:58 - 0:14:00
+nadskup od SF.;0:14:00 - 0:14:02
+Pa je također;0:14:02 - 0:14:04
+element od U;0:14:06 - 0:14:08
+po svojstvu zatvoranosti;0:14:08 - 0:14:10
+i unaradskupove.;0:14:10 - 0:14:12
+I sada po;0:14:12 - 0:14:14
+Vošovom teoremu;0:14:16 - 0:14:18
+znači;0:14:18 - 0:14:20
+skup svih I jeva;0:14:20 - 0:14:22
+koji glasaju za formulu F je element;0:14:22 - 0:14:24
+ultrafiltera, znači;0:14:24 - 0:14:26
+na M vrijedi F.;0:14:26 - 0:14:28
+A budući da je F bila proizvoljna;0:14:28 - 0:14:30
+formula iz S, zaključujem da;0:14:30 - 0:14:32
+na M vrijedi svi ta vez.;0:14:32 - 0:14:34
+Eto, znači;0:14:34 - 0:14:36
+potpuno drugačiji;0:14:36 - 0:14:38
+dokaz teorema kompaktnosti.;0:14:38 - 0:14:40
+Dobro.;0:14:50 - 0:14:52
+Nešto što smo imali prije, znači;0:14:54 - 0:14:56
+elementarne klase,;0:14:56 - 0:14:58
+to su bile;0:14:58 - 0:15:00
+klase koje su;0:15:00 - 0:15:02
+nekako elementarno, odnosno;0:15:02 - 0:15:04
+u logici prvog reda,;0:15:04 - 0:15:06
+akcijovati zabilne.;0:15:06 - 0:15:08
+Znači imali smo ovaj operator;0:15:10 - 0:15:12
+mod koji je zapravo;0:15:12 - 0:15:14
+rekao za nekakvu;0:15:14 - 0:15:16
+teoriju, za nekakvu skup rečenica;0:15:16 - 0:15:18
+klasa svih modela,;0:15:20 - 0:15:22
+svih;0:15:22 - 0:15:24
+struktura prvog reda nad signaturom;0:15:24 - 0:15:26
+u kojoj su te rečenice,;0:15:26 - 0:15:28
+u kojima vrijede sve te rečenice.;0:15:28 - 0:15:30
+Dobro.;0:15:32 - 0:15:34
+Znači, kaže teorem;0:15:40 - 0:15:42
+k;0:15:46 - 0:15:48
+k je elementarna,;0:15:48 - 0:15:50
+znači klasa k je jednaka;0:15:50 - 0:15:52
+klasi modela;0:15:52 - 0:15:54
+nekakve teorije t,;0:15:54 - 0:15:56
+teorije t,;0:15:56 - 0:15:58
+za neku;0:15:58 - 0:16:00
+teoriju t,;0:16:00 - 0:16:02
+ako i samo ako;0:16:02 - 0:16:04
+je k zatvorena;0:16:06 - 0:16:08
+na ultraprodukte;0:16:08 - 0:16:10
+i elementarnoj prevalenciji.;0:16:10 - 0:16:12
+Dobro, znači,;0:16:16 - 0:16:18
+što zapravo znači;0:16:18 - 0:16:20
+zatvoreno na ultraprodukte? Znači, ako imam;0:16:20 - 0:16:22
+familiju u kojoj su svi;0:16:22 - 0:16:24
+u k, onda je i ultraprodukt;0:16:24 - 0:16:26
+te familije također u k.;0:16:26 - 0:16:28
+Što znači zatvoreno na elementarnoj prevalenciji?;0:16:28 - 0:16:30
+To je binarna relacija, dakle, ako su dvije strukture;0:16:30 - 0:16:32
+elementarnoekvalentne, jedna je u k,;0:16:32 - 0:16:34
+onda je i druga u k.;0:16:34 - 0:16:36
+I valjda;0:16:37 - 0:16:39
+ovaj smjer je stvarno jasan.;0:16:39 - 0:16:41
+Dakle, neka je;0:16:43 - 0:16:45
+k jednako;0:16:49 - 0:16:51
+mod od t.;0:16:51 - 0:16:53
+Kak dobijem da je zatvoreno na ultraprodukte?;0:16:54 - 0:16:56
+Pa ošoterem.;0:16:56 - 0:16:58
+To stvarno.;0:17:04 - 0:17:06
+Točno to kaže.;0:17:07 - 0:17:09
+Ako na svima;0:17:09 - 0:17:11
+elementima te klase vrijedi;0:17:11 - 0:17:13
+sve račenice iz t,;0:17:13 - 0:17:15
+svaka račenica iz t vrijedi na svima elementima;0:17:15 - 0:17:17
+te klase, onda vrijedi i na ultraproduktu.;0:17:17 - 0:17:19
+To je to.;0:17:20 - 0:17:22
+A zatvorenost na elementarnoj prevalenciji;0:17:22 - 0:17:24
+je još jednostavnija, jer valjda;0:17:24 - 0:17:26
+ako je f iz t,;0:17:26 - 0:17:28
+to znači da je f račenica,;0:17:28 - 0:17:30
+a to s obzirom na to da su dvije strukture,;0:17:32 - 0:17:34
+znači recimo m1;0:17:34 - 0:17:36
+i m2,;0:17:36 - 0:17:38
+da su elementarnoekvalente,;0:17:38 - 0:17:40
+znači da se pudaraju na svim račenicama,;0:17:40 - 0:17:42
+znači;0:17:42 - 0:17:44
+m1;0:17:44 - 0:17:46
+na m1;0:17:46 - 0:17:48
+vrijedi f,;0:17:48 - 0:17:50
+ako i samo ako;0:17:50 - 0:17:52
+na m2;0:17:52 - 0:17:54
+vrijedi f.;0:17:54 - 0:17:56
+I sad što?;0:17:56 - 0:17:58
+Pretpostavka je;0:17:58 - 0:18:00
+da je m1;0:18:00 - 0:18:02
+iz k,;0:18:02 - 0:18:04
+to znači da;0:18:04 - 0:18:06
+na m1 vrijedi f,;0:18:06 - 0:18:08
+jer naravno ovaj;0:18:08 - 0:18:10
+m1 je element;0:18:10 - 0:18:12
+od k, to piše tu,;0:18:12 - 0:18:14
+a k je upravo;0:18:14 - 0:18:16
+skup svih;0:18:16 - 0:18:18
+modela za čitavu t,;0:18:18 - 0:18:20
+znači na m1;0:18:20 - 0:18:22
+vrijedi t,;0:18:22 - 0:18:24
+a f je element;0:18:24 - 0:18:26
+od t, pa vrijedi f,;0:18:26 - 0:18:28
+pa onda vrijedi i na m2,;0:18:28 - 0:18:30
+a onda opet;0:18:30 - 0:18:32
+u natrag, dakle,;0:18:32 - 0:18:34
+i to vrijedi za svaku formulu f;0:18:36 - 0:18:38
+iz t,;0:18:38 - 0:18:40
+dakle,;0:18:44 - 0:18:46
+na m2;0:18:46 - 0:18:48
+vrijedi t, odnosno m2;0:18:48 - 0:18:50
+jest model;0:18:50 - 0:18:52
+za t,;0:18:52 - 0:18:54
+jest element;0:18:54 - 0:18:56
+klase svih modela za t,;0:18:56 - 0:18:58
+međutim klasa svih modela za t;0:18:58 - 0:19:00
+je upravo k, gotovo.;0:19:00 - 0:19:02
+Dakle, stvarno ništa;0:19:02 - 0:19:04
+posebno. Drugi smjer;0:19:04 - 0:19:06
+zanimljivi,;0:19:06 - 0:19:08
+kaže, znači, neka je k;0:19:08 - 0:19:10
+zatvorena,;0:19:10 - 0:19:12
+jednostavka je;0:19:12 - 0:19:14
+k zatvorena;0:19:14 - 0:19:16
+na intraprodukte;0:19:16 - 0:19:18
+i na elementarnoj;0:19:18 - 0:19:20
+kovalenciji. Treba dokazati da je;0:19:20 - 0:19:22
+elementarna, znači, moram naći;0:19:22 - 0:19:24
+nekakvu teoriju,;0:19:24 - 0:19:26
+skup računica,;0:19:26 - 0:19:28
+takvu da je k;0:19:28 - 0:19:30
+upravo;0:19:30 - 0:19:32
+mod t.;0:19:32 - 0:19:34
+Pa, jedan zgodan kandidat za t,;0:19:34 - 0:19:36
+mislim, jedini suvisli,;0:19:36 - 0:19:38
+samo to treba dokazati,;0:19:38 - 0:19:40
+je teorija od k.;0:19:40 - 0:19:42
+Znači,;0:19:42 - 0:19:44
+sjetimo se, što je;0:19:44 - 0:19:46
+teorija neke strukture, to je skup svih računica;0:19:46 - 0:19:48
+koje su istinite na toj strukturi.;0:19:48 - 0:19:50
+Naravno, za klasu;0:19:50 - 0:19:52
+struktura, to je onda skup svih;0:19:52 - 0:19:54
+računica koje su istinite na svim;0:19:54 - 0:19:56
+elementima te strukture.;0:19:56 - 0:19:58
+Dakle,;0:19:58 - 0:20:00
+t h od k,;0:20:00 - 0:20:06
+to definiramo kao,;0:20:06 - 0:20:08
+znači, valjda, presjek;0:20:08 - 0:20:10
+t h od m,;0:20:10 - 0:20:14
+pričemu m ide u k.;0:20:14 - 0:20:18
+Šta bi to bilo? Znači, to bi bile sve računice f,;0:20:18 - 0:20:22
+opet nad signaturom, naravno,;0:20:22 - 0:20:26
+koja već treba,;0:20:26 - 0:20:28
+ali takva da je;0:20:28 - 0:20:30
+za svaki m iz k na m;0:20:30 - 0:20:36
+u rijedi f.;0:20:36 - 0:20:40
+Ok.;0:20:42 - 0:20:44
+Znači, sad zapravo želim dokazati da je;0:20:48 - 0:20:52
+k jednaka;0:20:52 - 0:20:54
+klasi svih modela;0:20:54 - 0:20:56
+teorije klase k.;0:20:56 - 0:21:00
+Veli, jedna inkluzija očito vrijedi.;0:21:02 - 0:21:06
+Zašto? Jer ako je netko u klasi k,;0:21:06 - 0:21:10
+onda na njemu vrijede;0:21:10 - 0:21:14
+sve računice iz teorije od k.;0:21:16 - 0:21:18
+Znači, neka je m iz k;0:21:18 - 0:21:22
+i neka je f iz t h od k.;0:21:22 - 0:21:28
+t h od k je presjek svih t h od m,;0:21:29 - 0:21:32
+znači, to je svakog podskup od t h;0:21:32 - 0:21:37
+od pojedinog m iz k.;0:21:37 - 0:21:39
+Znači, f je iz t h od m,;0:21:39 - 0:21:42
+znači, na m vrijedi f.;0:21:42 - 0:21:46
+Šta sam htio dobiti? Aha, m je iz k;0:21:47 - 0:21:53
+povlači na m vrijedi f.;0:21:55 - 0:21:58
+Dakle, m je model za f.;0:22:01 - 0:22:06
+Ali f je bio iz t h od k proizvoljen.;0:22:06 - 0:22:10
+Znači, za bilo koju računicu iz t h od k mogu ovo provesti,;0:22:11 - 0:22:15
+dakle, zapravo na m vrijedi čitav t h od k.;0:22:16 - 0:22:22
+Odnosno, m je element klase modela od t h od k.;0:22:22 - 0:22:30
+Krenuo sam odavdje, dobio sam ovo, dakle, to je taj jedan smjer koji...;0:22:31 - 0:22:35
+Koji slajd kaže da je 3,1? Dobro, nek mogu...;0:22:36 - 0:22:39
+Drugi smjer.;0:22:39 - 0:22:42
+Kaže, sad moram krenut odavdje, dakle, neka je;0:22:44 - 0:22:48
+m iz mod t h od k proizvoljen.;0:22:51 - 0:22:58
+Što to znači? To znači da m jest model za čitavu t h od k.;0:23:00 - 0:23:05
+Odnosno, za svaku strukturu, ne, za svaku formulu, za svaku računicu;0:23:10 - 0:23:22
+iz t h od k, m je model za nju.;0:23:24 - 0:23:32
+Čekaj, čekaj, šta je sigma?;0:23:40 - 0:23:44
+Sigma je očito t h od k, to sam išo nešto mijenjati pa nisam sve promijenio.;0:23:50 - 0:23:56
+Dakle, kaže ovako, opet sa i označimo, znači ona ista notacijska šašavost;0:23:56 - 0:24:06
+kao za teorem kompaktnosti. Dakle, sa malim ijevima označavam;0:24:06 - 0:24:10
+konačne podskupove, samo da ovaj put naravno od t h od m.;0:24:10 - 0:24:14
+Znači, ne t h od k, nego t h od m.;0:24:21 - 0:24:25
+Ok, dobro, dobro, nije ono što sam mislio.;0:24:25 - 0:24:34
+Dobro, ok, znači, daj probaj ćemo, znači sa i je skup svih i takvi da je i podskup od t h od m.;0:24:35 - 0:24:50
+Dakle, važno. Konačno.;0:24:51 - 0:24:55
+I sad kaže ovako, za svaki i postoji m i iz k takav da na m i vrijedi čitav i.;0:24:58 - 0:25:05
+Zašto? Zato što je t h od m;0:25:05 - 0:25:08
+i nad skup od t h od k.;0:25:08 - 0:25:18
+Za svaki i iz k.;0:25:19 - 0:25:25
+Nečudno.;0:25:31 - 0:25:32
+Dobro, znači, ono što sigurno imamo je ovo.;0:25:32 - 0:25:34
+Znači, za svaki f, za svaku rečenicu iz teorije od k, ona vrijedi na m.;0:25:34 - 0:25:43
+Ono što ja želim dobiti, želim dobiti da je m element od k.;0:25:48 - 0:25:52
+To ću dobiti tako da kažem da je m elementarno ekvivalentan nekakvom ultraproduktu elementa iz k.;0:25:52 - 0:26:02
+Onda će stvar slijediti po zatvorenosti na ultraprodukte i na elementarnu ekvivalenciju.;0:26:02 - 0:26:08
+To je high level dokaz.;0:26:08 - 0:26:11
+E sad, kak se točno iskonstruira taj ultraprodukt?;0:26:11 - 0:26:18
+Znači, za svaki i iz i postoji m i iz k.;0:26:23 - 0:26:28
+Ne, mislim, to je priznatno siguran da je.;0:26:28 - 0:26:39
+Kad bi se ovakva stvar napisalo, onda bi naravno taj m i uvijek postojao i bio jednak m-u.;0:26:39 - 0:26:46
+Aha, ne, ali čitava poanta je da je m nije nužno iz k.;0:26:46 - 0:26:51
+Kako onda znam da postoji netko u k?;0:26:51 - 0:26:56
+Uvijek postoji m nije u k.;0:26:57 - 0:27:03
+Dobro, uzmimo za početak jednočlani skup.;0:27:08 - 0:27:10
+Znači, ako uzmem jednočlani podskup od TH od M, zapravo sam uzo neku rečenicu iz TH od M.;0:27:10 - 0:27:17
+Ta rečenica je takva da naravno vrijedi na m, ali vrijede sve rečenice iz TH od k.;0:27:17 - 0:27:38
+Znam da sam ovo bio raspjesivo i mislim da sam baš i prošle godine isto raspjesivao, odnosno prošli put kad sam to držao.;0:27:47 - 0:28:02
+Ali mislim da sam uspio, samo sad...;0:28:02 - 0:28:07
+Znači, moram nekako iskoristiti da je M model za teoriju od k.;0:28:17 - 0:28:30
+Teorija od k je ovo, odnosno možda bolje ovo.;0:28:30 - 0:28:37
+Znači, za svaku rečenicu koja zadovoljava ovo svojstvo,;0:28:37 - 0:28:42
+za svaku rečenicu koja je istinita na svim strukturama iz klase k, vrijedi da je ona istinita i na M.;0:28:42 - 0:28:51
+Ali men treba u suportnom smjeru. Meni sad treba nešto što je istinito na M.;0:28:54 - 0:29:01
+Ha, ha, ha, ha, ha.;0:29:01 - 0:29:07
+Za svaki M iz k na M vrijedi f,;0:29:09 - 0:29:23
+za svaki, sad da, nije ga dobro znači sa M, M crtica iz k na M crtica vrijedi f, povlači da na M vrijedi f.;0:29:23 - 0:29:34
+I to vrijedi za svaku rečenicu f. To je zapravo ono što tu piše.;0:29:39 - 0:29:49
+Ali, treba nekako ovaj smjer.;0:29:53 - 0:30:04
+Čekaj, čekaj, šta mi to?;0:30:16 - 0:30:18
+Postojana je pravila za preraksnu normalnu formu. Ovo zapravo kaže da ovaj kvantifikator mogu staviti skroz izvan,;0:30:24 - 0:30:31
+a ga pretvorimo u egzistencijalni.;0:30:31 - 0:30:33
+Dakle, postoji M crtica iz k, takav da na M crtica vrijedi f, povlači da na M vrijedi f.;0:30:34 - 0:30:49
+I sad hoću reći da je to taj M i, ali nemam zapravo nikakav razlog za to vjerovat.;0:30:54 - 0:31:05
+Dobro, ništa od ovoga mi ne treba više.;0:31:16 - 0:31:19
+Uvijek, uvijek.;0:31:23 - 0:31:25
+Šta mi je da dalje?;0:31:39 - 0:31:41
+Učuvanjima, dobro.;0:31:44 - 0:31:46
+Uvijek, uvijek.;0:31:53 - 0:31:55
+Znači, neka je i iz i proizvodnja.;0:32:01 - 0:32:05
+Uvijek, uvijek.;0:32:06 - 0:32:08
+To zapravo znači da je i konačan skup nekakvih formula f1 do fk,;0:32:20 - 0:32:29
+koje su sve u TH od M, znači na M vrijedi f1, na M vrijedi fk.;0:32:29 - 0:32:40
+Onda naravno na M vrijedi njihova konjunkcija.;0:32:41 - 0:32:44
+Dobro?;0:32:50 - 0:32:51
+Dobro?;0:32:51 - 0:32:52
+A to znači da je konjunkcija također u TH od M.;0:32:56 - 0:33:06
+Da, sve jedno, nema nikakve veze sa TH od K.;0:33:21 - 0:33:25
+Na M.;0:33:47 - 0:33:48
+T.;0:33:52 - 0:33:53
+Dobro, kada bi smo to negako imali? Šta bi smo dalje mogli raditi?;0:34:10 - 0:34:14
+Kaže, kao u dogazu terenovne kompagnosti možemo i dobrati ultrafilter u takav;0:34:16 - 0:34:20
+kako da bi ovaj ultraprodukt je model za čitav TH od M.;0:34:21 - 0:34:27
+Znači, TH od M igra ulogu koju je S igrao tu.;0:34:28 - 0:34:34
+To je barem jasno.;0:34:36 - 0:34:38
+A kako to napravimo? Tako da zapravo za svaki konačni podskup;0:34:42 - 0:34:46
+odaberemo jedan takav, da, dakle, definitivno nema druge nego stvarno probati;0:34:47 - 0:34:53
+naći takav MI i onda dokažemo da to ima svojstvo konačnih presjeka,;0:34:54 - 0:35:00
+to je opet jasno i onda se može nadopuniti do ultrafiltera.;0:35:01 - 0:35:06
+Dakle, stvarno, nema...;0:35:07 - 0:35:09
+Htio sam vidjeti je li ova rečenica možda kriva, ali stvarno nije.;0:35:10 - 0:35:14
+Dakle, osim ovo lako se vidi da to je možda kriva.;0:35:14 - 0:35:18
+Što je da pretpostavimo s uključnjom?;0:35:22 - 0:35:24
+Dobro, da vidimo, ajde.;0:35:25 - 0:35:27
+Pretpostavimo da imamo nekakav I 0,;0:35:30 - 0:35:33
+znači ta I 0 je onda nekakav konkretni F1 do Fk,;0:35:34 - 0:35:40
+znači podskup od TH ovdje M,;0:35:41 - 0:35:47
+takav da za svaki M iz H na MI ne vrijedi I.;0:35:49 - 0:36:03
+I je konačan skup, znači to bi zapravo značilo da postoji...;0:36:04 - 0:36:08
+sad naravno ne mogu značiti I, ali...;0:36:09 - 0:36:11
+J od 1 do k takav da na M ne vrijedi Fj.;0:36:12 - 0:36:18
+Dobro.;0:36:19 - 0:36:20
+Da, da, Fj je rečenica, dakle na M vrijedi negacija od Fj.;0:36:24 - 0:36:32
+I sad postoji...;0:36:33 - 0:36:34
+Dobro, to isto mogu napisati skupa kao na M, znači vrijedi disjunkcija negacija od Fj.;0:36:34 - 0:36:44
+To.;0:36:46 - 0:36:47
+Znači postoje nekakav, znači pretpostavimo suprtno,;0:36:51 - 0:36:54
+postoje nekakav konačan skup takav da na svakoj strukturi iz H;0:36:57 - 0:37:03
+vrijedi ova tu disjunkcija ovih negacija.;0:37:04 - 0:37:08
+To bi značilo, doslovno, da je disjunkcija tih negacija element od TH od K.;0:37:09 - 0:37:16
+Najmo u ovom formulu označit sa G.;0:37:18 - 0:37:22
+Dakle, G je element TH od M crtica;0:37:23 - 0:37:28
+za svaki M crtica iz K.;0:37:29 - 0:37:34
+To bi zapravo značilo da je G element TH od K.;0:37:35 - 0:37:39
+A M je model za TH od K.;0:37:46 - 0:37:51
+TH od K.;0:37:51 - 0:37:52
+Dakle, M je model za G.;0:37:56 - 0:37:58
+Dobro, dobro, da, točno.;0:38:06 - 0:38:07
+To bi značilo da je M model za G.;0:38:10 - 0:38:13
+I za ova.;0:38:13 - 0:38:14
+A to bi značilo da postoji J od 1 do K,;0:38:16 - 0:38:23
+takav da M nije model za FJ.;0:38:24 - 0:38:28
+Međutim, to je valjda kontradikcija jer svaki od ovih tu FJ;0:38:29 - 0:38:34
+je element od TH od M.;0:38:35 - 0:38:37
+Super, hvala.;0:38:38 - 0:38:39
+Dakle, ne, treba ovo se probaciti na negativno.;0:38:40 - 0:38:44
+Jer u retrospektiviji je očitvar, kao ne želim ovaj smjer i ne želim ovaj smjer.;0:38:45 - 0:38:48
+Onda naravno gledam negacije.;0:38:49 - 0:38:50
+Super.;0:38:54 - 0:38:55
+Dakle, ne, definitivno nelako, ali vidi se da ovo ne vrijedi,;0:38:56 - 0:39:02
+dakle za svaki postoji M i I.;0:39:03 - 0:39:04
+Dobro, e sad, je li isto kao u dokazu teoremalne kompaktnosti?;0:39:04 - 0:39:10
+Pa jest, jer dakle kad god uzmem konačno mnogo ovih karakterističnih S-ova,;0:39:11 - 0:39:14
+onda ovaj skup formula koje svaka od njih generira to,;0:39:15 - 0:39:21
+će biti konačan skup i bit će u svakom od njih.;0:39:22 - 0:39:24
+Dakle, doslovno, to je isto.;0:39:25 - 0:39:26
+I kažem, s obzirom na to da smo pričali o konačnim podskupovima ovog skupa,;0:39:27 - 0:39:31
+na ultraproduktu tih struktura će, s obzirom na taj ultrafilter,;0:39:31 - 0:39:36
+će vrijediti taj čitav skup.;0:39:37 - 0:39:38
+Dobro, i sad, naravno, svaki M i I je element od K, tako sam ih birao,;0:39:39 - 0:39:45
+dakle ovaj ultraprodukt je ultraprodukt nad K,;0:39:46 - 0:39:49
+odnosno struktura iz K, a K je zatvorena na ultraprodukte,;0:39:50 - 0:39:53
+znači i sam ultraprodukt mora biti u K.;0:39:54 - 0:39:56
+S druge strane, činjenica da ovo vrijedi, zapravo znači da su elementarno ekivalentne.;0:39:57 - 0:40:05
+Dakle, zapravo da, ali opet, to je ova priča,;0:40:06 - 0:40:08
+jedan smjer ide direktno, a drugi smjer ide pozivanjem na negaciju.;0:40:08 - 0:40:12
+Kaže, ako je neka rečenica istinita na M, onda je u TH od M,;0:40:12 - 0:40:18
+onda vrijedi na ovom ultraproduktu, jer na ultraproduktu vrijede sve rečenice iz TH od M.;0:40:18 - 0:40:23
+Znači, ako rečenica vrijedi ovdje, onda vrijedi ovdje.;0:40:23 - 0:40:26
+E sad, kak dobijem obrat?;0:40:26 - 0:40:27
+Tako da pretpostavim da rečenica vrijedi ovdje, ali ne vrijedi ovdje,;0:40:27 - 0:40:31
+onda njezina negacija vrijedi ovdje i onda na negaciju primijenim istu stvar.;0:40:31 - 0:40:35
+Znači, da, ovaj trik opet isto, samo funkcionira.;0:40:35 - 0:40:40
+E i sad, K je zatvorena na elementarnu ekvalenciju,;0:40:40 - 0:40:43
+ovo je iz K, ovo je elementarno ekvalentno, znači mora biti to iz K;0:40:43 - 0:40:46
+i to je točno ono što sam htio pokazati.;0:40:46 - 0:40:49
+Ovo je ono što sam krenuo sam od M iz ove strane,;0:40:49 - 0:40:52
+dokazao sam da je na ovoj strani, dokazao sam drugu inkluziju ovdje.;0:40:52 - 0:40:56
+Dobro, e sad, znači to je bio teorijal, kao elementarna je,;0:41:01 - 0:41:04
+aksijomatizabilna je znači bilo kakve skupom formula,;0:41:04 - 0:41:07
+ako je zatvorena ultraprodukta elementarnu ekvalenciju.;0:41:07 - 0:41:10
+A posljedica znači, ak si znači, delta je elementarna,;0:41:10 - 0:41:13
+to je kao konačno aksijomatizabilna.;0:41:13 - 0:41:15
+To smo imali prije, vidjeli opet posljedice teorema kompaktnosti,;0:41:15 - 0:41:22
+dakle delta je elementarna ako i samo ako su ona i njezin komplement,;0:41:22 - 0:41:28
+znači komplement u odnosu na klasu svih struktura,;0:41:28 - 0:41:31
+nad tom istom signaturom, su elementarni,;0:41:31 - 0:41:35
+a onda naravno primijenjujući ovaj teorem možemo reći;0:41:35 - 0:41:38
+ako su K i K komplement zatvoreni na ultraprodukte elementarnoj ekvalenciji.;0:41:38 - 0:41:42
+Dobro, super. I sad, dobro, dajmo četiri minute samo možda malo ispričati.;0:41:45 - 0:41:54
+Sad ćemo dokazati nekoliko, mislim ispričati nekakve dokaze;0:41:54 - 0:41:59
+ili high level ideje u dokazima.;0:41:59 - 0:42:02
+Neki će biti poprilično precizni, ali neki će biti tosta mahanja rukama,;0:42:03 - 0:42:07
+takozvanih teorema očuvanja, dakle, koje se svi odnose;0:42:08 - 0:42:14
+na to da uspostavimo vezu između,;0:42:14 - 0:42:18
+dobro, između klase modela neke teorije i sintaksnog oblika;0:42:22 - 0:42:27
+formula u toj teoriji. Znači, možemo na primjer reći;0:42:28 - 0:42:31
+ako su sve, teorija je znači skupnje nekakvih rečenica,;0:42:31 - 0:42:35
+ako su sve rečenice u te, na primjer, univerzalne,;0:42:35 - 0:42:38
+što to zapravo znači? To znači da koriste samo univerzalne kvantifikatore,;0:42:39 - 0:42:42
+dakle, ih hrpetimo, univerzalnih kvantifikatora i onda nekakvu formulu;0:42:42 - 0:42:47
+koja ne koristi kvantifikatore. Dakle, krivo je reći koriste samo;0:42:47 - 0:42:50
+univerzalne kvantifikatore, pazite, to na primjer onda bi uključivalo;0:42:50 - 0:42:53
+i ovako nešto. A to naravno, kada želite pretvoriti u prenešto;0:42:53 - 0:43:02
+normalnu formu, onda ovaj kvantifikator postane egzistencijalni,;0:43:02 - 0:43:05
+dakle, treba paziti na to. Ne tako, nego kad ih zapišem;0:43:05 - 0:43:09
+u prenešto normalnoj formi, dakle, da svi kvantifikatori dođu na početak;0:43:09 - 0:43:12
+i nakon toga ide formula bez kvantifikatora, onda ispadne da su svi ti;0:43:12 - 0:43:16
+kvantifikatori zapravo bili univerzalni. Dakle, taj sintaksni oblik onda,;0:43:16 - 0:43:22
+konkretni prenešto normalna forma sa samo univerzalnim kvantifikatorima;0:43:22 - 0:43:25
+zovemo univerzalna formula. Dobro, i onda naravno univerzalna teorija;0:43:25 - 0:43:29
+je ona skup rečenica čije sve elementi su univerzalne rečenice.;0:43:29 - 0:43:35
+I sad možemo se pitat, dakle, kako izgleda, odnosno na šta je zatvorena;0:43:36 - 0:43:40
+klasa modela nekakve univerzalne teorije.;0:43:44 - 0:43:47
+Znači, vidjeli smo, naravno, ako nemamo nikakve ograničenja sintaksno;0:43:48 - 0:43:52
+na klasu modela, onda to je zapravo ova priča.;0:43:54 - 0:43:59
+Ultraprodukti i elementarna ekvalencija.;0:43:59 - 0:44:01
+I sad, naravno, ako imamo nekakve dodatne restrikcije na oblik tih formula u teoriji,;0:44:01 - 0:44:11
+onda možda možemo zahtijevati i nekakva druga zatvorenja.;0:44:11 - 0:44:15
+Dobro, samo za početak da se malo sprijateljimo s tom univerzalnošću.;0:44:16 - 0:44:19
+Recimo, na primjer, teorija linearnih uređaja je takva.;0:44:19 - 0:44:22
+Dakle, ako se sjećate bilo je i refleksivnost, to je naravno za svaki x,;0:44:22 - 0:44:27
+x nije u relaciji sa x, dakle, naravno, ona tamo je negacija,;0:44:27 - 0:44:30
+ali je negacija otvorene formule, dakle, univerzalni kvantifikator na početku.;0:44:30 - 0:44:34
+Transitivnost, tri univerzalna kvantifikatora za svaki x, za svaki y, za svaki z,;0:44:36 - 0:44:40
+pa onda nešto, bez kvantifikatora.;0:44:40 - 0:44:42
+I usporedivost svaka dva elementa, opet, za svaki x, za svaki y, vrijedi jedno od tri stvari.;0:44:43 - 0:44:50
+Dakle, sasvim jasno.;0:44:50 - 0:44:51
+I sad, kaže, teorija grupa, općenito nije, mislim, ona kak se obično prezentira,;0:44:52 - 0:44:55
+nije univerzalna, jer, naravno, ima onih egzistencijelnih kvantifikatora, kaže,;0:44:55 - 0:45:00
+postoji neutralni element i čak što više ima onaj ugnježdjeni egzistencijalni,;0:45:00 - 0:45:05
+za svaki element postoji invers.;0:45:05 - 0:45:07
+Evo sad, naravno, post ćemo vidjeti skroz općenitu tehniku,;0:45:08 - 0:45:11
+kako to možemo riješiti, to se zove skulemizacija,;0:45:11 - 0:45:14
+ali ovak na prste, u teoriji grupa, možemo to i direktno vidjeti.;0:45:14 - 0:45:18
+Dakle, jednostavno, za ovaj e uvedemo konstantki simbol i onda kažemo,;0:45:19 - 0:45:23
+aha, nećemo imat' akcijom, nego ćemo jednostavno to označavat' sa 1.;0:45:23 - 0:45:27
+A za ugnježdjeni egzistencijalni, jest kompliciranije, ali isto nije strašno,;0:45:28 - 0:45:34
+dakle, uvede se funkcijski simbol koji ima onoliku mjesnost koliko ima;0:45:34 - 0:45:38
+univerzalnih kvantifikatora ispreda, ako ja kažem.;0:45:38 - 0:45:41
+Za svaki x postoji y, takav da tu nešto od x i y,;0:45:42 - 0:45:51
+to zapravo mogu zapisati u obliku za svaki x vrijedi nešto od x i f od x.;0:45:51 - 0:46:00
+Jednomjesni funkcijski simbol f.;0:46:01 - 0:46:03
+Dakle, kažem, to je skrozopćeniti postupak kojim se to radi,;0:46:07 - 0:46:10
+se zove skulemizacija, ali ovak, kažem, je nekak sasvim jasno,;0:46:10 - 0:46:16
+jer to upravo u teoriji grupa radimo kad uvedemo osnaku x na minus 1,;0:46:16 - 0:46:22
+dakle, ovaj minus 1 možemo shvatiti kao nekakav postfiksni funkcijski simbol.;0:46:22 - 0:46:26
+Dobro, i samo za kraj, dakle, konjunkcija dvije univerzalnih formula,;0:46:28 - 0:46:33
+naravno, nije općeniti univerzalna formula jer nije ovog oblika,;0:46:33 - 0:46:36
+ali je sasvim jasno da mogu sve te univerzalne kvantifikatore staviti na početak,;0:46:36 - 0:46:39
+ono, na pravila za preneksnu normalnu formu i niš' se neće promijeniti,;0:46:39 - 0:46:43
+znači, samo će ostati u zagradi konjunkcija dvije otvorene formule,;0:46:43 - 0:46:47
+ona je otvorena i, možemo reći, znači, je logički ekvivalent na nekoj univerzalnoj formuli.;0:46:47 - 0:46:52
+Dobro, evo, teorem znači glasi ovako, znači, očuvana je za podmodele,;0:46:53 - 0:46:58
+ali to ćemo vidjeti nakon pauza.;0:46:58 - 0:47:01

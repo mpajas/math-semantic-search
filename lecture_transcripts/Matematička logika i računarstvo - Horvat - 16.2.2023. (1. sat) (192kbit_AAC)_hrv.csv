@@ -1,0 +1,533 @@
+Speech;Timestamp
+Evo, ništa, onda ćemo polako početi s ovim drugim dijelom;0:00:00 - 0:00:06
+kolegija Matematička logika i računarstvo na doktorskom studiju.;0:00:06 - 0:00:11
+Vaš pristup nijisti. Ova druga polovica, ko što nekak i po rijedu naslov kaže,;0:00:11 - 0:00:17
+je računarska, više ili manje, jer mi smo se trudili negako da bude što više;0:00:17 - 0:00:23
+i trebalo bi to sve još malo doraditi, ali evo sad nisam se ja nažalost stigo;0:00:23 - 0:00:28
+i ne možemo baviti previše od prošle godine svojim slajdovima, pa je više manje isto.;0:00:28 - 0:00:32
+Naravno, na drugi način možda rečeno, ali idemo se prvo onda baviti;0:00:32 - 0:00:38
+negako modalnom logikom. E sad, ne znam jeste čuli za modalnu logiku prije možda;0:00:38 - 0:00:43
+u sklopu studija ili... jeste, dobro, ne znam, tekliste.;0:00:43 - 0:00:48
+Dobro, ovoga. Znači, ideja je nekako reći što je nužno, što je moguće;0:00:48 - 0:00:58
+nekako razmišljati o nekakvim stanjima stvari, svjetovima i tako.;0:00:58 - 0:01:02
+Dakle, krenulo je od toga da se negako gleda implikacija koja je smislenija;0:01:02 - 0:01:10
+od one takozvane materialne implikacije za koju ste možda čuli na prediplomskom studiju;0:01:10 - 0:01:15
+ovoga, a to je nešto što se zove strict conditional, odnosno ne ono;0:01:15 - 0:01:19
+A povlači B, nego box u zagradi A povlači B.;0:01:19 - 0:01:23
+Dobro. Čisto da se nekakva kauzalnost ovoga, ajmo reći, možda bolje vidi;0:01:23 - 0:01:33
+ovoga, odnosno više utječe na istinitost implikacije nego što je to bilo tamo vrlo nepovezano.;0:01:33 - 0:01:39
+Ali dobro, neću sad o toj motivaciji. Danas je to važno za računarstvo,;0:01:39 - 0:01:44
+za nekakve robote, što oni trebaju, što mogu učiniti, u što vjeruju itd.;0:01:44 - 0:01:50
+Velim, nećemo sad o tome, nego ćemo više čisto ovak proći logički po stvarima,;0:01:50 - 0:01:57
+odnosno gledati simtaksu, semantiku i kako su spojene itd.;0:01:57 - 0:02:01
+Dobro. Znači, alfabet modalne logike proširuje onaj alfabet logike sudova;0:02:01 - 0:02:07
+koju ste upoznali na prediplomskom studiju. Dakle, gleda će se;0:02:07 - 0:02:12
+propozicijska modalna logika u ovom studiju. Naravno, sad postoje svakakve verzije,;0:02:12 - 0:02:17
+možete gledati modalnu logiku prvog reda, viših redova itd.,;0:02:17 - 0:02:21
+ali za nas će biti ovoga, to je jedna propozicijska logika.;0:02:21 - 0:02:25
+Pa ćemo, ko i dosad, u ovoga u propozicijskoj logici gledati prebrojiv skup;0:02:25 - 0:02:30
+propozicijskih variabli p, q, možda ću ih označavati nekad p1, p2 itd.;0:02:30 - 0:02:35
+Dobro. Imaćemo ove nekakve uobičajene logičke veznike,;0:02:35 - 0:02:40
+isto kao i logičke konstante true i false,;0:02:40 - 0:02:44
+i imaćemo kao nešto novo, napokon, modalne operature box i dime.;0:02:44 - 0:02:49
+E sad, ko što, ja ne znam, u propozicijskoj logici,;0:02:49 - 0:02:54
+odnosno logici sudova, je dovoljno gledati samo, ne znam,;0:02:54 - 0:02:57
+na primjer negaciju i disjunkciju, tako mi je ovdje dovoljno gledati;0:02:57 - 0:03:02
+opet nekakvu bazu propozicijskih veznika, recimo kondicional i false,;0:03:02 - 0:03:08
+i jedan od ova dva modalna operatora.;0:03:08 - 0:03:11
+E sad, koje ćemo gledati? Pa, valjda, na svakom slajdu nešto drugo.;0:03:13 - 0:03:18
+Recimo, ja nisam baš neki ljubitelj, ovo ljudi valjda vole,;0:03:18 - 0:03:21
+zato što se lako u nekakvim induktivnim dokazima riješiti falsa.;0:03:21 - 0:03:27
+Ja ne volim razmišljati baš o toj materialnoj implikaciji previše,;0:03:28 - 0:03:32
+pa onda ja više volim valjda uzeti ili disjunkciju ili konjunkciju i negaciju.;0:03:32 - 0:03:40
+Dobro, negak mi to bolje paše, najčešće.;0:03:41 - 0:03:43
+Ali evo, neki dokazi će valjda biti napisan i s ovim.;0:03:43 - 0:03:46
+Dobro, e sad, što je modalna formula?;0:03:47 - 0:03:50
+Pa, modalna formula je bilo koja formula koju do sad znate,;0:03:50 - 0:03:55
+L, propozicijska formula. Znači, imamo ovoga variable,;0:03:55 - 0:04:00
+imamo true, false, imamo negaciju, imamo ove binarne veznike,;0:04:00 - 0:04:04
+ali sad još dopuštamo i boks i dajmo.;0:04:04 - 0:04:09
+Reći ću vam sad otprilike kako si to možete zamišljati,;0:04:10 - 0:04:14
+ali ono što bi tu htio reći je, znači pazite,;0:04:14 - 0:04:19
+može se to sad ugnježđivati svakako, znači recimo,;0:04:19 - 0:04:22
+a možda ove grapove da izbrišem, da nas ne smijete.;0:04:22 - 0:04:26
+Je li ima neka spužba? A, tu je.;0:04:28 - 0:04:31
+Ok. Znači, evo recimo, ne znam, boks P polači dajmont Q;0:04:32 - 0:04:54
+i sad negakav recimo boks, evo, ovo je jedna modalna formula u redu.;0:04:54 - 0:05:00
+Znači, nije da samo sad slažemo nekakve bulovske formule pa izvan njih,;0:05:00 - 0:05:05
+nego možemo ono svakak to ugnježđivati i tako.;0:05:05 - 0:05:08
+Ok, znači P je bilo koji sfi, rekli smo ovo su ovi veznici.;0:05:10 - 0:05:17
+E sad, aha, inače ako ste navikli na formalne gramatike pisati,;0:05:19 - 0:05:23
+ovo tu vam se možda ne sviđa, trebalo bi pisati F kružić F, dobro.;0:05:23 - 0:05:27
+Znači, bilo koja formula se može staviti u,;0:05:28 - 0:05:32
+može se umjesto nje pisati ovoga zagrade, jel,;0:05:33 - 0:05:37
+unutra dvije formule spojene nekim binarnim veznikom.;0:05:37 - 0:05:40
+Ok, znači, ovo tu je jedna formula.;0:05:41 - 0:05:44
+Ok, znači, koje su to intendirane interpretacije formule ovakvog oblika, znači boks A?;0:05:45 - 0:05:53
+E sad, jedna moguća interpretacija ono ovak, ajmo reći,;0:05:54 - 0:05:59
+kak bi ju jezički izrazili, je nužno vrijedi A.;0:05:59 - 0:06:03
+Ok, nužno vrijedi A, nužno je A.;0:06:03 - 0:06:06
+U epistemičkoj logici, pak taj ovoga kvadratić ili boks;0:06:07 - 0:06:12
+poprima značenje znanja, dobro.;0:06:12 - 0:06:15
+Znači, netko, agent, zna da vrijedi A.;0:06:15 - 0:06:19
+U takozvane doksastičkoj logici, agent vjeruje da vrijedi A.;0:06:20 - 0:06:25
+U logici dokazivosti, to znači dokazivo je A.;0:06:26 - 0:06:30
+E sad, šta biste rekli, koji je, koji je nekako, ajmo reći,;0:06:31 - 0:06:37
+aksiom ili nekakva formula za koju hoćemo da vrijedi;0:06:37 - 0:06:43
+kod znanja, a ne nužno da vrijedi kod vjerovanja?;0:06:43 - 0:06:47
+Znači, što je to što bismo mogli napisati,;0:06:47 - 0:06:50
+a da nekako razlikuje znanje i vjerovanje?;0:06:50 - 0:06:53
+Znači, ako ja znam Fi, onda što mora biti?;0:06:58 - 0:07:04
+Dobro, onda bih kao vjerovao, ali tu sad kao mješamo te dvije logike,;0:07:07 - 0:07:12
+znači logiku znanja i logiku vjerovanja, slažem se.;0:07:12 - 0:07:15
+Ali recimo, ako vi znate da je 1 plus 1 jednako 2, onda šta svakako vrijedi?;0:07:15 - 0:07:22
+1 plus 1 jednako 2, jel tako?;0:07:23 - 0:07:25
+Znači, ako vi nešto znate, onda to nešto mora biti, mora vrijediti.;0:07:25 - 0:07:29
+Dobro, a vjerovati možete šta god hoćete, ok?;0:07:30 - 0:07:33
+Dobro. E, i sad, jedan jednostavan zadačić vam je da izrazite;0:07:35 - 0:07:40
+sve ostalo pomoću sve ostale formule, jel?;0:07:40 - 0:07:47
+Pomoću ovog, pomoću ova tri, ajmo reći, dobro,;0:07:47 - 0:07:52
+pomoću ovog veznika, ove logičke konstante i ovog modelnog operatora.;0:07:52 - 0:07:56
+Recimo, kak bi izrazili Ne Fi? Šta je to?;0:07:57 - 0:08:00
+Pomoću ovoga.;0:08:01 - 0:08:03
+Znači, imamo ovoga, ajde, Psi 1 povlači Psi 2,;0:08:03 - 0:08:10
+to je, ajmo reći, logički ekvivalentno sa negacija od Psi 1 ili Psi 2.;0:08:11 - 0:08:18
+Šta bi smo to mogli staviti tu? Da zapravo taj komad samo obrišemo.;0:08:25 - 0:08:29
+Šta bi smo to mogli staviti tu? Da zapravo taj komad samo obrišemo.;0:08:29 - 0:08:33
+Tako je, false, jel tako? Znači, ovo će biti pokrata,;0:08:35 - 0:08:41
+dajmo ovak pisati možda, za ovoga, Fi povlači false.;0:08:42 - 0:08:47
+Dobro, tako ćemo to napisati. I sad možete ove druge formule probacati sami, jel?;0:08:48 - 0:08:54
+Velim nekak, nekak ja više volim ono negaciju i disjunkciju,;0:08:55 - 0:08:58
+jer onda imam de Morganove formule koje mi odmah daju konjunkciju i tako.;0:08:58 - 0:09:03
+Ali dobro.;0:09:03 - 0:09:05
+Dobro. E sad, znači, čim smo uveli nekakvu sintaksu,;0:09:11 - 0:09:16
+odmah želimo govoriti i o dokaznom postupku s jedne strane;0:09:16 - 0:09:20
+i o nekako strukturama na kojima se te formule interpretiraju,;0:09:20 - 0:09:23
+odnosno kaže se jesu li istinite ili nisu valjane ili nisu,;0:09:23 - 0:09:26
+s druge strane.;0:09:26 - 0:09:28
+I idealno bi bilo da si te dvije stvari nekak jako, jako, jako pašu.;0:09:28 - 0:09:33
+Idealno bi bilo da, znači, valjane formule odgovaraju točno teoremima.;0:09:33 - 0:09:39
+Jel tako? Znači, da ako nešto dokažem da je to valjano;0:09:39 - 0:09:43
+i je nešto valjano da se to može u načelu dokazati.;0:09:43 - 0:09:46
+Jel tako? Dobro. E sad, ajmo zadati onda nekako,;0:09:46 - 0:09:52
+nekakav minimalni sistem za dokazivanje u modalnoj logici.;0:09:54 - 0:10:03
+On će se zvati sistem K i u njega ćemo staviti sve tautologije,;0:10:04 - 0:10:10
+znači sve ovoga, sve valjane formule logike sudova,;0:10:10 - 0:10:22
+ali pazite, u proširenom jeziku.;0:10:22 - 0:10:24
+Znači, jak ja imam ono, ne znam, fi ili ne fi sudovno,;0:10:24 - 0:10:30
+onda za taj fi mogu natrpat bilo kakvu modalnu formulu koju hoću.;0:10:30 - 0:10:35
+Dobro? Znači, box A ili ne box A će biti tautologija.;0:10:35 - 0:10:39
+Znači, ne može biti tautologija ovdje. U redu.;0:10:39 - 0:10:42
+I još dodam jednu stvar, a to je ova tu formula.;0:10:44 - 0:10:48
+Znači, box A povlači B, povlači da box A povlači box B.;0:10:48 - 0:10:52
+E sad, ajde, malo ću vam pričat sad o intendiranoj semantici,;0:10:53 - 0:10:58
+pa će vam stvari tu biti malo jasnije.;0:11:00 - 0:11:02
+Evo, čem je stvar. Dakle,;0:11:03 - 0:11:06
+ovak, znači, mene će zanimati sljedeća stvar.;0:11:09 - 0:11:13
+Ja imam tu nekakav duplo V, zvaće se svijet. Dobro?;0:11:13 - 0:11:18
+I sad na tom duplo V bi mogao, recimo, vrijediti P.;0:11:18 - 0:11:23
+I sad kažemo, znači, propozicijska varijabla P, jer sam ju objesio za taj svijet duplo V.;0:11:23 - 0:11:32
+I sad mi onda kažemo, jednostavno, na svijetu je forcirana ovoga propozicijska varijabla P,;0:11:33 - 0:11:40
+odnosno na svijetu duplo V vrijedi P.;0:11:40 - 0:11:42
+A u čemu vrijedi? E sad, dobro, budemo to poslije.;0:11:43 - 0:11:48
+Mogu imat ovu situaciju, recimo, aha, i naravno ne vrijedi negacija od P.;0:11:49 - 0:11:56
+Jel to svakako ne vrijedi? Dobro?;0:11:56 - 0:11:59
+E, ali sad imat ću situaciju gdje ću željeti gledat nekakve, dajmo reći, grafove.;0:11:59 - 0:12:08
+Znači, imam duplo V ovdje, imam V ovdje i sad ne znam, tu objesim P, a tu objesim PQ.;0:12:09 - 0:12:16
+Dobro, i ništa drugo od ovih prebrojivo mnogo propozicijskih varijabli. Dobro?;0:12:16 - 0:12:22
+I sad šta? Osim što na duplo V vrijedi P, da vas ne zbunim, na duplo V vrijedi P,;0:12:22 - 0:12:30
+na duplo V vrijedi još i dajmont P. Zašto?;0:12:30 - 0:12:36
+Zato što postoji sljedbenik od duplog V na kojem vrijedi P. Čak što više.;0:12:36 - 0:12:43
+I ovo je sljedbenik od duplo V na kojem vrijedi P. Dobro?;0:12:43 - 0:12:47
+Znači, ovo tu kaže, postoji neki svijet, ajde sad da ga nazovem malo drugće, možda U.;0:12:47 - 0:12:55
+Postoji U iz skupa svih svijetova, označit ćemo ga sa duplo V,;0:12:55 - 0:13:02
+takav da je VR U, ovo ćemo zvati R, i ovoga na U je istinit P.;0:13:02 - 0:13:18
+Dobro? Znači, ovo tu je definicija od, definicija istinitosti na duplo V je istinito dajmont P. U redu.;0:13:18 - 0:13:31
+Na duplo V je istinito dajmont P, odnosno postoji sljedbenik od duplo V na kojem vrijedi P. U redu.;0:13:31 - 0:13:38
+Znači, kak će sad izgledat ta priča sa modelima, dakle što su modeli u ovom konkretnom slučaju?;0:13:38 - 0:13:48
+To vam je nekakav neprazan skup, dobro, njega ćemo zvat skup svijetova.;0:13:48 - 0:13:54
+Bilo kakva binarna relacija na njemu, dobro, mogo sam tu imat nekakve beskonačne grane, nekakva stabla, bilo šta.;0:13:54 - 0:14:03
+Znači, doslovno bilo kakva binarna relacija.;0:14:03 - 0:14:06
+Znači, duplo V je neprazan, R je podskup od V puta V, dobro, i V je valuacija,;0:14:07 - 0:14:16
+odnosno ona je ovo vješanje PA na duplo V, PA i QA na V, i to je to.;0:14:16 - 0:14:23
+Dobro, znači šta će V onda biti?;0:14:23 - 0:14:26
+Znači, svakom ovom svijetu ću ja pridružiti nekakav skup propozicijskih variable, je li tako?;0:14:28 - 0:14:40
+Znači, to će biti nekakva funkcija koja ide u P od Fi, dobro.;0:14:40 - 0:14:46
+Znači, ja samo ono, navedem koje variable ili koji sudovi, ajmo reći, vrijede na tom, koji atomarni sudovi vrijede na tom svijetu, dobro.;0:14:46 - 0:14:58
+I to je ono što ću zvati Kripkeov model, u redu.;0:14:59 - 0:15:02
+Kripkeov okvir će biti samo ovo, ok, znači možemo reći da je neki model baziran na nekom okviru.;0:15:03 - 0:15:10
+E sad, nemojte toliko detaljno o tome trenutno razmišljati.;0:15:10 - 0:15:16
+Znači, sad bih vam samo htio pokazati zašto se ovo tu ubacuje kao aksijom u sistem K,;0:15:16 - 0:15:22
+u nekakav minimalni modalni sistem.;0:15:22 - 0:15:24
+To je zapravo zato da nam jednoznačno odredi što su nam modeli, odnosno što su nam okviri u ovom slučaju.;0:15:26 - 0:15:32
+Dakle, nekako modeli iz onog smisla teorije modela, iz ono što ste radili valjda na logici kao u logici prvog reda,;0:15:32 - 0:15:43
+znači u tom smislu modeli će mi ovdje zapravo biti okviri, dobro, Kripkeovi okviri.;0:15:43 - 0:15:48
+Znači, nešto što ovak izgleda.;0:15:49 - 0:15:51
+A da bi to bilo, znači da bi sve to štimalo, uzme se još ovo.;0:15:52 - 0:15:57
+Da bi odgovarali ovoga valjanost, da bi odgovarala dokazivosti, treba ovo tu uzeti.;0:15:57 - 0:16:05
+I niš drugo, znači samo ove, ta utologija u proširenom jeziku i ovo u redu kao aksijoma.;0:16:05 - 0:16:11
+E sad, sad bih vam samo htio ono skroz intuitivno, da sad ne razgovaramo;0:16:11 - 0:16:20
+o nikakvim ovim istinitoctima, valjanostima, okvirima i modelima,;0:16:20 - 0:16:24
+samo intuitivno pokazat zašto biste ovo htjeli.;0:16:24 - 0:16:27
+Aha, još nisam rekao, padam. Imali smo ovu situaciju, jel?;0:16:27 - 0:16:31
+Tu smo imali, na duplo V smo imali P, na V smo imali P i Q, jel tako?;0:16:32 - 0:16:38
+Ova je bila situacija, tu sam još htio reći, na duplo V vrijedi boks P.;0:16:39 - 0:16:48
+Zašto? Zato što na svime R sljedbenicima od duplo V vrijedi P.;0:16:48 - 0:16:52
+U redu. Znači, to je na neki način dualno onome dajmondu.;0:16:53 - 0:16:57
+U kojem smislu? Znači, može ga se zapisati, znači ono,;0:16:58 - 0:17:02
+dajmond P nekako korespondira ili oznaka je za ovoga N.;0:17:02 - 0:17:09
+Znači, boks P korespondira sa N, dajmond NP.;0:17:10 - 0:17:14
+Dobro, evo, kak si to možete zamišljati. Znači, dužno je P,;0:17:14 - 0:17:19
+je isto što i nije moguće da nije P. U redu. Nije moguće da nije P.;0:17:19 - 0:17:25
+Ok. Dobro, znači, recimo, boks Q ne vrijedi, jel?;0:17:27 - 0:17:33
+Boks Q ne vrijedi. Zašto ne vrijedi?;0:17:35 - 0:17:39
+Jer imamo sljedbenika od duplo V na kojem ne vrijedi Q. U redu.;0:17:39 - 0:17:43
+Odnosno, zato što imamo da vrijedi dajmond neku,;0:17:43 - 0:17:50
+to jest postoji jedan R sljedbe neko duplo V na kojem vrijedi neku.;0:17:50 - 0:17:55
+I sad da napokon dođem do ovoga. Znači, sad kad smo ove nekakve sitnice rekli.;0:17:57 - 0:18:03
+Dakle, kak bi ste ovo, recimo, dokazali, jel?;0:18:03 - 0:18:13
+Ovak, više na jednoj semantičkoj možda razini.;0:18:13 - 0:18:16
+Znači, pretpostavili biste antecedentu, jel tako?;0:18:16 - 0:18:21
+Dakle, imam pretpostavku boks A povlači B. U redu.;0:18:21 - 0:18:27
+I sad, ajde, gledam neki svijet.;0:18:27 - 0:18:30
+Velim, nemojte sad razmišljati o modeli i okviri, ovo ono, idemo sad na otprilike.;0:18:31 - 0:18:36
+Imam neki svijet i sad taj svijet ima nekakve sljedbenike.;0:18:36 - 0:18:40
+On može imat neprebrojivo sljedbenika, nije to nikakav problem.;0:18:40 - 0:18:43
+Mogu ti skupovi biti jako veliki itd.;0:18:43 - 0:18:47
+I sad, što ovo tu kaže? Znači, ja imam da svuda vrijedi.;0:18:47 - 0:18:52
+Ak slučajno imam A, u redu, znači na svim sljedbenicima vrijedi sljedeće.;0:18:52 - 0:18:57
+Ak slučajno imam A, onda moram imat B, u redu.;0:18:57 - 0:19:00
+Recimo da A nemam, onda ne moram imat B, mogu imat B.;0:19:00 - 0:19:04
+Evo, recimo, tu ga ima, tu ga nema, na primjer.;0:19:06 - 0:19:08
+Dobro?;0:19:08 - 0:19:09
+A ako, znači, ne može mi se dogoditi situacija gdje, ono, A imam, a recimo B nemam.;0:19:09 - 0:19:18
+Dobro? To ne može biti. Znači, to je naša pretpostavka.;0:19:18 - 0:19:21
+Ok?;0:19:21 - 0:19:22
+Dobro? Evo, može ne biti A uopće.;0:19:23 - 0:19:25
+Dobro?;0:19:25 - 0:19:26
+Ovaj, ali dobro, ajde idemo staviti A, B. Može.;0:19:27 - 0:19:31
+I sad, šta zapravo pokušavamo dokazati?;0:19:32 - 0:19:35
+Znači, pokušavamo dokazati, ak je na svim sljedbenicima A,;0:19:35 - 0:19:39
+e onda je na svim sljedbenicima B.;0:19:39 - 0:19:41
+Pa je li to očito? Pod ovom pretpostavkom.;0:19:41 - 0:19:45
+Znači, čim pišem A, a pisaću ga svuda, jer je to pretpostavka boksa,;0:19:45 - 0:19:51
+onda ću morati dodati B, ako ga već nema.;0:19:51 - 0:19:54
+I gotovo. Dobro?;0:19:54 - 0:19:56
+Ok. Znači, nekak je jasno da ova cijela priča koju sam vam ispričao,;0:19:58 - 0:20:03
+ono, kao mi bismo nju htjeli, pa smo ju sad osigurali,;0:20:05 - 0:20:09
+ajmo reći, sintaksno, htjeli smo ju semantički,;0:20:09 - 0:20:12
+i sad nekak onda nam sintaksa i semantika stvarno odgovaraju.;0:20:12 - 0:20:17
+Naravno, to sad nećemo pokazivati, ali to je nekak ta klasična logička igra.;0:20:17 - 0:20:23
+Dobro. Sad, pravila izvoda, sjećate se iz logike prvog reda,;0:20:25 - 0:20:30
+modus ponesi generalizacija. Dobro? Šta kaže generalizacija?;0:20:30 - 0:20:34
+Pa, ak vrijedi A, onda na svim sljedbenicima vrijedi A.;0:20:34 - 0:20:41
+Ak jest A, onda je nužno A. Dobro?;0:20:42 - 0:20:46
+Tak je možda bolje o tome razmišljati, kao u logice prvog reda,;0:20:47 - 0:20:51
+nego ovako, modalno, ajmo reći.;0:20:51 - 0:20:54
+E sad, skup teorema sistema K je naravno najmanji skup formula;0:20:56 - 0:21:01
+koji sadrži sve aksiome koje smo ospomenuli;0:21:01 - 0:21:04
+i zaporenje na ova dva pravila izvoda. Dobro?;0:21:04 - 0:21:07
+Ili mogli bismo reći, formula je teorem sistema K,;0:21:07 - 0:21:12
+ako je zadnja u konačnom nizu formula,;0:21:12 - 0:21:18
+od kojih je svaka ili aksiom sistema K,;0:21:21 - 0:21:24
+ili dobivena od prethodnih formula u nizu;0:21:24 - 0:21:27
+pomoću ova dva pravila izvoda. Je li tako?;0:21:28 - 0:21:31
+Dobro. E sad, to da je formula A teorem sistema K,;0:21:33 - 0:21:39
+ćemo pisati ovako, znači turnstile A. Dobro?;0:21:39 - 0:21:42
+Usporedite to samo, znači ovo znači da je A teorem,;0:21:46 - 0:21:50
+a ovo bi značilo da je valjana, odnosno istinita na nekom svijetu itd.;0:21:51 - 0:21:57
+Znači, malo je drugčije oznaka, a imate i ono što se iz logike prvog reda sjećate u ovo.;0:21:58 - 0:22:03
+Treba će nam i to kad ćemo govoriti o standardnoj translaciji,;0:22:03 - 0:22:06
+ali malo se tu učine drugčije ima sve te oznake,;0:22:06 - 0:22:10
+da stvari nekako budu razdvojenije i jasnije.;0:22:10 - 0:22:13
+Dobro. Znači, ovo tu kaže da je formula A dokaziva u K.;0:22:14 - 0:22:19
+E sad, ovisno intendiranoj interpretaciji različiti modalni sistemi;0:22:21 - 0:22:25
+dobivaju se dodavanjem jednog ili više drugih aksioma.;0:22:25 - 0:22:28
+Evo, recimo, ovaj tu aksiom, ako agent zna A, onda vrijedi A.;0:22:28 - 0:22:34
+Rekli smo, to je, naravno, bitno za epistemičku logiku.;0:22:34 - 0:22:38
+Što biste rekli, na kakvim to okvirima vrijedi?;0:22:39 - 0:22:43
+Jel' vam se čini da, ono, dobro, nisam baš još rekao što znači vrijedi na okviru,;0:22:44 - 0:22:51
+pa je možda malo nezgodno, ali evo, recimo da ovako to napišem.;0:22:51 - 0:22:56
+Znači, boks A povlači A, to je zapravo ne dajmont, ne A povlači A.;0:22:57 - 0:23:03
+Dobro, a po kontrapoziciji je to isto što je ne A, povlači dajmont ne A.;0:23:04 - 0:23:11
+I sad vidjet ćemo zašto kad smo na okvirima, zašto možemo zapravo ove negacije obrisati.;0:23:12 - 0:23:18
+Jer smo mogli A valuirati tako da ga ima na svijetu ili da ga nema na svijetu.;0:23:18 - 0:23:22
+Znači, to je zapravo ovo tu. Dobro, što se okviratiće, to je to.;0:23:22 - 0:23:27
+Što znači da ako nešto imam, da do toga mogu sigurno doći i u jednom koraku?;0:23:28 - 0:23:34
+Znači, ako nešto imam u nula koraka, da do toga mogu doći u jednom koraku?;0:23:34 - 0:23:39
+Šta vam se čini kakve će to okvire nekako definirati? Refleksivne, jel?;0:23:39 - 0:23:47
+Jer kao, čim nešto imam, e sad jedino tu mogu biti sigurani da to imam,;0:23:47 - 0:23:51
+onda ću nekako zaokrušiti. Dobro?;0:23:51 - 0:23:55
+Nije to sad još vrijeme možda za pričat, ali čisto za nekakav mali osjećaj.;0:23:55 - 0:24:01
+Ok. Znači, nekako ajmo reći, strukture, odnosno modeli, zapravo okviri;0:24:04 - 0:24:17
+za epistemičku logiku su refleksivni okviri.;0:24:17 - 0:24:20
+Što će biti za pozitivnu introspekciju? To je već malo teže, jel?;0:24:22 - 0:24:26
+Dobro, neću vas gljavit.;0:24:26 - 0:24:28
+Znači, vidite, ako znate A, onda znate da znate A.;0:24:31 - 0:24:35
+Nekak epistemički sad možda to ne bi bilo super, jel?;0:24:35 - 0:24:39
+Jer ono, nekakva produhobljenost i tako to.;0:24:39 - 0:24:42
+Pa ako nešto ne znate, pa znate da to ne znate.;0:24:42 - 0:24:45
+Negativna introspekcija sad jedno i drugo je nekako jako,;0:24:45 - 0:24:48
+jako prejako za znanje, jel? Ali dobro.;0:24:48 - 0:24:51
+I imate jednu izuzetno važnu formulu u logici dokazivosti,;0:24:52 - 0:24:57
+koja se zove L'bova formula.;0:24:57 - 0:25:00
+Dostaju je teško ovako pročitati, zato što u principu;0:25:02 - 0:25:07
+je nekak smještena na dvije zapravo razine dokazivosti.;0:25:09 - 0:25:12
+Ne volim tu rečenicu reći, ali nekak meni je dosta pomogla.;0:25:12 - 0:25:16
+Znači, gledajte što vam je inače L'bov teorema.;0:25:16 - 0:25:19
+To vam je sljedeće. U PA je, pardon, ispričavam se.;0:25:21 - 0:25:26
+Ako je u PA dokazivo Bev od...;0:25:26 - 0:25:42
+Aću staviti isto. Bev od A, tada...;0:25:43 - 0:25:49
+Bev od A, povlači, ja.;0:25:51 - 0:25:53
+Tada je u PA dokazivo A. Sad već ima malo više smisla.;0:26:01 - 0:26:09
+Znači, ovaj Bev, to je Bevajsbar od GDL, znači ono kao provable.;0:26:09 - 0:26:14
+Neki napišu PR od A. Znači, s time da ovo tu znači;0:26:14 - 0:26:20
+unutar peanove aritmetike, formula koja kaže A je dokaziva u PA.;0:26:22 - 0:26:27
+Opet, napisaću, iskazana u PA.;0:26:30 - 0:26:34
+Znači, PA može govoriti o tome što je u njoj dokazivo.;0:26:35 - 0:26:40
+Znači, opet, ako PA može dokazati da dokazivost od formule A povlači A,;0:26:41 - 0:26:51
+tada PA može dokazati A.;0:26:51 - 0:26:54
+Drugim rječima, pretpostavka dokazivosti je beskoristna za dokaz same te formule.;0:26:54 - 0:27:03
+Razumijete to? Dobro? Jel kužite?;0:27:03 - 0:27:06
+Znači, ako mogu provest dokaz da ovoga dokazivost od A povlači A,;0:27:06 - 0:27:12
+onda mogu i samo direktno provest dokaz od A.;0:27:12 - 0:27:15
+U redu, to je ovak' dosta bitna stvar.;0:27:15 - 0:27:18
+Nije sad nužno, važno zašto, ali ono šta ću reći,;0:27:18 - 0:27:22
+je kako to ovoga povlači drugi GDL-ov teorem nepotpunosti.;0:27:26 - 0:27:31
+Dobro? Jel se sjećate što je drugi GDL-ov teorem nepotpunosti?;0:27:31 - 0:27:35
+A ne? Sad ćete saznati.;0:27:35 - 0:27:38
+Znači, ajmo staviti false umjesto A,;0:27:38 - 0:27:43
+kao što ćemo napraviti za jedno 50-ak slajdova ili 100-injak ili kolko, ne znam.;0:27:43 - 0:27:48
+Ga stavimo da je A false, u redu. I šta sad tu piše?;0:27:48 - 0:27:53
+A false je u PA ovoga dokazivo ne BVA.;0:27:53 - 0:28:05
+Jel se slažete? Znači, mislim, nije baš, jel?;0:28:08 - 0:28:14
+Znači, ne bi smio ovak' substituirat' možda ovu...;0:28:14 - 0:28:19
+Malo sam sad napravio još jedan dodatni korak gdje sam zapravo substituiro;0:28:20 - 0:28:24
+da je B od A strelica false, da je ne B od A, u redu.;0:28:24 - 0:28:29
+Ali mislim da je jasno. Tada je u PA dokazivo false.;0:28:29 - 0:28:38
+Šta sad tu piše?;0:28:39 - 0:28:41
+Šta?;0:28:41 - 0:28:42
+Ako možemo dokazati da nekako je u redu, ne možemo dokazati da je u redu.;0:28:42 - 0:28:52
+Onda je PA...;0:28:53 - 0:28:54
+Sve počinje.;0:28:57 - 0:28:58
+Tako je, onda je inkonzistentna. Dobro?;0:28:58 - 0:29:00
+Znači, ako PA može dokazati svoju konzistentnost, onda je inkonzistentna.;0:29:00 - 0:29:06
+Dobro? To je drugi Gedulov teorija nepotpunosti.;0:29:06 - 0:29:09
+Evo, čisto da vam pokažem koliko su te stvari zgodne.;0:29:10 - 0:29:13
+Inače, taj Loebov teorem i tu formulu i tak';0:29:17 - 0:29:21
+zgodne stvari su na internetu napisane o njoj, pa možete ovo ga pogledati;0:29:22 - 0:29:27
+s cartoon guide to Loeb's theorem od Jutkovskog.;0:29:27 - 0:29:30
+Meni se jako to sviđa kao stripić negakav je.;0:29:30 - 0:29:33
+Dobro.;0:29:34 - 0:29:35
+Recite li ima za sad pitanja? Znam da sam sad puno svega i svatčega ispričao.;0:29:35 - 0:29:40
+Ja bih sam nije baš čuo što ovo je i s redujama znači.;0:29:40 - 0:29:45
+On vam znači sljedeće. Znači, ako imamo...;0:29:45 - 0:29:48
+Mislim, to, ovu definiciju ćemo zapravo sad tek napraviti.;0:29:49 - 0:29:55
+Ali mislim, dobro je da ste pitali i samo dajte slobodno uvijek.;0:29:55 - 0:30:00
+Znači, šta nam je okvir?;0:30:00 - 0:30:02
+Okvir je, kako smo rekli, znači kripkeov okvir.;0:30:02 - 0:30:05
+To nam je neprazan skup, njegove elemente zovemo svjetovi, jer eto,;0:30:06 - 0:30:11
+ovoga kao šta je na kojem svijetu istina.;0:30:12 - 0:30:14
+I ovoga, i relacija R je jednostavno binarna relacija na;0:30:15 - 0:30:20
+kartezijevom kvadratu od duplove. Dobro?;0:30:21 - 0:30:23
+Nju ćemo zvat relacija dostiživosti.;0:30:24 - 0:30:26
+Kao svijet je dostiživ iz nekog drugog svijeta,;0:30:26 - 0:30:29
+ako su moguće nekako istine stovog svijeta.;0:30:29 - 0:30:35
+Znači, nekako nismo odbacili sve, jer tamo vrijede gluposti.;0:30:35 - 0:30:39
+Mislim, neću više pričat o tim motivacijama, velim, ako hoćete,;0:30:40 - 0:30:43
+imate moja stara predavanja sa YouTube-a, pa možete tamo pogledat,;0:30:43 - 0:30:48
+ali nije vam sad naročito važno.;0:30:48 - 0:30:50
+Dobro, šta se tiče modela, znači, uzmemo okvir nekakav;0:30:51 - 0:30:57
+i još samo dodamo ovu valuaciju.;0:30:57 - 0:31:00
+Čekaj, sam ja krivo tu napisao, samo malo.;0:31:00 - 0:31:03
+Svakoj variabli damo skup svijetova.;0:31:03 - 0:31:07
+Ono je bilo svakom svijetu damo skup variabli.;0:31:07 - 0:31:13
+Pa čini mi se da je isto, je li tako? Sve jedno, je li ne?;0:31:20 - 0:31:24
+Moram pričat da nikad nisam o tome razmišljao,;0:31:25 - 0:31:28
+ali zato se sad trudim pričat bez nekakvih papira da vidimo;0:31:28 - 0:31:32
+koliko ću toga točnoga, koliko krivoga reći.;0:31:32 - 0:31:36
+Ali dobro, pazit ću. Neće, čini mi se da je sve jedno.;0:31:36 - 0:31:39
+Dakle, u svakom slučaju možete razmišljati kao da imate bazu podataka,;0:31:40 - 0:31:44
+znači, čisto nekakvu relaciju koja spaja, i sad je valjda očito da je vrlo simetrično,;0:31:44 - 0:31:51
+znači, spaja svijet sa propozicijskom variablom.;0:31:51 - 0:31:55
+Pa onda možemo sad reći, valjda, da je, kaj smo imali?;0:31:55 - 0:32:01
+Imali smo duplo V, imali smo V, imali smo tu PQ sam valjda stavio,;0:32:01 - 0:32:09
+a tu sam stavio samo P, ja mislim.;0:32:09 - 0:32:12
+Znači, kaj je tu? Dupli V je duplo VV, R je VV i VV.;0:32:12 - 0:32:25
+I ovoga šta, ajme, ovo je podskup od, ne podskup, htio sam ga baš napisat,;0:32:26 - 0:32:38
+je šta, VP, VQ i VP.;0:32:38 - 0:32:54
+Ponekad mi se ne da govori duplo V, pa kažem V, ali sad, kad je ovako jednostavno,;0:32:56 - 0:33:02
+ne trebam previše paziti. Je li ovo jasno, znači, kak izgleda;0:33:02 - 0:33:06
+semantička nekakva struktura za propozicijsku modelnu logiku?;0:33:06 - 0:33:11
+E dobro, znači, to su modeli. E i sad možemo govoriti o točkovnom modelu.;0:33:12 - 0:33:17
+Znači, ono, kao izabrali smo si ovaj svijet, kao što i jesmo, duplo V,;0:33:17 - 0:33:22
+da na njemu pričamo o istinitosti. Dobro, zanimljena samo što je istinito tu.;0:33:22 - 0:33:26
+Jer vidite, recimo, tu, Diamond Q nije istina, na ovom tu svijetu, u redu,;0:33:27 - 0:33:35
+nije istina Diamond Q, jer imamo njegovog sljedbenika gdje nije Q.;0:33:35 - 0:33:41
+A na ovom svijetu, je li vrijedi Diamond Q, ovaj, sad krivo govorim, sorry,;0:33:41 - 0:33:46
+na duplo V vrijedi, ne vrijedi, box Q, a je li na V vrijedi box Q? Šta biste rekli?;0:33:46 - 0:33:56
+Je li na svim njegovim R sljedbenicima vrijedi Q?;0:33:56 - 0:34:00
+Pa da, je li tako? Jer sljedbenika nema. Dobro.;0:34:02 - 0:34:06
+E koja je to onda formula, kad smo već kod toga, znam da nikada vam ne vjerujem;0:34:06 - 0:34:11
+ovoga istinitost da definira, ali koja je to nekakva formula koja je točno istinita na takozvanim terminalnim svijetovima,;0:34:11 - 0:34:18
+primjer kojeg je V, a koja je drugo, znači točno istinita samo na neterminalnim svijetovima.;0:34:18 - 0:34:27
+Znači, kak ćemo prepoznati gdje nema dalje, a gdje ima dalje?;0:34:28 - 0:34:33
+Nekako na V i na duplo V. To su ti različiti svijetovi.;0:34:33 - 0:34:45
+Što je to što vrijedi na V, a ne vrijedi na duplo V? Zato što je V terminalan.;0:34:47 - 0:34:52
+Znači, box recimo Q, ali box false, jel' tako? Jer nije morao biti Q, mogla je biti neka druga situacija.;0:34:55 - 0:35:02
+Jel' bilo što ovoga, ali je fora u tome da hoćemo da ne vrijedi na svijetovima koji imaju sljedbenike.;0:35:03 - 0:35:11
+Pa ne bismo mogli staviti box Q ili nešto, nego baš mora biti box false.;0:35:11 - 0:35:15
+A što je ono što vrijedi na duplo V, a ne vrijedi na V? Pa to će valjda biti negacija, jel' tako?;0:35:15 - 0:35:21
+Ja sad ako svi ovo malo zapišemo ovak, negacija od ovoga je što? To je ovo.;0:35:21 - 0:35:32
+Dobro, a ovo tu je true. Znači, dajmo true.;0:35:32 - 0:35:38
+Pa jel' se slažete da ovo vrijedi točno na svakom svijetu koji ima sljedbenika?;0:35:38 - 0:35:42
+Jer će na svakom njegovom sljedbeniku vrijedi true.;0:35:42 - 0:35:45
+A upravo nije istina na ovakvom V, jer on nema nekoga idućega uopće, pa onda ni nekoga na pojem bi vrijedio true.;0:35:45 - 0:35:55
+Dobro, e sad, ajmo sad.;0:35:55 - 0:35:58
+Ono što sam odavno i prvo trebao napraviti, jel'.;0:35:58 - 0:36:01
+Znači, istinitost formule u točkovnom modelu se definira, onda ćemo lako pričati dalje.;0:36:01 - 0:36:07
+Dobro. Znači, što znači da je u modelu M, odnosno ono za dupli V, R i V,;0:36:07 - 0:36:13
+na svijetu duplo V istinit P? To znači da smo ga odabrali sa V.;0:36:13 - 0:36:19
+Znači da je ovoga, da smo dupli V odabrali sa V od P.;0:36:19 - 0:36:25
+Dobro. Znači, za sve propozicijske ovoga variable P, vrijedi će da na duplo V vrijedi P,;0:36:25 - 0:36:35
+ako i samo ako je duplo V iz V od P, gdje je V upisan tu u modelu.;0:36:35 - 0:36:39
+Dobro. Znači, ako smo ga tu objesili. Dobro.;0:36:39 - 0:36:43
+Ok. Kad je istinit falsum? Nikad.;0:36:44 - 0:36:48
+Dobro. Obično onda ovak napišemo, kak' sam već bio pisao, jel'.;0:36:48 - 0:36:52
+Dobro. Naravno, ovo je valjda jasno. Jel' vidite implikaciju?;0:36:52 - 0:36:59
+Znači, ili nije antecedenta, ili jest konzekventa. Dobro.;0:36:59 - 0:37:06
+Znači, materijalna implikacija. Ok.;0:37:06 - 0:37:09
+Da je istinit diamond fi na duplo V, znači da ima neki R sljedbenik V,;0:37:11 - 0:37:17
+na kojem je istinita fi. Ok.;0:37:17 - 0:37:20
+E, i sad možemo pričati o ovim pojačanjima, jel'.;0:37:20 - 0:37:24
+Znači, da je neka formula istinita na modelu, globalno istinita.;0:37:24 - 0:37:30
+Znači, piše se ovako, bez svijeta, jel'.;0:37:30 - 0:37:33
+To znači na svakom svijetu u modelu. Dobro.;0:37:33 - 0:37:36
+Veći ćemo da je fi istinita na modelu M.;0:37:36 - 0:37:39
+Nekako ova globalna istinitost neću baš često govorit'.;0:37:39 - 0:37:43
+Lakše mi je reći na modelu. Dobro.;0:37:43 - 0:37:45
+Što znači da je valjda na okviru?;0:37:45 - 0:37:48
+To znači da bez obzira koju valuaciju stavim, u redu, i dobijem nekakav model,;0:37:48 - 0:37:57
+da će biti globalno istinita na modelu. U redu.;0:37:57 - 0:38:00
+Sad vidite, znači, ta nekakva valjanost na okviru je izuzetno jaka. Dobro.;0:38:00 - 0:38:06
+Znači, bez obzira koji svijet pogledam i kakvu sam valuaciju stavio,;0:38:06 - 0:38:10
+u točkovnom modelu će biti istinita formula. Dobro.;0:38:10 - 0:38:14
+E, a sad još brutalnije je valjanost. Dobro.;0:38:14 - 0:38:19
+Znači, kak god ja crtam točkice i strelice, jel, i kak god vješam variable,;0:38:19 - 0:38:26
+formula će svuda biti istinita. Jel vidite to?;0:38:26 - 0:38:30
+Znači, bez obzira koju okvir na crtam i bez obzira koju valuaciju uzmem. Dobro.;0:38:30 - 0:38:35
+Znači, očito to nisu neke jako interesantne u većini slučajeva formule.;0:38:35 - 0:38:41
+Ovo ga, naravno, trebati će nam u dokazima kao što će nam, recimo,;0:38:42 - 0:38:46
+opa, ova formula trebata u dokazima, jel. Ali dobro.;0:38:46 - 0:38:50
+Ok, i ispunjevost, valjda kak je ovo daleko, daleko najjače svojstvo, jel, valjanost,;0:38:52 - 0:38:58
+tak je ispunjevost daleko, daleko najslabije.;0:38:58 - 0:39:01
+Znači, možete osmislit nekakav model i svijet takav da na njemu vrijedi.;0:39:01 - 0:39:06
+U redu. Znači, ima ono, barem jedan nekakv okvir, na njemu valuacija i u njemu svijet,;0:39:06 - 0:39:13
+takav da vrijedi ti. Znači, tu si sve izaberem, a tu si nisam izabrao ništa.;0:39:13 - 0:39:19
+Evo, i sad dajmo malo vježbati. Sad da vidim, dobro.;0:39:22 - 0:39:26
+Dajmo malo vježbati.;0:39:26 - 0:39:28
+Evo, odlučio sam preskočit tu motivaciju koju sam imao na početku prije;0:39:30 - 0:39:35
+da možemo malo ono vježbati, interaktivnije.;0:39:35 - 0:39:40
+Znači, kak bi izgledao ovaj tu okvir N manje?;0:39:41 - 0:39:45
+Pa, to je zapravo sad dobro pitanje. Znači, gledajte.;0:39:46 - 0:39:50
+Dobro, ja ću početi od, jel se tu počinje od nule?;0:39:50 - 0:39:54
+Dobro, ajde, činim i se od jedinice do N, što gotovo.;0:39:54 - 0:39:57
+N, znači, jedinica je manja od dvojke, jel tako?;0:39:57 - 0:40:02
+Dvojka je manja od trojke, ali nije to baš tak sad jednostavno.;0:40:03 - 0:40:08
+Ja bi sad morao nacrtati, znači, ovo tu su sve R-bridovi, jel?;0:40:08 - 0:40:11
+R, ili možemo reći manje, dobro?;0:40:11 - 0:40:13
+Ali u čemu je sad prka? Znači, i jedan je manje od tri.;0:40:16 - 0:40:20
+Znači, tu isto dođe brid, samo ga niko nikad ne nacrta.;0:40:20 - 0:40:23
+Dobro, jel bi ono sad, kužite, ova slika bi sad nekumano izgledala, jel?;0:40:23 - 0:40:28
+Znači, da sad sve nacrtam.;0:40:28 - 0:40:30
+Dobro, znači, nekako kažete, transitivno se podrazumijeva, ok?;0:40:30 - 0:40:34
+Dobro? Znači, podrazumijevaćemo transitivnost kad ovak crtamo.;0:40:36 - 0:40:41
+Baš ovdje, recimo, ne sad.;0:40:42 - 0:40:44
+U bilo kakvom okviru mogo sam imati netransitivni okvir.;0:40:44 - 0:40:47
+I sad jednostavno ću reći, niš nije istina.;0:40:49 - 0:40:52
+Dobro, nijedna propozicijska varijabla ovoga nije istinita nigdje.;0:40:52 - 0:40:57
+Dobro. E, i sad, jel se onda slažete da na takvom modelu,;0:40:57 - 0:41:04
+koji smo izgradili iz ovog okvira pomoću ove valuacije,;0:41:04 - 0:41:07
+jel se slažete da je onda globalno istinito,;0:41:07 - 0:41:10
+dajmont ne P za sve P i S fi?;0:41:11 - 0:41:15
+Znači, zašto bi to bilo? Zašto bi ovaj;0:41:18 - 0:41:22
+imao nekog sljedbenika na kojem vrijedi ne P?;0:41:22 - 0:41:28
+Koji su to sljedbenici na kojima vrijedi ne P?;0:41:30 - 0:41:33
+Sve, tako je? A to su svi osim, znači svi svijetovi osim jedinice same,;0:41:33 - 0:41:39
+recimo, ako jedinicu gledamo, svi svijetovi osim jedinice i dvojke,;0:41:39 - 0:41:44
+ako gledamo dvojku i tako. Dobro? Ok.;0:41:44 - 0:41:47
+E, ali onda ste se zapravo i ovo već složili, jer ste rekli svi.;0:41:48 - 0:41:52
+Dobro? Znači, fakat, na svim sljedbenicima od trojke,;0:41:52 - 0:41:56
+to su recimo četiri, peti, milijardu, dvije milijarde, dobro?;0:41:56 - 0:42:00
+Na svim tim sljedbenicima stvarno vrijedi ne P. Ok.;0:42:00 - 0:42:04
+Ovo je jasno, ovaj prvi. Ok.;0:42:06 - 0:42:08
+Ajde zamislite da svuda objesim I, u redu.;0:42:09 - 0:42:12
+Znači da je, znači da P.I. objesim na I ti svijet.;0:42:12 - 0:42:21
+I niš' drugo.;0:42:23 - 0:42:25
+Je li istina svuda da postoji sljedbenik na kojem ne vrijedi i sad bilo šta?;0:42:31 - 0:42:39
+Recimo, ajde pogledat ćemo trojku, na primjer.;0:42:39 - 0:42:41
+Je li istina da postoji sljedbenik na kojem ne vrijedi P.I.?;0:42:42 - 0:42:47
+Pa jest, nigdje ne vrijedi P.I., je li tako? Dobro?;0:42:48 - 0:42:51
+Isto P.II., isto P.III.;0:42:52 - 0:42:54
+E, a sad P.IV. Ne mogu baš uzeti ovoga, ali onda uzem bilo koji drugi.;0:42:55 - 0:43:00
+Je li tako? Dobro, uvijek će ih biti, koliko hoćete.;0:43:00 - 0:43:03
+E, znači, isto bi napravili u svakom svijetu, dobro?;0:43:04 - 0:43:08
+I, je li se slažete da u jedinici ima netko od sljedbenika na kojem je P.II.?;0:43:08 - 0:43:14
+Pa je, evo, tu, dobro?;0:43:15 - 0:43:17
+Zašto ovoga nije istina, boks ne P.II.?;0:43:20 - 0:43:24
+Pa upravo zato što ovog prethodno je, dobro? To je baš negacija, je li tako?;0:43:26 - 0:43:31
+Dobro?;0:43:32 - 0:43:33
+Kožite, znači, samo na okvirima će prodirat, mislim, moći će se ta negacija nekako izbrisat ispod formule.;0:43:37 - 0:43:44
+Moći ćete ne P, mijenjati u P svuda.;0:43:44 - 0:43:47
+Ali, ovoga, nije sad tu problem kod modela.;0:43:47 - 0:43:54
+Znači, zaista je, aha, sad nemamo tu definiciju od negacije,;0:43:54 - 0:43:58
+ali zaista je definicija negacije da ako nešto jest onda negacija nije, je li to?;0:43:58 - 0:44:02
+Ili ako negacija jest, afirmacija nije.;0:44:04 - 0:44:07
+Dobro, znači, kaj smo ovo jesmo? Aha, i sad gledajte.;0:44:08 - 0:44:12
+Čim smo vidjeli da na jednom svijetu nije nešto, e onda to svakako nije na svim svijetovima, je li?;0:44:12 - 0:44:20
+Postoji jedan na kojem nije, dobro?;0:44:20 - 0:44:22
+Znači, čim ovoga smo našli neki kontraprimjer za ovo, onda ne može biti globalno istinita ta formula.;0:44:22 - 0:44:29
+Dobro? Ok? I zadnje što ovo kaže, znači, aha, na iu, da, da, da, znači, na iu, box, ne P i, tako je, jer nigdje dalje ne vrijedi P3.;0:44:29 - 0:44:46
+Dobro. P i, mislim.;0:44:48 - 0:44:50
+Ok. E sad evo jedan jako zgodan primjer, gdje upravo razgovarate o nekakvom mogućim svijetovima i stanjima stvari itd.;0:44:51 - 0:45:00
+To su vam tako zvane epistemičke alternative na temelju kojih ćemo onda sagrajeti, ajmo reći, kanonski model.;0:45:00 - 0:45:07
+Znači, stvarno uzmemo sve mogućnosti, dobro?;0:45:07 - 0:45:11
+Znači, svijetovi su nam sad oblika, ono, P i R, ili P.;0:45:11 - 0:45:18
+P. Ili prazno. Ili PQR. Itd.;0:45:18 - 0:45:25
+Dobro. Imamo stvarno hrpu svijetov.;0:45:25 - 0:45:28
+I imamo nekakvu relaciju ekivalencije na duplo V.;0:45:30 - 0:45:35
+Dobro. Znači, to je ono, reklo bi se indistinguishability, jel?;0:45:35 - 0:45:41
+Znači, negako kao particionirali smo skup svih svijetova, jel?;0:45:41 - 0:45:47
+Zašto? Da bi smo rekli koji su u nekom načelu isti, dobro?;0:45:48 - 0:45:52
+Koje nekak ne razlikujemo, jel?;0:45:52 - 0:45:55
+I sad, kak bi ste definirali valuaciju na takvom okviru;0:45:55 - 0:46:01
+koji sad negak pospaja sve te svijetove, što ja znam nije sad važno kak je,;0:46:01 - 0:46:06
+jel refleksivno, kaj znam, evo, transitivno.;0:46:06 - 0:46:09
+Neću si sad igrati, nije važno. Dobro, simetrično, ajde.;0:46:10 - 0:46:14
+Nije mi to bitno.;0:46:15 - 0:46:17
+Dobro, ovoga, kak ću, šta je, ajde recite mi, šta biste vi stavili da je istina;0:46:18 - 0:46:25
+od propozicijskih variabli na svijetu koji se zove PR?;0:46:25 - 0:46:29
+PR, jel da? Znači, duplo V je iz V od P, ako i samo ako je P element duplo V.;0:46:31 - 0:46:40
+Logično, dobro. To će se zvat kanonska valuacija,;0:46:41 - 0:46:44
+onda će se ovo zvat kanonski model. U redu.;0:46:44 - 0:46:47
+I dajte vi sad meni recite, jel na svijetu singleton P u kanonskom modelu istinit P?;0:46:47 - 0:46:54
+Jer je unutra, vidim ga, jel?;0:46:55 - 0:46:57
+Ovoga, jel svuda istinito da P povlači dajmont P?;0:46:58 - 0:47:03
+E, to si malo razmiste.;0:47:03 - 0:47:05
+Znači, Helena je rekla da ova formula nekako, kao da, ajmo reći,;0:47:05 - 0:47:13
+definira, karakterizira, do toga ćemo još doći ako je to sad nezgodno reći,;0:47:13 - 0:47:19
+ali ajmo reći ovako intuitivno, da ima veze sa, ili nekako forsira;0:47:19 - 0:47:25
+refleksivnost, jel tako? Ili je rezultat refleksivnosti, bolje ćemo tako reći.;0:47:27 - 0:47:33
+Ovoga, znači, na refleksivnom okviru, odnosno modelu, će ovo biti točno, jel?;0:47:33 - 0:47:38
+E, dobro. Ovoga, možemo malo razmišljati, ali mislim da ne treba.;0:47:39 - 0:47:45
+Ajde sad probajte razmisljati ovu drugu formulu. Šta bi ona bila?;0:47:45 - 0:47:49
+Znači, ako mi je model kakav, onda je ona istinita i to će tu stvarno biti.;0:47:49 - 0:47:55
+Opet, ima veze sa relacijom ekvivalencije.;0:47:56 - 0:47:58
+Šta znači? Ono šta mogu u dva koraka, mogu samo u jednom koraku.;0:47:58 - 0:48:03
+Transitivnost. Kužite, znači, nekak sad, ne znam jel dobro to tako motivirat, vjerojatno nije,;0:48:04 - 0:48:11
+ali nekak kasnije, kad ćete o tim stvarima razmišljati, na taj način ćete o njima razmišljati;0:48:11 - 0:48:16
+i onda će vam to brzo dolaziti. Dobro?;0:48:16 - 0:48:19
+Da, sad rekao sam, stavimo prvi prvi.;0:48:19 - 0:48:21
+A, ispričavam se, evo, napravit ćemo pauzu.;0:48:22 - 0:48:24
+Koliko ste sa Vedranom radili pauze?;0:48:24 - 0:48:27
+15 minuta. Oćete isto ili oćete malo kraću ili kak?;0:48:29 - 0:48:32

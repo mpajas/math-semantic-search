@@ -1,0 +1,496 @@
+Speech;Timestamp
+Tako da, trebamo dokazati da ako je teorija očuvana za homorfizme,;0:00:00 - 0:00:05.880000
+tada je ekvivalentna nekoj pozitivnoj teoriji.;0:00:06.320000 - 0:00:09.360000
+I, dobro, još pritom je zvijezdica da mora biti konsistentna.;0:00:09.360000 - 0:00:13.040000
+Dakle, zapravo je pretpostavka neka je te konsistentna sigma teorija očuvana za homorfizme.;0:00:13.040000 - 0:00:17.680000
+E sad, dakle, opet malo oznakica, kao što smo tamo restringirali relaciju;0:00:17.920000 - 0:00:24
+elementarnog podmodela samo na universalne formule, pa smo to onda pisali jedan.;0:00:24 - 0:00:29
+Tako ćemo ovdje relaciju, kako se to kaže, elementarne ekvivalentnosti;0:00:29.160000 - 0:00:35
+restringirati samo na pozitivne formule i to ćemo opisati ovaj p.;0:00:35 - 0:00:38.120000
+Znači, kaže M je p ekvivalentna sa n ako za svaku pozitivnu sigma račenicu vrijedi ono što već treba.;0:00:38.480000 - 0:00:46.360000
+Dakle, kao, jesu ekvivalentne, ali samo na pozitivnu račenicu.;0:00:46.360000 - 0:00:49.480000
+Dobro, i sad opet, valjda metoda diagrama, nema šta drugo biti.;0:00:49.680000 - 0:00:55.080000
+Dakle, ak su dvije strukture pozitivno ekvivalentne, možda tako,;0:00:55.160000 - 0:01:00.560000
+onda, znači, postoji struktura koja je elementarni nadmodel jedne od njih;0:01:00.560000 - 0:01:11.560000
+i smještenje ove druge takve da se ova relacija pozitivne ekvivalentnosti čuva;0:01:12.080000 - 0:01:19.360000
+čak i kad M i N napušem sa konstantskim simbolima.;0:01:19.360000 - 0:01:24.360000
+Dakle, ovo je poznačno...;0:01:24.360000 - 0:01:26.360000
+Lijepo rekao, dakle, njezin nosač je nosač od M unija A,;0:01:35.360000 - 0:01:42.360000
+a interpretacija je šta već treba da bih interpretirao M;0:01:43.360000 - 0:01:47.360000
+i još dodam konstantske simbole, dakle, i njih interpretiram sa A,;0:01:47.360000 - 0:01:55.360000
+gdje je A iz skupa A.;0:01:55.360000 - 0:01:58.360000
+Znači, ono standardno proširenje koje se radi u Lemiju diagramu.;0:01:59.360000 - 0:02:02.360000
+Dobro, i ovo drugo kaže, ako imaš teoriju koja je očuvana sa homoorficijom,;0:02:10.360000 - 0:02:17.340000
+onda se ona čuva ovim pozitivnim ekvivalencijama.;0:02:17.340000 - 0:02:22.340000
+Naravno, općenitu ekvivalentnost se čuvaju bilo kakve teorije,;0:02:23.340000 - 0:02:26.340000
+ali teorije koje su očuvane za homoorficiju se čuvaju kroz ovo.;0:02:26.340000 - 0:02:29.340000
+Pogledajte skriptu, čak se ni Tina nije dalo to raspjesivati na slajdu.;0:02:29.340000 - 0:02:34.340000
+Dobro, i sad ključno, samstveno je T konsistentna, T ima model,;0:02:36.340000 - 0:02:40.340000
+ali način na koji se to zapravo dokaže je da ima kanonski model.;0:02:40.340000 - 0:02:44.340000
+Dakle, to je onaj koji u sebi ima zapravo za nosačima, ima skup zatvorenih terma;0:02:44.340000 - 0:02:49.340000
+i unutra interpretacije su napravljene kako bi čovjek očekivao.;0:02:49.340000 - 0:02:55.340000
+Tada, veli, za svaku pozitivnu sigma rečenicu vrijedi na T vrijedi F,;0:02:57.340000 - 0:03:03.340000
+ako i samo ako vrijedi, dakle, jest logička posljedica od T,;0:03:03.340000 - 0:03:07.340000
+ako i samo ako vrijedi na ovom, na kanonskom modelu.;0:03:07.340000 - 0:03:11.340000
+Zašto to? Dakle, dobro, naravno ako vrijedi, ako je posljedica od T,;0:03:11.340000 - 0:03:16.340000
+onda vrijedi na svakom modelu, pa tako i na kanonskom modelu.;0:03:16.340000 - 0:03:19.340000
+Ali nekako, ako vrijedi na kanonskom modelu, jedini način na koji bi teoretično moglo se dogoditi;0:03:19.340000 - 0:03:24.340000
+da ima nekakav drugi model na kojem ne vrijedi F, je da ima nekakva formula,;0:03:24.340000 - 0:03:34.340000
+onda F bi trebao biti nekakva formula koja na izvjestan način karakterizira ovaj kanonski model.;0:03:34.340000 - 0:03:43.340000
+Dakle, na neki način kaže, taj model ima neko svojstvo koje ovaj drugi model nema.;0:03:43.340000 - 0:03:50.340000
+Međutim, da bih ja rekao da taj drugi model nema,;0:03:50.340000 - 0:03:53.340000
+ja bi zapravo trebao reći da na tom modelu vrijedi negacija te formule.;0:03:53.340000 - 0:03:57.340000
+A negacija formule ne može biti element ove T.;0:03:57.340000 - 0:04:01.340000
+Sam naravno čovječ pita, može li biti posljedica nekakve T, ali zapravo ne.;0:04:01.340000 - 0:04:05.340000
+Znači, jednostavno, bilo kakve posljedice pozitivnih formula mogu samo biti pozitivne formule.;0:04:05.340000 - 0:04:11.340000
+Pri tome, ključno je, dakle, kada bi čovjek, valja, da, zapravo čak ako bi uzao sve,;0:04:11.340000 - 0:04:18.340000
+dakle, logika prvog reda sa svim mogućim funkcijskim i relacijskim i konstantskim simbolima,;0:04:18.340000 - 0:04:24.340000
+dakle, kompletan jezik i u njemu gledao samo pozitivne formule, to bi i dalje bilo konsistentno.;0:04:25.340000 - 0:04:30.340000
+Jednostavno, nema nikakvog načina da iskažem nekakvu kontradikciju.;0:04:31.340000 - 0:04:36.340000
+Dakle, dajmo se, sad tu treba malo više razmisliti, ali uglavnom ideja je ta da pozitivne formule nikad si međusobno ne mogu proturiječiti.;0:04:39.340000 - 0:04:49.340000
+Onda zapravo, kad god imate dva modela, kada god imate dvije strukture, dakle, ne znam šta sam htio reći,;0:04:49.340000 - 0:05:01.340000
+aha, model, da, imate model za te, onda na njemu mora vrijedit ta formula ako vrijedi na kanonskom modelu.;0:05:01.340000 - 0:05:11.340000
+Vrijedženje na kanonskom modelu je dovoljno.;0:05:11.340000 - 0:05:14.340000
+Ali mislim da zapravo čak možda može i lakše, da vam ne treba kanonski model, da jednostavno možete reći;0:05:15.340000 - 0:05:24.340000
+bilo koja dva modela, bilo koja dva modela pozitivne teorije, aha, da, da, da, to svakako, ali primijetite da te za sad nemam da je pozitivno,;0:05:27.340000 - 0:05:42.340000
+da je pozitivno, dače, da sad imam samo da je konsistentna i da je očuvana na homoerotizmu.;0:05:43.340000 - 0:05:47.340000
+Dobro, znači, to je onda to.;0:05:47.340000 - 0:05:49.340000
+Dobro, i sad opet naravno potpuno isto kao i uvijek, dakle gledam skup svih pozitivnih posljivica;0:05:50.340000 - 0:05:57.340000
+i sad kaže, naravno, klasa modela od T je pod skup klase modela za T crtica, kao i uvijek.;0:06:00.340000 - 0:06:06.340000
+A u drugom smjeru, ako je nešto model za T crtica, onda je pozitivno ekvivalentan kanonskom modelu.;0:06:06.340000 - 0:06:18.340000
+Da, i sad to je kao ova tvrdnja, ali svarno mislim da je sad već dokaz na dovoljno visokoj razine da ga nijedan ne mogu baš potpuno pratiti.;0:06:22.340000 - 0:06:31.340000
+Ali dobro.;0:06:31.340000 - 0:06:33.340000
+I još samo jedan teorem očuvanja, dakle, na one reducirane produkte.;0:06:34.340000 - 0:06:41.340000
+Dakle, to su kao ultraprodukti, ali ne s obzirom na ultrafilter, nego s obzirom na bilo kakav filter.;0:06:41.340000 - 0:06:47.340000
+Onda naravno, za ultraprodukte vidimo da je sve očuvano, to je Walshof teorem,;0:06:47.340000 - 0:06:52.340000
+a sad je zgodno pitanje, ako nemam ultrafilter, nego imam bilo kakav filter, šta će biti očuvano?;0:06:52.340000 - 0:06:57.340000
+I to su zapravo elementarne, odnosno zapravo hornove formule, ali ajmo prvo definirati elementarne hornove formule.;0:06:57.340000 - 0:07:03.340000
+To su, znači, elementarne konjunkcije u kojima je najviše jedan konjunkt bez negacije.;0:07:03.340000 - 0:07:08.340000
+Dakle, svi ostali su nekakve atomarne formule sa negacijom.;0:07:08.340000 - 0:07:12.340000
+Naravno, primijetite, same atomarne formule jesu hornove formule, jer jednostavno jedna smije biti,;0:07:12.340000 - 0:07:20.340000
+aha, najviše jedna, znači negacija atomarne formule je isto elementarna hornova,;0:07:20.340000 - 0:07:25.340000
+jer jednostavno može biti nula ovih bez negacije.;0:07:25.340000 - 0:07:28.340000
+E sad, za n veći od 1, šta zapravo možemo reći?;0:07:28.340000 - 0:07:32.340000
+Naravno, konjunkcija je semantički komutativna, dakle sve jedno je zapravo kojim redom pišem konjunkte,;0:07:32.340000 - 0:07:38.340000
+pa mogu uvijek reći neki ovaj zadnji taj koji je posibili atomaran.;0:07:38.340000 - 0:07:43.340000
+Znači, ako imam atomaran, onda ga stavim na zadnje mjesto i onda mogu reći zapravo ovo,;0:07:43.340000 - 0:07:48.340000
+znači svaki od preostalih je negacija nekog Gi i onda je naravno lako vidjeti da je opši oblik takve hornove,;0:07:48.340000 - 0:07:55.340000
+takve elementarne hornove formule ovo. Znači, konjunkcija nekakvih Geova povlači nekakav Ha.;0:07:55.340000 - 0:08:01.340000
+Gdje su svi ovi atomarni?;0:08:01.340000 - 0:08:04.340000
+Dok, naravno, ako ni jedan konjunkt nije atomaran, onda tu negacija,;0:08:05.340000 - 0:08:13.340000
+konjunkcija negacija, demorgan, znači negacija, ne disjunkcija, sorry.;0:08:13.340000 - 0:08:20.340000
+Krivo sam napisao. Da, da, znači disjunkcija, pardon.;0:08:24.340000 - 0:08:29.340000
+Mislim, samo gledam šta je od toga krivo, ali ovo je krivo.;0:08:30.340000 - 0:08:34.340000
+Dakle, treba pisati disjunkcija, to ću svojako popravit.;0:08:35.340000 - 0:08:41.340000
+U svakom slučaju, šta mogu nekako reći, elementarne hornove formule su na neki način;0:08:44.340000 - 0:08:50.340000
+u isvijesnom smislu deterministične u zaključivanju.;0:08:53.340000 - 0:08:56.340000
+Dakle, šta ovo zapravo kaže?;0:08:56.340000 - 0:08:58.340000
+Ako sam ja zaključio na neki način G1 do Gn-1,;0:08:58.340000 - 0:09:01.340000
+onda ja mogu podući srtu i reći, aha, onda mi vrijedi i Ha.;0:09:01.340000 - 0:09:04.340000
+A šta mi ovo kaže zapravo?;0:09:04.340000 - 0:09:06.340000
+Ako sam ja zaključio G1 do Gn, ja mogu zatvoriti tu granu,;0:09:06.340000 - 0:09:09.340000
+jer jednostavno znam da je dekontradiktorna.;0:09:09.340000 - 0:09:12.340000
+Gledate samo to, onda nekako nema grananja.;0:09:14.340000 - 0:09:17.340000
+U glavnom testu nekako nema mogućnosti nedeterminizma.;0:09:20.340000 - 0:09:24.340000
+Dobro, uglavnom, hornova formula je dobivena od elementarnih hornovih formula;0:09:27.340000 - 0:09:35.340000
+pomoću konjunkcije, dakle, sva disjunkcija je bila tamo u elementarnim hornovim formulama.;0:09:35.340000 - 0:09:41.340000
+Znači sad smijem koristiti konjunkciju i smijem koristiti kvantifikatore.;0:09:42.340000 - 0:09:46.340000
+Naravno, onda preneksna normalna forma kaže da te kvantifikatore mogu izvesti na početak;0:09:46.340000 - 0:09:51.340000
+i svarno, budući da imam samo konjunkciju i disjunkciju, to je ok.;0:09:51.340000 - 0:09:55.340000
+Znači svaka je takva neški kvantifikator i onda nakon toga ide konjunkcija;0:09:55.340000 - 0:10:01.340000
+elementarnih hornovih formula.;0:10:01.340000 - 0:10:04.340000
+Dobro, i sad opet, na primjer, teorija grupa, dobro, ali i teorija prstena.;0:10:05.340000 - 0:10:12.340000
+Mogu se aksijomatizirati sa hornovim formulama.;0:10:12.340000 - 0:10:16.340000
+Evo, ali, na primjer, ova teorija polja ne može, baš zato sam napisao onaj aksijom;0:10:18.340000 - 0:10:24.340000
+da svaki ne nula element ima invers, kad ga napišete bez ovih negacija,;0:10:24.340000 - 0:10:29.340000
+dakle, onda vidite da je ovo primjer kao fol elementarne hornove,;0:10:29.340000 - 0:10:32.340000
+ali, nažalost, nije jer su obje pozitivne.;0:10:32.340000 - 0:10:35.340000
+Nijedna od njih nema negaciju, obje su atomarne u smislu jednakosti;0:10:35.340000 - 0:10:39.340000
+kao relacijskog simbola. Evo, ovo su neki kvantifikatori.;0:10:39.340000 - 0:10:42.340000
+Dakle, i kaže, to zapravo, sad, treba vidjeti da se to zapravo ne može;0:10:42.340000 - 0:10:47.340000
+zapisati u nekom ekvalentnom obliku, ali to će kao i prije slijediti iz;0:10:47.340000 - 0:10:51.340000
+teorema očuvanja. A teorem očuvanja će reći, dakle, to je očuvanje;0:10:51.340000 - 0:10:55.340000
+za reducirane produkte. Prihjetimo se samo, dakle, reducirani produkt;0:10:55.340000 - 0:10:59.340000
+nekakve familije sigma struktura je, dakle, imaš nekakvu familiju sigma struktura;0:10:59.340000 - 0:11:04.340000
+i imaš, indeksirano sa nekakvim i, i imaš neki filtr F nad i.;0:11:04.340000 - 0:11:09.340000
+Dakle, reducirani produkt je onda obični kartezijev produkt, po tom i,;0:11:10.340000 - 0:11:15.340000
+pocijepan po relaciji ekvivalencije, znači to stvarno je relacija ekvivalencije,;0:11:17.340000 - 0:11:22.340000
+bez obzira na to što ovo nije ultrafiltr, dovoljno je da bude filtr.;0:11:22.340000 - 0:11:27.340000
+Dakle, nekakav pocijetni skup, dakle, i klase definirate da su u odgovarajućim;0:11:28.340000 - 0:11:34.340000
+relacijama ili interpretacijama relacijskih simbola ili što već treba,;0:11:35.340000 - 0:11:40.340000
+na potpuno isti način kao i, kao i inače, kao i za utaklut.;0:11:40.340000 - 0:11:45.340000
+Ali onda naravno imamo očuvanje, kaže zapravo, ako...;0:11:47.340000 - 0:11:51.340000
+Dobro, ovo sam potpuno glupo stopisao.;0:11:51.340000 - 0:11:56.340000
+Aha, ne, nisam, F nije formula, je F filtr.;0:11:57.340000 - 0:11:59.340000
+Dobro, znači, ako filtr glasa za to da formula vrijedi,;0:12:00.340000 - 0:12:04.340000
+odnosno sve strukture, dovoljno struktura u smislu filtra, glasa za formula A,;0:12:05.340000 - 0:12:12.340000
+onda i reducirani produkt glasa za formula A.;0:12:13.340000 - 0:12:17.340000
+Dakle, to kažem da imam ultra produkt, onda bi to trivialno vrijedilo za svaku formulu,;0:12:17.340000 - 0:12:21.340000
+ali ovako će to vrijediti za Hornove formule.;0:12:22.340000 - 0:12:25.340000
+Dakle, vidimo nekako, Hornove formule su one koje nemaju nedeterminizma;0:12:26.340000 - 0:12:30.340000
+u ustanovljavanju istinitosti, a onda zapravo su reducirani produkti dovoljni.;0:12:30.340000 - 0:12:37.340000
+Dakle, nekako, razlog zašto nam općenik da treba i ultra produkt je što se;0:12:38.340000 - 0:12:42.340000
+povremeno se trebamo prebaciti u neki negirani svijet.;0:12:42.340000 - 0:12:46.340000
+To je ono što nam ovdje nije potrebno.;0:12:47.340000 - 0:12:50.340000
+Dobro, univerzalna Hornova formula je ono isto, samo, dakle, nemam,;0:12:52.340000 - 0:12:58.340000
+zabranjeni su mi je existencijalni kvantifikatore,;0:12:58.340000 - 0:13:01.340000
+onda to bi tu kuovi svi moraju biti univerzalni.;0:13:01.340000 - 0:13:04.340000
+Dobro, i sad, aha, tu čak nije ništa rečeno o dokazu, ali u redu.;0:13:06.340000 - 0:13:12.340000
+Znači, ovo je jedan teorema o očuvanju, a ovo je drugi teorema o očuvanju.;0:13:13.340000 - 0:13:17.340000
+Dakle, zatvorene formule su ekvivalentne univerzalnim Hornovim formulama,;0:13:17.340000 - 0:13:23.340000
+ako i samo ako su očuvane istodobno za reducirane produkte i podmodele.;0:13:23.340000 - 0:13:28.340000
+To nije tako čudno, jer, naravno, ovakva univerzalna Hornova formula;0:13:28.340000 - 0:13:32.340000
+je između ostalog univerzalna formula. Znači, ovo tu je nekakva otvorena formula,;0:13:32.340000 - 0:13:36.340000
+ovo tu su univerzalni kvantifikatori, dakle, nekako, prilično je jasno da iz A slijedi B.;0:13:36.340000 - 0:13:41.340000
+E, ali ono što je možda bizarno, dakle, da u slučaju univerzalnih,;0:13:43.340000 - 0:13:47.340000
+neopće ni to, ali u slučaju univerzalnih, ovo reducirane se može zamijeniti sa konačne produkte.;0:13:47.340000 - 0:13:53.340000
+Dakle, zapravo je dovoljno gledat konačan produkt struktura, dakle, nekako, naravno,;0:13:53.340000 - 0:13:59.340000
+onda su nad konačnim skupom faktora, ultraprodukti su trivialni, ali reducirani nisu.;0:13:59.340000 - 0:14:06.340000
+Znači, ja mogu imat nekakav filtr koji nešto zanimljivo tvrdi o tom konačnom skupu;0:14:06.340000 - 0:14:11.340000
+i to je očuvanje na to je dovoljno zahtijevati da bude ekvivalentna nekoj univerzalnoj.;0:14:11.340000 - 0:14:17.340000
+Nisam sigurno, da, mislim, prilično sam zapravo uvjeren da je ovdje bitno da se radi baš o formuli,;0:14:17.340000 - 0:14:22.340000
+ne o teoriji, dakle, ne mogu više raditi one foresa sa beskonačno mnogo formula.;0:14:22.340000 - 0:14:26.340000
+Naravno, konačno mnogo mogu jer univerzalni kvantifikatori komutiraju sa konjunkcijama,;0:14:26.340000 - 0:14:32.340000
+konjunkcija univerzalnih formula je opet ekvivalentna univerzalnoj formuli,;0:14:32.340000 - 0:14:36.340000
+samo za beskonačne skupove, za beskonačne teorije to ne bih vjerojatno mogao reći.;0:14:36.340000 - 0:14:42.340000
+Jer, mislim, naravno onda mi sigurno konačno mnogo faktora nije dovoljno.;0:14:42.340000 - 0:14:47.340000
+Dobro, i to je to o zakonima očuvanja, o teorijama očuvanja.;0:14:49.340000 - 0:14:54.340000
+Znači, ovaj zadnji zapravo uopće nije ništa rečeno o dokazu, ali možda je bolje tako.;0:14:55.340000 - 0:15:01.340000
+Ajmo na sljedeću temu, a to se zove omašivanje tipova,;0:15:03.340000 - 0:15:06.340000
+ili nekako izostavljanje možda ja bih rekao bolje, ali dobro.;0:15:06.340000 - 0:15:11.340000
+Mislim, u engleskom je omitting, pa onda ovaj sad taj om počinje sa lista dva slova,;0:15:11.340000 - 0:15:17.340000
+pa se nekom ne činilo zgodno.;0:15:17.340000 - 0:15:20.340000
+Uglavnom, znači, što bi tip zapravo bio?;0:15:20.340000 - 0:15:23.340000
+Evo, tu piše intuicija, dakle, uvijek se tipove gledaju na nekom konkretnom teorijom,;0:15:23.340000 - 0:15:28.340000
+dakle, imat ćemo nekakvu sigma teoriju i bit će zgodnije da bude potpuno.;0:15:28.340000 - 0:15:35.340000
+E sad, što bi bio tip? Kao nekako, ajmo reći, beskonačna konjunkcija,;0:15:36.340000 - 0:15:41.340000
+u smislu, konjunkcija beskonačnog formula.;0:15:42.340000 - 0:15:44.340000
+Sad će neko reći, pa to je zapravo teorija, je li? Ima smisla,;0:15:44.340000 - 0:15:47.340000
+ali teorija je zapravo i slabija i jača od toga.;0:15:47.340000 - 0:15:52.340000
+Dakle, slabija u smislu da ne može imati slobodne varijable,;0:15:52.340000 - 0:15:57.340000
+a tip je opet u nekom smislu ograničen, smije imat slobodne varijable,;0:15:57.340000 - 0:16:02.340000
+ali sve skupa konačno mnogo njih.;0:16:02.340000 - 0:16:04.340000
+Dakle, tip zapravo je nešto što govori o konačno mnogo objekata,;0:16:04.340000 - 0:16:09.340000
+ali o njima može reći beskonačno mnogo tvrdje,;0:16:09.340000 - 0:16:12.340000
+jel' ono, beskonačno dugu, dugačku tvrdju.;0:16:12.340000 - 0:16:15.340000
+I to se onda obično zove n-tip, gdje je n taj broj, broj objekata u kojima tip govori.;0:16:16.340000 - 0:16:22.340000
+Znači n-tip teorije T, puno ime, ali kažemo u teoriju T, ćemo obično izostavljati,;0:16:22.340000 - 0:16:27.340000
+je skup formula koji je zatvoren na konjunkciju.;0:16:29.340000 - 0:16:33.340000
+To zapravo hoće reći da imitira beskonačnu konjunkciju.;0:16:33.340000 - 0:16:36.340000
+Dakle, kad gotovo uzmeš konačno mnogo formula iz tog tipa,;0:16:36.340000 - 0:16:40.340000
+njihova konjunkcija je opet iz tog tipa.;0:16:40.340000 - 0:16:42.340000
+A sve slobodne varijable svih tih formula iz S su u ovom skupu x1 do xn.;0:16:43.340000 - 0:16:49.340000
+Dakle, nekako stvarno mogu unutrenjati beskonačno mnogo formula,;0:16:49.340000 - 0:16:53.340000
+ali one ne mogu se svako malo predomišljati beskonačno mnogo puta o čemu će govoriti.;0:16:53.340000 - 0:16:58.340000
+Nego samo govore o n objekata i sad čisto radi jednostavnosti kasnijeg pisanja;0:16:58.340000 - 0:17:03.340000
+dogovorimo se da tih n varijabli su baš x1 do xn.;0:17:03.340000 - 0:17:07.340000
+Dobro, e sad, šta znači da neki niz elemeneta u nosaču nekog modela za T realizira tip?;0:17:09.340000 - 0:17:16.340000
+Naravno to znači da kad ga uvrstim u tip, da, no, no, kao,;0:17:16.340000 - 0:17:20.340000
+s obzirom na tu valuaciju je tip istinit.;0:17:20.340000 - 0:17:22.340000
+Šta znači da je tip istinit? Znači da su sve formule u njemu istinite.;0:17:22.340000 - 0:17:26.340000
+S obzirom na tu istu valuaciju.;0:17:27.340000 - 0:17:29.340000
+Model realizira ako ga realizira nekim nizom, e, ovome, dakle,;0:17:30.340000 - 0:17:35.340000
+sad ja znam kako je, možda već, tip;0:17:35.340000 - 0:17:41.340000
+između dva broja postoji proizvodno konačno mnogo brojeva.;0:17:41.340000 - 0:17:55.340000
+Znači, postoji jedan, to je kao gustoća, postoje dva, postoje tri, postoje četiri i tako dalje.;0:17:55.340000 - 0:18:01.340000
+Ovaj, znači, ako ja ovu dvojcu na početku shvatim kao slobodne varijable,;0:18:01.340000 - 0:18:15.340000
+a ove sve ostale kao vezane, onda će to biti neki dva tip.;0:18:15.340000 - 0:18:19.340000
+I on je, naprimjer, u Q realiziran, znači tamo uzmeš broje 7 i 9,;0:18:20.340000 - 0:18:26.340000
+mislim bilo koje dva racionalna broja je on,;0:18:27.340000 - 0:18:29.340000
+i između njih uvijek postoji proizvodno konačno mnogo racionalnih brojeva,;0:18:29.340000 - 0:18:33.340000
+dakle, to što ima, jel?;0:18:33.340000 - 0:18:35.340000
+Ali, recimo, nije realiziran u Z, jer, ono, ako uzmeš bilo koja je dva broja,;0:18:35.340000 - 0:18:40.340000
+bilo koji niz od dva elementa, ovaj, on neće realizirat taj tip,;0:18:40.340000 - 0:18:47.340000
+jer jednostavno u Z svaka dva broja su konačno udaljene,;0:18:47.340000 - 0:18:50.340000
+između njih ima samo konačno mnogo, dakle, ne mogu nikako sve formule izrezati.;0:18:50.340000 - 0:18:55.340000
+Znači, Z omašuje taj tip, tip gustoće, tip proizvodnog profinjavanja intervala.;0:18:59.340000 - 0:19:07.340000
+Dobro, samo da vidimo nekakve veze onoga što smo prije vidjeli,;0:19:09.340000 - 0:19:14.340000
+znači nekakve elementarne equivalencije, elementarni podmodeli i to sa tipovima.;0:19:14.340000 - 0:19:20.340000
+Znači, vrlo jednostavno, ako je M elementarni podmodel od N,;0:19:20.340000 - 0:19:24.340000
+onda se nekako čuva to da se neki tip realizira,;0:19:25.340000 - 0:19:31.340000
+ali ne samo to nego se čuva točno i niz kojim se realizira.;0:19:31.340000 - 0:19:34.340000
+Naravno, ako su ovi tu iz ovog manjeg,;0:19:34.340000 - 0:19:37.340000
+da se treba opisati ovaj nosač, ali dobro,;0:19:37.340000 - 0:19:40.340000
+onda ne samo da je ovaj tip realiziran i u N, nego ga realizira taj isti.;0:19:43.340000 - 0:19:49.340000
+Jer naravno, za svaku pojedinu formulu iz S vrijedi,;0:19:49.340000 - 0:19:53.340000
+ako vrijedi ovdje, onda vrijedi ovdje i to sa istim elementima,;0:19:53.340000 - 0:19:58.340000
+dogod su oni iz nosača ovog manjeg.;0:19:58.340000 - 0:20:00.340000
+A druga napomena kaže, ako su dva modela izomorfna,;0:20:02.340000 - 0:20:08.340000
+onda na isti način realiziraju ili omašuju tipove.;0:20:08.340000 - 0:20:12.340000
+Jednostavno, sad taj izomorfizam koristite da biste preslikali niz koji realizira;0:20:14.340000 - 0:20:18.340000
+u jednom ili drugom smjeru.;0:20:18.340000 - 0:20:20.340000
+Tip je konsistentan ako postoji model koji ga realizira.;0:20:24.340000 - 0:20:27.340000
+Dakle, isto kao i formula.;0:20:27.340000 - 0:20:29.340000
+Samo što je ovo sad beskonačna konjunkcija,;0:20:29.340000 - 0:20:31.340000
+ali i dalje ispunjiv tip, ali če se kaže konsistentan tip,;0:20:31.340000 - 0:20:37.340000
+je onaj koji ima model.;0:20:37.340000 - 0:20:39.340000
+I sad ono što je zanimljivo, znači vrijedi lema koja je zapravo,;0:20:40.340000 - 0:20:44.340000
+dajmo reći nekakvo poupčenje ili možda samo drugačiji iskaz teorema potpunosti,;0:20:44.340000 - 0:20:50.340000
+koji kaže zapravo tip je konsistentan ako i samo ako ima,;0:20:52.340000 - 0:20:57.340000
+ima model, naravno, po definiciji, ali ako i samo ako ima prebrojeni model.;0:20:57.340000 - 0:21:01.340000
+To je također equivalentno sa ovim tu.;0:21:03.340000 - 0:21:06.340000
+Znači sa zapravo da ja ne moram uopće reći konkretne objekte,;0:21:06.340000 - 0:21:11.340000
+ja mogu samo existencijalno zatvoriti tu formulu i reći,;0:21:11.340000 - 0:21:14.340000
+aha, ta formula mora biti posljedica ove te.;0:21:14.340000 - 0:21:18.340000
+Naravno, to je sad puno, na prvi pogled puno manje od reći da u nekom konkretnom modelu;0:21:19.340000 - 0:21:24.340000
+postoje neki konkretni, u nosaču postoje konkretni objekti,;0:21:24.340000 - 0:21:27.340000
+ali na drugi pogled i nije tako puno manje jer je te potpuna teorija.;0:21:27.340000 - 0:21:31.340000
+Pa imamo da naravno reći da nešto vrijedi u nekom konkretnom modelu;0:21:31.340000 - 0:21:34.340000
+je više manje isto što i reći da vrijedi u teoriji.;0:21:34.340000 - 0:21:37.340000
+Dobro, znači kaže, imam tu sad tri tvrdnje,;0:21:38.340000 - 0:21:41.340000
+s je konsistentan, postoji prebrojivi model koji ga je realizira;0:21:41.340000 - 0:21:44.340000
+i ova tu existencijalno zatvorenje ovog tipa.;0:21:44.340000 - 0:21:49.340000
+Dakle, druga tvrdnja povlači prvu, naravno, jer ako postoji prebrojivi model,;0:21:50.340000 - 0:21:54.340000
+onda postoji model, znači naravno, trivialno, samo da ne marim to da je model prebrojiv.;0:21:54.340000 - 0:21:58.340000
+Prva tvrdnja povlači treću, zašto?;0:22:00.340000 - 0:22:03.340000
+Dobro, tu sad ima pisanja, znači s je konsistentan.;0:22:04.340000 - 0:22:08.340000
+Dobro, znači ima model koji realizira s.;0:22:08.340000 - 0:22:11.340000
+Naravno, model za teoriju T, cijelo vrijeme imam tip na T.;0:22:24.340000 - 0:22:29.340000
+Naravno, na primjer, što ja znam, kad sam htio tamo reći da između svaka dva broja ima proizvodnog konačnog,;0:22:29.340000 - 0:22:34.340000
+onda ova teorija bi bila, na primjer, teorija ovih gustih linijarnih uređaja bez kranjih točaka,;0:22:34.340000 - 0:22:40.340000
+jer onda mora biti potpuna, onda ne mogu zeje, znači zemlji i gusti.;0:22:40.340000 - 0:22:48.340000
+Dobro, treba malo zanimljivije primjere smisliti,;0:22:48.340000 - 0:22:52.340000
+ali uglavnom, ako ne mora teorija T biti potpuna, onda, na primjer, teorija uređaja,;0:22:52.340000 - 0:22:58.340000
+jel, znači, svakako, želim da bih mogo uopće o tome prišet, da, na primjer, uređaj bude transitivan,;0:22:58.340000 - 0:23:03.340000
+to mi je u toj nekoj baznoj teoriji.;0:23:03.340000 - 0:23:05.340000
+Ili barem da bude i refleksivan, znači, naravno, trivialno, između svaka dva broja imam proizvodnog mnogo brojeva,;0:23:08.340000 - 0:23:14.340000
+ako je između sva ćemo uključivo.;0:23:14.340000 - 0:23:16.340000
+Tako da, na te stvari treba pasiti i tome upravo služi ova teorija T.;0:23:17.340000 - 0:23:21.340000
+Znači, model, naravno, model za T.;0:23:21.340000 - 0:23:23.340000
+Ok, sad prva tvrnja, podloči treću. Dakle, trebam dokazati da za sve formule iz S vrijedi ovo tu.;0:23:23.340000 - 0:23:32.340000
+Kako ću to dokazati? Pa tako da jednostavno uzmem nekakav konkretan niz koji realizira tu formulu,;0:23:32.340000 - 0:23:39.340000
+to mogu jer je S konsistentan, i jednostavno valuiram ove xeve sa tim a ovima,;0:23:39.340000 - 0:23:47.340000
+i to je to, osim što nije jer, dakle, ja trebam dokazati da je to posljedica od T,;0:23:48.340000 - 0:23:58.340000
+a ne od ovog gema, ali to je, kažemo, ova priča, dakle, T je potpuna, pa je onda,;0:23:58.340000 - 0:24:03.340000
+to smo dokazali, dakle, svaka dva modela neke potpune teorije su elementarno i kvalitativne.;0:24:03.340000 - 0:24:09.340000
+Činjenica da to vrijedi u M je dovoljna da zakričujem da to vrijedi u svakom modelu za T,;0:24:09.340000 - 0:24:13.340000
+odnosno da je to posljedica, logička posljedica od T.;0:24:13.340000 - 0:24:17.340000
+Dobro, i sad, znači, još je preostala druga prvu trivialno, prva treću relativno trivialno,;0:24:20.340000 - 0:24:28.340000
+e sad, treća drugu, to je naravno ono gdje je stvarno treba iskonstruirat nekakav preproveden model,;0:24:28.340000 - 0:24:36.340000
+ali to je, naravno, ćemo se pozvati na teorijem potpunosti.;0:24:36.340000 - 0:24:40.340000
+Dakle, kaže ovako, dodam prvo N konstantnog, dakle, moram nekako to svesti na Henkinovu konstrukciju,;0:24:41.340000 - 0:24:49.340000
+e sad, naravno, Henkinova konstrukcija kaže, dodaš nove konstantne simbole,;0:24:49.340000 - 0:24:54.340000
+to je da ćemo napraviti i ovih, dakle, dodamo nekih N, to je sad lijepo da nam je dovoljno kuno,;0:24:54.340000 - 0:25:01.340000
+znači mnogo imena, e, dakle, tip je N tip, dodam N imena, novih konstantnih simbola,;0:25:01.340000 - 0:25:07.340000
+međusobno različitih i, naravno, da nisu elementi iz sigma i to odlačim sa sigma crtica;0:25:07.340000 - 0:25:13.340000
+i jednostavno kažem da za njih, za te nove objekte, kakvih god se oni zvali, vrijedi taj tip S.;0:25:13.340000 - 0:25:21.340000
+To dodam u teoriju T.;0:25:22.340000 - 0:25:24.340000
+E, i sad ključ je vidjeti da je T crtica, dakle, da sam ovim dodavanjem nisam ništa pokvario,;0:25:26.340000 - 0:25:30.340000
+nisam postigao nekakvu inkonzistentnost, jer, kaže, naravno,;0:25:30.340000 - 0:25:35.340000
+ako ne bi bila konsistentna, po teoriju M.O.K. bilo bi konačno mnogo ovih i konačno mnogo ovih,;0:25:35.340000 - 0:25:41.340000
+takvi da bi to i da je bilo neispunjivo, međutim, kaže, ak uzmeš sve ove i konjunkciju njih napraviš,;0:25:41.340000 - 0:25:51.340000
+to možeš jer je konačno, ali, sjetite se, tip je zatvoren na konjunkciju, dakle,;0:25:51.340000 - 0:25:57.340000
+to je također element iz S. Dakle, nekako, ne samo da po teoriju M.O.K.;0:25:57.340000 - 0:26:03.340000
+postoji konačno mnogo ovih koji su u kontradikciji s T, nego bi ispalo da postoji jedna ova,;0:26:03.340000 - 0:26:08.340000
+konkretna, koja je u kontradikciji s T, dobro, jer je zatvorena konjunkcija.;0:26:08.340000 - 0:26:13.340000
+E, ali, vjerojatno, jak je jedna ta kontradiktorna sa T, to hoću reći da je njezina negacija;0:26:13.340000 - 0:26:18.340000
+logička posljedica od T, jer je T potpuna, no.;0:26:18.340000 - 0:26:21.340000
+Jer šta to zapravo znači? Ona je kontradiktorna sa T, znači nema model za T i za G,;0:26:21.340000 - 0:26:33.340000
+odnosno svaki model za T nije model za G. Nije model za G, znači jest model za negaciju G.;0:26:33.340000 - 0:26:43.340000
+Dobro, u svakom slučaju, to mi je sad dovoljno, opet ova priča, C1 do Cn se ne pojavljuje u sigma,;0:26:44.340000 - 0:26:54.340000
+a T je nad sigma, dakle T ne zna ništa o C1 do Cn, dakle on može dokazati univerzalnu tvrdnju.;0:26:54.340000 - 0:27:00.340000
+A univerzalnu tvrdnju mogu dokazati u obliku, mogu univerzalnu tvrdnju od negacije,;0:27:00.340000 - 0:27:05.340000
+mogu tu negaciju izvući van i dobiti da T događuje negaciju ove tu formule.;0:27:05.340000 - 0:27:11.340000
+Međutim, to je naravno kontradikcija sa trećom tvrdnjem.;0:27:11.340000 - 0:27:14.340000
+Treća tvrdnja kaže da sve ovakve formule T ih dokazuje, odnosno su logičke posteljice od T.;0:27:14.340000 - 0:27:20.340000
+I sad naravno, mislim, ovo je bilo da je konsistentna.;0:27:20.340000 - 0:27:32.340000
+I iz Lehmann-Holmst-Colombova, znači sad kažem, sad mogu primjeriti sve ove stvari koje sam dokazao za teorije,;0:27:34.340000 - 0:27:40.340000
+na primjer Lehmann-Holmst-Colombova na dolje, ima ta teorija T crtica, ima prvo ovaj modul.;0:27:40.340000 - 0:27:46.340000
+I sad naravno T crtica je na dolu sigma crtica, dakle u njoj znam što su C1 do Cm,;0:27:46.340000 - 0:27:52.340000
+to su jednostavno nekakvi objekti koji su u toj strukturi interpretirani ti konstantski simboli;0:27:52.340000 - 0:28:01.340000
+i ti objekti očito realiziraju taj tip.;0:28:01.340000 - 0:28:06.340000
+Aha, dakle naravno moram još maknut formalno te, znači jednom kad sam ih interpretirao i rekao;0:28:10.340000 - 0:28:16.340000
+aha to su neki elementi nosača, onda ih maknem iz signature, dakle sigma redukciju napravim.;0:28:16.340000 - 0:28:23.340000
+Ali naravno to ne utječe na kardinalnost nosača, dakle i dalje je pribrojio.;0:28:23.340000 - 0:28:27.340000
+Dobro, e sad, kaže ovo, pomoć u levoj diagramu dokazuje se u skripti, ali ne, nije teško.;0:28:29.340000 - 0:28:39.340000
+Ali ima, ima pisanja. Dvije sigma strukture su elementarno ekvalentne,;0:28:40.340000 - 0:28:45.340000
+dakle, sjećajte se, ako imam elementarno proširenje, onda je sigurno ono i elementarno ekvalentno,;0:28:45.340000 - 0:28:52.340000
+ili elementarni podmodel je elementarno ekvalentno.;0:28:52.340000 - 0:28:54.340000
+Ali ovo zapravo kaže u drugom smjeru. Čim imam dvije elementarno ekvalentne strukture,;0:28:54.340000 - 0:29:01.340000
+onda postoji jedna struktura koja je u nekom smislu elementarno proširenje obje od njih.;0:29:01.340000 - 0:29:08.340000
+To, naravno, nije doslovno istina, jer one mogu jednakim imenima zvat neke različite objekte.;0:29:08.340000 - 0:29:16.340000
+Evo, naprimjer, šta ja znam, uzmem, valjda najlakše, u tom neki totalno urađen skup,;0:29:16.340000 - 0:29:24.340000
+moraj na barem tri elemente, ja mislim, i onda ga drugačije urađujem.;0:29:24.340000 - 0:29:31.340000
+Dakle, ove dvije strukture su očito elementarno ekvivalentne, čak su izumorfne,;0:29:39.340000 - 0:29:49.340000
+ali teško ću naći neku koja je elementarno proširenje jedne i druge,;0:29:49.340000 - 0:29:55.340000
+jer je u jednoj od njih jedan manji od dva, a u drugoj je veći.;0:29:55.340000 - 0:29:59.340000
+Jasno? Dakle, elementarno proširenje mora čuvati identitet pojedinih objekata.;0:29:59.340000 - 0:30:06.340000
+Ali da bi se to onda riješilo, onda se kaže, aha, ne može doslovno biti elementarno proširenje obje,;0:30:06.340000 - 0:30:12.340000
+ali može uvijek biti elementarno proširenje jedne i druge u kojoj si drugačije nazvao objekte.;0:30:12.340000 - 0:30:18.340000
+Dakle, izumorfne kopije ove druge.;0:30:18.340000 - 0:30:21.340000
+Dobro? I to se dokaže pomoću lema-diagramu.;0:30:21.340000 - 0:30:25.340000
+Dakle, ak se predpostavlja da su nasačidi sjunkni, onda lema-diagramu prolazi.;0:30:25.340000 - 0:30:29.340000
+Uvijek se može postići da su nasačidi sjunkni, tako da se u jednoj,;0:30:29.340000 - 0:30:33.340000
+mogu se i uobje, ali u jednoj je dovoljno da se preimeno uobje.;0:30:33.340000 - 0:30:37.340000
+Dobro, lema kaže, ako imaš potpunu teoriju, imaš model za tu potpunu teoriju;0:30:40.340000 - 0:30:46.340000
+i imaš konzistentan tip, aha, znači, ne samo da je, dakle,;0:30:46.340000 - 0:30:53.340000
+konsistentan kažem u smislu svaki, svaka njegova formula je realizirana jedim te istim nizom.;0:30:53.340000 - 0:30:59.340000
+Onda postoji sigma struktura koja je elementarni nadmodel od M;0:30:59.340000 - 0:31:06.340000
+i također realizira S.;0:31:06.340000 - 0:31:12.340000
+Čekajmo, zašto bih sam jednostavno uzeo n1 koje je...;0:31:12.340000 - 0:31:18.340000
+Aha, da, ovdje kaže samo da je konsistentan, dakle, ne kaže da baš ga M realizira.;0:31:23.340000 - 0:31:32.340000
+M je nekakav model, a S je realizirana nekakvom M crtica.;0:31:32.340000 - 0:31:36.340000
+Ali onda, naravno, na M i M crtica primijenim ovu konstrukciju;0:31:36.340000 - 0:31:40.340000
+i dobijem N takav da je doslovno elementarni nadmodel od ovoga,;0:31:40.340000 - 0:31:44.340000
+a s druge strane jest elementarni nadmodel od izomorfne kopije;0:31:44.340000 - 0:31:49.340000
+od onog koji realizira S.;0:31:49.340000 - 0:31:52.340000
+Dakle, onda naravno koristim činjenicu da se realizacija čuva kroz izomorfizam;0:31:52.340000 - 0:31:59.340000
+i dobijem da N također realizira S.;0:31:59.340000 - 0:32:03.340000
+Da, to je to.;0:32:04.340000 - 0:32:06.340000
+Dobro, šta znači izoliran tip?;0:32:08.340000 - 0:32:11.340000
+Dakle, ovo, izoliran od strane neke formule zapravo.;0:32:11.340000 - 0:32:23.340000
+Šta to zapravo hoće reći?;0:32:24.340000 - 0:32:27.340000
+To je u uskoj vezi sa konstrukcijom takozvanih unutarnjih modela.;0:32:27.340000 - 0:32:34.340000
+Dakle, G je na neki način karakterizacijska formula;0:32:34.340000 - 0:32:41.340000
+koja vam na neki način kaže koje objekte u modelu vi želite promatriti.;0:32:41.340000 - 0:32:46.340000
+Recimo, na primjer, kad radite teoriju skupova, onda imate formulu;0:32:46.340000 - 0:32:50.340000
+koja kaže neki skup je prirodan broj.;0:32:50.340000 - 0:32:53.340000
+I onda sad možete gledati unutar modela za teoriju skupova,;0:32:53.340000 - 0:32:57.340000
+možete gledati samo one koji zadovoljavaju tu formulu.;0:32:57.340000 - 0:32:59.340000
+I ti onda čine, na primjer, model za neku manju teoriju, recimo.;0:32:59.340000 - 0:33:03.340000
+Da li ja vam ovo reći nekim kodom?;0:33:03.340000 - 0:33:05.340000
+Dakle, ako to mogu iskazati u obliku formula.;0:33:05.340000 - 0:33:09.340000
+Dakle, ovo svojstvo je valjda ono koje bih htio.;0:33:09.340000 - 0:33:12.340000
+Dakle, izolirati S zapravo znači da S bude posljedica,;0:33:12.340000 - 0:33:16.340000
+odnosno da svaka formula iz S bude ne nužno sad više istinita za sve.;0:33:16.340000 - 0:33:22.340000
+X1 do Xn, ali za one Xeve koji zadovoljavaju formulu G.;0:33:26.340000 - 0:33:32.340000
+Naravno, G bi trebalo onda imati iste slobodne varijable kao i ovaj tip.;0:33:32.340000 - 0:33:37.340000
+Inače, nema baš puno smisla da govorim o tamo.;0:33:37.340000 - 0:33:39.340000
+Ali to nije dovoljno. Zašto? Zato što nekako želimo da naši modeli,;0:33:39.340000 - 0:33:44.340000
+pa čak i unutarnji modeli, budu neprazni.;0:33:44.340000 - 0:33:46.340000
+Dakle, trivijalno bi nekakva antitautologija,;0:33:46.340000 - 0:33:51.340000
+formula koja je uvijek lažna, bi trivijalno izolirala svaki tip.;0:33:51.340000 - 0:33:54.340000
+A to ne želimo jer nekako, ne želimo da prazan model bude,;0:33:54.340000 - 0:33:57.340000
+prazna struktura bude model za svaku formulu.;0:33:57.340000 - 0:34:00.340000
+Pa onda još dodatno postuliramo da je u te stvarno posljednice;0:34:00.340000 - 0:34:07.340000
+da postoje nekakvi X1 do Xn koji zadovoljavaju G.;0:34:07.340000 - 0:34:12.340000
+Evo sad, onda je S izoliran ako postoji formula koja ga izolira.;0:34:13.340000 - 0:34:17.340000
+Ali inače, naravno, bez ovog dodatnog uvijeta svaki tip bi bio izoliran;0:34:17.340000 - 0:34:22.340000
+jer bi ga izolirala nekakva lažnju.;0:34:22.340000 - 0:34:26.340000
+Dobro, zgodno je vidjeti da ako je S izoliran,;0:34:27.340000 - 0:34:31.340000
+onda svaki model teorije T realizira S.;0:34:31.340000 - 0:34:35.340000
+Kak' to?;0:34:35.340000 - 0:34:37.340000
+T je potpuna valjda, pa je dovoljno vidjeti da ga jedan model...;0:34:40.340000 - 0:34:44.340000
+Ha, to je, da, ova tu priča zapravo u uskoj vezi sa valjda tu pričom.;0:34:44.340000 - 0:34:52.340000
+Ali nisam potpuno siguran.;0:34:52.340000 - 0:34:54.340000
+Ima kao nekakav dokaz.;0:34:57.340000 - 0:34:58.340000
+Znači imaš, dobro, izoliran je, onda ima nekakva formula koja ga izolira.;0:34:58.340000 - 0:35:03.340000
+I T je...;0:35:04.340000 - 0:35:06.340000
+Čak' niko ne kaže da je konsistentna, ali...;0:35:08.340000 - 0:35:10.340000
+Svaki model, pa ako takvih ima, super, ako nema, onda trivialno.;0:35:10.340000 - 0:35:13.340000
+Znači neka je M, proizvodni model za T.;0:35:14.340000 - 0:35:17.340000
+Da, i sad, od T je logička postirica, ova egzistencijalno kvantificirana G,;0:35:19.340000 - 0:35:25.340000
+pa onda imaš nekakve elemente nosača za koje vrijedi taj G.;0:35:25.340000 - 0:35:30.340000
+A onda, naravno, opet, ovo je također postirica od T,;0:35:30.340000 - 0:35:35.340000
+pa mogu sad ove x, y interpretirat' konkretno baš s tim malim.;0:35:35.340000 - 0:35:39.340000
+I to je to.;0:35:41.340000 - 0:35:42.340000
+Činjenica da T vrijedi u ovo, s obzirom na to da je T dovoljno jaka,;0:35:42.340000 - 0:35:48.340000
+zapravo kaže da imaš nekakve konkretne objekte a1 do n,;0:35:48.340000 - 0:35:51.340000
+i onda s njima možeš realizirat' ovoj tip.;0:35:51.340000 - 0:35:54.340000
+I ono što je zanimljivo, dakle, dobro, ovo je samo drugi način da se to iskaže lijepo,;0:35:55.340000 - 0:35:59.340000
+dakle, svaki izolirani tip je konsistentan.;0:35:59.340000 - 0:36:02.340000
+Jer, naravno, čim je izoliran, svaki model ga realizira,;0:36:02.340000 - 0:36:08.340000
+dakle, ako je konsistentan onda ima model, onda i tip je konsistentan.;0:36:08.340000 - 0:36:13.340000
+E, ali, vjerujem li, ne samo to, nego zapravo vrijedi i obrat.;0:36:13.340000 - 0:36:16.340000
+Ako je tip konsistentan, onda je izoliran.;0:36:16.340000 - 0:36:19.340000
+To je teorijamo omašivanje tipova.;0:36:19.340000 - 0:36:21.340000
+Odnosno, dakle, da kažem,;0:36:22.340000 - 0:36:24.340000
+to je obrat, ovo smo ga kazali.;0:36:32.340000 - 0:36:35.340000
+Ovo se može još, dakle, konsistentan znači zapravo postoji neka struktura koja ga realizira,;0:36:37.340000 - 0:36:44.340000
+onda je izoliran.;0:36:47.340000 - 0:36:48.340000
+Ili po kontrapoziciji, ako nije izoliran, onda ne postoji struktura koja ga realizira.;0:36:49.340000 - 0:36:57.340000
+Odnosno, svaka struktura ga omašuje.;0:36:57.340000 - 0:37:02.340000
+Znači, neizolirani tip svaki model moje teorije omašuje.;0:37:05.340000 - 0:37:11.340000
+Ne, krivo, krivo, krivo.;0:37:19.340000 - 0:37:21.340000
+Svaki model realizira, ono, više nije.;0:37:23.340000 - 0:37:26.340000
+Nerealizira je svaki, onda ima neki koji ga omašuje.;0:37:32.340000 - 0:37:36.340000
+Ali ne samo to, naravno, opet, standardni trik, imitacija Leuenheimskog lemovog teorema,;0:37:36.340000 - 0:37:44.340000
+kaže da zapravo ne samo da ima, nego ima prebrojenje.;0:37:44.340000 - 0:37:47.340000
+Ali to ćemo, naravno, dobiti iz ove leme.;0:37:48.340000 - 0:37:51.340000
+Aha, nećemo.;0:37:55.340000 - 0:37:56.340000
+Da, baš treba kompletnu henkenizaciju provesti.;0:37:56.340000 - 0:38:01.340000
+Da, aj, probajmo na brzinu.;0:38:01.340000 - 0:38:04.340000
+Dakle, evo, to je ova priča.;0:38:04.340000 - 0:38:08.340000
+E, ali, sad, bih rekao nekad davno da ćemo u budući gledati samo normalne strukture.;0:38:08.340000 - 0:38:17.340000
+Nažalost, ovdje nije moguće. Dakle, taj model koji je prebrojev se zapravo dobije iz Leuenheimskog lema,;0:38:17.340000 - 0:38:26.340000
+nekako gledajući ovu teoriju T.;0:38:26.340000 - 0:38:29.340000
+I onda on ne mora biti normalan.;0:38:29.340000 - 0:38:31.340000
+Osjetimo se da je ovo bilo nakon što smo Leuenheimskog lema dokazali.;0:38:31.340000 - 0:38:35.340000
+Ali zapravo možemo i više.;0:38:35.340000 - 0:38:38.340000
+Znači, takav model jest normalan, u smislu, možemo pretpostaviti da je normalan,;0:38:38.340000 - 0:38:42.340000
+ako unutar T postoji nešto što se zove akcijom jednakosti.;0:38:42.340000 - 0:38:46.340000
+Dakle, ono, logički iskazano ono što mi od jednakosti želimo.;0:38:46.340000 - 0:38:50.340000
+Dakle, konkretno, samo dvije su stvari dovoljne.;0:38:50.340000 - 0:38:53.340000
+Mislim, jedna je baš akcijom.;0:38:53.340000 - 0:38:55.340000
+Dakle, svaki objekt je jednak samom sebi, refleksivnost.;0:38:55.340000 - 0:38:58.340000
+A drugo je zapravo nekva šema koja kaže,;0:38:58.340000 - 0:39:00.340000
+ako imaš formulu i dva jednaka objekta, onda uvijek jedan možeš;0:39:00.340000 - 0:39:06.340000
+umjesto drugoga staviti u tu formulu.;0:39:06.340000 - 0:39:08.340000
+Primijetite, na primjer, simetričnost i tranzitivnost jednakoste su posljedice;0:39:08.340000 - 0:39:12.340000
+tog principa substitucije.;0:39:12.340000 - 0:39:14.340000
+To se još ponakad zove Laibnicovo svojstvo ili Laibnicovo princip substitucije.;0:39:14.340000 - 0:39:18.340000
+Jednake stvari možeš zamijeniti u formulama, tako da formula ništa ne primijetinem.;0:39:18.340000 - 0:39:24.340000
+Dobro, znači ako unutar te, unutar ove potpune sigma teorije,;0:39:25.340000 - 0:39:31.340000
+imam i akcijome za jednakost, onda znam da je takav model normalan.;0:39:31.340000 - 0:39:36.340000
+Primijetite da je te potpuna teorija, dakle, nekako,;0:39:40.340000 - 0:39:43.340000
+ako ne sadrži neki akcijomi jednakost, onda bi trebalo,;0:39:43.340000 - 0:39:46.340000
+mislim, zatržavati, uvijek samo biti kao posljedica, negaciju nekoj akcijome jednakosti,;0:39:46.340000 - 0:39:50.340000
+onda naravno jako trebaš kočekivati da imam normalan model.;0:39:50.340000 - 0:39:53.340000
+Ok, znači kaže, jednostavno provedimo Henkijovu metodu,;0:39:53.340000 - 0:39:56.340000
+opet iz početka, dodamo, ne dodamo, prebrojimo, ne,;0:39:56.340000 - 0:40:01.340000
+da, dodamo, dodamo ove, Henkijove svi doke,;0:40:03.340000 - 0:40:07.340000
+znači prebrojimo mnogo novih međusobno različitih konstantkih simbola;0:40:07.340000 - 0:40:13.340000
+u sigma i to nazovemo sigma crtica.;0:40:13.340000 - 0:40:15.340000
+E i konstruiramo sigma crtica teoriju, tako da, sadrži T, potpuna je,;0:40:15.340000 - 0:40:22.340000
+nad sigma, znači, to je teorija nad sigma crtica,;0:40:22.340000 - 0:40:25.340000
+Henkijova je, dakle, sjetimo se, ovako nešto je element od T za svaku pojedinu,;0:40:25.340000 - 0:40:30.340000
+sigma crtica formulu F sa jednom slobodnom variablom,;0:40:30.340000 - 0:40:33.340000
+i ovo tu, znači ovo je novo, za svakih, konačno mnogo tih novih konstantskih simbola,;0:40:34.340000 - 0:40:42.340000
+ima formula u tipu, znači ona može biti konjunkcija nekih manjih formula u tipu,;0:40:45.340000 - 0:40:50.340000
+ali, dakle, jedna konkretna formula, čija negacija,;0:40:50.340000 - 0:40:54.340000
+kad se, ono, kad se interpretiraju ovi, valuiraju ovi,;0:40:56.340000 - 0:41:00.340000
+kad se zamijene ovi x-evi sa d-ovima, je element od T za svaku.;0:41:01.340000 - 0:41:06.340000
+Znači svaki od ovih stvari zapravo kaže, dobro, ovo je malo komplicirano,;0:41:06.340000 - 0:41:11.340000
+ali isto se može u tom smislu reći, ovo, ovo i ovo kaže da;0:41:11.340000 - 0:41:14.340000
+neke stvari moram stavljati u D crtica, i to ću radit u nivojima.;0:41:14.340000 - 0:41:18.340000
+Znači ovo će zapravo reći, za svaku formulu moram ili nju ili nježnju negaciju staviti u D crtica.;0:41:19.340000 - 0:41:23.340000
+Ovo kaže sve iste moram staviti u D crtica.;0:41:24.340000 - 0:41:26.340000
+Ovo kaže, kad got imaš ovo, onda ovo moraš staviti u D crtica.;0:41:27.340000 - 0:41:30.340000
+A ovo kaže, kad got imaš ovo, onda ovo moraš staviti u D crtica.;0:41:31.340000 - 0:41:34.340000
+Znači D crtice samo raste, to je ono što želim reći,;0:41:34.340000 - 0:41:36.340000
+jel' nekako, i sad treba samo ispravnim redom to sve, to sve radit.;0:41:36.340000 - 0:41:40.340000
+Dobro, i sad kaže ovo, ovo je zapravo sad račmanje, jel' ako trebamo normalnu strukturu,;0:41:44.340000 - 0:41:50.340000
+a znamo da T sadrži akcijome jednakosti, onda naravno i T crtice će sadržavati akcijome jednakosti,;0:41:50.340000 - 0:41:57.340000
+onda definiramo relaciju ovak'.;0:41:58.340000 - 0:42:01.340000
+Dakle, da T kaže da su jednaki.;0:42:04.340000 - 0:42:06.340000
+To može biti stvarno da su jednaki, a može biti i nešto drugo, jel' dakle.;0:42:06.340000 - 0:42:10.340000
+Ako su stvarno jednaki, onda T crtice stvarno to kaže, jer T crtice dokazuje refleksivnost jednakosti,;0:42:10.340000 - 0:42:15.340000
+ali obrat ne mora vlijedit.;0:42:15.340000 - 0:42:17.340000
+A inače, ako se to ne zanima, onda stavimo običnu jednakost, to zapravo hoće reći.;0:42:17.340000 - 0:42:21.340000
+Ne zanima nas, mi ćemo radit kao quotient po r, ali on neće biti pitan.;0:42:21.340000 - 0:42:27.340000
+Dobro, detalje ispuštamo, da.;0:42:29.340000 - 0:42:32.340000
+Al' to je ona priča o Henkinau, ak' se sjećate koju sam već pričao kod Henkinaove konstrukcije,;0:42:33.340000 - 0:42:38.340000
+kak' se zapravo ovo radi na klasama i više manje slično.;0:42:38.340000 - 0:42:46.340000
+Jednom kad imam M crtica, onda napravim sigma redukciju, dakle zaboravim šta su ovi ceovi bili;0:42:47.340000 - 0:42:53.340000
+i trebam dokazati da ona omašuje.;0:42:53.340000 - 0:42:56.340000
+Ali više manje, dakle, to je uvijek četiri, uvijek četiri točno to kaže.;0:42:56.340000 - 0:43:02.340000
+Nijedan niz od N elementa, niz ovih klasa ne realizira taj tip.;0:43:02.340000 - 0:43:09.340000
+Dobro, model je za T, jer je model za T crtica, a T je podskup od T crtica i gotovo.;0:43:11.340000 - 0:43:15.340000
+Dakle, sad samo još ovaj, kak' se konstruira T crtica, ali kažem, to je zapravo ova priča.;0:43:15.340000 - 0:43:20.340000
+Enumeriram sve živo i redom slažem cutove.;0:43:21.340000 - 0:43:25.340000
+Dakle, enumeriram sigma crtica rečenice, enumeriram sve formule s jednom slobodnom varijalom,;0:43:25.340000 - 0:43:31.340000
+dakle, ovo mi treba za svojstvo 2, ovo mi treba za svojstvo 3, a ovo mi treba za svojstvo 4.;0:43:31.340000 - 0:43:36.340000
+Dakle, niz svih uređenih entorki iz C.;0:43:36.340000 - 0:43:39.340000
+I jedno i drugo i treće je prebrojivo, dakle, to sve mogu enumerirati i dokazujem,;0:43:40.340000 - 0:43:44.340000
+tako da konstruiram niz teorija.;0:43:45.340000 - 0:43:48.340000
+Dakle, svaki T k će biti T i još nekakav konačni skup rečenica.;0:43:48.340000 - 0:43:53.340000
+Pazićemo da bude konsistentan, pazićemo da raste i to je to, napravo.;0:43:53.340000 - 0:44:00.340000
+I onda ćemo samo staviti uniju.;0:44:00.340000 - 0:44:02.340000
+Teorijam kompaktnosti kaže da je konsistentan jer svaka konačna je zapravo pod skup od nekakvog T k.;0:44:02.340000 - 0:44:08.340000
+Kaže to radimo u 3 etape, odnosno 3, stiklisom 3.;0:44:08.340000 - 0:44:13.340000
+Ako je k dijeljiv sa 3, u fazama koje su dijeljive sa 3, radim ovo,;0:44:17.340000 - 0:44:22.340000
+jel to je ona standardna Lindenbaumova-Lema konstrukcija.;0:44:22.340000 - 0:44:25.340000
+Ako je 3 k plus 1, onda radimo ovo, dakle pobrinem se za henkinost.;0:44:25.340000 - 0:44:31.340000
+A inače ispunjavam uvijek 4 nekako.;0:44:32.340000 - 0:44:38.340000
+Da, mislim da ovo možete probati, probat sam i pročitati.;0:44:42.340000 - 0:44:47.340000
+To je to.;0:44:48.340000 - 0:44:50.340000

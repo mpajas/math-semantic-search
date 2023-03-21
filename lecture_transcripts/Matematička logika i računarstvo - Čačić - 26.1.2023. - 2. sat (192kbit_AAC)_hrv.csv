@@ -1,0 +1,504 @@
+Speech;Timestamp
+Ovo je naša prva kriterija za eliminaciju kvantifikatora.;0:00:00 - 0:00:07
+Ovo je naša prva kriterija za eliminaciju kvantifikatora.;0:00:08 - 0:00:14
+Dobro.;0:00:15 - 0:00:17
+Pojmo dalje.;0:00:21 - 0:00:22
+Dakle, evo, kriteriji za eliminaciju kvantifikatora.;0:00:22 - 0:00:27
+Dakle, ne za teoriju, nego za jednu konkretnu formulu.;0:00:27 - 0:00:31
+Ako to možete za sve formule, onda zapravo imate teoriju;0:00:31 - 0:00:34
+koja je dopušta za eliminaciju kvantifikatora.;0:00:34 - 0:00:37
+Dakle, imate nekakvu formulu u, naravno, signaturi teorije T,;0:00:37 - 0:00:42
+sa n slobodnih variabli i iz nje se mogu eliminirati kvantifikatori;0:00:42 - 0:00:47
+ako i samo ako vrijedi ovo tu.;0:00:47 - 0:00:49
+E sad, šta to kaže?;0:00:49 - 0:00:51
+To kaže ovo, ako imaš dva modela za teoriju;0:00:51 - 0:00:54
+i imaš njihove izomorfne podmodele, dakle,;0:00:54 - 0:00:58
+n vrijedi T, n vrijedi T, imaš podmodel m0 i imaš podmodel n0;0:00:59 - 0:01:12
+i oni su izomorfni,;0:01:12 - 0:01:14
+da bi se ovako dajde,;0:01:15 - 0:01:17
+po nekakvom izomorfizmu F.;0:01:18 - 0:01:21
+Onda zapravo, to je ova priča kao za, šta, kao za jaki,;0:01:24 - 0:01:32
+ne, za jaki, nego za ovaj obični homomorfizam.;0:01:33 - 0:01:37
+Dakle, izomorfizam između ovih je zapravo homomorfizam;0:01:37 - 0:01:43
+između ovih velikih.;0:01:43 - 0:01:46
+Dakle, ali pazite, univerzalno,;0:01:53 - 0:01:56
+kad god imaš nekakve izomorfne podmodele,;0:01:57 - 0:02:00
+taj izomorfizam se zapravo proši, mislim, krivo reći homomorfizam,;0:02:01 - 0:02:09
+jer naravno to vrijedi samo za ove koji su iz nosača ovog manjeg.;0:02:09 - 0:02:14
+Dakle, nije da ja sad moram proširivati F na domenu,;0:02:14 - 0:02:18
+na nosač čitavog ovog M-a, ali dakle, do na to,;0:02:18 - 0:02:22
+to je kao ideja o homomorfizmu.;0:02:23 - 0:02:26
+Da, znači nije dovoljno da ja nađem nekakve,;0:02:35 - 0:02:38
+M0, N0, F i tako to, tako da to vrijedi,;0:02:39 - 0:02:43
+nego zapravo kad god su M0, N0, M1 i F takvi,;0:02:43 - 0:02:47
+onda vrijedi ovo svojstvo.;0:02:47 - 0:02:50
+Dobro.;0:02:50 - 0:02:51
+Znači, ak se iz formule mogu eliminirati kvantifikator i da je to dobro?;0:02:55 - 0:02:58
+Mislim, naravno, jer tu je ova priča M0 je podmodel od M i N0 je podmodel od N.;0:02:58 - 0:03:04
+Znači, jednostavno, ako ja tu imam nekakve ove A1 do A N,;0:03:04 - 0:03:09
+oni, ako i jesu interpretacije nekih konkretnih konstantskih simbola,;0:03:12 - 0:03:17
+s obzirom na to da je podmodel,;0:03:17 - 0:03:19
+bit će interpretacija istih konstantskih simbola i ovdje.;0:03:19 - 0:03:22
+Ako su vrijednosti nekih zatvorenih terma,;0:03:22 - 0:03:24
+bit će vrijednosti tih istih zatvorenih terma i ovdje.;0:03:24 - 0:03:27
+Znači, to je upravo ideja podmodela.;0:03:27 - 0:03:30
+A sad, kak znam da formule vrijede?;0:03:31 - 0:03:35
+Pa tako što formule zapravo smijem predpostaviti ono kao...;0:03:36 - 0:03:40
+Da, ovdje kao piše, za svaku formulu F,;0:03:43 - 0:03:45
+nije čak i napisano, ali podrozumije se,;0:03:45 - 0:03:47
+ali zapravo smijem predpostaviti da je za svaku otvorenu formulu F.;0:03:47 - 0:03:53
+A otvorene formule jesu buovske kombinacije atomarnih,;0:03:54 - 0:03:57
+a za atomarne to slijedi po ideji homorfizma.;0:03:57 - 0:04:02
+Kad u M vrijedi nekakav F, onda vrijedi i gore.;0:04:08 - 0:04:14
+A, ne mogu kao F jer F možda nije otvorena,;0:04:16 - 0:04:19
+ali F je unutar teorije T ekvivalentna nekoj otvorenoj,;0:04:19 - 0:04:23
+a unutar teorije T zapravo znači u svim modelima od T,;0:04:23 - 0:04:26
+pa specijalno u modelu M0 i u modelu M i tako dalje.;0:04:26 - 0:04:30
+Dakle, da, u M zapravo. U M vrijedi F, pa onda vrijedi i g,;0:04:32 - 0:04:37
+ali g je otvorena i za podmodele se otvorene formule čuvaju.;0:04:37 - 0:04:41
+To smo zapravo čak i napravili, ja mislim, kao za osobni rezultat.;0:04:41 - 0:04:46
+Dobro, i onda zapravo, znači, a da, ako ja imam tu, onda imam i tu.;0:04:46 - 0:04:54
+E, onda imam i tu, naravno, jer tu F je izomorfizam,;0:04:54 - 0:04:58
+dakle, tu nije problem. Samo kaže da tu sigurno moram ih preimenovati.;0:04:58 - 0:05:07
+F od A1, ali sve budelje potpuno isto.;0:05:07 - 0:05:14
+E, i sad opet, podmodel, znači, gore, opet sa obzirom na to da se radi o formuli koja je otvorena,;0:05:14 - 0:05:25
+bez kvantifikatora, to sve štima.;0:05:25 - 0:05:28
+I opet, dakle, u T su F i G ekvivalentne, dakle, u svakom modelu od T su F i G ekvivalentni,;0:05:34 - 0:05:41
+a i nije model za T i gotovo. Taj smjer je stvarno jednostavan.;0:05:41 - 0:05:48
+E, a ovdje, nećemo čak zapravo onih dokazati, ali, veli, koristit ćemo pomoć u otvorenju,;0:05:49 - 0:05:55
+čiji dokaz ispuštamo. Lema kaže zapravo ovako nešto.;0:05:55 - 0:06:00
+Ima nekakvu teoriju koja je zatvorena s obzirom na relaciju logičke posteljice.;0:06:00 - 0:06:05
+Dakle, zapravo, ono, možemo reći, ne samo da su nekakvi aksijomi za neku teoriju,;0:06:05 - 0:06:09
+nego i sve njihove logičke posteljice. Dobro.;0:06:09 - 0:06:13
+Fi je nekakva sigma-formula i S je nekakav skup formula zatvoren za disjunkciju,;0:06:15 - 0:06:22
+čije je slobodne varjable... Previše toga tu sad...;0:06:23 - 0:06:27
+Dobro, ništa, ajde. Jednako ne trebamo to dokazati,;0:06:32 - 0:06:36
+samo trebamo absorbirati što to zapravo će reći.;0:06:37 - 0:06:39
+Dobro, znači, T je teorija, zatvorena s obzirom na logu.;0:06:39 - 0:06:50
+Fi je nekakva formula sa m slobodnih varjable u istoj signatori.;0:06:51 - 0:07:01
+I S je nekakav skup zatvoren na disjunkciju.;0:07:02 - 0:07:12
+Dobro, aha, i slobodne varjable su mu x1 do xm.;0:07:17 - 0:07:21
+Dakle, nešto kao mTip, mTip samo ne je zatvoren na konjunkciju, nego na disjunkciju.;0:07:32 - 0:07:38
+No, dobro. I sad kaže, ove dvije tvrnje su ekvivalentne.;0:07:39 - 0:07:47
+Prva tvrnja kaže...;0:07:50 - 0:07:52
+Da je formula Fi, znači ovo o kojoj gore pričam,;0:07:53 - 0:08:02
+ili univerzalno istinita, ili univerzalno lažna,;0:08:02 - 0:08:07
+ili univerzalno ekvivalentna nekoj konjunkciji elementa iz S.;0:08:07 - 0:08:12
+Dakle, to nas sad već podsjeća na disjunktivnu normalnu formu,;0:08:12 - 0:08:16
+ali, dakle, možemo reći ovo je kao nekakva možda savršena,;0:08:16 - 0:08:19
+a ovo su neki specijalni slučajevi.;0:08:19 - 0:08:21
+Znači, u teoriji T vrijedi univerzalno zatvorena Fi,;0:08:23 - 0:08:31
+ili u teoriji T vrijedi univerzalno zatvorena ne Fi,;0:08:31 - 0:08:37
+ili u teoriji T vrijedi...;0:08:37 - 0:08:41
+opet univerzalno zatvoreno...;0:08:42 - 0:08:45
+Fi je ekvivalentno sa konjunkcijom i1 do k Fi i,;0:08:45 - 0:08:52
+gdje su Fi i elementi iz ovog skupa S.;0:08:52 - 0:08:57
+To je tvrnja 1.;0:08:58 - 0:09:00
+A tvrnja 2 kaže ovako.;0:09:02 - 0:09:04
+Tvrnja 2 kaže više manje ovo, samo ne za neke konkretne M0 i S0,;0:09:04 - 0:09:15
+nego jednostavno imaš nekakvih M...;0:09:15 - 0:09:19
+Aha, ok. Znači, ako u M vrijedi Fi,;0:09:28 - 0:09:33
+znači M i N su nekakvi modeli za T.;0:09:34 - 0:09:40
+U M još vrijedi Fi sa nekakvim konkretnim objektima a1 do a1.;0:09:44 - 0:09:57
+I kaže, za te konkretne objekte vrijedi ti ovo kao da ih preslikam po homošizmu.;0:09:58 - 0:10:05
+Mislim, mogu zapravo reći ono, kao da su mi M0 je zapravo,;0:10:05 - 0:10:12
+mislim, naravno, kako bi se to napisao,;0:10:12 - 0:10:14
+ali njegov nosač je samo a1 do am.;0:10:14 - 0:10:21
+A onda, naravno, dalje generiram podmota,;0:10:22 - 0:10:25
+šta to već znači, restringiram konstantske, relacijske, šta već treba, funkcijske simbole,;0:10:25 - 0:10:30
+ali, dakle, kao da ne imam ništa drugo u tom M0, osim baš tih M objekata,;0:10:30 - 0:10:36
+i isto tako N0 na drugoj strani.;0:10:36 - 0:10:39
+I onda, naravno, mislim, ja uvijek mogu napravit' trivialno ovo preslikavanje F,;0:10:39 - 0:10:43
+tako da jednostavno svaki pojedini a preslikam u b.;0:10:43 - 0:10:46
+Znači, jednostavno, predpostavka mi je da takvo preslikavanje F,;0:10:46 - 0:10:51
+F preslikava a u b, a i u bi, je izomorfizam, ali zapravo čak manje.;0:10:51 - 0:10:58
+Predpostavka je zapravo da je kao homomorfizam,;0:10:58 - 0:11:01
+i to ne za sve formule, nego samo za formule iz S.;0:11:01 - 0:11:04
+Kad god to vrijedi, dakle, nekako, imam ovo preslikavanje a u b,;0:11:08 - 0:11:15
+koje čuva formule iz S, i u M vrijedi Fi na tim a ovima,;0:11:15 - 0:11:26
+tada na N vrijedi Fi sa tim b ovima.;0:11:26 - 0:11:33
+Dobro, dosta komplicirano za uopće shvatit' šta se hoće,;0:11:37 - 0:11:42
+ali jasno je negako da kad čovjek kaže to,;0:11:42 - 0:11:45
+aha, ovako neko preslikavanje a u b ti čuva S,;0:11:45 - 0:11:49
+kad god čuva sve formule iz S, onda čuva i formulu Fi,;0:11:49 - 0:11:53
+to bi zapravo nekako značilo da je Fi nekakva konjunkcija elementa iz S.;0:11:53 - 0:11:57
+Odnosno, bolje rečeno, Fi je nekakva bulovska kombinacija elementa iz S,;0:11:57 - 0:12:01
+ali s obzirom na to da sam predpostavio da je Z zatvorena na disjunkciju,;0:12:01 - 0:12:04
+dovoljno je uzeti konjunkciju elementa iz S.;0:12:04 - 0:12:07
+Ali, a da, nije, opet tako, jednostavno, naravno, pitanje šta je s negacijom i tako,;0:12:07 - 0:12:11
+vrlo je petljavo ovo za uopće shvatit' šta se tu zapravo hoće veći.;0:12:11 - 0:12:16
+Dobro, uglavnom, zatim se dogaže da iz tvrdnje B teorema slijedi tvrdnja 2leme.;0:12:18 - 0:12:23
+Znači, dobro, tvrdnja B teorema je ona tvrdnja sa, to je to, B.;0:12:23 - 0:12:29
+B povlači 2, zašto? Zato što, da, zato što ako ja imam F i imam M0 i M1,;0:12:38 - 0:12:45
+onda mi je jako jednostavno ovo napraviti, jednostavno,;0:12:45 - 0:12:48
+B-ovi su mi upravo F-a dao, i to, u tom smjeru što imaju.;0:12:48 - 0:12:54
+Samo, ono što ja htio je nekako shvatit' ovo kao, ovo gore, kao slučaj ovog dalje.;0:12:54 - 0:13:01
+Čak kaže da ni to, onda ni tako, jednostavno, dobro.;0:13:08 - 0:13:11
+Za to treba poopćenje leme u dijagramu.;0:13:11 - 0:13:14
+Šta oni zapravo hoće reći? Još, dakle, kao relativni dijagram,;0:13:17 - 0:13:24
+znači dijagram s obzirom na nekakav x koji je podskup nosača.;0:13:24 - 0:13:28
+Dakle, šta tu zapravo dobijem? Dobijem zapravo, ah, sjeći te one Mx, šta je to?;0:13:29 - 0:13:35
+To je M koji je proširen sa pojednim konstantkim simbolom za svaki element od x;0:13:35 - 0:13:42
+koji je interpretiran tim konkretnim elementom.;0:13:42 - 0:13:46
+Dakle, ako je x, skup prirodnih brojeva, i još tu sad dodam 3, 4, 7,;0:13:46 - 0:13:57
+to mi je zapravo, onda gledajmo, model skup prirodnih brojeva.;0:13:58 - 0:14:07
+Tu su mi šta već treba, 0 plus puta sljedbenim bla, bla.;0:14:09 - 0:14:14
+I još na kraju dodam 3 konstantska simbola koji su 0 plus puta sljedbenim,;0:14:15 - 0:14:26
+kod kodnik C1, C2, C3, koji su interpretirani sa konkretnim brojevima 3, 5 i 7.;0:14:27 - 0:14:36
+Ej, sad kaže, ali one otvorene formule koje su nad signaturom sigma x;0:14:39 - 0:14:44
+i vrijede u Mx, smiju koristiti i ove novo uvedene konstantske simbole.;0:14:44 - 0:14:51
+Nismo ih odnašavali, smo ih sada valjda A, ne, to smo kao,;0:14:51 - 0:14:57
+odnašavali je zapravo sa nadvučenim.;0:14:57 - 0:15:00
+Tako je, ovo, a pa nadvučeno.;0:15:03 - 0:15:06
+Ej, i sad kaže, M se može smijestiti u sigma strukturu.;0:15:09 - 0:15:15
+Ej, koji je samo ako postoji ekspansija koja je model,;0:15:15 - 0:15:22
+to smo, ono, kao, postoji ekspansija koja je model za jednostavni dijagram,;0:15:23 - 0:15:29
+to smo zapravo vidjeli, elementarno smijestiti ako tu piše potpunni dijagram.;0:15:29 - 0:15:34
+Ej, ali ovdje kao više, znači, zahitavamo da bude model za skup formula ovih,;0:15:35 - 0:15:42
+znači, relativni dijagram s obzirom na nekakav x koji generira M.;0:15:43 - 0:15:49
+Znači, što znači da generira? Znači da kad ja zatvorim,;0:15:49 - 0:15:53
+odnosno kad uzmem nekako najmanji podmodel od M koji sadrže x,;0:15:53 - 0:15:57
+to će biti čitav M.;0:15:57 - 0:15:59
+Nemogu niš' manje uzeti.;0:16:00 - 0:16:03
+Naravno, za prijatne prave je tovalo jednostavno,;0:16:03 - 0:16:05
+dovoljno mi je uzeti 0 unutra, jer pomoć u sredbenika od 0;0:16:05 - 0:16:11
+mogu doći do svih prijatnih brojeva.;0:16:11 - 0:16:14
+Ali, općajanje to, naravno, može biti dosta zanimljivo,;0:16:15 - 0:16:17
+jer, napr. što ja znam, za realne brojeve ova x mora biti neprebrojiva.;0:16:17 - 0:16:22
+Kad god dodam imena za još prebrojeva, mnogo realnih brojeva,;0:16:22 - 0:16:26
+sigurno ću i dalje dobiti ne definibilne, jer ih ima previše.;0:16:26 - 0:16:31
+Tako da...;0:16:31 - 0:16:33
+Dobro, kaže izranije ljeme slijedi jedan.;0:16:35 - 0:16:40
+A, to je ova sintaksna priča.;0:16:45 - 0:16:47
+Dakle, ovaj...;0:16:47 - 0:16:49
+Kad iz...;0:16:51 - 0:16:53
+Ovo će već izove ljeme.;0:17:02 - 0:17:05
+Dakle, teorija te dopušta eliminaciju kvantifikatora ako i samo ako je;0:17:07 - 0:17:12
+svaka primitivna i istencijalna formula...;0:17:13 - 0:17:16
+Znači, za ove vrlo jednostavne formule ja mogu zapravo eliminirati kvantifikator.;0:17:17 - 0:17:24
+Da, ali ne bih rekao da iz ljeme slijedi, nego bih rekao da iz načina dokaza slijedi.;0:17:24 - 0:17:29
+Dakle, ono da zapravo opet istu stvar primjenim.;0:17:29 - 0:17:33
+Disjunktivna normalna forma i eliminacija ovih single egzistencijalnih kvantifikatora.;0:17:33 - 0:17:44
+No, dobro, i sad kao još treba dokazati da je jedan povlači A, jer valjda ja;0:17:45 - 0:17:50
+želim dokazati da je jedan ekvivalentno sa dva, da je B povlači dva i ovaj...;0:17:50 - 0:18:04
+To mi je opet sad čudno, znači...;0:18:21 - 0:18:25
+Ja želim... opet mi se čini da dokazujem u krivom smjeru.;0:18:26 - 0:18:31
+Dakle, koristim ovu ekvalenciju jedna i dva da bih dokazao ekvalenciju između A i B.;0:18:32 - 0:18:38
+Onda mi neće pomoć ove stvari.;0:18:39 - 0:18:43
+Da li ti neće pomoć?;0:18:51 - 0:18:55
+Pa, hoće, jer naravno jedan i dva su ekvalentni, onda su negacije od jedan i negacije od dva ekvalentni.;0:18:56 - 0:19:01
+Negacija od A povlači negaciju od jedan, što je ekvalentno sa negacijom od dva,;0:19:02 - 0:19:09
+što povlači negaciju od B.;0:19:10 - 0:19:13
+Što ima? Kontrapozicija samo ovaj...;0:19:16 - 0:19:19
+Ehm...;0:19:21 - 0:19:23
+Dobro, zašto je jedan povlači A, zašto je to sad opet sintaksna priča?;0:19:24 - 0:19:28
+Znači, jedan su nekakva tri slučaja, ili ovo, ili ovo, ili ovo.;0:19:29 - 0:19:33
+U svakom od tih slučajeva ja zapravo želim dokazati A, dakle, želim zapravo naći...;0:19:34 - 0:19:39
+Za svake od tih slučajeva želim eksplicitno eliminirati kvantifikator iz F.;0:19:40 - 0:19:44
+Naravno, ako je ta formula universalno istinita,;0:19:45 - 0:19:48
+kak se iz nje eliminira kvantifikator, pa tako da napišeš formulu...;0:19:48 - 0:19:51
+Zato je važno, ona smije imati slobodne varijable,;0:19:52 - 0:19:55
+napišeš formulu x1 jednako x1.;0:19:55 - 0:19:58
+Ona je očito ekvivalentna formuli F s obzirom na sve one varijable.;0:19:58 - 0:20:03
+Naravno, to funkcionira ako ovih varijabli ima.;0:20:04 - 0:20:06
+Ako ih nema, onda ništa napravo.;0:20:06 - 0:20:08
+Onda stavim dg baš jednak F.;0:20:08 - 0:20:10
+Isto je važan, specijalni slučaj, ali isto funkcionira.;0:20:10 - 0:20:14
+Ako ima barim jednu varijablu, onda mogu tu varijablu iskoristiti;0:20:14 - 0:20:17
+da bi napisao otvorenu formulu koja je ekvivalentna.;0:20:17 - 0:20:20
+Dobro, i potpuno analogno, dakle, ako je univerzalno lažno, onda opet...;0:20:21 - 0:20:25
+Ako nema uopće varijabli, onda samo nju prepišem.;0:20:25 - 0:20:28
+Ako ima barim jednu varijablu, onda iskoristim tu varijablu;0:20:28 - 0:20:31
+da bi napisao negaciju od x1 jednako x1.;0:20:31 - 0:20:34
+I to je opet ekvivalentno.;0:20:34 - 0:20:36
+E sad, naravno, najzanimljiviji slučaj je ovaj kad je stvarno;0:20:37 - 0:20:40
+ekvivalenta nekoj konjunkciji elementa iz S, ali onda zapravo;0:20:40 - 0:20:44
+ta konkretna konjunkcija elementa iz S jest dobra jer formule u S;0:20:44 - 0:20:50
+nemaju kvantifikatora.;0:20:50 - 0:20:52
+I to je to, mislim, jednostavno, baš to točno kaže.;0:20:56 - 0:21:00
+Ovo mogu ugurati umjesto g.;0:21:00 - 0:21:04
+Znači, jednostavno, kad napravim konjunkciju formula koje su otvorene,;0:21:04 - 0:21:07
+onda će ona opet biti otvorena i to je to.;0:21:07 - 0:21:10
+Dobro...;0:21:12 - 0:21:13
+Aha, dobro, ova napomena zapravo samo kaže da možu zapravo;0:21:28 - 0:21:33
+isto vjetit ove M0 i N0 jer naravno su izomorfni pa onda nije bitno.;0:21:33 - 0:21:38
+Znači, jednostavno, kad god imaš dvojicu modela koji su takvi da imaju;0:21:38 - 0:21:42
+zajednički model, zajednički podmodel, ovaj M0 je zapravo podmodel i od M i od N.;0:21:42 - 0:21:48
+Onda, mislim, samo je onda puno jednostavnije ovo napisati jer ne moram;0:21:49 - 0:21:53
+petljestiti mefom, ali zapravo kaže isto.;0:21:53 - 0:21:57
+A to je ona standardna priča, opet, koju sam već pričao nekoliko puta.;0:21:57 - 0:22:01
+Znači, kad čovjek ima, šta ja znam, model za prirodne brojeve,;0:22:01 - 0:22:06
+za parovartmetiku recimo ima prirodne brojeve, skup prirodnih brojeva,;0:22:06 - 0:22:10
+i onda želi ga proširiti na nekakav model za nekakav prsten,;0:22:10 - 0:22:14
+šta već, komutativni prsten s jedinicom, onda to dodaje adjetivne inverze,;0:22:14 - 0:22:18
+napravi Z.;0:22:18 - 0:22:19
+Ali način na koji se to obično radi, način na koji se obično konstruira Z je ono;0:22:19 - 0:22:24
+kao Z tije omega puta omega, znači model za prirodne brojeve,;0:22:24 - 0:22:30
+ali po nekakvoj relaciji.;0:22:30 - 0:22:32
+Ako to doslovno tako definiraš, onda ti omega nije pod skup od Z.;0:22:37 - 0:22:42
+Jer jednostavno imaš prirodni broj 1 i cijeli broj 1 koji nema nikakve verze;0:22:42 - 0:22:46
+s drugim, znači to je.;0:22:46 - 0:22:48
+Ali onda to možeš uvijek napraviti tako da kažeš, aha, ne zapravo tako,;0:22:50 - 0:22:54
+nego imaš nekakvo ulaganje.;0:22:54 - 0:22:56
+Znači, Z crtica, ovaj J ide sa omega u Z crtica i onda ja pravi Z;0:22:56 - 0:23:06
+definiram kao Z iz kojeg izvadim J od omega i ubacim na njegovo mjesto;0:23:07 - 0:23:16
+pravi omega i redefiniram konstantska simbola, na primer 0 mi sad označava;0:23:16 - 0:23:22
+pravu 0 u omega, jedinica mi označava kao jedinica uprstenu;0:23:22 - 0:23:26
+pravu jedinicu iz omega i tako dalje.;0:23:26 - 0:23:29
+I redefiniram naravno sve ove funkcijske interpretacije, zbranje i što već;0:23:29 - 0:23:35
+i to funkcionira. Znači, to je i dalje model za istu teoriju,;0:23:35 - 0:23:38
+samo sam ja unutarnje ove stvari sa koje sam već imao imena;0:23:38 - 0:23:42
+eksplicitno eliminirao njihova nova imena i uveo natrag stara imena za njih.;0:23:43 - 0:23:49
+To smo onda mogli napraviti i ovdje.;0:23:50 - 0:23:53
+Umjesto da ja imam nekakav m i n koji su nekakvi i sad m0 i n0 tu,;0:23:53 - 0:23:57
+ja zapravo mogu reći aha, m je takav, m0 je takav, a n0 smijem pretpostaviti;0:23:57 - 0:24:02
+da je baš jednaka n0. Novi n ću dobiti tako da jednostavno iz starog n;0:24:02 - 0:24:07
+izvadim onaj n0 i umjesto njega ubacim m0.;0:24:07 - 0:24:10
+I sve redefiniram. I to je naravno... opet, jer je izomorfizam;0:24:11 - 0:24:16
+nekako ne razlikuje što vrijedi i što ne vrijedi.;0:24:16 - 0:24:20
+Dobro, i to je ta priča, valjda o kriteriju za eliminaciju kvantifikatora.;0:24:22 - 0:24:29
+Zanimljivo je vidjeti, nije teško, da teorije iz kojih se mogu eliminirati kvantifikatori,;0:24:30 - 0:24:38
+znači iz čijih formula se mogu eliminirati kvantifikatori,;0:24:38 - 0:24:41
+su uvijek modelno potpune. Sjetimo se, modelno potpuno zapravo znači;0:24:41 - 0:24:45
+da kad imaš podmodel, onda je on elementarni podmodel.;0:24:45 - 0:24:49
+Odnosno nekako kad... mislim, a sad je onda valjda jasno što se tu zapravo hoće.;0:24:50 - 0:24:54
+Jer biti podmodel zapravo znači da ona nekakva implikacija vrijedi za sve otvorene formule,;0:24:54 - 0:25:00
+odnosno mislim u definiciji piše da vrijedi za atomarne formule,;0:25:00 - 0:25:03
+ali ono se lako vidi da vrijedi i za njihove bulovske kombinacije.;0:25:03 - 0:25:06
+Dakle, ovo kaže da nešto vrijedi za otvorene formule,;0:25:06 - 0:25:11
+a ovo kaže da to isto vrijedi za sve formule.;0:25:11 - 0:25:14
+Znači, naravno ako su sve formule ekvivalentne nekim otvorenim formulama, onda je to to.;0:25:14 - 0:25:20
+Kaže inkluzija, dakle s obzirom na to da jest podmodel, imam inkluziju,;0:25:28 - 0:25:34
+znači nosač je podskup i znači mogu jednostavno te iste stvari ostaviti na miru;0:25:34 - 0:25:40
+i to je homorfizam, naravno. Jaki homorfizam?;0:25:40 - 0:25:45
+Znaš li da vrijedi u drugom smjeru?;0:25:47 - 0:25:48
+No vrijedi jer to su isti objekti, dakle u drugom smjeru ne treba vrijedi za sve iz N,;0:25:48 - 0:25:53
+nego samo za sve koji su bili iz M, to onda naravno opet vrijedi.;0:25:53 - 0:25:57
+I injektivan je, zašto? Jer je inkluzija, naravno.;0:25:57 - 0:26:01
+Dobro.;0:26:02 - 0:26:03
+I sad treba vidjeti ovo važno svojstvo,;0:26:06 - 0:26:09
+ali međutim, kaže za svaku formulu, zapravo s obzirom na to da imam eliminaciju kvantifikatora u T,;0:26:09 - 0:26:15
+mogu to gledati za svaku otvorenu formulu, ali svaka otvorena formula je bulovska kombinacija atomarnih,;0:26:15 - 0:26:22
+a za atomarne to vrijedi po definiciji jako homorfizma.;0:26:22 - 0:26:27
+I gotovo.;0:26:27 - 0:26:28
+Dobro. E sad, činjenica je, nekako, modelna potpunost ima veze sa potpunošću,;0:26:29 - 0:26:40
+u smislu nekako jedno i drugo kaže nešto o izražajnoj snazi teorije,;0:26:40 - 0:26:44
+ali čovjek bi rekao nekako na nezavisne načine.;0:26:44 - 0:26:48
+Dakle, postoje teorije koje su potpune, a nisu modelno potpune i obrvota.;0:26:48 - 0:26:52
+Evo, jedan primjer, dakle, ovaj famozni, da je LONE;0:26:53 - 0:26:57
+primjer potpune teorije koja nije modelno potpuna.;0:27:02 - 0:27:06
+Zašto nije modelno potpuna? Zato što, znači, ako imaš neki podmodel od Q,;0:27:06 - 0:27:13
+da ti ne mora biti elementarni podmodel od Q.;0:27:15 - 0:27:18
+To mi je teško povirovati.;0:27:23 - 0:27:26
+Dakle, jer naravno mora biti model, ja bih uzel ono Q presječen sa nečim,;0:27:40 - 0:27:45
+ali ne valja.;0:27:45 - 0:27:48
+A dobro, niko ne kaže da moraš krenut od Q, moraš krenut od R.;0:27:53 - 0:27:56
+Dakle, podmodel od R, dobro, sad bi čovjek mogo uzet Q,;0:27:56 - 0:28:00
+ali Q jeste elementarni podmodel od R, tako da to isto nije dobar primjer.;0:28:00 - 0:28:06
+Da, nisam baš siguran. Dobro.;0:28:16 - 0:28:19
+Teorija od N sa samo sljedbenikom, dakle, to je daleko manje od ovih modela za panovo arizmetiko.;0:28:28 - 0:28:34
+Dakle, imam samo skup prirodnih brojeva i sljedbenik.;0:28:34 - 0:28:37
+A ovaj isto kaže je potpuna. Zašto je potpuna?;0:28:37 - 0:28:41
+Jer valjda jedino što uopće mogu iskazati u toj teoriji,;0:28:41 - 0:28:44
+s obzirom na to da nemam niš, imam samo jedan funkcijski simbol,;0:28:44 - 0:28:48
+dakle imam jednakost jedino od relacijskih simbola.;0:28:48 - 0:28:51
+Jedino što zapravo mogu reći je da dva zatvorena terma,;0:28:51 - 0:28:56
+jedine rečenice su u obliku da su dva zatvorena terma jednaki.;0:28:56 - 0:29:00
+Kad će takva rečenica biti istinita? Kad ima jednak broj S-ovaj na jednoj i na drugoj strani, naravno.;0:29:06 - 0:29:12
+To se onda uvijek može dokazati pomoću aksioma da je sljedbenik i ektivan.;0:29:14 - 0:29:21
+A zašto je taj aksiom UTH od NS?;0:29:21 - 0:29:24
+Pa zato što naravno vrijedi u N sa sljedbenikom,;0:29:24 - 0:29:26
+u kanonskoj strukturi prirodnih brojeva sa sljedbenikom.;0:29:26 - 0:29:29
+Dakle, da, to je fakat jednostavno dokazat da je potpuna.;0:29:29 - 0:29:32
+Ali opet, zašto nije modelo potpuno? Dakle, da ja imam dva podmodela,;0:29:32 - 0:29:36
+jedan drugom podmodel i jedno i drugo su modeli za TH od N sljedbenik.;0:29:37 - 0:29:42
+Ali nisu elementarni.;0:29:44 - 0:29:46
+Mislim, čovjek bi jednostavno rekao, ha, imam nekakve...;0:29:56 - 0:29:59
+Znači, jedan je ovaj pravi, ovi prirodni brojevi, a drugi jednostavno nakon nekakvog vremena se vrati na početak.;0:30:02 - 0:30:11
+Ali je problem u tom da to nije onda model za TH od NS, jer u TH od NS svakako vrijedi,;0:30:11 - 0:30:16
+na primjer, injektivnost sljedbenika.;0:30:16 - 0:30:19
+Ha, ček, vada. Ha, fora. Ovo je injektivno zapravo.;0:30:21 - 0:30:27
+Možda da stvarno je.;0:30:33 - 0:30:35
+No dobro.;0:30:36 - 0:30:37
+Znači, naravno, ako uzmem ovu cijelu stvar za peana, onda to znamo da nije modelno potpuno,;0:30:41 - 0:30:46
+jer postoje nestandardne modele.;0:30:46 - 0:30:49
+Ali da, dosta ovak čudno mi je da se to samo tako kaže, bez puno objašnjenja.;0:30:52 - 0:30:59
+Ali dobro. Ranije smo vidjeli, znači u drugom smjeru,;0:31:00 - 0:31:04
+smo vidjeli da ACF, dakle ono algebarski zatvorena polja,;0:31:04 - 0:31:07
+algebraically closed field, znači nije potpuna.;0:31:07 - 0:31:11
+Dakle, to smo vidjeli iz toga da, recimo, ne može ništa znati o karakteristici polja.;0:31:12 - 0:31:17
+Znači, jednostavno, postoje stvari koje su karakteristike, ne znam, tri,;0:31:18 - 0:31:25
+stvari koje su karakteristike sedam i one nisu međusobno izomorfne,;0:31:25 - 0:31:31
+ali jedno i drugo su algebarski zatvorene.;0:31:31 - 0:31:34
+Međutim, kaže, dokazat ćemo da ta teorija jest modelno potpuna.;0:31:36 - 0:31:39
+Nekako intuitivna ideja je da kad imate podmodel, onda on mora biti iste karakteristike.;0:31:39 - 0:31:44
+A karakteristika je jedino što se zapravo treba, smije razlikovati.;0:31:44 - 0:31:48
+I onda u tom smislu jest modelno potpuna, ali kažem, ima još dosta da tamo.;0:31:50 - 0:31:54
+Dobro, ajmo vidjeti što bi bio osnovni model.;0:31:56 - 0:31:59
+Dakle, osnovni model je neki model za teoriju koji je takav da se nalazi u svakom modelu.;0:31:59 - 0:32:07
+Mislim, naravno da ne možemo reći da se doslovno nalazi u svakom modelu za teoriju,;0:32:07 - 0:32:10
+ali njegova izomorfna kopija se nalazi u svakom modelu za teoriju.;0:32:10 - 0:32:14
+Dakle, za teoriju DLONE to je očito Q.;0:32:14 - 0:32:17
+Dakle, naravno, R je zanimljiv, ali kao model za DLONE ili imate raznih nekakvih drugih modela,;0:32:17 - 0:32:24
+ono tipa Q, šta ja znam, konačna proširenja, u, kako se to piše ovako.;0:32:24 - 0:32:31
+Dakle, to je isto model za DLONE, ali sva takva proširenja uvijek u sebi sadrže Q.;0:32:33 - 0:32:39
+Da li, dakle, teorija DLONE očito ima osnovni model i to je Q.;0:32:39 - 0:32:44
+I kaže ovo, znači, zapravo, modelna potpunost povlači potpunost pod predpostavkom da teorija ima osnovni model.;0:32:46 - 0:32:52
+Dakle, iz toga onda direktno slijedi da, recimo, teorija ACF nema osnovnih modela.;0:32:54 - 0:32:59
+Mislim, opet očito, jer taj osnovni model bi morao biti neke karakteristike,;0:32:59 - 0:33:02
+a onda ne bi mogao biti unutar ovih modela koji su neke druge karakteristike.;0:33:02 - 0:33:07
+Ali, ajmo vidjeti dokaz.;0:33:08 - 0:33:10
+Da, vrlo je jednostavno. Znači, kad imaš dva modela, onda, a imaš i neki osnovni model, jer to je predpostavka teorema,;0:33:12 - 0:33:20
+onda taj B, njegove izomorfne kopije M' i N' se nalaze kao podmodeli od M i N.;0:33:21 - 0:33:31
+Želim dokazati da modelna potpunost povlači potpunost.;0:33:33 - 0:33:35
+Modelna potpunost znači da kad god imaš podmodel od M, onda je to zapravo elementarni podmodel.;0:33:35 - 0:33:41
+Dakle, M' je elementarni od N. Isto tako, N' je elementarni od N.;0:33:41 - 0:33:45
+E, ali sad šta imate? I jedni i drugi su izomorfni sa B, pa su i međusobno izomorfni.;0:33:46 - 0:33:55
+M' i N' su izomorfni, pa su elementarno ekvivalentni.;0:33:56 - 0:34:00
+A, naravno, svaki elementarni podmodel je elementarno ekvivalentan svom nadmodelu.;0:34:04 - 0:34:09
+Dakle, ovo i ovo. Onda, naravno, elementarna ekvivalencija je također relacija ekvivalencije,;0:34:09 - 0:34:16
+pa su M i N' elementarno ekvivalentni.;0:34:16 - 0:34:21
+I to je to, to je karakterizacija potpunosti.;0:34:23 - 0:34:25
+Dakle, teorija je potpuna ako i samo ako su svaka dva njezina modela elementarno ekvivalentni.;0:34:25 - 0:34:29
+A to smo sad upravo dokazali.;0:34:29 - 0:34:31
+Modelna potpunost omogućava da ovo na gore može biti ekvivalentno, elementarno,;0:34:31 - 0:34:36
+a osnovni model vam omogućava da dolje imate nešto što je izomorfno,;0:34:36 - 0:34:42
+pa je opet elementarno ekvivalentno i gotovo. Onda je zbuda.;0:34:42 - 0:34:45
+Aha, ovdje piše DLO.;0:34:52 - 0:34:54
+Mislim, DLO se obično zapravo koristi samo za ovo, kao dense linear orders.;0:34:54 - 0:34:58
+A još ovo, onda još se doda tajno E ponekad.;0:34:58 - 0:35:01
+Ali da, različiti autori imaju različite konvencije.;0:35:01 - 0:35:04
+U svakom slučaju, važan teorem je da teorija obostranog neograničenih;0:35:04 - 0:35:10
+gustih linearnih uređaja, dakle, nekako, teorija uređaja na Q,;0:35:10 - 0:35:15
+dopušta eliminaciju kvantifikatora.;0:35:16 - 0:35:18
+Evo, sad da probamo malo samo opisati kak bi to onda išlo.;0:35:18 - 0:35:22
+Dakle, naravno, koristit ćemo onu lemu.;0:35:22 - 0:35:25
+Lemu, lemu. Tu, znači, dovoljno je eliminirat kvantifikatore iz formula;0:35:26 - 0:35:35
+sa jednim, egzistencijalnim, od elementarne konjunkcije.;0:35:35 - 0:35:40
+Znači, gdje si, tu si.;0:35:43 - 0:35:46
+Tu si.;0:35:46 - 0:35:47
+Dakle, šta je uopće signatura?;0:35:51 - 0:35:56
+Dakle, da, treba nam jednakost, važnost.;0:35:56 - 0:36:00
+Treba nam ta neka oznaka sa uređaj, relacijski simbol.;0:36:04 - 0:36:09
+I to je to, ništa konstanskih, ništa funkcijskih.;0:36:11 - 0:36:14
+Dobro, znači, neka je F oblika, što smo rekli,;0:36:16 - 0:36:24
+jedan egzistencijalni kvantifikator, naravno, tu je sad nekakva varijabla,;0:36:24 - 0:36:27
+B, samo B, baš varijabla X.;0:36:27 - 0:36:29
+I tu je sad nekakva konjunkcija atomarnih,;0:36:29 - 0:36:34
+dakle, naravno, konjunkcija je komutatirana, mogu jednostavno rasporediti.;0:36:34 - 0:36:39
+Dakle, nek su ovo atomarne, nek su ovo negacije atomarne.;0:36:39 - 0:36:43
+I još mogu reći, s obzirom na to da imamo samo dva relacijska simbola,;0:36:46 - 0:36:53
+imamo samo dvije vrste atomarnih formula, znači, to su one sa,;0:36:53 - 0:36:58
+gdje im je jednakoglavni simbol i one koje im je manji glavni simbol.;0:36:58 - 0:37:03
+I isto tako i ovdje, negacije atomarnih su one koje,;0:37:03 - 0:37:06
+možemo reći kao različite, glavni simbol, negacija od jednakosti i negacija od manje.;0:37:06 - 0:37:14
+Dobro, znači, to je sigurno konjunkcija nekakvih ovakvih životinja.;0:37:14 - 0:37:18
+E sad, na primjer, sve ovakve, može biti više,;0:37:19 - 0:37:25
+svaka takva ima glavni simbol jednako i tu su sad nekakvi termi.;0:37:25 - 0:37:30
+Al što mogu biti termi? Nema nikakvih funkcijskih, nema nikakvih ostatkih simbola.;0:37:30 - 0:37:33
+Dakle, mogu samo biti variable.;0:37:33 - 0:37:35
+E, ali sad, ako je f, ha da, ne mora biti rečenica, znači, te variable,;0:37:35 - 0:37:41
+znači, ovo su sigurno variable.;0:37:41 - 0:37:47
+Dobro? E sad, jedino što je zapravo bitno, jesu li te, je li neka od tih variable x ili nije.;0:37:47 - 0:37:53
+I sad, kao što vidite, tu sam imao jedno more slučajeva,;0:37:53 - 0:37:56
+ako dobro brojem, valjda 12, ali za svaki od njih je nekak prilično jasno da ta x nije bitan.;0:37:56 - 0:38:03
+Recimo, na primjer, ako tu piše y jednako z, onda je sasvim jasno da tu x nije bitan.;0:38:03 - 0:38:09
+E sad, ako piše da je x jednak nečem konkretnom, onda se moram pitat druge neke stvari.;0:38:09 - 0:38:19
+Recimo, ako je jedna od tih formula x je jednak 3, a druga je x je jednak 5,;0:38:19 - 0:38:24
+onda je jasno da ne postoji x takav da zadovljava konjunkciju.;0:38:24 - 0:38:28
+Dakle, ako piše formula oblika x jednako nešto ili nešto jednako x,;0:38:28 - 0:38:34
+dakle opet mogu reći jednostavno b s oma p da je x lijeve strane,;0:38:34 - 0:38:37
+onda pokupim sve desne strane, pa pačite, desne strane opet moraju biti variable.;0:38:37 - 0:38:44
+Kažem, jednostavno, ogroman broj slučajeva tu ima.;0:38:48 - 0:38:51
+To je prva stvar koju vam želim nekako reći.;0:38:51 - 0:38:55
+Dakle, stvarno, ako ćete taj dokaz raspisivati, postoji razlog što nije raspisan na slajdu.;0:38:55 - 0:38:59
+I neću biti raspisani ovdje, ali samo hoću reći ono,;0:38:59 - 0:39:02
+ima more slučajeva, ali svi slučajevi su izuzetno jednostavni.;0:39:02 - 0:39:07
+Znači, ovo tu su sigurno variable, neke od njih možda mogu biti jednake x,;0:39:07 - 0:39:13
+nešto što je. I sad, ovaj, evo, recimo nešto.;0:39:13 - 0:39:20
+Ovo, i sad ja kažem zapravo, čitava ta formula je ekvivalentna sa;0:39:23 - 0:39:28
+y je jednako z i z je jednako t.;0:39:31 - 0:39:35
+Dakle, postoji x koji je istovremeno jednak x-u, y-u, z-u i t-u,;0:39:37 - 0:39:41
+ako i samo ako vrijedi ova formula, u njoj nema x-a.;0:39:41 - 0:39:44
+Pa nije, ne moram kvantificirati. Dobro? Jasno.;0:39:44 - 0:39:48
+Ajmo ovdje. Znači, tu sad opet, skupim sve desne strane.;0:39:50 - 0:39:55
+Ali naravno, sad opet imam slučajeve, ne mogu pretpostaviti da je x uvijek na lijevoj strani.;0:39:55 - 0:40:01
+Može mi se dogoditi da x bude s lijeva i s desna, da bude na obje strane, naravno.;0:40:01 - 0:40:05
+Ali opet, dakle, prvi slučaj, x manje od x. Dobro. Onda sigurno znam da ne postoji.;0:40:05 - 0:40:12
+Dakle, čitavu formulu zamjenim sa laži i gotovo.;0:40:12 - 0:40:14
+Ne postoji x takav da je x manje od x i šta god hoću.;0:40:14 - 0:40:18
+Ljepota ovoga je da su samo konjunkcije, dakle, čim nađem nešto su sigurno laž,;0:40:18 - 0:40:22
+ne moram dalje više ništa pisati.;0:40:22 - 0:40:24
+Drugo. x je manje ovdje, sad tu može biti opet više toga, ali ne smije biti x-e.;0:40:26 - 0:40:31
+Znači, na primjer, y, z, t. Dobro.;0:40:31 - 0:40:34
+S čim to zamjerim? Sjetimo se, bilo je postoji x takav da je to.;0:40:34 - 0:40:39
+Pa, jednostavno, x je manji od manjega od svih njih.;0:40:39 - 0:40:48
+Dakle, sad to sve ovisi od tome kakvi su pojedini y, z i t,;0:40:48 - 0:40:52
+ali to sad naravno ovisi od tome kakve će biti ove druge formule, ove sa oblika.;0:40:52 - 0:40:56
+Nešto je manje od x. E, i onda naravno, onda moram gledati,;0:40:56 - 0:41:03
+jel' ova dva skupa imaju nekakav presjek.;0:41:03 - 0:41:05
+Ako imaju, onda opet križem to. Znam da ne valja.;0:41:06 - 0:41:09
+Jer ne može biti x manji od t i t manji od x istovremeno.;0:41:09 - 0:41:13
+Ak nema nekakav presjek, e, onda je zanimljivo.;0:41:14 - 0:41:16
+Znači, recimo, na primjer, ovdje piše, ne znam, a, b je manje od x i x je manje od y, z, t.;0:41:16 - 0:41:22
+Kako bih mogao, ne koristeći x, reći na to vrijedinu?;0:41:22 - 0:41:26
+Znači, da postoji x koji je istovremeno manji od y, z, t i takav da je veći od a i b.;0:41:26 - 0:41:31
+Pa tvrdim da je to ekvivalentno sa a je manji od y i a je manji od z i a je manji od t;0:41:32 - 0:41:41
+i b je manji od y i b je manji od z i b je manji od t. Jel' jasno?;0:41:41 - 0:41:48
+Svaki s lijeve strane mora biti manji od svakog s desne strane.;0:41:48 - 0:41:53
+Sad će mi biti jasno da ako ovakav x postoji, onda ovo mora vrijediti.;0:41:54 - 0:41:57
+Znači, ovaj smjer je, valjda, jasan. To je transitivnost.;0:41:57 - 0:42:00
+E, ali i drugi smjer, jer to je gustoća.;0:42:01 - 0:42:03
+Ako je svaki od ovih manji od svakog od ovih, imam konačno mnogo tu, od svih njih imam najveći.;0:42:04 - 0:42:08
+Imam konačno mnogo tamo, od svih njih imam najmanji.;0:42:09 - 0:42:11
+Između tog najvećeg i tog najmanjeg je konačno ne mnogo.;0:42:11 - 0:42:13
+Znači, ovaj najveći je manji od ovog najmanjeg.;0:42:13 - 0:42:16
+Između njih, budući da imam gustoću, imam element.;0:42:16 - 0:42:19
+Dobro?;0:42:20 - 0:42:21
+Dakle, kažem, opet sad ovo.;0:42:23 - 0:42:25
+Opet treba razmijući se za tome što zapravo znači različitost, ali opet praktički.;0:42:26 - 0:42:30
+Jedino što se ne smije pojaviti je x različito od x.;0:42:31 - 0:42:34
+Dakle, ako se to pojavi, onda znam, onda križam.;0:42:34 - 0:42:37
+A sve ostalo zapravo smije.;0:42:38 - 0:42:40
+Ali naravno onda trebam gledat' međusobno.;0:42:41 - 0:42:43
+Znači, ne smije pisat' tu y jednako x, a tu y različito od x.;0:42:43 - 0:42:47
+Dobro, i opet ovdje.;0:42:49 - 0:42:51
+Za ovo je ključno da je linear.;0:42:52 - 0:42:55
+Znači, svako od tih zapravo ja mogu zamijeniti sa ovim.;0:42:56 - 0:43:00
+Ha, možda to mogu i s različitom.;0:43:01 - 0:43:03
+Hmm, vidiš.;0:43:03 - 0:43:04
+Možda ipak mrvice u manje slučaje.;0:43:05 - 0:43:06
+Pa pazite, x različito od y, ja uvijek mogu zamijeniti sa x manje od y,;0:43:06 - 0:43:14
+ili y manje od x.;0:43:14 - 0:43:16
+Pa onda zapravo dobijem samo ovakve.;0:43:17 - 0:43:19
+I isto tako ovo.;0:43:20 - 0:43:21
+Znači, x nije manje od y, mogu zamijeniti sa x je jednako y,;0:43:21 - 0:43:26
+ili x je veće od y ili x.;0:43:26 - 0:43:31
+Dakle, da, to je vjerojatno onda bolje zapravo.;0:43:32 - 0:43:35
+Imam samo ova dva, a u svakom od njih imam četiri.;0:43:35 - 0:43:38
+I, ono, postoji šansa da stane na jednu stranicu ova četiri,;0:43:39 - 0:43:45
+ako čovjek jako, uglavnom, da.;0:43:45 - 0:43:48
+Dakle, samo hoću reći, može se.;0:43:48 - 0:43:50
+Može se eliminirati kvantifikator.;0:43:51 - 0:43:52
+Ta jedan egzistencijalni iz elementarne konjunkcije.;0:43:52 - 0:43:55
+A onda ponovimo i zapravo se može eliminirati sve.;0:43:55 - 0:43:58
+Ali, kažem, baš dobar primjer kako eliminacija kvantifikatora,;0:43:59 - 0:44:03
+čak i za izuzetno jednostavne teorije, može biti izuzetno zapetljana u smislu.;0:44:03 - 0:44:08
+Šta sve treba gledati.;0:44:08 - 0:44:10
+Dobro, korolar, DLONE je modelno potpuna.;0:44:13 - 0:44:17
+Naravno, jer, to smo vidjeli, znači, alef nula kategorična je;0:44:17 - 0:44:22
+i dopušta eliminaciju kvantifikatora, dakle, je modelno potpuna.;0:44:22 - 0:44:26
+I pa, sad, dakle, jel';0:44:26 - 0:44:28
+Sjetite se koliko smo imali tamo muke da dokažemo neki;0:44:28 - 0:44:32
+wash water test ili šta već, da dokažemo da je kuh stvarno elementarni potpuna.;0:44:32 - 0:44:36
+Ali tamo sam već bio rekao, to ćemo poslije dobiti na jedan puno jednostavniji.;0:44:36 - 0:44:40
+Kao, jednostavniji je jer je ovo što je zapetljano zapravo sintaksno.;0:44:40 - 0:44:43
+Pa to kao možeš ostaviti studentima.;0:44:43 - 0:44:45
+A ovaj dio semantički je zapravo onda vrlo jednostavan.;0:44:48 - 0:44:51
+Naravno, ja bih rekao da zapravo nema kraljeviskog puta u ovu tvrnju.;0:44:51 - 0:44:55
+Ali je zanimljiv ovaj prestup, što je svu komplicirenost odloptava na tu eliminaciju kvantifikatora.;0:44:55 - 0:45:01
+Naravno, to direktno onda slijede iz modelne potpunosti, jer ku je očito potmodel,;0:45:02 - 0:45:06
+dakle onda mora biti elementarni potmodel, jer su i jedan i drugi očito modeli za DON.;0:45:06 - 0:45:11
+Evo, sad imam, naravno, imao sam primjere nekakvih teorija koje jesu ovako potpuna,;0:45:12 - 0:45:16
+nisu onako potpune. Sad imam primjer teorija koja je ujedno i potpuna i modelno potpuna.;0:45:16 - 0:45:22
+E, i to je sad jako dobro mjesto za ostat.;0:45:22 - 0:45:27

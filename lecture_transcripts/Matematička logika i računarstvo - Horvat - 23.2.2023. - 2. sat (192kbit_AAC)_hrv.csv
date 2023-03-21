@@ -1,0 +1,489 @@
+Speech;Timestamp
+Dakle, samo da se tu malo vratim.;0:00:00 - 0:00:04
+Gdje bismo bili? Aha, tu!;0:00:04 - 0:00:08
+Evo, znači, iz nekog razloga sam pomislio da imamo taj jedan smjer.;0:00:08 - 0:00:12
+Nije da ga baš, ono, djelomično ga imamo.;0:00:12 - 0:00:17
+Samo ću malo ispričat.;0:00:17 - 0:00:21
+Ono, opet trebamo nacrtati nekakvi kvadratić koji u većini dokaza koje tu radimo.;0:00:23 - 0:00:28
+Iz modalne logike.;0:00:28 - 0:00:32
+Znači, ovaj smjer s lijeva na desno je jednostavan.;0:00:34 - 0:00:39
+Znači, ako je formula f od x ekvivalentna standardnoj translaciji neke modalne formule,;0:00:39 - 0:00:48
+evo, nekakav fi tu dođe u igru.;0:00:48 - 0:00:53
+Dobro? I sad, ajde recimo, možemo još konkretizirati.;0:00:53 - 0:00:58
+Sad, nemojte preozbiljno slačati ovaj znak, dobro?;0:00:58 - 0:01:02
+Znači, imamo f od x duplo v ako i samo ako,;0:01:02 - 0:01:07
+naravno, na m je istinita f od x duplo v,;0:01:07 - 0:01:14
+ako i samo ako je na m istinita stx fi opet valuirano sa duplo v.;0:01:14 - 0:01:24
+E sad, šta smo rekli?;0:01:24 - 0:01:30
+Znači, ako je na duplo v istina fi, jel?;0:01:30 - 0:01:37
+I imamo bisimulaciju z između svijeta duplo v i svijeta duplo v crta.;0:01:37 - 0:01:44
+Onda će šta na duplo v crta također biti istinita fi, jel tako?;0:01:47 - 0:01:52
+Drugim riječima, ovo tu, i sad, sjetite se onoga šta smo bili rekli prethodno.;0:01:53 - 0:02:00
+Vidite, isto je da je na duplo v forsira na fi i da je na strukturi prvog reda,;0:02:01 - 0:02:11
+odnosno m kao strukturi prvog reda, istinita stx fi gdje je x valuirano sa duplo v.;0:02:11 - 0:02:18
+Znači, budući imamo duplo v forsira fi u bisimulaciji sa duplo v crta,;0:02:18 - 0:02:26
+odnosno na duplo v crta istinita fi, imamo ove komade.;0:02:26 - 0:02:31
+Ako i samo ako, na m istinita stx fi valuirano sa duplo v crta.;0:02:31 - 0:02:40
+Dobro, a naravno ovo tu iz istog razloga kao i ovo.;0:02:43 - 0:02:47
+Ekvivalentno, m.;0:02:48 - 0:02:54
+Znači, ekvivalentne su ono kao univerzalno zatvorenje, ali onda posebno i tu.;0:02:57 - 0:03:02
+Dobro.;0:03:02 - 0:03:04
+Pa ćemo zapravo dobiti da je ovoga,;0:03:06 - 0:03:09
+dobit ćemo da je formula f od x invarijantna na bisimulacije,;0:03:14 - 0:03:17
+čim je ekvivalentna standardne translaciji neke modelne formule.;0:03:17 - 0:03:21
+Ono što je teško, strašno teško, je ako imate, i zato bez dokaza,;0:03:21 - 0:03:28
+ako imate formulu invarijantnu na bisimulacije, da onda zaista možete naći;0:03:28 - 0:03:35
+modelnu formulu, čija će standardna translacija biti ekvivalentna ove.;0:03:35 - 0:03:40
+U redu, tu treba nešto smisliti, a ovdje samo treba ovak provjeriti nešto;0:03:40 - 0:03:44
+ovisno ove naše leni.;0:03:44 - 0:03:46
+Aha, sad sam malo predaljko otišao.;0:03:50 - 0:03:53
+Ok, jeste možda razmislili o ovome? Zašto su svijet i njime određen glavni;0:03:53 - 0:04:02
+filtar, ultrafiltar proširenju, modelno ekvivalentni?;0:04:02 - 0:04:06
+Kak bi smo to iz ovoga direktno dobili?;0:04:06 - 0:04:09
+Znači šta, ovo duplove u, to su svi odskupovi od duplove;0:04:23 - 0:04:51
+takvi da je mali duplove iz A.;0:04:51 - 0:04:54
+Je li tako? I sad nas zanima koje su to formule fi,;0:04:56 - 0:05:04
+koje su istinite na duplove u.;0:05:06 - 0:05:09
+Odnosno mogli bismo reći da je V od fi element od duplove u.;0:05:10 - 0:05:30
+Je li tako?;0:05:30 - 0:05:32
+E sad, znači kad će duplo V od fi biti element od duplove u?;0:05:39 - 0:05:47
+To samo u jednoj stvari ovisi.;0:05:47 - 0:05:50
+Znači tu su točno oni skupovi koji sadrže duplove.;0:05:51 - 0:05:54
+Znači nešto je unutra ako je samo ako sadrže duplove.;0:05:54 - 0:05:58
+Dobro, i pogledaj.;0:05:58 - 0:06:08
+Jel u redu? Vrlo jednostavno.;0:06:12 - 0:06:14
+Dobro. Znači to je strašno važna činjenica koju zapravo želimo čak zapamtiti.;0:06:14 - 0:06:20
+Znači veza nekako za sada između ovoga modela i ultrafiltra proširenja,;0:06:20 - 0:06:29
+glavna veza nam je, a vrlo jednostavna veza,;0:06:29 - 0:06:32
+je da je svijet modalno epivalenta sa glavnim filtrom.;0:06:32 - 0:06:36
+Dobro, koji je generiran s njim.;0:06:36 - 0:06:38
+Ok. E, i sad dolazimo do četvrte konstrukcije.;0:06:40 - 0:06:46
+Odnosno nekakvog svojstva koje čuva istinitost, odnosno valjanost.;0:06:47 - 0:06:58
+Dobro, u ovom slučaju ćemo gledati ultrafiltr proširenja okvira,;0:06:58 - 0:07:02
+ali može se naravno i modela.;0:07:02 - 0:07:05
+Znači, ultrafiltrsko proširenje okvira F,;0:07:05 - 0:07:12
+koji je ono duplo V za rezer, će naprosto biti ono kod,;0:07:12 - 0:07:18
+pravimo ultrafiltr proširenja modela, samo nema nikakve valuacije.;0:07:18 - 0:07:22
+Dobro, znači, jednostavno pogledamo skup svih ultrafiltra;0:07:22 - 0:07:25
+i pogledamo onako istu relaciju R.;0:07:25 - 0:07:29
+Dobro. Znači, ta nekakva četvrta konstrukcija, jel,;0:07:29 - 0:07:35
+se zove refleksija ultrafiltra proširenja,;0:07:35 - 0:07:38
+ili ono kak mislim da je u Čačić zove kasnije,;0:07:38 - 0:07:41
+obrnuta zatvorenost na ultrafiltrska proširenja.;0:07:41 - 0:07:45
+Znači, pazite, jako je bitno da je to obrnuto.;0:07:45 - 0:07:49
+Dobro. Znači, ak imate okvir F i modelnu formulu Fi,;0:07:49 - 0:07:53
+nije da ako na F forsira Fi, odnosno ako je na F valjana Fi,;0:07:53 - 0:07:58
+da će biti valjana na ultrafiltrskom proširenju.;0:07:58 - 0:08:01
+Nega, ak imate da je nešto valjano na ultrafiltrskom proširenju okvira,;0:08:01 - 0:08:06
+onda će biti na samom okviru valjano. Uredo?;0:08:06 - 0:08:10
+E sad, vidite, to je naravno vrlo jednostavno. Zašto?;0:08:10 - 0:08:14
+Jer šta ću napraviti da bi dokazao da je na F valjana Fi?;0:08:14 - 0:08:18
+Pa stavit ću bilo kakvu valuaciju V, uredo,;0:08:18 - 0:08:22
+i zabrat ću bilo kakav svijet duplo V.;0:08:22 - 0:08:25
+I sad, ono što imamo je da je na ultrafiltrskom proširenju;0:08:25 - 0:08:33
+za taj svijet istinita Fi, jel tako?;0:08:34 - 0:08:38
+A to smo vidjeli da je ekvivalentno s time da je na MV istinita Fi.;0:08:38 - 0:08:45
+Dobro? Znači za svaku valuaciju i svijet što se tiče ovog okvira F;0:08:45 - 0:08:51
+na tom točkovnom modelu će biti istinita Fi, znači valjana.;0:08:51 - 0:08:55
+Ok? Vrlo jednostavno.;0:08:55 - 0:08:58
+E, i sad, sad dajmo vidjeti, znači na koji način će nam to pomoć,;0:08:59 - 0:09:08
+kao što su nam generirani okviri, disjunktne unije okvira i,;0:09:08 - 0:09:16
+znači generirani podokviri, disjunktne unije okvira;0:09:18 - 0:09:21
+i surjektivni ograničeni morfizmi, pomogli su nam dokazati;0:09:21 - 0:09:26
+da neka klasa okvira nije modalno definibilna, jel?;0:09:26 - 0:09:30
+E pa točno to ćemo sad uspjeti raditi i ovdje.;0:09:30 - 0:09:33
+Evo, pogledamo ovoga klasu svih okvira K,;0:09:35 - 0:09:39
+koja je definirana ovom tu formulom prvog reda.;0:09:41 - 0:09:44
+Znači za svaki x postoji y, takav da je x R y i y R y.;0:09:44 - 0:09:51
+To su naravno svi okviri u kojima svaki svijet ima refleksivnog sljedbenika.;0:09:51 - 0:09:55
+Znači ovo.;0:09:55 - 0:09:57
+Mogu koraknut i onda kad opet koraknem mogu tu.;0:10:01 - 0:10:05
+E sad, vidite, n manje, on nije u toj klasi K.;0:10:08 - 0:10:13
+Znači u n nema svaki svijet refleksivnog sljedbenika.;0:10:14 - 0:10:19
+Da pa će nijedan svijet nema refleksivnog sljedbenika.;0:10:19 - 0:10:22
+E, ali na ultrafiltar proširenju tog okvira svaki svijet ima refleksivnog sljedbenika.;0:10:23 - 0:10:33
+E sad, kak ćemo to pokazati?;0:10:33 - 0:10:35
+Skoncentrirat ćemo se na jedan konkretan ultrafiltar.;0:10:36 - 0:10:39
+Ne znam jeste čuli za Frešev filtar.;0:10:39 - 0:10:41
+To je baš onaj koji sadrži sve kofinitne podskupove.;0:10:41 - 0:10:46
+Inače, lako se vidi da taj nije glavni.;0:10:48 - 0:10:50
+Dakle, ultrafiltar nije glavni ako i samo ako sadrži samo beskonačne skupove.;0:10:50 - 0:10:58
+Ako i samo ako sadrži sve kofinitne skupove.;0:10:58 - 0:11:02
+Dobro? Znači, inače je glavni.;0:11:02 - 0:11:06
+Možemo naći jedan element koji ga izgenerira.;0:11:07 - 0:11:10
+Znači, ako pogledamo sve kofinitne podskupove od N,;0:11:12 - 0:11:17
+onda ćemo dobiti ultrafiltar.;0:11:18 - 0:11:21
+I sad, naravno, taj koji svaki drugi, koji nije glavni,;0:11:23 - 0:11:26
+sadrži samo beskonačne skupove.;0:11:26 - 0:11:28
+Mislim, lako se direktno vidi jer sadrži točno kofinitne,;0:11:28 - 0:11:31
+a svaki kofinitan upravo je beskonačan takav da mu je komplement konačan.;0:11:31 - 0:11:35
+E, koje to sad veze ima?;0:11:37 - 0:11:39
+Znači, koji ultrafiltri su u relaciji manje U sa njim?;0:11:40 - 0:11:47
+Koji su to ultrafiltri?;0:11:47 - 0:11:49
+Znači, da bi ovo vrijedilo, jel, U manje od V,;0:11:53 - 0:11:57
+treba za svaki skup prirodnih brojeva koji se nalazi u V,;0:11:57 - 0:12:03
+treba postojati, pardon, treba skup svih onih koji vide nekoga odavde,;0:12:03 - 0:12:14
+koji vide nekoga odavde po relaciji manje, biti u U.;0:12:14 - 0:12:20
+Koji je to, ako ja uzmem bilo koji skup odavde,;0:12:21 - 0:12:25
+rekli smo taj beskonačan, ako uzmem bilo koji skup prirodnih elemenata;0:12:25 - 0:12:30
+koji je element od V, on će biti beskonačan.;0:12:30 - 0:12:35
+Koji su to prirodni brojevi koji su manji od barem jednog broja u tom skupu?;0:12:36 - 0:12:42
+Znači, imam beskonačan skup prirodnih brojeva i izabijem si broj, ne znam, 57.;0:12:44 - 0:12:49
+Dobro? I sad, jel taj broj 57 mora biti manji od nekoga u ovom beskonačnom skupu?;0:12:49 - 0:12:57
+Molim? Mora, jel tako? Mora.;0:12:57 - 0:13:00
+E, znači, ne samo 57, mogo sam reći 56 i bilo ko drugi.;0:13:00 - 0:13:04
+Drugim riječima, ja se sad pitam, jel N u U?;0:13:04 - 0:13:11
+Dobro? Znači, to će biti točno oni ultrafiltri u, koji sadrže N.;0:13:11 - 0:13:17
+A koji su to?;0:13:17 - 0:13:18
+Koji ultrafiltri nad N sadrže N kao elementi?;0:13:20 - 0:13:24
+Sjetite se definicije filtra, čak samo, i prve, tako je, svi.;0:13:25 - 0:13:30
+Dobro? Znači, uopće da bi nešto bilo filtr, ne samo ultrafiltr, nek filtr,;0:13:30 - 0:13:34
+da bude nad N, mora sadržavati N kao element. U redu?;0:13:34 - 0:13:38
+Znači, ovo je uvijek, ovo tu je uvijek, za svaki U.;0:13:38 - 0:13:43
+Znači, ako sam ultrafiltar V dobio iz freše ovog filtra,;0:13:43 - 0:13:47
+onda svaki U je manji od toga, po ovoj relaciji manje U.;0:13:48 - 0:13:52
+I ne samo svaki drugi U, nego svaki U, tako i V.;0:13:52 - 0:13:57
+I V je manji od V. Dobro? I sad je to meni ako fora.;0:13:57 - 0:14:03
+Pogledajte, nekak i krenuli smo od uređaja strogo manje,;0:14:03 - 0:14:07
+koji je i refleksivan, i sad smo nekak dobili upravo refleksivan uređaj.;0:14:07 - 0:14:13
+Dobro? Možda da ovaj manje U nekako označavamo,;0:14:13 - 0:14:16
+znači joj bi ga kao ispred i još dodao u ono crtu,;0:14:16 - 0:14:19
+da se vidi baš refleksivnost iz oznak.;0:14:19 - 0:14:21
+Dobro? Ok. Pa je li vidite onda da svaki svijet u ultrafiltar proširenju od N;0:14:21 - 0:14:29
+ima sljedbenika koji je refleksivan? Dobro?;0:14:29 - 0:14:34
+Ok. E, ali to onda sad znači da je ultrafiltar proširenje iz K.;0:14:36 - 0:14:41
+Dobro? Pa onda K nije modalno definabilna. Zašto?;0:14:42 - 0:14:45
+Jer kad bi bila modalno definabilna, te formule bi bile istinite,;0:14:45 - 0:14:50
+bi bile valjane na N U manje U, je li tako?;0:14:50 - 0:14:55
+E, ali onda moraju biti valjane i na N manje. Ok?;0:14:55 - 0:14:59
+A nisu. A nisu, jer taj okvir nije u ovoj klasi K.;0:14:59 - 0:15:05
+Dobro? Znači K nije modalno definabilna.;0:15:05 - 0:15:09
+I sad, ak probate, vidjet ćete da K jest zatvorena na sve ovo drugo;0:15:09 - 0:15:14
+što smo do sad imali, što nam je služilo kao nekakav vlakmus;0:15:14 - 0:15:17
+za ovoga modalno definabilnost. Zatvorena je fakat na surjektivne;0:15:17 - 0:15:21
+ograničene morfizme, na generirane podokvire i na disjunktne unije.;0:15:21 - 0:15:25
+Znači, dobili smo nešto kvalitativno novo sada.;0:15:25 - 0:15:28
+E, i sad je pitanje, znači, gledamo elementarne klase okvira.;0:15:28 - 0:15:34
+Dobro? I sad, ak je klasa okvira modalno definabilna,;0:15:34 - 0:15:39
+onda je ona zatvorena za šta smo sad vidjeli?;0:15:39 - 0:15:43
+Vidjeli smo za generirane podokvire, za disjunktne unije,;0:15:43 - 0:15:49
+za surjektivne ograničene morfizme i sad još za ultrafiltarska proširenja,;0:15:49 - 0:15:54
+za refleksiju ultrafiltarskih proširenja. Dobro?;0:15:54 - 0:15:57
+I sad se čovjek pita, ko ono što sam prije govorio,;0:15:57 - 0:16:01
+je li sad to dovoljno da nam da ovoga implikaciju u suprotnom smjeru?;0:16:01 - 0:16:07
+Je li možda vrijedi, znači sad smo, ono malo prije smo imali sreće;0:16:07 - 0:16:12
+da nam je jedno jedino svojstvo bilo dovoljno da povuče ako i samo ako.;0:16:12 - 0:16:16
+Dobro? A sad smo našli čak četiri svojstva,;0:16:16 - 0:16:19
+koja nekako, ono, baro ovo četvrto nam je svakak trebalo.;0:16:19 - 0:16:23
+Ovoga, je li sad vrijedi da, ako imam elementarnu klasu okvira,;0:16:23 - 0:16:30
+da je ona modalno definabilna, ako i samo ako je zatvorena za;0:16:30 - 0:16:36
+generirane podokvire, disjunkne unije, surjektivno ograničene morfizme;0:16:36 - 0:16:43
+i reflektira ultrafiltar proširenja. Šta mislite?;0:16:43 - 0:16:46
+Da. Ovoga, konačno, jel?;0:16:46 - 0:16:50
+I to vam je poznati Golblat-Thomason, ovtevremeni.;0:16:50 - 0:16:53
+Krajnjen je netrivijalan. Dobro?;0:16:53 - 0:16:56
+Znači sad smo vidjeli njegov jedan smjer u principu,;0:16:56 - 0:16:59
+ali ovaj drugi smjer je jako gadan.;0:16:59 - 0:17:02
+Što više, ja sam pisao diplomski rad na tu temu.;0:17:02 - 0:17:05
+Ovoga, zakomplicira se, znači dosta je važna ta modalna saturacija,;0:17:06 - 0:17:11
+sad ćemo od njoj malo vidjeti, ali komplicira se stvar kad se tu jezik jako poveća,;0:17:11 - 0:17:18
+kod tih nekih konstrukcija bude neprebrojiv jezik;0:17:18 - 0:17:21
+i onda se neke stvari moraju dodatno razviti.;0:17:21 - 0:17:25
+Dobro. Recite, je li ima kakvih pitanja u vezi sa ovim iskazom ili nešto?;0:17:27 - 0:17:33
+Možda samo tu još sam htio nešto reći.;0:17:33 - 0:17:36
+Samo malo.;0:17:40 - 0:17:42
+Aha, dobro, to ću ostaviti na kasnije. Recite, je li za sad jasna ideja?;0:17:49 - 0:17:54
+S kaj dobro treba sve? Šta je to ja ću biti?;0:17:54 - 0:17:57
+E, to sam se ja zapitao dok sam pisao taj diplomski rad;0:17:57 - 0:18:00
+i jedno poglavlje u mom diplomskom radu ili podpoglavlje je;0:18:00 - 0:18:03
+je li treba svaka od ove četiri pretpostavke na desnoj strani;0:18:03 - 0:18:09
+ili mogu brisati? Dobro.;0:18:09 - 0:18:12
+Drugim riječima, je li dovoljno već da je zatvorena klasa;0:18:12 - 0:18:17
+za generirane podokvire, surjektivno ograničene morfizme;0:18:17 - 0:18:20
+i reflektira ultrafiltar proširenja, znači bez unija,;0:18:20 - 0:18:23
+da bi bila modalno definabilna?;0:18:23 - 0:18:26
+I možete naći kontraprimjer za svaku od te četiri stvari.;0:18:27 - 0:18:30
+S time da je jedan mi je pogrešan u diplomskom,;0:18:30 - 0:18:33
+davno sam to skužio i htio to ispraviti, uševih nisam to morao ispraviti;0:18:33 - 0:18:38
+u nekom trenutku. Dobro?;0:18:38 - 0:18:41
+Slobodno si razmislite o tome, to je jako simpatično za razmišljati.;0:18:45 - 0:18:49
+Znači, sjećate se kako smo rekli, aha, konačni mogu napravit;0:18:49 - 0:18:53
+disjunktnu uniju, veliku, pa će biti beskonačni, je li tak?;0:18:53 - 0:18:56
+I tak si, malo si o tome razmišljate, znači, vidite ovoga,;0:18:56 - 0:19:00
+jel možete sami? Znači, ako se dobro sjećam,;0:19:00 - 0:19:04
+svaka stvar se da opovrglut, ono, mogućnost da bi se izbacila;0:19:04 - 0:19:10
+neka pretpostavka sa jednom formulom.;0:19:10 - 0:19:13
+Znači, mi tu cijelo vrijeme zapravo pričamo o skupovima formula, dobro?;0:19:13 - 0:19:17
+Znači, smio bi biti beskonačan skup, ali nekak svaki put se;0:19:17 - 0:19:20
+čitava stvar svede na jednu formulu, dobro?;0:19:20 - 0:19:24
+Ok. E sad, modalna saturacija. Znači, tu kreće ova priča;0:19:24 - 0:19:32
+kako to od modalne ekvivalencije u nekom modelu;0:19:32 - 0:19:37
+dođemo do bisimuliranosti na ultrafiltarskom proširenju.;0:19:37 - 0:19:41
+Najprije ovak, najprije ovak. Znači, ajmo čisto abstraktno razgovarat sada.;0:19:42 - 0:19:52
+Dakle, rekli smo da bisimuliranost povlače modalnu ekvivalenciju.;0:19:52 - 0:19:57
+Pitamo se oko obrata. Općenito ne vrijedi, ali vrijedi za saturirane modele.;0:19:57 - 0:20:02
+I onda naravno dokazat ćemo da su ultrafiltarska proširenja;0:20:02 - 0:20:05
+saturirana, ali to ćemo malo kasnije. Znači, idemo se prvo s tim baviti.;0:20:05 - 0:20:09
+Šta je uopće saturirani model i to?;0:20:09 - 0:20:11
+Znači, recimo da imam neki kripkeov model.;0:20:11 - 0:20:15
+Reći ćemo da je skup formula sigma ispunjiv u podskupu duplo V crta;0:20:15 - 0:20:20
+od duplo V. Ako postoji V iz duplo V crta,;0:20:20 - 0:20:25
+takav da na njemu naravno vrijedi čitav sigma.;0:20:25 - 0:20:28
+Dobro? Znači, samo ono kao, izabro sam nekih, ne znam, 50 cvjetova;0:20:28 - 0:20:33
+i sad ako njih jedan forsira sigma, onda sam zadovoljan.;0:20:33 - 0:20:37
+Dobro, ispunjiv je u tom podskupu.;0:20:37 - 0:20:40
+Imam i definiciju konačne ispunjivosti.;0:20:41 - 0:20:44
+Znači, ako je sigma konačno ispunjiv u duplo V crta,;0:20:44 - 0:20:48
+to znači da je svaki njegov konačan podskup ispunjiv u duplo V crta.;0:20:48 - 0:20:52
+Dobro? A ako se sjećate teorema kompaktnosti, imate sličnu stvar, jel?;0:20:52 - 0:20:57
+Dobro? E sad, kad ćemo reći da je model M modelno saturiran?;0:20:58 - 0:21:02
+Vidite, ako za svaki skup formula sigma i svijet duplo V vrijedi,;0:21:03 - 0:21:08
+ako je sigma konačno ispunjiv u skupu sljedbenika od duplo V,;0:21:08 - 0:21:14
+R sljedbenika naravno, onda je sigma ispunjiv u R od duplo V.;0:21:14 - 0:21:19
+Jel? Znači, gledajte. Kaj to zapravo znači?;0:21:19 - 0:21:24
+Znači, ako mene zanima nekakav gamma i nekakav duplo V, u redu,;0:21:25 - 0:21:29
+neki skup formula gamma i nekakvi svijet duplo V, ja sad se mogu zapitati, jel ono,;0:21:29 - 0:21:34
+kužite, nekakvi gamma i jedan, gamma i dva, negdje vrijede.;0:21:34 - 0:21:41
+Pa dobro, vrijede. Možda gamma i četrnaest, i gamma nešto.;0:21:41 - 0:21:47
+Dobro, možda čak beskonačno, ovoga ne beskonačno, mnogo njih, ali jako puno njih.;0:21:47 - 0:21:52
+Pa dobro, evo, vrijede tu. Vredno.;0:21:52 - 0:21:54
+Znači, bez obzira koji konačan podskup od ovog skupa gamma izaberem,;0:21:54 - 0:22:01
+uvijek će vrijediti na nekom sljedbeniku od duplo V.;0:22:01 - 0:22:05
+Ali za svaki konačan podskup od gamma možda imam posebnog sljedbenika od duplo V.;0:22:05 - 0:22:12
+E, i mene zanima, jel će to doves do toga da ja imam jednog sljedbenika od duplo V;0:22:12 - 0:22:17
+na kojem vrijedi čitav gamma. I ako se to uvijek dogodi za svaki svijet;0:22:17 - 0:22:22
+i za svaki skup gamma, ispričavam se sigma, sigma piše,;0:22:22 - 0:22:27
+ako se to dogodi za svaki skup sigma i svaki svijet duplo V,;0:22:27 - 0:22:32
+onda ću reći da je taj model modalno saturiran.;0:22:32 - 0:22:37
+Znači, još jedan. Pogledam neki skup formula i neki svijet u modelu.;0:22:41 - 0:22:48
+I sad, za bilo koji konačan podskup od tog skupa sigma,;0:22:49 - 0:22:54
+ja ću recimo naći svijet koji je sljedbenik od duplo V;0:22:56 - 0:23:02
+na kojem te formule vrijede. I možda za svaki od tih konačnih skupova;0:23:02 - 0:23:08
+naći pojedan svijet. Možda će neki biti isti, možda će svi biti različiti, nije važno.;0:23:08 - 0:23:15
+Ali ako mogu naći uvijek barem jedan svijet, onda ću naći jedan svijet;0:23:15 - 0:23:20
+na kojem je ispunjiv čitav sigma, odnosno istini čitav sigma.;0:23:20 - 0:23:26
+Dobro, e sad, ovo je ono što smo cijelo vrijeme htjeli.;0:23:28 - 0:23:33
+Znači, ako imamo modalno saturirane modele M i N,;0:23:33 - 0:23:38
+i duplo V, i duplo V crta iz njih, ako su oni modalno ekivalentni,;0:23:38 - 0:23:43
+onda su bi simulirani. Dobro? Ajde da malo o tom ne razmislimo.;0:23:43 - 0:23:47
+To je meni jedan od najsimpatičnijih dokaza u ovom dijelu.;0:23:47 - 0:23:50
+Pa bih htio zapravo da se malo vi potrudite.;0:23:50 - 0:23:53
+Znači, veli, modalna ekivalentnost je bi simulacija.;0:24:05 - 0:24:08
+Je li jasno da vrijedi et?;0:24:14 - 0:24:16
+Mislim, et to znači da su iste ovoga varijable da vrijede tu i tu.;0:24:19 - 0:24:23
+Pa očito, mislim sve iste formule vrijede, ne samo varijable.;0:24:23 - 0:24:27
+Dobro. E sad, još treba dokazati forth i back.;0:24:27 - 0:24:32
+I valjda je savršeno očito da će dokazi biti isti.;0:24:32 - 0:24:35
+Uvijek ćemo dokazati samo jednu stvar, a to je recimo forth.;0:24:35 - 0:24:39
+Ajde, nek bude R.;0:24:44 - 0:24:47
+Aha, tu je bio V crta, tu je V. Dobro.;0:24:47 - 0:24:50
+Znači, šta moramo napraviti za forth?;0:24:50 - 0:24:53
+Moramo naći neki svijet koji je stvarno R crta sljedebjenik od duplo V crta u ovom drugom modelu.;0:24:53 - 0:25:02
+I elementarno je to da ćemo napraviti svijet.;0:25:02 - 0:25:11
+Elementarno je ekvivalentan soljnih svijeta.;0:25:12 - 0:25:15
+Jel' tako? Jer dokazujemo da je taj tri crte da su bi simulacije.;0:25:15 - 0:25:19
+Kak ćemo to napraviti? Šta biste tu napravili?;0:25:19 - 0:25:23
+Kak ćemo definirati sigma?;0:25:32 - 0:25:35
+Biće sve formule takve da nešto.;0:25:41 - 0:25:44
+Šta bih žeo da postanem s sigma?;0:25:56 - 0:25:59
+Znači, imamo modelno saturirane modele. Jel' tako?;0:26:03 - 0:26:08
+Znači, duplo V i duplo V crta iz njih.;0:26:08 - 0:26:12
+I oni su modelno ekvivalentni.;0:26:12 - 0:26:15
+Želimo dokazati da to znači da su bi simulirani.;0:26:15 - 0:26:18
+A naravno, najlakši način da to pokažemo je da provjerimo;0:26:18 - 0:26:21
+jel' i modelna ekvivalentnost bi simulacija i trebala bi vjerojatno biti.;0:26:21 - 0:26:25
+I sad, duplo V i duplo V crta su mi modelno ekvivalentni. Jel' tako?;0:26:25 - 0:26:33
+I ja sad... Aha, tu sam još mogo staviti onda i ovo.;0:26:34 - 0:26:39
+Znači, oni su mi modelno ekvivalentni.;0:26:40 - 0:26:43
+I ja sad imam ovaj svijet V, ali moram dobiti svijet V crta,;0:26:43 - 0:26:51
+koji će ajde biti sljedbeni kod ovog, ali će biti elementarno ekvivalentan s ovim.;0:26:51 - 0:26:55
+Pa sad, budući da ću morati iskoristiti nekakvu modelnu saturiranost,;0:26:55 - 0:26:59
+možda sam to još trebao reći,;0:26:59 - 0:27:01
+jer je vjerojatno da će mi trebat nekakav skup sigma,;0:27:01 - 0:27:04
+koji nekak ima veze ili sa dobivanjem ove činjenice,;0:27:04 - 0:27:08
+ili sa dobivanjem ove činjenice, odnosno svijeta,;0:27:08 - 0:27:11
+koji će te dvije stvari zadovoljavati.;0:27:11 - 0:27:13
+E sad, s čim ima više veze sa nekakvom strukturnom vezom,;0:27:13 - 0:27:18
+ili ima više veze sa nekakvom istinitošću?;0:27:18 - 0:27:22
+Tu se malo samo osjetite.;0:27:26 - 0:27:28
+Znači, ovoga...;0:27:28 - 0:27:30
+Znači, u principu imate jedno i drugo tu.;0:27:31 - 0:27:34
+Znači, ovo tu nekako govori o sljedbenicima,;0:27:34 - 0:27:37
+ali isto vremeno govori i o istinitosti.;0:27:37 - 0:27:40
+Znači, vjerojatno će nam u igru ući nekakav skup sigma.;0:27:41 - 0:27:46
+E sad, vjerojatno sigma ima nekakve veze s ovim V crta.;0:27:47 - 0:27:52
+I sad, koji bi to...;0:27:53 - 0:27:55
+Pazite, vidite šta mora biti na kraju.;0:27:56 - 0:27:59
+Moraju mi iste formule vrijediti.;0:27:59 - 0:28:01
+E i sad, kak bi to najlakše...;0:28:01 - 0:28:03
+Kakav bi nekakav skup uzeti pa nešto probati s njim, smislite?;0:28:04 - 0:28:08
+Možda sve pi koje vrijediti na V.;0:28:11 - 0:28:14
+Ne možemo... Znači, V crta još uvijek nemamo.;0:28:15 - 0:28:18
+Znači, V crta tražimo.;0:28:18 - 0:28:20
+Drugim rječima, uzet ćemo sve fijeve koji vrijede na V.;0:28:20 - 0:28:24
+Evo.;0:28:25 - 0:28:26
+Dobro.;0:28:30 - 0:28:31
+I sad ćemo ih probati nekako otfurati do V crta.;0:28:31 - 0:28:34
+U redu.;0:28:34 - 0:28:35
+I nekak se čini da bi to moglo ići.;0:28:35 - 0:28:38
+E sad, naravno, šta bih htio napraviti?;0:28:38 - 0:28:40
+Beskonačnu disjunkciju i nekak ih profurati ovako.;0:28:40 - 0:28:43
+Jel?;0:28:43 - 0:28:44
+Znači, nekak lupiti dajmond ispred te konjunkcije.;0:28:44 - 0:28:50
+Ovo ga onda profurati ovdje zbog modalne ekvivalencije;0:28:50 - 0:28:55
+i onda skinuti dajmond i reći to vrijedi tu.;0:28:55 - 0:28:58
+Razumijete?;0:28:58 - 0:28:59
+Al to ne mogu, naravno.;0:28:59 - 0:29:01
+Ne mogu napraviti beskonačnu konjunkciju.;0:29:01 - 0:29:03
+Konečno.;0:29:03 - 0:29:04
+Tako je.;0:29:04 - 0:29:05
+Gledat ćemo konečne podskupove od sigma;0:29:05 - 0:29:09
+i onda ćemo ih furati okolo.;0:29:09 - 0:29:12
+Jednom kad napravimo konjunkciju i dajmondiziramo itd.;0:29:12 - 0:29:15
+Znači, ovaj sigma, čekaj kak se sigma ovako je, jel?;0:29:16 - 0:29:20
+Uzmem sigma, konačan podskup od veliko sigma.;0:29:20 - 0:29:27
+Dobro.;0:29:27 - 0:29:28
+I sad, ovoga, naravno, v forsira sigma.;0:29:28 - 0:29:35
+Točno, smo uzeli te formule.;0:29:36 - 0:29:39
+Ovoga, to znači da v forsira mali sigma.;0:29:39 - 0:29:43
+E sad, koja je to formula onda korisna,;0:29:46 - 0:29:49
+koja bi bila istinita na duplom v?;0:29:49 - 0:29:52
+Kako joj mogu napisati, baš kao formulu,;0:29:52 - 0:29:55
+da obuhvatim cijeli ovaj sigma?;0:29:55 - 0:29:58
+Znači, ako v forsira sigma,;0:30:01 - 0:30:03
+koja je to formula istinita na duplo v,;0:30:03 - 0:30:06
+koja će zakodirati čitav utučenjenicu?;0:30:07 - 0:30:10
+Znači, da imamo ovakav srebenik;0:30:10 - 0:30:14
+na kojem vrijede sve formule i sigma.;0:30:14 - 0:30:16
+Jel to mogu u jednoj formuli?;0:30:16 - 0:30:18
+Dajmo konjuncija.;0:30:18 - 0:30:19
+Tako je, točno to.;0:30:19 - 0:30:20
+U redu.;0:30:20 - 0:30:21
+Znači, na duplo v je istinita dajmont, konjuncija, sigma.;0:30:21 - 0:30:27
+Dobro.;0:30:27 - 0:30:28
+I to je sad jedna formulica.;0:30:28 - 0:30:30
+U redu.;0:30:30 - 0:30:31
+E, ali ova dva su moderno ekvivalentna.;0:30:31 - 0:30:34
+U redu.;0:30:34 - 0:30:35
+Pa onda i na duplo v crta;0:30:35 - 0:30:37
+je istinita dajmont, konjuncija, sigma.;0:30:39 - 0:30:43
+E sad kaj to znači?;0:30:44 - 0:30:45
+To znači da postoji negakav svijet, ne znam, ž crta,;0:30:45 - 0:30:51
+koji je ovoga v crta, r crta, ž crta.;0:30:54 - 0:30:59
+I sad na ž crta je forsirana konjuncija od sigma, odnosno sigma.;0:30:59 - 0:31:07
+Dobro.;0:31:09 - 0:31:10
+I šta sam sad zapravo dobio?;0:31:10 - 0:31:12
+Šta sam sad zapravo dobio?;0:31:12 - 0:31:14
+Da je ovaj gamma ispunjiv u kojem skupu?;0:31:14 - 0:31:18
+Konačno ispunjiv u kojem skupu?;0:31:20 - 0:31:22
+Konačno ispunjiv u skupu svih sljedbenika svijeta duplo v crta.;0:31:22 - 0:31:28
+Budući da je model ovoga n, modelno saturiran,;0:31:28 - 0:31:34
+onda je on i ispunjiv, znači taj čitav skup sigma;0:31:34 - 0:31:39
+i ispunjiv u skupu sljedbenika svijeta duplo v crta.;0:31:39 - 0:31:43
+Drugim rječima postoji v crta, takav da je duplo v crta, r crta, v crta;0:31:43 - 0:31:50
+i da je v crta forsira sigma, odnosno v i v crta su modelno ekvivalentni.;0:31:50 - 0:32:02
+Odnosno, vrijedi će fort pa će biti bisimulirani.;0:32:02 - 0:32:06
+U redu?;0:32:06 - 0:32:07
+E, i istu foru naravno prodate nazad.;0:32:07 - 0:32:11
+Dobro, i sad još želimo dokaza da je ultrafiltersko prošljenje;0:32:30 - 0:32:33
+modelno saturirano i onda smo gotovi.;0:32:33 - 0:32:36
+Ajde, kak ćemo to napraviti? Kak ćemo dokazati da je ultrafiltersko prošljenje;0:32:36 - 0:32:40
+svakog modela modelno saturirano?;0:32:40 - 0:32:43
+Znači, moramo uzeti bilo koji svijet i bilo s koji skup formula.;0:32:43 - 0:32:47
+Pa evo, uzet ćemo u i sigma skup formula i taj skup formula;0:32:47 - 0:32:52
+pretpostavljamo da je konačno ispunjiv u svim ru sljedbenicima svijeta u.;0:32:52 - 0:32:58
+Dobro?;0:32:58 - 0:32:59
+E, i sad, šta? Mi sad moramo iskonstruirati nekakav ultrafilter;0:33:00 - 0:33:07
+u tom ultrafilterskom prošljenju koji će biti dobar.;0:33:07 - 0:33:11
+A šta znači dobar? Znači, bit će vezan sa u, znači u, r, u, v.;0:33:11 - 0:33:16
+Uredo? I, forsira će čitav sigma.;0:33:16 - 0:33:20
+Dobro, pa ćemo morati reći da je sigma ispunjiv u skupu sljedbenika od u.;0:33:20 - 0:33:25
+Znači, pretpostavili smo da je konačno ispunjiv,;0:33:26 - 0:33:29
+ali mi hoćemo jedan svijet koji sve pokriva, odnosno kaže da vrijedi čitav sigma.;0:33:29 - 0:33:34
+Sigma je ispunjiv u ru od u.;0:33:34 - 0:33:36
+Dobro, e sad, jeste ovo negdje već vidjeli, ovog konstrukciju ultrafiltra;0:33:37 - 0:33:43
+od proizvodnog skupa, podskupova?;0:33:43 - 0:33:46
+Znači, treba vidjeti da skup podskupova od duplog v;0:33:47 - 0:33:57
+ima svojstvu konačnih presjeka i to je dovoljno.;0:33:57 - 0:34:01
+Uredo? Znači, bez obzira koliko konačno mnogo,;0:34:01 - 0:34:05
+ali morate dopustiti proizvodno konačno mnogo,;0:34:05 - 0:34:07
+neće biti dovoljno dobro ako uzmete samo dva.;0:34:07 - 0:34:10
+Znači, ako uzmem proizvodno konačno mnogo elemenata i presjećem ih,;0:34:11 - 0:34:16
+to mora biti neprazno, ne mora biti nazad unutra,;0:34:16 - 0:34:19
+nego samo mora biti neprazno. Uredo?;0:34:19 - 0:34:22
+Ako to imam, onda mogu proširiti taj skup podskupova do ultrafiltra. Uredo?;0:34:23 - 0:34:31
+E, i sad, zapravo vi pišete ono, popis želja, razumijete?;0:34:32 - 0:34:37
+I onda se te želje ispune. Te se želje ispune,;0:34:37 - 0:34:40
+a taj ima svojstvo konačnih presjeka. Gotovi ste. Razumijete?;0:34:40 - 0:34:44
+Znači, vi sad samo kažete, ono, deklarativno kažete;0:34:44 - 0:34:47
+šta vi hoćete u svom ultrafiltru. Dobro?;0:34:47 - 0:34:50
+Pa šta hoću? Šta bi mogo htjeti?;0:34:51 - 0:34:53
+Mislim, hoću da su mi istivite sve formule iz sigma. Dobro?;0:34:54 - 0:34:59
+Pa ću onda šta napraviti? Naravno, pitaću se,;0:34:59 - 0:35:02
+je li ultrafiltar zadovoljan da je velik ovaj skup?;0:35:02 - 0:35:06
+Pa, kada stavim cijele te skupove svaki put, onda će biti. Uredo?;0:35:06 - 0:35:10
+Znači, ovoga za svaki fi i sigma stavim unutra V od fi. Dobro?;0:35:10 - 0:35:16
+Pa ću dobiti svoj V forsira sigma.;0:35:16 - 0:35:19
+A šta mi treba da bi imao U R U V? Pa ovo tu.;0:35:20 - 0:35:24
+Vi jeste mi rekli, dobro, to nismo baš ovoga raspisali,;0:35:25 - 0:35:28
+ali to možete doma sami, jel? Sjećate se ono.;0:35:28 - 0:35:31
+Znači, mi smo u biti koristili ovo.;0:35:31 - 0:35:34
+Znači, da je za sve A iz V M dajmond iz U.;0:35:34 - 0:35:39
+A ovdje imamo za svaki A poskup od V.;0:35:39 - 0:35:44
+Ako je M box od A iz U, onda je A iz V.;0:35:44 - 0:35:49
+Taj drugi način je tu praktični, jer tu samo popišem ove skupove;0:35:49 - 0:35:54
+i šibnem ih u ovaj E. Dobro? Pa onda to završi u V.;0:35:54 - 0:35:59
+Dobro?;0:36:00 - 0:36:01
+Znači, doslovno, mislim, ovo je trivialno onda ispunjeno, jel?;0:36:02 - 0:36:06
+Jedino što treba provjeriti je svojstvo konačnih presjeka.;0:36:06 - 0:36:09
+Tu možete sami se malo poigrati. Dobro?;0:36:09 - 0:36:11
+Koji obično, vidite, tu su nekako dvije raznorodne cijeline, jel?;0:36:11 - 0:36:16
+I sad, naravno, kad pogledate dva skupa odavde, naravno da sad presjek,;0:36:16 - 0:36:23
+to je lako, jel? Ovoga isto i ovdje.;0:36:23 - 0:36:27
+Pa sad je pitanje kad se malo pomješa, kad uzmem V od Fi 15 ili nešto, V od Fi nekog,;0:36:27 - 0:36:34
+i ovdje presjećam sa ovak nečem, jel?;0:36:34 - 0:36:40
+Onda sad je teže možda pokazati da je neprazan, ali možete, bez problema.;0:36:40 - 0:36:45
+Ok. Znači, imamo da je ultrafiltersko prošljenje svakog modela M modalno saturirano.;0:36:46 - 0:36:51
+I sad želimo dokazati sljedeće.;0:36:51 - 0:36:53
+Znači, jak imamo, to je ono oko čega se sve i radilo.;0:36:54 - 0:36:59
+Znači, jak imamo M i N modele, dobro, i imamo dupli V iz M-a i V iz N-a, dobro,;0:36:59 - 0:37:09
+onda vrijedi, oni su modalno ekvivalentni, taj duplo V i V,;0:37:09 - 0:37:14
+ako i samo ako postoji bi simulacija Z između ultrafiltra prošljenja ta dva modela,;0:37:14 - 0:37:20
+za koju vrijedi da su duplo V i U, odnosno glavni filtr generiran sa duplim V,;0:37:20 - 0:37:27
+u relaciji Z sa V i U.;0:37:27 - 0:37:32
+Ok. Znači, ajmo malo vidjeti, kak bi ste to dokazali, ajde.;0:37:32 - 0:37:36
+Znači, sad kad znate da je ultrafiltersko prošljenje svakog modela modalno saturirano,;0:37:37 - 0:37:43
+a modalno ekvivalentni svjetovi između modalno saturiranih modela su bi simulirani;0:37:44 - 0:37:56
+i još imate, valjda je ovo bitno, znači da su duplo V i duplo V U modalno ekvivalentni.;0:37:56 - 0:38:05
+To su vam nekako Lego kockice i sad ih treba složiti za ovo.;0:38:06 - 0:38:12
+Znači, imamo da su duplo V i V modalno ekvivalentni.;0:38:14 - 0:38:20
+Želimo dokazati da su duplo V i U bi simulirani. Kako ćemo to napraviti?;0:38:20 - 0:38:38
+Tako je. I ovi tu isto.;0:38:44 - 0:38:47
+Pa su ovi, tako je, jer je ovo transitivno.;0:38:50 - 0:38:54
+Tako je, njihovi pripadni modeli, odnosno to ultrafilter prošljenja su modalno saturirano,;0:38:55 - 0:39:00
+a to su oni bi simulirani, jel' tako? Znači, nekak, ajmo reći.;0:39:00 - 0:39:05
+Imali smo ovo i dobili ovo tu.;0:39:07 - 0:39:10
+Postoji bi simulacija. Znači, ovi svjetovi su bi simulirani.;0:39:21 - 0:39:27
+Šta ćemo sad? To je s desno na ljevo. Znači, mi bismo htjeli dobiti ovo.;0:39:28 - 0:39:36
+Kako ćemo to dobiti?;0:39:37 - 0:39:39
+Možda možemo ukopljati simulaciju između V i V?;0:39:40 - 0:39:46
+Između V i V? Mogli bismo, ali možemo i još jednostavnije.;0:39:47 - 0:39:53
+Znači, opet ovo što ste vi rekli, znači ovo imamo.;0:39:53 - 0:39:57
+U redu, to imamo, jedno i drugo.;0:39:57 - 0:39:59
+Znači, ovo imamo, ovo imamo i ovo imamo.;0:39:59 - 0:40:02
+E sad, jel možemo ovo negako pretvoriti,;0:40:02 - 0:40:07
+da opet po transitivnosti budu modalno ekvivalentne?;0:40:07 - 0:40:12
+Šta tu piše?;0:40:26 - 0:40:28
+Bi simulirani svjetovi su modalno ekvivalentni.;0:40:29 - 0:40:32
+Znači, modalna ekvivalencija je samo slabija, jel tako?;0:40:32 - 0:40:36
+Znači, vrijedi et, jel?;0:40:36 - 0:40:40
+Al' digne se i na sve formule.;0:40:40 - 0:40:42
+Drugim riječima, ovo tu povlači tri crte.;0:40:43 - 0:40:47
+Pa opet imamo ovo tu.;0:40:47 - 0:40:49
+Znači, sad imamo ove tri stvari,;0:40:52 - 0:40:54
+s time da je ova tu jača od ovoga šta nam zapravo treba.;0:40:55 - 0:40:58
+I to troje će povući ovo.;0:40:58 - 0:41:00
+Znači, sad je to savršeno trivialna stvar.;0:41:01 - 0:41:04
+I to je nekak bila glavna stvar u ovom pogledu.;0:41:05 - 0:41:15
+Ok, evo, tri minute vam vraćam.;0:41:19 - 0:41:21
+Gotovi smo.;0:41:21 - 0:41:23

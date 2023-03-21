@@ -1,0 +1,568 @@
+Speech;Timestamp
+samo primijeniti onu lemu za koju kolega rekao da posjeća na neki način;0:00:00 - 0:00:07
+na postop rezultati iz teorije izračunjivosti, to ćemo vidjeti i poslije,;0:00:07 - 0:00:12
+koja se bavi rekurzivnim i rekurzivno prebrojivim relacijama.;0:00:12 - 0:00:18
+Relacija je rekurzivna, ako i samo ako su ona i njezine komplement rekurzivno prebrojive.;0:00:18 - 0:00:26
+Ne možete uvijek napraviti, jako rijetko možete direktno primijeniti to,;0:00:27 - 0:00:33
+jer kad god imate, ovdje je bila stvar da imate samo trivialnu signaturu,;0:00:33 - 0:00:40
+samo jednakost i sve ono što ispunjava ovo će biti beskonačno,;0:00:40 - 0:00:50
+sve ono što ne ispunjava to će biti konačno i gotovo.;0:00:50 - 0:00:54
+Na primjer, što ja znam u ovom primjeru, ne mogu samo koristenjem oneleme;0:00:56 - 0:01:01
+dokazati da klasa svih nedjeljivih grupa nije elementarna.;0:01:01 - 0:01:07
+Dakle, vidite šta je problem.;0:01:07 - 0:01:09
+Nekako u komplementu od K žive ne samo nedjeljive grupe, nego i negrupe.;0:01:09 - 0:01:16
+Dakle, jednostavno ono što uopće ne zadovoljava aksiome grupe.;0:01:16 - 0:01:19
+Dakle, može se i tome doskočiti na neki način, ali to su puno kompliciranije stvari.;0:01:19 - 0:01:23
+Vidjet ćemo neke ideje toga kad budemo pričali o teoremiju očuvanja puno kasnije.;0:01:23 - 0:01:32
+Dobro, dakle, još jedan primjer.;0:01:32 - 0:01:36
+Dakle, klasa svih polja karakteristike nula je elementarna.;0:01:36 - 0:01:40
+Zašto je elementarna?;0:01:40 - 0:01:41
+Zato što, evo, mogu jednostavno, ne da mi se pisat,;0:01:41 - 0:01:46
+ali S0 je nekakav skup svih aksioma teorije polja,;0:01:46 - 0:01:50
+znači, valjda ih ima devet, tako se dobro sjećam.;0:01:50 - 0:01:52
+Dakle, asocijativnost, brajanje množenja, nekakvi neutralni elementi,;0:01:52 - 0:01:57
+inverzi svega osim nule, s obzirom na množenje i takve neke stvari.;0:01:57 - 0:02:00
+Dakle, svako ih tu ima konačno mnogo.;0:02:00 - 0:02:03
+I još onda znači...;0:02:03 - 0:02:05
+Ima takvih i još ih ima ovakvih.;0:02:15 - 0:02:18
+Dakle, ovo je...;0:02:18 - 0:02:20
+Dobro, znači, negacija jednakosti, ali dakle.;0:02:23 - 0:02:27
+Ovo je zapravo jedna aksioma teorije polja.;0:02:27 - 0:02:30
+Dakle, jednostavno da jedinica nije nula, to mora tako biti u svakom polju.;0:02:30 - 0:02:34
+Znači, nema polja karakteristike 1, ali sad na to još nadodam;0:02:34 - 0:02:39
+da nije karakteristike 2, da nije karakteristike 3, i tako da reći.;0:02:41 - 0:02:47
+Dobro, zašto je dovoljno da stavim samo jedinice?;0:02:49 - 0:02:53
+Zašto ne moram napisati za sve elemente?;0:02:53 - 0:02:55
+Jasno, zato što polja uvijek ima jedinicu, uvijek mogu izlučiti taj element;0:02:55 - 0:02:59
+i nema dijelitelja nule.;0:02:59 - 0:03:01
+Znači, to je nekak ljudima koji znaju algebru jasno.;0:03:01 - 0:03:04
+Što više ne moram zapravo...;0:03:04 - 0:03:06
+Znači, ovdje imam kao jedna, dvije, tri.;0:03:06 - 0:03:09
+Sljedeća nije četiri, negdje je pet.;0:03:09 - 0:03:11
+Mislim, neće ništa strašno biti ni da stavim za četiri,;0:03:11 - 0:03:16
+ali ne moram jer karakteristika polja mora biti prim broj ili nula.;0:03:16 - 0:03:22
+Dakle, zapravo ovo je, ajmo reći, nekakav...;0:03:25 - 0:03:28
+Nije ništa, minimalni skup aksijoma,;0:03:28 - 0:03:30
+ali nekako lijepo ubrijan skup aksijoma za polja karakteristike nula.;0:03:30 - 0:03:36
+K nula je upravo mod od tog S.;0:03:37 - 0:03:39
+Dobro, znači svakako elementa ne jeste.;0:03:40 - 0:03:42
+I opet sad ona ista priča.;0:03:42 - 0:03:44
+Kad bi bila delta elementarna, onda bi bila mod od nekog konačnog podskupa,;0:03:44 - 0:03:49
+od baš ovog skupa.;0:03:49 - 0:03:51
+Naravno, sad, jel' taj podskup zahvaća čita Ves nula ili samo neke elemente od S nula,;0:03:51 - 0:03:56
+nije uopće bitno, uvijek ga mogu napuhati sve do čitavog S nula,;0:03:56 - 0:03:59
+ali ono što je važno je da zahvaća samo konačno mnogo ovih ovdje.;0:03:59 - 0:04:03
+Međutim, naravno, Euclid kaže, čim imaš konačno mnogo prim brojeva,;0:04:03 - 0:04:08
+imaš prim broj koji nije, nija od njih.;0:04:08 - 0:04:11
+Dakle, pomrožiš, dodaš jedan i nađeš prosti dijelitelj.;0:04:11 - 0:04:15
+Dakle, i sad ti samo treba neko polje karakteristike K za kontraprimjer.;0:04:15 - 0:04:19
+Recimo, najjednostavnije je valjda ZP, zato je važno da P bude prim broj.;0:04:19 - 0:04:23
+Dakle, to je onda polje i jest karakteristike P, očito.;0:04:23 - 0:04:27
+I na njemu vrijedi S crtica, jer, dakle, naravno,;0:04:27 - 0:04:30
+P kao prim broj nije dijeljiv nijednim manjim prim brojem.;0:04:30 - 0:04:36
+Dakle, na njemu doista vrijedi čita S crtica i naravno vrijedi čita S 0,;0:04:36 - 0:04:43
+pa onda je bilo koji podskup od S 0, jer ZP doista jest polje.;0:04:43 - 0:04:47
+Ali nije polje karakteristike 0, dakle, kontradikcija.;0:04:47 - 0:04:51
+Dakle, K 0 nije delta elementarna.;0:04:51 - 0:04:55
+Dobro, i sad što je s onima koji nisu karakteristike 0,;0:04:55 - 0:05:00
+recimo što je sa poljima karakteristike 5?;0:05:00 - 0:05:03
+To je delta elementarna, jer naravno dovoljno je reći ovo.;0:05:03 - 0:05:13
+I jednom kad kažem to, onda naravno množenjem sa bilo kojim a dobijem;0:05:13 - 0:05:19
+da svaki element kad se zbroji pet puta sa samim sobom dobije se 0.;0:05:19 - 0:05:24
+Znači, polje doista jest karakteristike ne više od 5, ali ne ni manje od 5 opet,;0:05:24 - 0:05:31
+jer mora zapravo biti dijelitelj.;0:05:31 - 0:05:33
+Na prije, kad bi uz to bilo i recimo karakteristike 3,;0:05:33 - 0:05:38
+onda bi naravno bilo i karakteristike 2, pa bi bilo i karakteristike 1, što je nemoguće.;0:05:38 - 0:05:46
+Ovo zapravo znači ne samo da je karakteristike najviše 5,;0:05:46 - 0:05:52
+nego zapravo znači da je karakteristike točno 5.;0:05:52 - 0:05:54
+Dakle, dovoljno je uzeti jednu od tih formula,;0:05:54 - 0:05:56
+onu koja je ugovara baš broju p, i dobiti onda očito konačan skup akcije ova za klasu svih polja karakteristike p.;0:05:56 - 0:06:05
+I to naravno za svaki pojedini p.;0:06:05 - 0:06:07
+Ali klasa svih polja, dakle, dajmo reći, kao pozitivne karakteristike,;0:06:10 - 0:06:14
+dakle one karakteristike koja nije 0, nije elementarna.;0:06:14 - 0:06:21
+Da li bi smo to mogli nekako pametno dokazati?;0:06:21 - 0:06:27
+Tu bi vjerojatno sad trebalo opet nekako pametnije pristupiti ovom skupu S0,;0:06:34 - 0:06:41
+jer, kažem, ne možemo doslovno primijeniti ovaj postov resultat.;0:06:41 - 0:06:45
+Da, nisam siguran da ovo sa trenutnim znanjima znamo dokazati.;0:06:46 - 0:06:53
+Jer, opet, gledam komplement, naravno, neće biti elementarno, to je kristalno jasno,;0:06:53 - 0:06:59
+ali u komplementu se nalaze i stvari koje uopće nisu polja.;0:06:59 - 0:07:04
+Znači, zapravo, kad bi htio nekako presjek.;0:07:04 - 0:07:12
+Znači, dajmo da probamo. Znači, šta je K0 komplement?;0:07:16 - 0:07:19
+To bi bilo, znači, klasa svih polja pozitivne karakteristike,;0:07:20 - 0:07:25
+unija klasa svih ne polja, ali nad signaturom polja, dakle, možemo reći, kvazi polja.;0:07:25 - 0:07:30
+Znači, kvazi polja, kvazi polja, kvazi polja, kvazi polja, kvazi polja, kvazi polja.;0:07:35 - 0:07:39
+Dobro, ali naravno, znači, ovo tu je;0:07:47 - 0:07:53
+mod od S0, dakle, to je delta elementarno.;0:07:54 - 0:08:04
+Sorry, to je mod od S0 komplement.;0:08:06 - 0:08:10
+Nad tom signaturom S0 upravo formalizira,;0:08:11 - 0:08:16
+aksjomatizira klasu svih polja, dakle, ovo je komplement.;0:08:16 - 0:08:20
+Znači, to je nekakav, znači, ovo je delta elementarno,;0:08:20 - 0:08:26
+jer je ovo konačarsko, znači, ovo je komplement neke delta elementarne klase,;0:08:26 - 0:08:33
+pa je također delta elementarno, to smo dokazali, jednostavno možeš;0:08:35 - 0:08:39
+univerzalno zatvoriti konjunkciju svih iz S0, ključno je da je S0 konačan,;0:08:39 - 0:08:43
+dakle, i ovo je također delta elementarno.;0:08:43 - 0:08:47
+I sad razmišljam ovako, znači, kad bi ovo bilo, znači, ono što znam je da ovo nije elementarno.;0:08:48 - 0:08:57
+Zašto? Jer je komplement onoga što jest elementarno, a nije delta elementarno.;0:09:00 - 0:09:10
+Jel' tako?;0:09:11 - 0:09:13
+Slijedi iz K0 elementarna i K0 nije delta elementarna.;0:09:14 - 0:09:23
+Istoga slijedi da K0 komplement nije elementarna.;0:09:24 - 0:09:28
+I sad, jel' mi to dosta...;0:09:29 - 0:09:31
+Ovo je disjunkna unija, naravno, dakle, niko nije u jednom i drugom.;0:09:33 - 0:09:37
+Da bi čovjek mogao ovaj, da može ovako nešto reći.;0:09:38 - 0:09:41
+Kad bi ovo bilo, da, elementarno, nekako mi treba, treba mi nekakav teorem da je unija,;0:09:42 - 0:09:51
+a jel' i sad unija dvije elementarne ponovno elementarne, nije baš jasno.;0:09:51 - 0:09:56
+Dakle, prejsijek svakako jest, jer samo napravim uniju skupo akcijom, kontravarijanost.;0:09:56 - 0:10:01
+Ali za uniju, mislim, nekako treba isključiti činjenje da je ovo baš delta elementarno,;0:10:02 - 0:10:08
+ne samo da je elementarno, jer mislim da je prelično lako naći,;0:10:08 - 0:10:12
+ali nisam baš siguran da je lako, ali moguće naći primjere unije elementarnih klasa;0:10:12 - 0:10:18
+koje nisu elementarne.;0:10:18 - 0:10:20
+U uniju je elementarno i delta elementarno?;0:10:20 - 0:10:23
+To kažem, da, dakle, nekakav dual konusnog svojstva, el', dakle,;0:10:23 - 0:10:27
+ali, kažem, stvarno, ne znam puno o tome.;0:10:28 - 0:10:31
+Samo sam htio raspisaći isto da vidimo šta znamo, šta još ne znamo,;0:10:31 - 0:10:35
+ali, dakle, mislim, ja vjerujem, vjerujem Tinu Perkovu da ovo stvarno vrijedi,;0:10:35 - 0:10:40
+ali čini mi se da za sad još nemamo dovoljno znanja da to događa.;0:10:40 - 0:10:45
+Dobro, ovdje piše da treba još znati algebru, ali, dobro,;0:10:47 - 0:10:50
+klasa svih algebarskih zatvorenih polja jest elementarna.;0:10:50 - 0:10:54
+Šta tu zapravo treba reći? Pa, to nije tako teško.;0:10:54 - 0:10:57
+Valjda to samo hoće reći da svaki poljinom,;0:10:57 - 0:11:01
+svaki, valjda, ne trivialni, šta već, poljinom stupnje 1 ili više,;0:11:01 - 0:11:05
+ima nultočku, a to se za svaki pojedini poljinom, naravno, može napisati,;0:11:05 - 0:11:11
+za svaki pojedini stupanj poljinoma se može napisati kao nekakva formula.;0:11:11 - 0:11:17
+Recimo, na primjer, za poljinove stupnje 2;0:11:17 - 0:11:23
+ćete imat za svaki a, za svaki b, za svaki c postoji x,;0:11:23 - 0:11:29
+takav da a puta x puta x plus b puta x plus c je nula.;0:11:29 - 0:11:34
+Ovo je formula u jeziku teorije polja.;0:11:34 - 0:11:39
+Dakle, i beskonačno mnogo takve formula pojedna za svaki stupanj;0:11:39 - 0:11:47
+više manje aksijomatizira upravo klasu algebarskih zatvornih polja.;0:11:47 - 0:11:52
+To je lako, a valjda za ovo treba znati algebru, da nije delta elementarna.;0:11:52 - 0:11:58
+Šta to znači? To bi značilo kad bi, opet, ona famozna propozicija;0:11:58 - 0:12:03
+koju uvijek koristite u tim situacijama, znači, kad bi bila delta elementarna;0:12:03 - 0:12:08
+to bi moglo samo odsjećo ovo na nekom mjestu.;0:12:08 - 0:12:10
+Znači, mogo bi jednostavno reći, dovoljno mi je za poljinome stupnje do 5.;0:12:10 - 0:12:14
+Abelor u Fini, samo s druge strane.;0:12:14 - 0:12:18
+Dakle, onda znači ovo šta nam treba. Da, to je nekakav rezultat iz algebre;0:12:19 - 0:12:25
+da uvijek postoji polje koje nije algebarski zatvoreno, ali koje je zatvoreno;0:12:25 - 0:12:31
+do nekog stupnja. Valjda nije tako jednostavno za iskonstruirati.;0:12:31 - 0:12:39
+Dakle, nešto takvo, kao što smo analogon ovog tu;0:12:39 - 0:12:47
+postoji prim broj koji nije nijedan od ovih.;0:12:48 - 0:12:51
+Dakle, tako je i nekako ovdje. Znači, postoji nekakav poljinom,;0:12:51 - 0:12:55
+a valjda je onda u tome stvar. Dakle, nekakav poljinom koji nema faktor,;0:12:55 - 0:13:00
+u izvjesnom smislu prost poljinom. Dakle, nema faktor stupnja manje;0:13:00 - 0:13:05
+nego od nekog. Znači, mislim da se to da napraviti,;0:13:05 - 0:13:10
+samo ne znam kako.;0:13:10 - 0:13:13
+Ovo je logički dio, jasno što treba napraviti.;0:13:14 - 0:13:18
+Ovdje baš logički dio nije, nije jasno što treba napraviti,;0:13:18 - 0:13:21
+zato kažem, možda nam zanimljivije.;0:13:21 - 0:13:24
+Ajmo malo pričat o nekim proširenjima logike, logike prvog reda.;0:13:28 - 0:13:34
+Dakle, čisto da vidimo koji od tih rezultata su nekako robustni,;0:13:34 - 0:13:39
+čuvaju se s obzirom na proširenje logike, ako je ne.;0:13:40 - 0:13:44
+Mislim, ukratko, skoro ništa se ne čuva ako uzmete dovoljno ludu logiku.;0:13:44 - 0:13:50
+Ali, ajmo vidjeti. Znači, recimo, na primjer, svakako najpopularnije proširenje;0:13:50 - 0:13:55
+je logika drugog reda. Logika drugog reda je kao logika prvog reda,;0:13:55 - 0:13:59
+jedino što ste još dodali je mogućnost funkcijskih i relacijskih variabla.;0:13:59 - 0:14:06
+Dakle, mogućnosti, naravno variable, onda mislite da ih možete vezati,;0:14:06 - 0:14:10
+dakle, možete kvantificirati i po funkcijskim simbolima,;0:14:10 - 0:14:15
+a zapravo sad variablama, i po relacijskim.;0:14:15 - 0:14:18
+Nema konstantskih, jer to zapravo imate i u prvom redu.;0:14:18 - 0:14:22
+Ovi obični kvantifikatori su vam kao mogućnosti mjenjenja valuacije konstantskih simbola.;0:14:22 - 0:14:29
+Ali ovdje sad dobijete još mogućnosti valuacije relacijskih i funkcijskih.;0:14:29 - 0:14:34
+I na taj račun sad svano možete, naprimjer vidjeli smo da logici prvog reda ne možete definirati konačnost,;0:14:34 - 0:14:39
+ovdje možete definirati konačnost i bez konačnost, čak i prebrojivost,;0:14:39 - 0:14:42
+ili razne takve divne stvari.;0:14:42 - 0:14:45
+Međutim, direktna postilica zapravo toga da onda možete definirati konačnost,;0:14:45 - 0:14:49
+je da za logiku drugog reda ne vrijedi teorija kompaktnosti.;0:14:49 - 0:14:53
+Evo, znači, kak se to dokaže? Dakle, da definirate konačnost,;0:14:53 - 0:14:57
+mislim da sad nakon nekog vremena buljenja u ovu formulu,;0:14:57 - 0:15:00
+sad se u svazite zapravo da ona kaže za svaku funkciju na nosaču,;0:15:00 - 0:15:04
+ak je injekcija, onda je surjekcija.;0:15:04 - 0:15:09
+To zapravo kaže da je nosačko način.;0:15:09 - 0:15:12
+Dakle, praktički, jedino što vam tu treba od logike drugog reda je ovaj tu kvantifikator po funkcijama.;0:15:12 - 0:15:19
+Ovo sve dalje je zapravo formula logike prvog reda.;0:15:19 - 0:15:22
+I sad, ak uzmete skup koji se sastoji od te formule,;0:15:24 - 0:15:27
+da formula zapravo kaže da je nosačko način,;0:15:27 - 0:15:29
+i kažete da ima više ili jednako dva elementa, više ili jednako tri elementa,;0:15:29 - 0:15:33
+više ili jednako četiri elementa, dakle one formule koje smo rekli da ćemo ih još koristiti,;0:15:33 - 0:15:37
+očito taj čitav skup nema model.;0:15:37 - 0:15:40
+Jer, naravno, ak je konačan onda ima sedamnaest elementa,;0:15:40 - 0:15:44
+onda ne može imat više ili jednako od osamnaest elementa.;0:15:44 - 0:15:47
+Međutim, svaki njegov konačan podskup ima model, jer naravno,;0:15:47 - 0:15:52
+kad ja odrežem ovo na nekom mjestu, jednostavno će,;0:15:52 - 0:15:55
+najveći broj koji se unutra pojavljuje će biti 52,;0:15:55 - 0:15:58
+i sad postoji konačan skup sa više ili jednako od 52 elementa, čak što više sa,;0:15:58 - 0:16:03
+sa točno jednako od 52 elementa.;0:16:03 - 0:16:05
+Svaki konačan podskup ovog skupa ima model, a čitav taj skup formula nema model,;0:16:05 - 0:16:10
+dakle, teorem kompaktnosti ne vrijedi.;0:16:10 - 0:16:13
+Ovaj skup je primjer neispunjivog, konačno ispunjivog skupa.;0:16:13 - 0:16:17
+Vidite, neko, vrlo malo logike drugog reda mi treba, dakle,;0:16:20 - 0:16:24
+i bez konačnog ovoga formula, samo jedna je zapravo zahtijevala tu kvantifikaciju po funkcijama;0:16:24 - 0:16:29
+i to samo na jednom mjestu na početku, u preneksnoj formuli.;0:16:29 - 0:16:33
+To se onda još zove monadska, dobro, budemo na tome pričali još poslije.;0:16:36 - 0:16:40
+Dobro, i sad, šta je još svašta ne vrijedi u logici drugog reda?;0:16:43 - 0:16:46
+Nekog čovjek rekao je, bam, onda kad mogu kvantificirati po funkcijama i po relacijama,;0:16:46 - 0:16:52
+onda mora da je to puno bolje.;0:16:52 - 0:16:54
+Bolje je u smislu ekspresivnosti, ali onda, naravno, slabije u smislu nekakve meta-logike.;0:16:54 - 0:16:58
+Dakle, jako malo lijepih rezultata tu mogu ostvariti.;0:16:58 - 0:17:02
+Na primjer, ne vrijedi jaki teorem potpunosti.;0:17:02 - 0:17:04
+Dakle, to je ono kao, moži dokazati formulu ako i samo ako je logička posljedica.;0:17:04 - 0:17:10
+Sad, naravno, šta znači uopće dokazati?;0:17:10 - 0:17:13
+Morali bismo nekakve dokazni sustave imati za logiku drugog reda.;0:17:13 - 0:17:16
+O tome se isto pišu radovi, nije uopće jasno šta je zbog ovog tu.;0:17:16 - 0:17:22
+Dakle, Gedelov teorem potpunosti, opet, naravno, naivno bi čovjek rekao,;0:17:22 - 0:17:26
+to zapravo samo znači da imaš nekakav dokazni sistem koji je potpun,;0:17:26 - 0:17:31
+ali ne samo to.;0:17:31 - 0:17:33
+Mislim, dakle, to bi zahtjevalo da stvarno pričamo o nekom konkretnom dokaznom sistemu.;0:17:33 - 0:17:37
+Nego bi čovjek mogao reći ovako.;0:17:37 - 0:17:39
+Dakle, skroz općenita varijanta Gedelovog teorema potpunosti bi zapravo rekla ovako.;0:17:39 - 0:17:43
+Skup svih valjanih formula je rekurzivno probrojiv.;0:17:43 - 0:17:47
+Dakle, u tom trenutku uopće me ne zanima, naravno sad trebalo bi znat šta znači rekurzivno probrojiv,;0:17:47 - 0:17:51
+ali ukratko, ima nekakav algoritam koji, ako ga pustim dovoljno dugo,;0:17:51 - 0:17:56
+će na output ispisati sve valjane formule.;0:17:56 - 0:18:01
+A neće ispisati nijednu koja nije valjana.;0:18:01 - 0:18:04
+Naravno da, ako imam dokazni sustav, bilo kakav suvisni dokazni sustav,;0:18:04 - 0:18:12
+ne moram opće razmišljati o konkretnim varijantama dokaznih sustava,;0:18:12 - 0:18:16
+svaki dokazni sustav ima to svoje stvari.;0:18:16 - 0:18:19
+Ispišem za početak sve aksijome, onda ispišem sve što se može iz aksijoma dobiti;0:18:19 - 0:18:23
+pomoću jednog pravila izvoda, onda je, naravno ako možeš reći,;0:18:23 - 0:18:26
+a šta, ako ih aksijome je beskonačno mnogo, imaš šeme aksijoma,;0:18:26 - 0:18:29
+onda ima onih tehnika ispraplitanja, dakle, ne ispišem sve aksijome,;0:18:29 - 0:18:32
+ne ispišem prva tri aksijoma, pa onda ispišem ono što se može pomoću njih dobiti,;0:18:32 - 0:18:35
+pa ispišem četvrti aksijom, pa ispišem ono što se može pomoću njih dobiti, tako dalje.;0:18:35 - 0:18:39
+To su sve relativno poznate tehnike u teoriji izračunjivosti.;0:18:39 - 0:18:44
+Tako da, kažem, zapravo bez nekog govora o konkretnim dokaznim sistemima,;0:18:44 - 0:18:49
+možemo reći da ako uopće imaš nekakav suvisni dokazni sistem,;0:18:49 - 0:18:53
+onda će ti skup svih teorema biti rekursivno pribrojev.;0:18:53 - 0:18:56
+Međutim, skup svih faljenih formula nije rekursivno pribrojev,;0:18:57 - 0:19:01
+i dakle skup svih faljenih formula ne može biti jednak skupu teorema;0:19:01 - 0:19:05
+ni u kakvom suvisnom dokaznom sustavu.;0:19:05 - 0:19:08
+Za logiku drugog reda, za logiku prvog reda.;0:19:08 - 0:19:10
+Naravno može, to je recimo Hilbertov sustav aksijoma i to je to.;0:19:10 - 0:19:14
+Dobro, Levenham's formula, to je remena dolje, to ćemo poslije raditi,;0:19:16 - 0:19:20
+ali, jerujem da ste ga već čuli na logici,;0:19:20 - 0:19:24
+dakle, jednostavno kaže, ako formula ima beskonačan model,;0:19:24 - 0:19:29
+onda ima pribrojev model.;0:19:29 - 0:19:31
+Dakle, dobro, teorija zapravo, skup formula.;0:19:33 - 0:19:37
+Nekako, na dolje zapravo znači da mogu smanjivati kardinalnost,;0:19:37 - 0:19:42
+ali ne proizvoljno, nego do pribrojevosti.;0:19:42 - 0:19:46
+Mi ćemo dokazati neku malo općenituju tvrdnju.;0:19:48 - 0:19:51
+Naravno, od čega uopće dolazi ta pribrojevost?;0:19:51 - 0:19:53
+Dolazi od pribrojevosti alfabeta.;0:19:53 - 0:19:55
+Dakle, ako imate alfabet koji je veća kardinalnosti,;0:19:55 - 0:19:58
+onda zapravo opet ne možete smanjiti na niže od toga,;0:19:58 - 0:20:01
+jer, naravno, u alfabetu možete imati toliko konstantskih simbola,;0:20:01 - 0:20:04
+da jednostavno imate imena za svaki pojedini element nosača,;0:20:04 - 0:20:08
+i onda ih ne možete samo zaboraviti.;0:20:08 - 0:20:10
+Dakle, ovi konstantski simboli vam neće imati interpretaciju.;0:20:10 - 0:20:14
+Ali, dakle, zaustavimo se za sad kod ovog jednostavnog;0:20:16 - 0:20:19
+linear-mechanical-model-log teorema.;0:20:19 - 0:20:21
+Na dolje, dakle, jednostavno, sve što ima model, ima...;0:20:21 - 0:20:25
+A, dobro, sad, ne mora čak i biti beskonačan,;0:20:26 - 0:20:29
+a to je sad opet ova priča da li govorimo samo o normalnim strukturama;0:20:29 - 0:20:33
+ili o proizvodnim strukturama, da ne kompliciramo s tim.;0:20:33 - 0:20:36
+Jednostavno, napisaćemo formulu koja ima model,;0:20:36 - 0:20:42
+ali nema pribrojev modela.;0:20:42 - 0:20:44
+Dakle, kak se to radi?;0:20:45 - 0:20:47
+Slično kao na prethodnom slajdu, naravno, sad trebalo to napisati preciznije,;0:20:47 - 0:20:51
+postoji formula psi fin od x.;0:20:51 - 0:20:55
+Dakle, naravno, ljepota ove prethodne formule je zapravo da nije morala pričati;0:20:55 - 0:20:59
+o relativizaciji, zapravo mogla, ovi x i y mogu biti bilo kakvi.;0:20:59 - 0:21:03
+E, a ovdje naravno moram preciznije, dakle, moram jednostavno reći;0:21:03 - 0:21:07
+da je x nekakav konačni podskupno sačar.;0:21:07 - 0:21:11
+Dakle, naravno, počet ću pisati pa onda...;0:21:11 - 0:21:15
+Dakle, x je u ovom kontekstu zapravo nekakva relacijska varijabla.;0:21:15 - 0:21:23
+Naravno, ideja je da to nam predstavlja nekakav podskupno sačar,;0:21:23 - 0:21:27
+ali u logici prvog reda podskupove su zapravo unarne relacije, jednomjestne relacije.;0:21:27 - 0:21:33
+Dakle, čovjek bi valjda rekao ovako nešto.;0:21:33 - 0:21:38
+Za svaku formu, za svaku funkciju, ako je ta funkcija sa x u x,;0:21:38 - 0:21:43
+to je sad ovo ključno, znači, šta bi ćemo ga reći?;0:21:43 - 0:21:46
+Funkcija je sa x u x, dakle, kad god zadaš nekakav element od x-a,;0:21:46 - 0:21:51
+onda je njegov f također u x-u, onako je valjda.;0:21:51 - 0:21:55
+Za svaki mali x, ako vrijedi veliki x od tog malog x-a,;0:21:55 - 0:22:02
+dakle, ovo je sad atomarna formula,;0:22:02 - 0:22:04
+dakle, to zapravo, ko će reći x je element tog podskupa x,;0:22:04 - 0:22:08
+ali naravno, ovo ne mogu iskazati, mogu teorija iskupovati.;0:22:08 - 0:22:11
+U logici prvog gleda moram to ovako reći.;0:22:11 - 0:22:14
+I, pa ne, ne ide, jednostavno, tada je i f od x također u tog x-a.;0:22:14 - 0:22:26
+Znači, ovo zapravo, ko će reći f ide sa x u x.;0:22:26 - 0:22:33
+Dobro, i f je injekcija, to je sve potpuno isto.;0:22:34 - 0:22:41
+Tada je f surjekcija, ali naravno na x.;0:22:41 - 0:22:45
+Ovo je, potpuno moram razmišljati o relativizaciji.;0:22:45 - 0:22:48
+Za injekciju ne moram razmišljati o relativizaciji,;0:22:48 - 0:22:50
+jednostavno ću napisati da je f injekcija,;0:22:50 - 0:22:52
+mada, mislim, mogao bih ovo reći, da hleda f na x-a,;0:22:52 - 0:22:56
+ali sad, ili to ekvivalentno?;0:22:56 - 0:22:59
+Ko će ga znat, nekako teoretično je moguće da nosač bude šašav,;0:22:59 - 0:23:04
+ali nije zapravo.;0:23:04 - 0:23:06
+Ako imate nosač, sad tu imate nekakav x koji je podskup;0:23:06 - 0:23:12
+i sad na njemu imate injekciju, nekako, permutaciju zapravo.;0:23:12 - 0:23:23
+Ideja je da to bude kodančan skup.;0:23:23 - 0:23:27
+Na ovom ostalom dijelu uvijek možete jednostavno dodefinirati identitetu.;0:23:27 - 0:23:34
+Proširenje funkcije identitetom čuva injektivnost.;0:23:34 - 0:23:39
+Dakle, ako je ova početna bila injekcija i ova proširena će biti injekcija,;0:23:39 - 0:23:43
+iako ova nije bila, naravno neće ni ova biti.;0:23:43 - 0:23:45
+Dakle, zapravo ovdje ne moram govorit na x,;0:23:45 - 0:23:48
+a ovdje naravno moram govorit na x jer su injektivnosti jednostavno znači;0:23:48 - 0:23:52
+ako imaš y iz x onda imaš mali x također iz x koji ga pogađa.;0:23:52 - 0:23:58
+Dakle, svakako kažem, ima tu još sad pisanja, ali jasno je nekako gledajući ovo;0:23:58 - 0:24:02
+kako bi se to napisalo.;0:24:02 - 0:24:04
+Dakle, formula koja kaže, to je formula sa jednom slobodnom relacijskom variablom x;0:24:04 - 0:24:10
+koja kaže da ta variabla x označava konačnu jednomjestnu relaciju.;0:24:10 - 0:24:15
+E sad, jednom kad čovjek ima formulu psi fin,;0:24:15 - 0:24:19
+kažemo nije baš da smo joj napisali, ali skoro,;0:24:19 - 0:24:22
+možemo definirati psi p, ili psi prep, prebrojivo.;0:24:22 - 0:24:27
+Dakle, koja kaže da postoji uređaj, znači opet sad;0:24:27 - 0:24:32
+egzistencijno kvantificiram po nekim relacijama,;0:24:32 - 0:24:35
+znači ovo je bilo, kaj je, ja ne.;0:24:35 - 0:24:38
+Psi prep je, postoji r2, relacijska variabla koja označava dvomjestne relacije.;0:24:41 - 0:24:50
+Postoji uređaj u kojem od svakog elementa postoji samo konačnu mnogo manjih elementa.;0:24:50 - 0:24:54
+Kako bi to čovjek napisao?;0:24:54 - 0:24:56
+Dobro, za svaki x.;0:24:57 - 0:25:01
+Sad bi ću vam htio reći nekako, aha, psi fin od početnog komada u nosaču od tog x.;0:25:02 - 0:25:15
+Ali naravno, sad ovo treba opet logički opisati.;0:25:15 - 0:25:19
+Ali nije nemoguće, dakle sad bi trebalo reći...;0:25:19 - 0:25:23
+Postoji x koji zapravo bi trebalo označavati njegov početni komad.;0:25:31 - 0:25:36
+Takav da psi fin od x i x doista predstavlja unarnu relaciju koja kaže;0:25:40 - 0:25:51
+to ti je skup svih manjih od malog x.;0:25:51 - 0:25:53
+Dakle, valjda za svaki y, r od yx, ali to je kao uređaj,;0:25:53 - 0:26:03
+y je manji od x, ako i samo ako x od y.;0:26:03 - 0:26:10
+Dobro, dakle, kao nekakav akcijom ekstenzionalnosti,;0:26:15 - 0:26:18
+ali naravno nemam nikakav stvarni govor o skupovima,;0:26:18 - 0:26:22
+nego samo želim modelirati ovaj x.;0:26:22 - 0:26:24
+Reći, dakle, to ti je točno konačan skup i ujedno skup svih onih y-ova;0:26:24 - 0:26:33
+koji su točno u relaciji sa ovim malim x-em.;0:26:33 - 0:26:38
+Ako postoji takav x koji zadovolja ovu formulu psi fin,;0:26:38 - 0:26:42
+očito je, dakle, da je x takav da od njega,;0:26:42 - 0:26:46
+mali x je takav da od njega ima samo konačno mnogo manjih elementa.;0:26:46 - 0:26:50
+Zapravo, ako malo bolje razmislim, on je konačan, znači dovoljno je valjda ovo.;0:26:51 - 0:27:00
+Samo mi treba da svi prethodnici od malog x-a se nalaze u velikom x-u.;0:27:01 - 0:27:07
+Mogu zahtjevati i drugi smjer.;0:27:10 - 0:27:12
+I sad opet, znači to je, vidite sad, to više nije tak jednostavna formula,;0:27:14 - 0:27:18
+jer ovo je formula drugog reda. Ona ima nekakav kvantifikator drugog reda;0:27:18 - 0:27:24
+i još na početku ima kvantifikator drugog reda,;0:27:24 - 0:27:27
+znači kvantifikatorski rang drugog reda je 2,;0:27:27 - 0:27:30
+ali svakako, jest formula drugog reda.;0:27:30 - 0:27:33
+Dakle, ona zapravo, sad, ako interpretiramo što zapravo kaže,;0:27:36 - 0:27:40
+kaže na nosaču mojeg skupa, nosač mojeg skupa je moguće urediti;0:27:40 - 0:27:45
+tako da od svakog elementa ima kvanoša mnogo manjih.;0:27:45 - 0:27:48
+To naravno hoću reći, ako je taj naš nosač konačan, onda je trivialno,;0:27:48 - 0:27:53
+onda je svaki uređaj takav.;0:27:53 - 0:27:55
+Ako je prebrojev, onda naravno može biti raznih čudnih uređaja,;0:27:55 - 0:27:59
+ali svakako ga je moguće urediti tako da bude sličan sa omega.;0:27:59 - 0:28:05
+Jer naravno, prebrojev znači da je ekipotentan sa skupom prirodnih brojeva;0:28:05 - 0:28:10
+i te prirodne brojeva uredim standardno i povučam uređaj natrag;0:28:10 - 0:28:14
+i dobijem uređaj u kojem od svakog elementa postoji konačan mnogo manjih.;0:28:14 - 0:28:19
+Dakle, svakako na nosaču koji je konačan ili prebrojev vrijedi ova formula PSI-P.;0:28:19 - 0:28:27
+Na nosaču koji je neprebrojev sigurno ne vrijedi formula PSI-P.;0:28:27 - 0:28:32
+Zašto? Zato što valjda...;0:28:32 - 0:28:35
+Kaj bi čovjek to lijepo rekao? Znači, u kojem neprebrojev skup.;0:28:36 - 0:28:42
+Zašto onda sigurno ne postoji uređaj u kojem od svakog ima konačan mnogo manjih?;0:28:42 - 0:28:49
+Ima nekakav rezultat iz teorije skupova koji kaže uređajna karakterizacija skupa omega.;0:28:57 - 0:29:04
+Koji kaže, skup je sličan sa omega ako i samo ako je početno konačan.;0:29:04 - 0:29:10
+Dakle, od svakog elementa postoji konačan mnogo manjih i bez konačanja.;0:29:10 - 0:29:14
+Znači, valjda, ako bi bio neprebrojev, onda bi bio bez konačanja.;0:29:14 - 0:29:21
+I ako bi od svakog elementa postojalo samo konačan mnogo manjih,;0:29:21 - 0:29:25
+to bi bio početno konačan. Onda ima, kažem, neki teorem koji kaže;0:29:25 - 0:29:28
+da je tada sigurno sličan sa omega. Pa je sigurno prebrojev.;0:29:28 - 0:29:34
+Kak ide dokaz? Dokaz je zapravo vrlo interesantan.;0:29:34 - 0:29:37
+Dokaz ide tako da iskonstruirate sličnost.;0:29:37 - 0:29:39
+Tako da kažete jednostavno, aha, h od x-a definirate kao broj elemenata y;0:29:39 - 0:29:48
+koji su manji od x-a. I onda dokažete da je to sličnost.;0:29:48 - 0:29:55
+Dakle, specijalno objekcija. A naravno, ovo tu je uvijek element iz omega,;0:29:56 - 0:30:02
+jer je uvijek takvih elementa konačno. I s toga dobijete da čitav skup;0:30:02 - 0:30:09
+ne može biti neprebrojev. Zapetljano je, ali se može.;0:30:09 - 0:30:15
+Znači, na m vrijedi psi p ako i samo ako je taj skup ili konačan, ili prebrojev.;0:30:15 - 0:30:23
+Dakle, naravno, s obzira na to da psi p je rečenica,;0:30:23 - 0:30:26
+vrijedi negacije od psi p ako i samo ako je ono treće.;0:30:26 - 0:30:31
+Dakle, nije ni konačan, ni prebrojev, nego je neprebrojev.;0:30:31 - 0:30:34
+A šta to zapravo znači? To znači da ako uzmem skup koji sastoji;0:30:34 - 0:30:38
+samo od te jedne formule, negacije od psi p, onda on svakako ima model.;0:30:38 - 0:30:43
+Naprimjer, šta znam, skup realnih brojeva.;0:30:43 - 0:30:46
+Naravno, onda uređaj nije stand-upni uređaj na realnim brojevima,;0:30:46 - 0:30:49
+nekakav uređaj, dobar uređaj na Air svakako zadovoljava to.;0:30:49 - 0:30:54
+Dakle, skup singleton ne psi p ima model, naprimjer, skup realnih brojeva,;0:30:54 - 0:31:04
+ali nema prebrojev modela.;0:31:04 - 0:31:08
+Bilo koji prebrojev model ili čak konačan model na njemu bi vrijedila psi p,;0:31:08 - 0:31:15
+dakle ne bi vrijedila negacija od psi p.;0:31:15 - 0:31:18
+Huh, znači, treba teorije skupova znati dosta, ali srećom to znam za razliku od algebre.;0:31:18 - 0:31:26
+Dobro, s čega još ima?;0:31:26 - 0:31:33
+Recimo, na primjer, možemo gledati takozvanu beskonačnu logiku;0:31:33 - 0:31:36
+ili sintaksnu beskonačnu logiku, u kojoj je jednostavno moguće kutvoriti;0:31:36 - 0:31:40
+neke logičke veznike beskonačne mjesnosti, najčešće onda konjunkcije;0:31:40 - 0:31:44
+i disjunkcije.;0:31:44 - 0:31:46
+Onda se takva familija logika označava sa dva ordinala,;0:31:46 - 0:31:52
+dakle L alfa beta zapravo kaže;0:31:52 - 0:31:57
+dopuštene su manje od alfa mjesni veznici;0:31:57 - 0:32:14
+i kvantifikatorski rang manji od beta.;0:32:14 - 0:32:21
+Strogo manji, jedno i drugo.;0:32:21 - 0:32:23
+Dakle, sad da dešifriramo.;0:32:23 - 0:32:28
+Omega jedan, šta je to? To je prvi neprebrojivi ordinal.;0:32:28 - 0:32:31
+Dakle, strogo manje od omega jedan zapravo znači prebrojivo;0:32:31 - 0:32:35
+ili konačno.;0:32:35 - 0:32:37
+Moguće je veznike raditi tako da, kažem, konjunkcije i disjunkcije najčešće,;0:32:37 - 0:32:42
+jer je malo teško reći šta bi bila prebrojiva i kondicional.;0:32:42 - 0:32:46
+Dakle, a šta je prebrojiva disjunkcije ili konjunkcije?;0:32:46 - 0:32:50
+To je nekako semantički sasvim jasno, kao presik odnosno unija.;0:32:50 - 0:32:54
+Znači, to je alfa, a kvantifikatorski rang je kao i prije,;0:32:54 - 0:33:00
+znači ograničen sa omega.;0:33:00 - 0:33:02
+Dakle, mogu proizvodno kvantifikatora ugnjažđivati;0:33:02 - 0:33:05
+dok god je to konačno mnogo.;0:33:05 - 0:33:07
+I sad kažem, razne alfa i beta možete dobiti razne lijepe stvari.;0:33:07 - 0:33:13
+Recimo, ako stavite da je beta nula, dobijete otvorene formule.;0:33:13 - 0:33:16
+Nesmiju uopće imati kvantifikator.;0:33:17 - 0:33:20
+Ako stavite da je beta jedan, onda dobijete otvorene formule.;0:33:20 - 0:33:32
+A ako stavite da je beta, recimo, dva, onda dobijete ono što se kaže monadske formule.;0:33:32 - 0:33:37
+Dakle, one koje imaju samo jedan kvantifikator.;0:33:37 - 0:33:40
+Ne, monadska znači po umundarnim relacijama.;0:33:40 - 0:33:47
+Dobro, to je nešto drugo.;0:33:47 - 0:33:49
+Uglavnom, ova logika se onda, tako kažem, vrlo neformalno,;0:33:51 - 0:33:57
+beskonačna logika, ali formalno L omega 1 omega je kao ova logika prvog reda,;0:33:57 - 0:34:03
+s tim da ima još dva pravila izgradnje formula za preprojevlje skupove.;0:34:03 - 0:34:09
+Ono što je zanimljivo, dakle, nekako čovjek bi rekao,;0:34:11 - 0:34:14
+ovak, gledajući logiku drugog reda, u njoj niš ne vrijedi.;0:34:14 - 0:34:17
+Jel pa kao, jel mogu naći nekakve logike u kojima nešto vrijedi, a nešto drugo ne?;0:34:17 - 0:34:21
+Kažem, ovo je zgodno zbog toga što za nju konkretno vrijedi L omega 1 skupovima na dolje.;0:34:21 - 0:34:26
+Dakle, svaki ispunjiv skup formula ima preprojevljiv model,;0:34:26 - 0:34:31
+to nije moralo biti normalno, ali ne vrijedi, na primjer, teorem kompaktnosti.;0:34:31 - 0:34:37
+Sad kažem, samo da na vrlo ubrzo, na brzinu prođemo kroz čega tu sva šta ima.;0:34:38 - 0:34:46
+Znači, šta znači više sortna?;0:34:47 - 0:34:49
+To sam dotaknuo u trenutku kad sam bio pričao o elementarnim, neko ovo,;0:34:49 - 0:34:54
+klasam svih vektorskih prostora.;0:34:54 - 0:34:56
+Neko čovjek bi htio reći vektorski prostori, ali tako da stvarno imam;0:34:56 - 0:35:00
+zasebnu vrstu objekata vektori i zasebnu vrstu objekata skalari.;0:35:00 - 0:35:04
+Pazite, to u logici prvog reda formula nemam.;0:35:04 - 0:35:07
+Dakle, ja imam individualne varijable i sve individualne varijable su međusobno;0:35:07 - 0:35:11
+ekvalentne, znači ja mogu zamijeniti jedno s drugom,;0:35:11 - 0:35:14
+ako je vezano, neće se ništa dogoditi, neće se promijeniti semantika formuli.;0:35:14 - 0:35:18
+Ja bi neko htio imati, kao u modernim pranomskim jezicima,;0:35:18 - 0:35:21
+static typing, htio bi imati varijable određenih tipova.;0:35:21 - 0:35:24
+Ova varijabla deklariram da je isponja, ova varijabla deklariram da je vektor.;0:35:24 - 0:35:28
+Dakle, to se može, samo treba nekako raslojiti taj skup individualnih varijabli.;0:35:28 - 0:35:33
+I kažem, u logici se to zove sorte, a onda se ovo zove više sortna logika.;0:35:33 - 0:35:40
+I sad, naravno, ona isto može biti raznog reda, ali, recimo,;0:35:40 - 0:35:43
+na primjer, više sortna logika prvog reda, na primjer, konkretno,;0:35:43 - 0:35:46
+dvosortna logika prvog reda vam je dovoljna da modelirate vektorske prostore;0:35:46 - 0:35:49
+onako baš kako se to radi.;0:35:49 - 0:35:51
+Dakle, jednostavno kažete, ha, grčka slova me označavaju skalare,;0:35:51 - 0:35:54
+latinična slova me označavaju vektore i to su jednostavno dvije različite vrste;0:35:54 - 0:35:58
+individualnih varijabli.;0:35:58 - 0:36:00
+Ima vektore i po jednima i po drugima, ali sad oni ne smiju miješati,;0:36:00 - 0:36:03
+dakle, ne smiju im nekako uvrstiti jedno mjesto drugog.;0:36:03 - 0:36:06
+Dobro, slaba logika drugog reda kaže kao, možeš plantificirati po podskupovima,;0:36:06 - 0:36:12
+dakle, dobro, sad, naravno, može čovjek gledati i funkcije,;0:36:12 - 0:36:15
+ali funkcije su kompliciranije, obično se gleda samo na relacijama,;0:36:15 - 0:36:19
+i to, unarnim relacijama, ali slaba zapravo znači da onda moraju biti konačni.;0:36:19 - 0:36:25
+Dakle, na neki način, onda, to i nije neko veliko proširenje,;0:36:25 - 0:36:29
+kad imaš konačan skup, onda tu uvijek možeš zamijeniti sa konačno mnogo formula,;0:36:29 - 0:36:34
+za svaki pojedini element, ali ono što vam ipak daje,;0:36:34 - 0:36:38
+dakle, zbog čega je to ipak jača od logike progreda, je što vam daje dinamičnost.;0:36:38 - 0:36:42
+Dakle, možete jednostavno reći, aha, ovo vrijedi za svaku konačnu relaciju,;0:36:42 - 0:36:45
+a da ne morate razmišljati, aha, posebna formula za sve dvočljane,;0:36:45 - 0:36:48
+posebna formula za sve tročljane, itd.;0:36:48 - 0:36:50
+Kažem, to je specijalni slučaj ove umjernske logike,;0:36:51 - 0:36:54
+kažem, kvantificiram samo po podskupojima, odnosno po konačnim,;0:36:54 - 0:36:58
+po undarnim relacijama.;0:36:58 - 0:37:00
+Donatni kvantifikatori, šta bi to bilo?;0:37:01 - 0:37:03
+Dakle, sigurno ste već vidjeli u nekim granovima matematike,;0:37:03 - 0:37:07
+sad, naravno, to je pitanje kak se označava,;0:37:09 - 0:37:12
+ali recimo, na primjer, ovak nešto, dakle, postoji beskonačno mnogo;0:37:12 - 0:37:16
+x-eva takvida, jedinega kavera od x-a.;0:37:17 - 0:37:20
+Dakle, ali, duolni kvantifikator za skoro sve x vrijedija je od x.;0:37:21 - 0:37:27
+Dakle, ima samo ponašan mnogo izuzetaka.;0:37:27 - 0:37:30
+Lako je vidjeti, možete malo raspisati, da ove dvije stvari stvarno jesu duolne jedna druge.;0:37:31 - 0:37:36
+Dakle, jedan, jedan, jedan, jedan, jedan, jedan, jedan, jedan, jedan, jedan, jedan, jedan, jedan, jedan, jedan.;0:37:36 - 0:37:42
+Dobro.;0:37:42 - 0:37:43
+Ali, naravno, ne samo to, ima raznih kvantifikatora,;0:37:46 - 0:37:49
+a kažem, uglavnom sa odnosom na nekakve kardinalnosti skupova,;0:37:49 - 0:37:54
+koji realiziraju neku formulu.;0:37:55 - 0:37:58
+Dobro, i kažem, ima raznih drugih proširenja, ali...;0:37:58 - 0:38:02
+E sad, dobro, ovo nećemo stići u 7 minuta, ali dajmo vidjeti šta stignemo.;0:38:03 - 0:38:09
+Znači, svakako možemo uvek spričati.;0:38:09 - 0:38:11
+Znači, Remsije-Fodoram je baš jedno zgodno mjesto,;0:38:11 - 0:38:14
+jedan zgodan rezultat kombinatorički,;0:38:14 - 0:38:16
+koji pokazuje koliko logika može biti korisna,;0:38:16 - 0:38:22
+ako se upotrebi na pravi način.;0:38:22 - 0:38:25
+Dakle, dobro, samo za početak motivacija,;0:38:25 - 0:38:28
+mada mislim da ste zapravo već vidjeli to na kombinatorici.;0:38:28 - 0:38:31
+Dakle, ili neko je diskret na matematici,;0:38:31 - 0:38:34
+dakle, ako imate šest ljudi, onda ili imate trojicu;0:38:34 - 0:38:38
+koji se svi međusobno poznaju,;0:38:38 - 0:38:40
+ili imate trojicu koji se uopće međusobno ne poznaju.;0:38:40 - 0:38:44
+Jer, valjda šta, uzmeš jednoga, pa preostalih pet možeš podijeliti;0:38:45 - 0:38:50
+u grupe oni koji ga poznaju, oni koji ga ne poznaju.;0:38:50 - 0:38:54
+Barem jedna od te dvije grupe ima barem tri čovjeka,;0:38:56 - 0:38:59
+dakle, ukupno ih ima pet.;0:38:59 - 0:39:01
+I onda ta trojica...;0:39:02 - 0:39:04
+Da, ovo sad, jel' dakle, ako među njima još ima...;0:39:09 - 0:39:13
+Jedna od pet trojice poznaju u grupu.;0:39:14 - 0:39:16
+Da, dođe se ovom rpd da su to ovi koji poznaju ovog početnog,;0:39:16 - 0:39:19
+ako među njima postoji još dvojice koje se međusobno poznaju,;0:39:19 - 0:39:22
+onda je gotovo, jer ta dvojica sa ovim početnim čine tu grupu,;0:39:22 - 0:39:26
+a ako ne, onda ta trojica sami za sebe čine grupu ovi koji se ne poznaju.;0:39:26 - 0:39:30
+Da, okej. Ali kažem, znači, to je već i dosta pekljavo za tri.;0:39:30 - 0:39:34
+Za četiri se može dokazati, ali stravično komplicirano da je osamnest.;0:39:34 - 0:39:39
+Za pet i šest, samo ću reći poznatu Erdeševu ričenicu,;0:39:39 - 0:39:44
+ako dođu vanzemaljci i kažu da će nas uništit,;0:39:44 - 0:39:48
+ako, ono, pokažu nam da su tehnološki napredni od nas,;0:39:48 - 0:39:53
+i kažu nam da im moramo izračunati R5 ili će nas uništit,;0:39:53 - 0:39:57
+najbolja strategija je da stvarno upregnemo sve resurse čovječanstva;0:39:57 - 0:40:01
+da stvarno odredimo R5. Ali, ako nas straže R6,;0:40:01 - 0:40:05
+onda nas zafrkavaju. Onda, zapravo, najbolje da njih idemo uništit,;0:40:05 - 0:40:11
+jer koliko god to je teško, bilo lakše je nego odrediti R6.;0:40:11 - 0:40:15
+Dakle, ali ono što je važno je da, naravno, konkretne brojeve;0:40:15 - 0:40:22
+teško je odrediti, to je upravo fora zbog čega je teorem zgodan;0:40:22 - 0:40:27
+za logičko dokazivanje, može se relativno jednostavno dobiti;0:40:27 - 0:40:31
+da stvarno za svaki n postoji Rn. I sad kak?;0:40:31 - 0:40:36
+Dakle, tako da zapravo ja ne razmišljam o,;0:40:36 - 0:40:40
+je relativno teško direktno dokazati, ali ne razmišljam o konkretnim;0:40:40 - 0:40:46
+konačnim strukturama, jer me zapravo uopće nije bitno koliko elementa imaju,;0:40:46 - 0:40:50
+nego razmišljamo o beskonačnim strukturama, dakle, o nekom beskonačnom grafu.;0:40:50 - 0:40:54
+I na njemu zapravo, mislim, nije trivialno, ali puno jednostavnije,;0:40:54 - 0:40:59
+jer naravno ne moram misliti o konkretnim brojevima elementa,;0:40:59 - 0:41:03
+se može dokazati premzijev rezultat. Dakle, zapravo, hoćemo onda reći, valjda,;0:41:03 - 0:41:07
+svaki beskonačni graf ili ima beskonačnu kliku, ili ima beskonačan,;0:41:07 - 0:41:14
+kako se to kaže, nezavisan skup, antikliku.;0:41:14 - 0:41:18
+Ali onda dolazi logika koja kaže zapravo, a ako si to stvarno dokazao za beskonačne;0:41:19 - 0:41:24
+i cijelu stvar možeš umodelirati u logici prvog reda, onda si zapravo dokazao i remzije.;0:41:24 - 0:41:30
+Evo, sad, dakle, kažem, prvo, kak se dokaže za beskonačne,;0:41:37 - 0:41:40
+to stvarno mislim da možemo, u 3 minute, dakle, više manje ista ova konstrukcija;0:41:40 - 0:41:46
+koju smo radili za 6. Dakle, jednostavno, uzmeš jednoga i sve ostale podijeljate u dvije hrpe.;0:41:46 - 0:41:51
+Oni koji ga poznaju i oni koji ga ne poznaju. Dakle, to je a0 i ovih su zapravo v0 true i v0 false.;0:41:51 - 0:41:59
+Dakle, oni koji su u relaciji s njim i oni koji nisu.;0:41:59 - 0:42:02
+Sa a0. Barim jednom od tih dva dijela je beskonačan. Zašto?;0:42:02 - 0:42:06
+Jer, naravno, iz beskonačnog skupa sam ovoda uzeo jedan element i ostatak je beskonačan.;0:42:06 - 0:42:10
+Podijelio sam ga na dva dijela, opet, jedan od tih je beskonačan jer u njoj dva konačna skupa je konačan.;0:42:10 - 0:42:15
+I sad, naravno, odaberem, ako su oba beskonačne,;0:42:16 - 0:42:20
+dogovorim se da i ja od njih odaberem, recimo ovo je sa true.;0:42:20 - 0:42:23
+Ako je samo ja od njih beskonačan, odaberem njega.;0:42:23 - 0:42:27
+I to znači sa v1. I na v1 napravim potpuno istu stvar.;0:42:27 - 0:42:30
+Sad, v1 je opet beskonačan, nekakav podgraf, naravno, jer neke vrhove i neke bridove sam izgubio,;0:42:30 - 0:42:35
+ali i dalje je beskonačan. Opet mogu istu stvar.;0:42:35 - 0:42:37
+Uzmem jednog elementa, odnađujem ga sa a1, a 1 je sigurno različit od a0, a0 sam izbacio još prije.;0:42:37 - 0:42:42
+I sad v1 dijelim na one koji znaju a1 i one koji ne znaju a1.;0:42:42 - 0:42:47
+Barem je ovo ti djelove beskonačano, znađujem ga sa v2 i bla, bla, bla.;0:42:47 - 0:42:50
+Evo, znači, sasvim jasno da sam na taj način dobio nekako niz elementa.;0:42:50 - 0:42:54
+Dobro, niz zapravo počinje sa a0, ali namjerno ga izbacim,;0:42:54 - 0:42:57
+dakle gledam samo a1, a2, a3 i tako dalje.;0:42:57 - 0:43:00
+Zašto izbacim a0? Jer a0 je malo čudan.;0:43:00 - 0:43:03
+A0 ne znam u kakvom je odnosu sa ovim prije.;0:43:03 - 0:43:06
+Mislim, nekako nema ovih prije, ali za sve ove kasnije,;0:43:06 - 0:43:09
+na primjer za a1, ja znam je li on došao iz v0 true ili iz v0 false.;0:43:09 - 0:43:15
+Znači, on je ili došao iz ovih koji znaju a0, ili iz ovih koji ne znaju a0.;0:43:15 - 0:43:21
+Isto tako a2 je došao ili iz ovih koji znaju a1, ili iz ovih koji ne znaju a1.;0:43:21 - 0:43:26
+Međutim, stvari u tome je da ako taj niz sad podijelimo u dva dijela,;0:43:26 - 0:43:31
+ovisno u tome, na primjer a3 stavimo ovamo jer smo ga odabrali iz v2 true,;0:43:31 - 0:43:39
+a neke druge stavimo tamo jer smo ga odabrali iz v1 false.;0:43:39 - 0:43:42
+Baro je mi jedno da ta dva dijela je beskonačna.;0:43:42 - 0:43:45
+Jednostavno, sam, naravno je sasvim zamislivo da su recimo svi parni odabrani tako da poznaju ove prije,;0:43:45 - 0:43:51
+a svi neparni tako da ne poznaju ove prije.;0:43:51 - 0:43:53
+Ali nebitno, jedna od te dvije hrpe je beskonačna i u toj hrpi se naravno nalazi,;0:43:53 - 0:43:59
+taj hrpa onda generira ili kliku ili antikliku.;0:43:59 - 0:44:02
+Jer u toj hrpi svatko sve svoje prijašnje ili pozna ili svatko sve svoje prijašnje ne pozna.;0:44:02 - 0:44:08
+A relacija je simetrična, dakle prijašnje ili poslje sve jedno.;0:44:08 - 0:44:13
+Eto, znači kažem, to je dokaz koji je vrlo jednostavan,;0:44:13 - 0:44:18
+trebalo bi možda mrvicu više raspisati ali ovo je onako da stane na slajd,;0:44:18 - 0:44:24
+a mislim da je jasno da ta lema svakako vrijedi.;0:44:24 - 0:44:28
+Dakle, njezin dokaz nema puno veze s logikom.;0:44:28 - 0:44:31
+Ono što ćemo sad napraviti sljedeći tijanje je svakako da ćemo to modulirati nekakvim formulama;0:44:31 - 0:44:35
+i da ćemo vidjeti zapravo da iz ove leme čisto logičkim alatima slijedi remzija.;0:44:35 - 0:44:40
+Dobro, to je to.;0:44:40 - 0:44:42

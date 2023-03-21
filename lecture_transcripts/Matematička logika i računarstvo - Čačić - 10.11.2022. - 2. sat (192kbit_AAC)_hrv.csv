@@ -1,0 +1,484 @@
+Speech;Timestamp
+Dakle, onaj pojam, konačnoj izomorfnosti je dosta općenit i dosta kompleksiran zapravo;0:00:00 - 0:00:13
+za shvatit, kažem nekako. Sam parcijalni izomorfizam je kompleksiran, onda;0:00:13 - 0:00:18
+konačni parcijalni izomorfizam, skup konačnih parcijalnih izomorfizama,;0:00:18 - 0:00:24
+pa niz skupova konačnih parcijalnih izomorfizama.;0:00:24 - 0:00:27
+Naravno, pojam je takav jer treba biti za freseov teorem, dakle tamo smo baš;0:00:27 - 0:00:34
+rekli, aha, želimo uhvatit na konačnim relacijskim barem signaturama,;0:00:34 - 0:00:40
+uhvatit ideju elementarne ekvivalencije kroz nekakav takav pojam sa parcijalnim;0:00:40 - 0:00:49
+izomorfizmima i onda to stvarno treba biti tak kompleksirano, ali u stvarnosti;0:00:49 - 0:00:57
+najčešće zapravo nećemo imati niz skupova koje ide uvijek svaki referira na predsvrdi,;0:00:57 - 0:01:05
+nego ćemo imati skup koji na neki način sa svojstva Fortebec referira na samog sebe.;0:01:05 - 0:01:11
+Dakle, to ćemo zvat parcijalno izomorfne strukture. Dakle, vidite, nema više ove;0:01:11 - 0:01:17
+uvjetena konačnost, jednostavno imam nekakav neprazan skup nekakvih parcijalnih izomorfizma,;0:01:18 - 0:01:24
+dakle mogu biti i bez konačnih, ali znači svojstva Fortebec sad kažu zapravo;0:01:24 - 0:01:29
+puno jednostavnije. Ako imaš P iz I i A iz M, onda ti postoji Q opet iz tog istog I;0:01:29 - 0:01:36
+koji ga proširuje ima A u domeni i analogno naravno ako imaš B iz N,;0:01:36 - 0:01:41
+onda postoji Q koji ga proširuje i ima B u slici.;0:01:41 - 0:01:44
+Oznaka je ovaj, kao P stavim slovo pored ovog znaka za izomorfnost,;0:01:45 - 0:01:51
+jednostavno M i N su parcijalno izomorfne.;0:01:51 - 0:01:55
+Svakako, ako su strukture izomorfne, onda su parcijalno izomorfne. Zašto?;0:01:57 - 0:02:03
+Jer mogu jednostavno, zato kažem više, nema ove ograničenja na konačnost,;0:02:03 - 0:02:09
+mogu jednostavno staviti skup svih izomorfizama.;0:02:09 - 0:02:13
+I to označu sa I. To svakako zadovoljava svojstva Fortebec.;0:02:27 - 0:02:34
+Aha, ček malo.;0:02:40 - 0:02:42
+Za sve...;0:02:47 - 0:02:49
+Nije baš tako jasno.;0:02:50 - 0:02:52
+Dakle, ako ja imam parcijalni izomorfizam, nekakav A.;0:02:52 - 0:02:55
+Ako ja stvarno imam...;0:02:55 - 0:02:57
+Aha, ne. Nikom mi ne kaže kakav ga moram praslikat,;0:03:06 - 0:03:10
+samo jednostavno, dakle, naravno onda mogu uvijek staviti da je Q jednak P;0:03:10 - 0:03:15
+i to će vrijediti. Izomorfizmi su totalne funkcije.;0:03:15 - 0:03:22
+Zapravo mislim da čak mogu i lakše, mogu i ja izomorfizam.;0:03:22 - 0:03:26
+Dakle, postoji F. F je izomorfizam M i N.;0:03:26 - 0:03:34
+I stavim za I da je jednostavno skup F.;0:03:34 - 0:03:39
+Mislim da će isto zadovoljavati.;0:03:39 - 0:03:42
+Samo je bitno da nije prasno.;0:03:42 - 0:03:44
+Uglavnom, dakle, svakako ako su izomorfne, onda su parcijalno izomorfne.;0:03:45 - 0:03:52
+Ako su parcijalno izomorfne, onda su kvanašno izomorfne. Zašto?;0:03:52 - 0:03:55
+Jer naravno, onaj niz ja uvijek mogu staviti da je konstantan niz.;0:03:55 - 0:03:59
+I N je I za sve N.;0:03:59 - 0:04:05
+I sad ova svojstva Forti-Beck kažu da,;0:04:06 - 0:04:11
+specijalno naravno za ovaj 2I, ako ja tu stavim nekakav P;0:04:11 - 0:04:16
+i tu odaberem nekakav A i Z, onda postoji Q iz ovog 2I,;0:04:16 - 0:04:22
+ali naravno to je isti I, koji zadovoljava što već trebaju na U domeni i proširuje P.;0:04:22 - 0:04:28
+Dobro, znači svakako u tom smjeru stvari funkcioniraju.;0:04:28 - 0:04:32
+E sad, obrnuto, naravno uopće ni to ne funkcionira,;0:04:32 - 0:04:36
+ali zgodno je vidjeti da ne za kvanašnu signaturu, nego za kvanašnu strukturu.;0:04:36 - 0:04:40
+Dakle, ako je nosač kvanašan, dakle ima kvanašnog mnoga elementa,;0:04:40 - 0:04:44
+onda kvanašna izomorfnost zapravo znači izomorfnost.;0:04:44 - 0:04:47
+Nekako zašto? Zato što ova sama ideja,;0:04:47 - 0:04:51
+znači da ja imam I 0, pa I 1, pa I 2, pa I 3,;0:04:51 - 0:04:56
+u svakom trenutku ja zapravo dodajem nekakve elemente,;0:04:56 - 0:04:59
+nekakve uređene parove unutra i ako ja stvarno imam niz,;0:04:59 - 0:05:04
+dakle kvanašnog mnoga njih, a struktura mi je konačna,;0:05:04 - 0:05:07
+onda prije ili kasnije će se ovaj niz stabilizirati.;0:05:07 - 0:05:10
+Dakle, doći ću do nečega što neću moći proširiti dalje,;0:05:10 - 0:05:14
+a to zapravo znači da imam totalnu funkciju;0:05:14 - 0:05:18
+i to onda zapravo znači da imam izomorfizam.;0:05:18 - 0:05:21
+Nije to dokaza, ali ideja je dokaza da tako kaže.;0:05:21 - 0:05:24
+Čak u struktura je konačna, onda proširujući ovo ću prije ili kasnije;0:05:24 - 0:05:30
+doći do potpunog izomorfizma i to je to.;0:05:30 - 0:05:34
+E sad, naravno ako su konačne strukture, to već ovo gore kaže,;0:05:37 - 0:05:42
+dakle pazi, ako ovo povlači ovo, ovo povlači ovo,;0:05:42 - 0:05:45
+a za konačne strukture ovo povlači ovo,;0:05:45 - 0:05:47
+onda zapravo znači da za konačne strukture svo troje je ekvalentno.;0:05:47 - 0:05:50
+Dakle za konačne strukture je specijalno parcijalna izomorfnost,;0:05:50 - 0:05:53
+međutim, Karpov teorem kaže i više, kaže da za prebrojive strukture isto vrijedi ovaj smjer.;0:05:53 - 0:06:00
+Znači, prebrojivo povlači izomorfno.;0:06:00 - 0:06:04
+Dakle, svakako, izomorfno povlači parcijalno izomorfno,;0:06:12 - 0:06:17
+parcijalno izomorfno povlači konačno izomorfno,;0:06:17 - 0:06:20
+izomorfno ovo povlači za konačne,;0:06:20 - 0:06:25
+a ovo povlači za prebrojive ili konačne.;0:06:31 - 0:06:36
+Za prebrojive je ono što je zanimljivo,;0:06:38 - 0:06:41
+za konačne je očito jer vrijedi ovaj.;0:06:41 - 0:06:46
+Koja dakle...;0:06:51 - 0:06:53
+Ne, ne, to opet trivialno vrijedi, ovo vrijedi uvijek.;0:06:57 - 0:07:01
+Da, da.;0:07:01 - 0:07:03
+Ne, ako je konačno izomorfno, je da smo izomorfni.;0:07:11 - 0:07:16
+Ako su konačno izomorfne i konačne, onda su izomorfne.;0:07:18 - 0:07:21
+Aha, ako su konačno izomorfne i prebrojive.;0:07:21 - 0:07:24
+Dobro pitanje. Mislim, nije da mi sad pada na pamet.;0:07:27 - 0:07:30
+Da, da.;0:07:31 - 0:07:33
+Ako su konačno izomorfne.;0:07:39 - 0:07:42
+Da, problem je u tom što, mislim, ne jam sad konkretan kontraprimjer,;0:07:44 - 0:07:48
+ali nekako ideja je da ovim tu proširivanjem ja stvarno na kraju ću dobiti;0:07:48 - 0:07:52
+nekakvu uniju, ću dobiti nekakve prebrojive skupove,;0:07:52 - 0:07:56
+ali mi niko ne kaže da to moraju biti, moraju pogubiti sve elemente.;0:07:56 - 0:08:00
+Prebrojivu skupu mogu pogubiti, ne znam, sve parne i to će mi dalje biti.;0:08:00 - 0:08:04
+Ono, svakom koraku ću dodavati jednoga i uniju ću dobiti prebrojiv skupa,;0:08:04 - 0:08:08
+ali to neće biti čitav skup.;0:08:08 - 0:08:10
+Dakle, mogu trivijalno uzeti dvije strukture koje jesu izomorfne,;0:08:10 - 0:08:15
+a kad im dodaš još jedan element nisu, šta ja znam, recimo,;0:08:15 - 0:08:19
+uzmeš skup cijelih brojeva sa nekakvim uređajem i staviš još neki element;0:08:20 - 0:08:26
+koji ne usporedi s njima.;0:08:26 - 0:08:28
+I sad, ako za jednu strukturu uzmem baš skup cijelih brojeva,;0:08:28 - 0:08:31
+a za drugu strukturu taj skup cijelih brojeva proširim sa još jednim elementom,;0:08:31 - 0:08:35
+onda će one sigurno biti ovako izomorfne.;0:08:35 - 0:08:38
+Ja samo u pojedine hrpe parcijalnih izomorfizama ja stavim samo one;0:08:38 - 0:08:45
+koje ne spominju uopće taj element.;0:08:45 - 0:08:48
+To mi uvijek moguće, znači uvijek mogu proširivati.;0:08:48 - 0:08:51
+Fort i bek.;0:08:51 - 0:08:52
+Ha, možda ne mogu bek ako uzmem baš taj element.;0:08:53 - 0:08:57
+Da, možda nije baš tako jednostavno.;0:08:59 - 0:09:02
+Znači nije bi trebalo...;0:09:06 - 0:09:08
+Ne, mislim, da. Da vrijedi bi pisalo, ali da, nisam baš siguran kako bi se to vidjelo.;0:09:08 - 0:09:17
+Možda ovako.;0:09:17 - 0:09:19
+Dakle, da imam dva Z versus jedan Z.;0:09:20 - 0:09:24
+Ne, opet ne valja jer neko bi može uzeti ovaj,;0:09:25 - 0:09:28
+onda da reći da su neusporedili.;0:09:28 - 0:09:30
+Aha!;0:09:30 - 0:09:31
+Mislim da je ovo fora.;0:09:32 - 0:09:34
+Imam dva Z na štuka na jedan i na drugi versus jedan Z.;0:09:34 - 0:09:38
+I sad, bilo kakva konačna priča, dakle sad ja tu dam neka dva elementa,;0:09:38 - 0:09:44
+tu neka tri elementa, tu nekih pet elementa, se može proširiti jer jednostavno...;0:09:44 - 0:09:51
+Da ne, jer ovdje ako su susjedni onda ovdje neće biti.;0:09:55 - 0:09:59
+Dobro, ok, stvarno ne znam. Pogledat ću do idućeg puta.;0:10:01 - 0:10:05
+Ali...;0:10:05 - 0:10:06
+Da, da, da, mislim, svakako, sasvim legitimno pitanje,;0:10:06 - 0:10:10
+ali izgleda je ova konačna izomorfnost ipak popredično snažna;0:10:10 - 0:10:17
+ili barem ja ne vidim neki način da se izvrda.;0:10:17 - 0:10:21
+Da, mislim samo ono, uzmeš Q na štuka na Q i Q,;0:10:22 - 0:10:26
+ali oni stvarno nijesu izomorfni, tako da to je onda previše.;0:10:26 - 0:10:30
+No, jasno. Dobro.;0:10:34 - 0:10:36
+Ajmo mi vidjeti ovo što je lagano, mislim, dobro, što znamo, dokazat.;0:10:41 - 0:10:46
+Dakle, Karpov teorem, to je više manje opet ova priča;0:10:46 - 0:10:50
+o urađajnoj karakterizaciji od Q. Dakle, jednostavno,;0:10:50 - 0:10:54
+ako su strukture prebrojive, to zapravo znači da ih njihove nosače;0:10:54 - 0:10:57
+ja mogu enumerirati. I onda zapravo radim onu konstrukciju;0:10:57 - 0:11:01
+u kojoj u jednom koraku za forth idem, recimo, parne,;0:11:01 - 0:11:06
+u parnim koracima idem forth, u neparnim koracima idem back;0:11:06 - 0:11:10
+i na taj način zapravo iscrptujem obje strukture.;0:11:10 - 0:11:17
+Evo, znači, enumerirajmo nosače. Neka je P0 iz I.;0:11:17 - 0:11:22
+To svakako imam jer predpostavka je da su parcijalno izomorfizme.;0:11:22 - 0:11:26
+Dakle, imam neki neprazni skup parcijalnih izomorfizama između njih.;0:11:26 - 0:11:32
+Neprazan je, pa imam nekakav P0.;0:11:32 - 0:11:35
+E, i sad kaže, proširimo taj P0 redom tako da, valjda,;0:11:35 - 0:11:40
+prvo po svojstvu forth stavimo A0 u domenu,;0:11:40 - 0:11:45
+onda stavimo po svojstvu back P0 u sliku, pa stavimo A1 u domenu,;0:11:45 - 0:11:50
+pa B1 u sliku i tako dalje.;0:11:50 - 0:11:52
+Redom iscrpljujemo i jedan i drugi nosač.;0:11:52 - 0:11:56
+To sve mogu, dakle, naravno to više neće biti P0,;0:11:56 - 0:12:00
+bit će nekakvi novi parcijalni izomorfizam,;0:12:00 - 0:12:03
+ali će biti u I cijelo vrijeme, P1, P2, P3, P4 i tako dalje.;0:12:03 - 0:12:07
+Dakle, svakako će vrijediti ovo, jer to nam točno kažu svojstva forth i back,;0:12:07 - 0:12:11
+i sad za neparne će vrijediti ovo po svojstvu forth,;0:12:11 - 0:12:14
+za parne će vrijediti ovo po svojstvu back.;0:12:14 - 0:12:17
+Iz umjeta A slijedi da je dobro definirana ova funkcija,;0:12:17 - 0:12:21
+dakle, naravno to zapravo znači da imate lanac.;0:12:21 - 0:12:24
+Lanac, funkcija, sve su međusobno usporedive,;0:12:24 - 0:12:27
+znači da je njegova umjeta opet funkcija, ima funkcijsko svojstvo,;0:12:27 - 0:12:31
+i ta funkcija je parcijalni izomorfizam ove dvije strukture.;0:12:31 - 0:12:35
+Zašto? Jer jednostavno činjenica da je nešto parcijalni izomorfizam;0:12:35 - 0:12:41
+se bazira na konačno mnogo elementa.;0:12:41 - 0:12:44
+Konačno mnogo elementa je svakako u nekom konkretnom pn.;0:12:44 - 0:12:48
+Četiri elementa, jedan od njih je u p12, drugi u p7, treći u p8, četvrti u p73,;0:12:49 - 0:12:57
+onda su sva četvorica u p73 jer je to lanac.;0:12:57 - 0:13:01
+P73 je parcijalni izomorfizam, dakle štima.;0:13:02 - 0:13:06
+E, ali ne samo da je parcijalni izomorfizam, nego je zapravo izomorfizam.;0:13:07 - 0:13:13
+Zašto? Jer uvjet B kaže da je pokupio u domeni sve elemente iz M,;0:13:13 - 0:13:19
+a uvjet C kaže da je u slici pokupio sve elemente iz N.;0:13:19 - 0:13:24
+Dakle, to je zapravo pravi izomorfizam dvije strukture.;0:13:24 - 0:13:29
+Dobro, to je bila, dajmo reći, prva cijelina.;0:13:30 - 0:13:36
+Druga cijelina je teorem kompaktnosti.;0:13:37 - 0:13:40
+Dakle, naravno teorem kompaktnosti se dokazali još na logici,;0:13:40 - 0:13:45
+na diplomskom studiju, s tim da tamo je zapravo, ako se dobro sjećam,;0:13:45 - 0:13:50
+išlo tako da, visi naravno za logiku sudova je da ovak lako,;0:13:50 - 0:13:55
+ali za logiku prvog reda je išlo tako da dokazujete prvog edelog teorema potpunosti,;0:13:55 - 0:13:59
+a onda jaki teorem potpunosti, onda zapravo iz njega slijedi teorem kompaktnosti.;0:13:59 - 0:14:05
+Jer što, mislim ja ovo samo da vrlo, vrlo ukratko opišemo o čemu se radi.;0:14:05 - 0:14:11
+Dakle, teorem kompaktnosti kaže da više manje logička posljedica nekog skupa;0:14:11 - 0:14:16
+je uvjet logička posljedica njegovog konačnog podskupa.;0:14:16 - 0:14:20
+Dakle, naravno možete sad reći, za tu logičku posljedicu možete uzeti false;0:14:20 - 0:14:26
+ili nekakvu antitautologiju, onda zapravo dobijete neispunjivost nekog ogromnog skupa;0:14:26 - 0:14:31
+je neispunjivost nekog njegovog konačnog podskupa, odnosno kontrapozicijom;0:14:31 - 0:14:37
+ispunjivost svakog konačnog podskupa je ispunjivost šitavog skupa.;0:14:37 - 0:14:42
+Dakle, to je jasno da je sve ekvivalentno.;0:14:42 - 0:14:45
+A odakle kompaktnost? Možete shvatiti da ste formulu pokrili sa nekakvim skupom formula;0:14:45 - 0:14:51
+koja je njegova logička posljedica.;0:14:51 - 0:14:53
+I onda zapravo svaki pokrivač, otvoreni pokrivač nekakve formule,;0:14:53 - 0:14:58
+ima konačan podpokrivač.;0:14:58 - 0:15:00
+Ima konačno mnogo formula koje već pokrivaju tu formulu u smislu da je ona njihova logička posljedica.;0:15:00 - 0:15:06
+A zašto to slijedi iz jakvog teorema podbilosti?;0:15:07 - 0:15:12
+Zato što ako je formula posljedica, znači jakvi teorema podbilosti, kaže da biti logička posljedica;0:15:12 - 0:15:20
+nekog skupa formula je ekvivalentno sa biti izvediva iz tog skupa formula.;0:15:20 - 0:15:25
+I onda naravno da ako je formula izvediva, to znači da postoji izvod,;0:15:25 - 0:15:29
+a izvod je samo konačno mnogo formula.;0:15:29 - 0:15:31
+Znači, ja sam mogao koristiti predpostavke iz bilo kakvog skupa S,;0:15:31 - 0:15:35
+ali u konkretnom konačnom izvodu ja sam koristio samo konačno mnogo njih.;0:15:35 - 0:15:39
+Naravno da je onda zapravo formula posljedica od tih konačno mnogo koje sam stvarno koristio.;0:15:40 - 0:15:45
+E, ali kažem, ne znamo koji je točno način kako ćemo ovo,;0:15:48 - 0:15:57
+ali svakako će ići ona standardna priča Lindenbaumova lema, henkinizacija itd.;0:15:57 - 0:16:03
+U procesu ćemo dobiti i teoreme podbilosti.;0:16:04 - 0:16:07
+Dobro, dakle, a poslije ćemo vidjeti još jedan bitno drugačiji način;0:16:09 - 0:16:15
+za dokaz teorema podbilosti preko teorema o ultraproduktima.;0:16:15 - 0:16:21
+Ali to ga kažemo kasnije.;0:16:21 - 0:16:23
+Za sad samo, dobro, ponavljenje opet što znači da je skup ispunjiv.;0:16:24 - 0:16:28
+Naravno, ako postoji nekakav model za njega,;0:16:28 - 0:16:32
+a model za skup zapravo znači model za svaku formulu.;0:16:32 - 0:16:36
+Opet, naravno, možemo to definirati za proizvodniju skupu formule,;0:16:36 - 0:16:41
+ali zapravo najčešće se, kad se kaže da neki skup vrijedi,;0:16:41 - 0:16:45
+misliti na skup rečenica, dakle, na skup zatvorenih formule.;0:16:45 - 0:16:49
+Konačno ispunjiv skup znači da je svaki njegov konačni podskup ispunjiv.;0:16:50 - 0:16:55
+Dobro, a sad prvo ova jednostavna propozicija koja povezuje;0:16:55 - 0:16:59
+standardni iskaz teorema kompaktnosti sa ovim iskazom,;0:17:00 - 0:17:06
+nekako, pomoću pokrivanja, odnosno pomoću logičke posljedice.;0:17:07 - 0:17:11
+Kažem, tu sad nema puno veze sa samim teoremom kompaktnosti,;0:17:12 - 0:17:16
+jer, dakle, svaka od tih tvrdnji je ekvivalenta s teoremom kompaktnosti,;0:17:16 - 0:17:20
+ali ova propozicija samo kaže da su međusobno ekvivalentne.;0:17:20 - 0:17:24
+Dobro, kažem, to je sad vrlo, vrlo jednostavno.;0:17:25 - 0:17:27
+Jedna smjer je valjda...;0:17:27 - 0:17:29
+Ok, znači imam pretpostavku da je svaki konačno ispunjiv ispunjiv;0:17:32 - 0:17:37
+i imam nekakav skup rečenica S i nekakvu rečenicu F,;0:17:37 - 0:17:41
+takvu da ovo vrijedi i moram dokazati da postoji konačan podskup,;0:17:42 - 0:17:48
+tako da je F također logička posljedica.;0:17:48 - 0:17:51
+Pa pretpostavim suprtno. Što to znači?;0:17:52 - 0:17:55
+To znači da za svaki konačan podskup od S, S nema za logičku posljedicu F,;0:17:55 - 0:18:01
+odnosno postoji model, takav da, model za S trtica u kojem ne vrijedi F.;0:18:01 - 0:18:07
+Što to znači? E sad, ljepota F je rečenica, dakle, ako nisi model za F,;0:18:08 - 0:18:13
+onda si model za ne F, jer opet, valjolacija ne znači ništa,;0:18:13 - 0:18:16
+dakle, jednostavno negacija samo znači da negiraš činjenicu da formula vrijedi.;0:18:16 - 0:18:21
+Naravno, to ne vrijedi ako formule nisu rečenice.;0:18:22 - 0:18:25
+X jednako 3.;0:18:28 - 0:18:30
+U strukturi prirodnim brojama svakako ne vrijedi ovakva formula,;0:18:35 - 0:18:38
+jer naravno postoji valuacija u kojoj X nije 3.;0:18:38 - 0:18:41
+Ali isto tako, u nje vrijedi formula X jednak 3, opet jer postoji valuacija u kojoj X jednak 3.;0:18:41 - 0:18:49
+Naravno, ne misle da to vrijedi uopće nije to, ali za rečenice svakako vrijedi.;0:18:50 - 0:18:55
+Jedini razlog za što se ovo moglo dogoditi je da ova formula ima slobodnu variabu.;0:18:55 - 0:18:59
+Dobro, znači, to jest model za S i u njemu još vrijedi ne F,;0:19:00 - 0:19:04
+dakle, to je drugim rječima model za S trtica, unija ne F.;0:19:04 - 0:19:09
+I sad kažem ovako, ali kad provatram skup S unija ne F, dakle, čitav skup S i u njega dodam ne F,;0:19:11 - 0:19:17
+on je konačno ispunjiv. Zašto? Jer svi njegovi konačni podskupovi su ili podskupovi već od S,;0:19:17 - 0:19:23
+ili podskupovi od S kojima je još dodan ne F.;0:19:24 - 0:19:28
+Konačni podskupovi od S su svakako ispunjivi, jer, pazite, što piše?;0:19:29 - 0:19:34
+Za svaki konačan podskup od S postoji struktura koja je model za njega i još za ne F.;0:19:34 - 0:19:39
+I još za ne F, da ne marim, naravno da svaki konačan podskup od S je ispunjiv.;0:19:39 - 0:19:44
+A naravno, a i ovi kojima dodam ne F su ispunjivi jer to piše točno tu.;0:19:44 - 0:19:49
+Dakle, svaki konačan podskup od ovog tu je ispunjiv, dakle, ovaj skup je konačno ispunjiv.;0:19:49 - 0:19:54
+Predpostavka je bila da vrijedi A, dakle, ovaj tu čitav skup je ispunjiv.;0:19:54 - 0:19:58
+I opet sad, što to znači? To znači da imam model za S unija ne F,;0:19:58 - 0:20:02
+ali to ti je zapravo model za S u kojem ne vrijedi F.;0:20:02 - 0:20:05
+Vrijedi ne F pa onda ne vrijedi F.;0:20:05 - 0:20:07
+A to je naravno kontradikcija sa ovom predpostavkom da je F logička posljedica od S.;0:20:07 - 0:20:14
+Dobro, drugi smjer, kažem, zapravo samo trebamo naći nekakvu antitautologiju.;0:20:14 - 0:20:19
+Naprimjer, negacija od ovako nečega.;0:20:19 - 0:20:25
+Ne baš, mislim, sve ovisno je kako definirate antitautologiju,;0:20:25 - 0:20:30
+ali u logici prvog reda obično su to baš moraju biti rečenice.;0:20:30 - 0:20:34
+Dakle, ne mogu napisati ono što bih htio.;0:20:34 - 0:20:36
+Nekako, najjednostavnija atomarna formula je ova jer znam da taj jedan;0:20:36 - 0:20:40
+gravacijski simbol postoji u signaturi.;0:20:40 - 0:20:42
+On je dvomjesan pa moram napisati dvije stvari.;0:20:42 - 0:20:45
+Ne mam nijeve kostantske simbole, nužno, dakle ne znam ili ih imam,;0:20:45 - 0:20:48
+ali imam sigurno barem neku variablu pa onda mogu ovak nešto napisati.;0:20:48 - 0:20:52
+E sad, naravno, to mi više neće biti tautologija,;0:20:52 - 0:20:55
+dakle, moram barem jedan logički veznik staviti.;0:20:55 - 0:20:59
+A sad je, u smislu, valjana formula, ali nije rečenica pa moram još zatvoriti ovako.;0:20:59 - 0:21:06
+Ovo, još stavim negaciju ispred. Dakle, to je valjda najjednostavnija antitautologija;0:21:06 - 0:21:11
+za koju sam siguran da je mogu napisati u bilo kojoj teoriji prvog reda.;0:21:11 - 0:21:16
+Dobro, i sad kaže, ako, znači, predpostavka je da je vrijedi B,;0:21:18 - 0:21:23
+želim dokazati da je svaki konačno ispunjiv, skup rečenica je ispunjiv.;0:21:23 - 0:21:27
+Kad bi, opet, vrijedilo suprotno, kad bi postojeo konačno ispunjiv skup koji nije ispunjiv,;0:21:28 - 0:21:34
+onda bi iz tog skupa slijedila ova tu formula.;0:21:34 - 0:21:38
+Jer, jednostavno, nije ispunjiv, dakle, nema modela za S,;0:21:38 - 0:21:41
+tako da onda mu s desne strane napise što hoću.;0:21:41 - 0:21:45
+I sad, naravno, predpostavka B kaže da onda ima konačni podskup od S;0:21:45 - 0:21:50
+iz kojeg također slijedi ova antitautologija.;0:21:50 - 0:21:53
+Međutim, naravno, to bi zapravo značilo da taj konačan podskup također ne smije imati model.;0:21:54 - 0:22:00
+Jer, naravno, bilo kakav model za njega bi bio, onda, na njemu i vrijedila ova antitautologija,;0:22:00 - 0:22:06
+što je po definiciji antitautologije nemoguće.;0:22:06 - 0:22:09
+I sad kažem, idemo lagano prema ovom.;0:22:17 - 0:22:20
+Dokazu teorema kompaktnosti.;0:22:24 - 0:22:27
+Prvo, Lindemba uvolema, ali naravno, da ću kažem,;0:22:30 - 0:22:33
+teorema kompaktnosti zapravo kaže da bilo koje od one dvije tvrdnje;0:22:33 - 0:22:37
+koje su ta dokaza su ekvalentne vrijedi, recimo, na primjer, ova prva.;0:22:37 - 0:22:41
+I naravno da je jedan smjer očit. Dakle, ako je skup ispunjiv,;0:22:44 - 0:22:51
+onda je svaki konačan podskup ispunjiv.;0:22:51 - 0:22:54
+Zašto? Jer taj model koji je model za S je ujedno model za svaku rečenicu u S,;0:22:54 - 0:22:58
+pa tako i za svaki konačan podskup u S.;0:22:58 - 0:23:03
+Dobro, a sad, naravno, ono što je bitno u teorema kompaktnosti je drugi smjer.;0:23:04 - 0:23:08
+I njega dokazujemo nizom lema.;0:23:08 - 0:23:10
+Prvo, pojam. Dakle, skup rečenice je potpun ako je svaka logička posljedica;0:23:10 - 0:23:16
+ili svaka formula, ne, svaka rečenica je ili posljedica ili je antiposljedica,;0:23:16 - 0:23:24
+dakle, ili je njezina negacija posljedica od S.;0:23:24 - 0:23:28
+Ili je posljedica od S ili je kontradiktorna sa S.;0:23:29 - 0:23:33
+I sad, Lindenbaum ovo lema kaže ono što znate kao i za logiku sudova.;0:23:36 - 0:23:41
+Dakle, ako imaš konačno ispunjiv skup rečenica, onda ga možeš napuhati;0:23:41 - 0:23:47
+tako da ostane konačno ispunjiv, a da postane potpun.;0:23:47 - 0:23:51
+Dakle, svojstvo potpunosti se može postići.;0:23:52 - 0:23:56
+Dokaz, dakle, svakako možemo napisati onaj dokaz koji znate od prije.;0:23:58 - 0:24:03
+Dakle, kak je ono išlo? Svih formula ima prebrojivo mnogo,;0:24:05 - 0:24:09
+pa ih poredam u niz i za svaku od njih se pitam je li posljedica ovog skupa.;0:24:09 - 0:24:16
+Ako jest, onda je dodam u skup, ako nije, onda dodam njezinu negaciju u skup.;0:24:16 - 0:24:21
+I sad, činjenica da je ovaj skup konačno ispunjiv zapravo znači da;0:24:22 - 0:24:25
+kad ja dodam, dobro, kad dodam logičku posljedicu, to je jasno da ništa ne mijenjem,;0:24:25 - 0:24:29
+ali kad dodam negaciju u reče što nije logička posljedica,;0:24:29 - 0:24:32
+trebam malo pisati da se vidi da to i dalje ostaje konačno ispunjiv.;0:24:32 - 0:24:37
+Svakako je konačno ispunjiv za ove konačne podskupove koje su bili prije,;0:24:37 - 0:24:40
+a sad konačne podskupove koje imaju još tu jednu formulu, može se vidjeti da to ostaje.;0:24:40 - 0:24:46
+Međutim, možda je zgodnije primijetiti da to nizanje formula nije previše bitno,;0:24:48 - 0:24:54
+odnosno razlog zašto se tako radi je valjda što u davno vremena;0:24:54 - 0:24:59
+kad se smišljao taj kolegi, možda nije bila teorija skupova sa cornovom lemom,;0:24:59 - 0:25:03
+jednom kad znate cornovu lemu, onda zapravo možete...;0:25:04 - 0:25:07
+Mnogo jednostavnije je ovako.;0:25:07 - 0:25:09
+Ono što vam zapravo taj pristup sa nizanjem formula dade, dade nekakvu konstruktivnost.;0:25:10 - 0:25:16
+Dakle, dade da vi stvarno možete efektivno enumerirati formule i reći da ta formula,;0:25:16 - 0:25:21
+na kraju nekakvu formulu uzmeš, jel ta formula na kraju završila u tom maksimalnom,;0:25:21 - 0:25:26
+potpunom konačno ispunjivom skupu ili nije.;0:25:26 - 0:25:29
+Kad idete preko cornova lema onda se to izgubi, jer naravno više nemate...;0:25:29 - 0:25:33
+Cornova lema koristi akcijom izbora da bi efektivno dobila taj maksimalni element,;0:25:33 - 0:25:39
+tako da vi ne možete više na kraju vidjeti što na kraju živi unutra,;0:25:39 - 0:25:44
+ali u većini slučajeva to uopće nije potrebno.;0:25:44 - 0:25:48
+Dakle, standardna primjera cornova leme, gledam sve nadskupove od S;0:25:48 - 0:25:54
+koji su konačno ispunjivi i da su svi elementi unutra rečenice.;0:25:55 - 0:25:59
+Svakako je S jedan takav, dakle ovaj lijepo S je neprazan;0:25:59 - 0:26:04
+i unija svakog lanca u tom parcijalno uređenom skupu je također u tom parcijalno uređenom skupu.;0:26:04 - 0:26:10
+Jer, naravno, unija skupova rečenica je ponovno skup rečenica, svakako.;0:26:10 - 0:26:16
+Unija nepraznog lanca čiji svi elementi sadrže S, također sadrže S, naravno.;0:26:17 - 0:26:24
+Svaki lanac ima gornju među, naravno u smislu svaki neprazni lanac ima gornju među.;0:26:27 - 0:26:31
+Prazni lanac također ima gornju među, recimo to je sam skup S.;0:26:31 - 0:26:35
+I, naravno, unija lanca konačno ispunjivi je također konačno ispunjiva,;0:26:36 - 0:26:41
+jer konačno ispunjivost je konačno svojstvo,;0:26:41 - 0:26:44
+jer to je ono, kak se to zvalo, svojstvo konačnog karaktera,;0:26:44 - 0:26:47
+taj Schmiller-Tukijeva lema, koji je kvalendac, odnosno ove leme,;0:26:47 - 0:26:51
+ali nekako možda jasnije da ovdje vrijedi.;0:26:51 - 0:26:54
+U svakom slučaju, dakle, ima maksimalni element i sad treba vidjeti da je taj maksimalni element stvarno potpun.;0:26:54 - 0:27:01
+Pa, predpostavljamo da nije.;0:27:02 - 0:27:04
+Dakle, neka je F takva da S' nema zadobitičkih povrsti uvijek F;0:27:04 - 0:27:21
+i nema zadobitičkih povrsti uvijek F.;0:27:21 - 0:27:25
+Tada svakako S' je recimo S unija F je konačno ispunjiv.;0:27:25 - 0:27:38
+Šta, uzmem negakav T podskup od S unija F.;0:27:45 - 0:27:53
+Konačan.;0:27:56 - 0:27:59
+I sad, prvi slučaj, naravno, ako F nije u T, onda je T zapravo podskup od S;0:28:02 - 0:28:10
+i onda je ispunjiv jer je S, ne, S' je recimo S.;0:28:10 - 0:28:18
+Jer je S' konačno ispunjiv, jel' ono, jer S' je element od lijepog S.;0:28:25 - 0:28:31
+Ako je F ije iz T, onda mogu reći ovako nešto, znači,;0:28:35 - 0:28:40
+T je T' unija F, gdje je T' element od unijin podskup od S';0:28:40 - 0:28:53
+Konačan.;0:28:54 - 0:28:57
+Znači S';0:29:04 - 0:29:08
+Aha, ali, sada bamo, to je ovaj.;0:29:09 - 0:29:14
+Znači, ali S' nema za logičku postelicu ne F, znači da postoji M.;0:29:14 - 0:29:27
+Takav da je M, na M vrijedi S' ali na M ne vrijedi negacija F.;0:29:28 - 0:29:36
+Međutim, opet kažem, F je rečenica, dakle na M vrijedi F.;0:29:36 - 0:29:41
+I sad, i ovo zapravo kaže da postoji M koji je model za S' unija F.;0:29:41 - 0:29:54
+A onda, naravno, i ovaj,;0:29:55 - 0:29:59
+iz T, možda nisam trebao onda ovo rastaviti na slučaju, ne ovize.;0:29:59 - 0:30:12
+Dobro, dakle, svakako je taj skup konačno ispunjiv,;0:30:15 - 0:30:20
+unutra žive same rečenice, naravno F je rečenica.;0:30:20 - 0:30:24
+I sad je to kontradikcija sa činjenicom da je S' maksimalan,;0:30:25 - 0:30:31
+jer naravno F, specialno F nije u S' zašto?;0:30:31 - 0:30:38
+Jer kad bi bio, onda bi bila logička postelica.;0:30:38 - 0:30:41
+Pa je S' prava, najskupa je S', kontradikcija sa maksimalnošću.;0:30:41 - 0:30:58
+Dobro, dakle, to je stvarno potpun skup rečenice.;0:31:00 - 0:31:06
+Dobro, nakon potpunosti idemo na Henkinovo svoje što je.;0:31:06 - 0:31:13
+Dakle, skup sigma rečenice je Henkinov ako postoje Henkinovi svidoci.;0:31:15 - 0:31:26
+Što su Henkinovi svidoci?;0:31:26 - 0:31:28
+To su nekakvi konstantski simboli, dobro, ovdje piše zatvoreni term,;0:31:28 - 0:31:34
+ali zapravo će biti konstantski simbol, koji se mogu uvrstiti u bilo koju formulu;0:31:34 - 0:31:43
+takvu da je egzistencijalno kvantificirana formula istina.;0:31:43 - 0:31:48
+Naravno, sad pitanje je što je S, ako je S nekakva logička teorija,;0:31:53 - 0:32:00
+pa u tom smislu možemo reći da ako u teoriji mogu dokazati postojanje X,;0:32:00 - 0:32:07
+takvog da vrijedinu je f od X, onda mogu konstruktivno dokazati postojanje X,;0:32:07 - 0:32:11
+mogu egzibirati, mogu konkretno pokazati, evo to ti je taj X.;0:32:11 - 0:32:15
+On ima ime, to je ovaj zatvorni sigma term.;0:32:15 - 0:32:20
+Na primjer, u standardnoj strukturi prirodnih broja to je svakako tako.;0:32:20 - 0:32:24
+Dakle, ako čovjek kaže imaš nekakvu formulu oblika postoji prirodni broj;0:32:24 - 0:32:31
+sa nekakvim svojstvam, i ako je ta formula istina u standardnom modelu,;0:32:31 - 0:32:35
+onda svakako postoji prirodni broj, svaki prirodni broj, recimo broj 17,;0:32:35 - 0:32:41
+ja mogu napisati zatvorni term sljedbenik od sljedbenika, sljedbenik od sljedbenika,;0:32:41 - 0:32:44
+sljedbenik od sljedbenika 17 puta od nula.;0:32:44 - 0:32:46
+Dakle, postoji konkretan zatvorni term koji ga imenuje.;0:32:46 - 0:32:49
+Dok recimo, na primjer, što ja znam, u realnoj analizi;0:32:49 - 0:32:53
+ja možda mogu, svakako mogu, dokazati da postoje, na primjer, neizračunjivi brojevi,;0:32:53 - 0:33:03
+pa onda, a sigurno za neizračunjivi brojevi ja nemam nikakav zatvorni term.;0:33:03 - 0:33:09
+Dakle, nije uopće ni to istina, da kad god ja u nekoj teoriji mogu dokazati;0:33:09 - 0:33:16
+postojanje nekog objekta, da to mogu i konstruktivno napraviti.;0:33:16 - 0:33:19
+Ali, za neke jednostavne teorije, recimo, teoriju prirodnih brojeva sa standardnim modelom,;0:33:19 - 0:33:25
+to svakako vrijedi. U svakom slučaju, znači, za skup sigma računica kažemo da je Henkinov;0:33:25 - 0:33:30
+ako ima to svojstvo. Dakle, kad god se u S nalazi nekakva formula;0:33:30 - 0:33:36
+egzistencijalno kvantificirana, onda se nalazi i u tom istom skupu S;0:33:36 - 0:33:41
+i instancirana formula gdje je x zamijenjen sa nekakvim zatvornim termom.;0:33:41 - 0:33:47
+Dakle, struktura je kanonski model ako svaki element nosača ima ime,;0:33:49 - 0:33:59
+ima zatvorni term koji kad se interpretira u toj strukturi dobije se baš to.;0:33:59 - 0:34:05
+Dakle, na primjer, skup prirodnih brojeva je kanonski model za pejanovu aritmetiku.;0:34:05 - 0:34:11
+Svakako je kanonski model u ovom smislu. Dok, recimo, skup realnih brojeva sigurno nije.;0:34:15 - 0:34:22
+Kakvu god prebrojevu u signaturu da stavite, imat ćete samo prebrojevo mnogo zatvornih terma,;0:34:23 - 0:34:28
+a realnih brojeva ne prebrojeva.;0:34:28 - 0:34:31
+E, i sad Lema, više manje, dakle, onaj standardni argument iz gedelovog teorema potpunosti.;0:34:32 - 0:34:39
+Dakle, ako imaš potpun, koračno ispunjiv Henkinov skup rečenica,;0:34:40 - 0:34:47
+onda imaš model sa njega, ali ne samo model, nego imaš baš kanonski model.;0:34:48 - 0:34:52
+I to je ona standardna Henkinova konstrukcija. Dakle, nosač bude upravo skup svih zatvornih terma.;0:34:52 - 0:35:00
+Dakle, naravno, ako za nosač baš stavite skup zatvorni terma, onda neke stvari budu totalno očite.;0:35:01 - 0:35:10
+Tipa, na primjer, ako imate konstantski simbol i sad ga trebate u nekakvoj kanonskoj strukturi interpretirati,;0:35:10 - 0:35:18
+pa što ćete ga interpretirati? Pa upravo sa samim sobom.;0:35:18 - 0:35:22
+Odmah, on sam je zatvoreni termom.;0:35:22 - 0:35:25
+Ili, recimo, ako imaš nekakav funkcijski simbol, kako definirati interpretaciju funkcijskog simbola?;0:35:25 - 0:35:38
+Pa tako da jednostavno uzme nekakve terme, elemente nosača što su zatvoreni termi,;0:35:38 - 0:35:51
+i onda ih jednostavno pridruži novi zatvoreni term, a to je upravo ovaj.;0:35:51 - 0:35:59
+Uokvireno su sintaksni objekti.;0:36:01 - 0:36:04
+Katorci zatvorenih terma pridruži novi zatvoreni term ovakvog oblika.;0:36:08 - 0:36:13
+A naravno, što se relacija tiče, tu je jedino što treba napraviti, ali je lako budući da je potpun.;0:36:14 - 0:36:24
+Dakle, ako je skup potpun, onda je svaka ovakva atomarna formula ili njezina negacija unutra.;0:36:24 - 0:36:33
+Mislim, krivo je reći svaka, ali svaka sa zatvorenim termima, naravno, onda mora biti rečenica.;0:36:33 - 0:36:39
+Ali to je točno ona koja nam treba. Znači, ako nam neko da k terma,;0:36:39 - 0:36:43
+mi jednostavno provjerimo je li R od tih zatvorenih terma u S-u, ili je, ili je njegova negacija,;0:36:43 - 0:36:51
+i u obisnosti od tome stavimo, definiramo interpretaciju od R.;0:36:51 - 0:36:56
+Naravno, tada ovo vrijedi za sve formule, indukcijom posloženosti,;0:36:58 - 0:37:02
+i to zapravo znači da je to što smo napravili do ista modela.;0:37:02 - 0:37:07
+E sad, naravno, nekako sad, Lindenbaum ova lema dođe s jedne strane,;0:37:07 - 0:37:14
+znači imaš konačno ispunjev, super, onda ga nadopuniš do potpunosti,;0:37:14 - 0:37:18
+e sad, negako magično dobiješ Henke novost, i jednom kad imaš Henke novost,;0:37:18 - 0:37:23
+onda ti ova lema dade kanonski model.;0:37:23 - 0:37:26
+Znači, još je preostalo ono između, dakle Henke novost proizviste.;0:37:26 - 0:37:31
+Samo da kažem, ovdje je važno napomenuti da ovaj kanonski model nije nužno normalan.;0:37:31 - 0:37:38
+Dakle, niko nije ništa rekao o jednakosti.;0:37:38 - 0:37:41
+Jednakost je relacija koju svaka druga.;0:37:41 - 0:37:44
+Dakle, teoretski je moguće da x jednako x bude element od S, onda imamo sreće,;0:37:44 - 0:37:49
+ali je moguće da x nije jednak x bude element od S, onda ne imamo sreće u tom smislu.;0:37:49 - 0:37:56
+Mislim, i dalje ćemo dobiti model, ali taj model neće biti normalan.;0:37:56 - 0:38:00
+Dakle, postoji varijacija na temu.;0:38:02 - 0:38:05
+Dakle, ako se želi normalna struktura, može se, ali onda ovaj S ne može biti bilo kakav skup.;0:38:05 - 0:38:11
+Dakle, onda se za taj S kaže da je taj, ili se jednostavno kaže da je skup S normalan,;0:38:11 - 0:38:19
+u tom smislu, ili da dobro modelira jednakost.;0:38:19 - 0:38:24
+Recimo, da svarno u njemu se nalazi rečenica za svaki x, x jednako x,;0:38:24 - 0:38:32
+i takve neke još, princip substitucije, aksiomi za jednakost.;0:38:32 - 0:38:37
+Ali ako se sjećate, imali ste teorija prvog reda s jednakošću.;0:38:37 - 0:38:41
+Dakle, to je teorija prvog reda u onom smislu koju smo mi nastavili,;0:38:41 - 0:38:44
+plus još ima nekakve aksiome substitutabilnost i refleksivnost koji modeliraju jednakost.;0:38:44 - 0:38:50
+Dakle, ako se ti aksiomi nalaze u S, onda kažemo da je S normalan skup.;0:38:50 - 0:38:54
+Onda svarno mogu ovo isto napraviti, ali mrvicu drugačije.;0:38:54 - 0:39:01
+Jer onda zapravo moram još, ne mogu uzeti skup svih zatvorenih terma,;0:39:01 - 0:39:06
+zapravo se pokaže da je dovoljno uzeti skup svih konstantskih simbola.;0:39:06 - 0:39:11
+Zbog Henginovosti to će zapravo biti isto kao i da sam uzeo skup svih zatvorenih terma.;0:39:13 - 0:39:19
+Zašto? Jer kao svaki zatvoreni termija mogu izračunati u takvoj teoriji,;0:39:19 - 0:39:23
+u normalnoj strukturi.;0:39:23 - 0:39:25
+Jer zapravo, ja uvijek imam...;0:39:25 - 0:39:27
+2 plus 3 puta 4.;0:39:31 - 0:39:33
+Svaka koja imam, postoji x takav da je 2 plus 3 puta 4 jednak x.;0:39:33 - 0:39:39
+Dakle, ako ništa drugo, mogu x valuirati sa 2 plus 3 puta 4.;0:39:40 - 0:39:44
+Ne moram ništa znati o aritmetici.;0:39:45 - 0:39:48
+Jednostavno ovako nešto je sigurno istina u ovom svijetu;0:39:48 - 0:39:52
+u kojem je nosač skup zatvorenih terma.;0:39:52 - 0:39:55
+Ali, ako je tako, plus struktura normalna, onda ja znam da za ovu formulu,;0:39:55 - 0:40:01
+ovo je egzistencijalna tvrdnja, postoji Henginov svjedok.;0:40:01 - 0:40:05
+Henginov svjedok je konkretan konstantski simbol,;0:40:05 - 0:40:08
+mislim, zovimo ga 14, ali nije bitno, neki konstantski simbol;0:40:08 - 0:40:13
+koji zapravo ispunjava ovo.;0:40:13 - 0:40:18
+Zgodno je vidjeti da ako struktura nije normalna,;0:40:20 - 0:40:24
+onda moram uzeti za nosač skup svijetotvorenih terma.;0:40:24 - 0:40:26
+Ako struktura jest normalna, onda mogu uzeti zapravo;0:40:26 - 0:40:29
+samo konstantski simbola, to mi je dovoljno.;0:40:29 - 0:40:32
+S te strane, u smislu ne moram funkcijske simbole i takve stvari uzimati u obzir,;0:40:32 - 0:40:36
+ali s druge strane moram zakomplicirati na drugom kraju;0:40:36 - 0:40:39
+i moram zapravo pocijepati skup svih konstantskih simbola;0:40:39 - 0:40:51
+po relaciji koja je zapravo interpretacija jednakosti.;0:40:52 - 0:40:58
+Ne mogu reći interpretaciju jednakosti.;0:41:00 - 0:41:02
+Repetacija jednakosti u skupu S.;0:41:02 - 0:41:04
+Sve što mi skup S zna reći o jednakosti.;0:41:05 - 0:41:13
+Naravno, to je sad malo čudno.;0:41:14 - 0:41:16
+Zašto bi S uopće ništa znao o jednakosti, ali zna budući da je potpun.;0:41:16 - 0:41:19
+Znači, za svaku tvrdnju koju ja mogu izreći o jednakosti,;0:41:19 - 0:41:22
+u S imam ili nju ili nježnju negaciju.;0:41:22 - 0:41:25
+Mogu nekako zamišljati da sam interpretirao u jednakosti.;0:41:25 - 0:41:30
+To je sad nekakva relacija po kojoj ako je ovaj S dobar,;0:41:30 - 0:41:35
+ako je S normalan, onda je ovo relacija kvalencije.;0:41:35 - 0:41:38
+Onda stvarno mogu pocijepati ovo i to mi bude nosač.;0:41:38 - 0:41:42
+Ali kažem, to je sad dost komplicirano zapravo provjest skroz.;0:41:45 - 0:41:49
+Samo kažem, to je isto moguće izveste.;0:41:49 - 0:41:52
+Dobro, i sad bi tu trebalo, znači samo još napraviti,;0:41:53 - 0:42:03
+onda imam konačno ispunjev, skup rečenica,;0:42:03 - 0:42:13
+onda imam Lindenbaum, onda imam konačno ispunjev Potpun,;0:42:14 - 0:42:25
+onda imam Henkin,;0:42:27 - 0:42:30
+i onda imam Karonski model.;0:42:31 - 0:42:46
+Znači ili Karonski ili ako je S normalan,;0:42:47 - 0:42:57
+onda dobijemo Karonski normalni model.;0:43:12 - 0:43:15
+Znači ovo kažem, standarna ideja, znači zatvoreni termi,;0:43:16 - 0:43:22
+a ovo je ova ideja, kostantski simboli po ovoj interpretaciji jednakosti.;0:43:25 - 0:43:30
+Znači ovo smo napravili, ovo smo napravili,;0:43:30 - 0:43:33
+kažem napravili ste to zapravo već na logici,;0:43:33 - 0:43:36
+ovo nismo napravili, ali može se.;0:43:36 - 0:43:40
+Dakle, ne bi trebalo biti teško, recimo zadatak za zadatču;0:43:40 - 0:43:44
+može slobodno biti ono, ako je S sadrži nekakve formule,;0:43:44 - 0:43:48
+dokaži da je ovo stvarno relacija, ekvalencija.;0:43:48 - 0:43:51
+A to je jedino što fali, dalje je opet sve jasno.;0:43:51 - 0:43:55
+I znači još je preostalo ovu Henkinizaciju napraviti,;0:43:55 - 0:44:01
+a to stvarno nema smisla da počinjemo, dakle to ćemo idući tjedan.;0:44:01 - 0:44:08

@@ -1,0 +1,494 @@
+Speech;Timestamp
+Dakle, prošli put smo vidjeli pojam parcijalnog izomorfizma;0:00:00 - 0:00:09
+i vidjeli da je to neki tako način da ja iskonstruiram negakvo predruživanje,;0:00:09 - 0:00:17
+ali ne nužno svih elementa svim elementima,;0:00:17 - 0:00:21
+nego nekih elementa nekim elementima,;0:00:21 - 0:00:25
+nekih elementa jedne strukture, nekim elementima druge strukture,;0:00:25 - 0:00:28
+naravno tako da to bude injektivno, dakle da mogu ići u oba smjera,;0:00:28 - 0:00:32
+ali kažem između nekih podskupova i čak ti podskupovi ne moraju biti zapravo podmodeli,;0:00:32 - 0:00:38
+znači jednostavno samo zahtjevamo da ono što upadne u taj podskup;0:00:38 - 0:00:43
+na njemu se sa ovaj P dobro ponaša,;0:00:43 - 0:00:46
+s obzirom na funkcijske, relacijske i konstantinske simbole.;0:00:46 - 0:00:53
+Do nekle uveze, ali malo kompliciraniji pojam je konačne izomorfnosti.;0:00:54 - 0:01:00
+Znači tu se isto događa to da zapravo želim negakav podskup jednog modela;0:01:00 - 0:01:10
+povezati sa negakvim podskupom drugog modela,;0:01:10 - 0:01:14
+međutim kroz ovaj proještje, znači negakav niz nepraznih skupova;0:01:14 - 0:01:20
+parcijalnih izomorfizama. Znači ne, više ne gledamo;0:01:20 - 0:01:24
+jedan pojedinačni parcijalni izomorfizam nego skupove parcijalnih izomorfizama;0:01:24 - 0:01:29
+i čak niti skupove nego zapravo niz takvih skupova koji su na neki način povezani.;0:01:29 - 0:01:35
+Dakle, naravno, ta povezanost zapravo kaže da su;0:01:35 - 0:01:40
+evo ovako možda reći i 0 i 1 i 2 i 3 i tako dalje, znači beskonačan niz.;0:01:41 - 0:01:49
+Naravno, nitko ne brani da u nekom primotku stvar se stabilizira,;0:01:49 - 0:01:54
+da jednostavno ostane, da je taj niz od nekog mjesta nadalje konstantan,;0:01:54 - 0:01:59
+ali ono što zahtijevamo je da nekako kad imam nekoga u i3,;0:01:59 - 0:02:10
+znači p element u i3, onda on se može proširiti do nekog q iz i2;0:02:10 - 0:02:21
+i to tako da proizvodni element mogu dodati.;0:02:21 - 0:02:28
+Znači proizvodni element ovog domene, odnosno ovog skupa koji sadrži domenu,;0:02:29 - 0:02:36
+mogu dodati u domenu.;0:02:36 - 0:02:39
+I isto tako mogu dodati proizvodni element kod domene.;0:02:43 - 0:02:49
+Kad god imam nekakav a iz m, taj a će biti u,;0:02:50 - 0:02:58
+mislim, postoji q takav da a bude u domenu.;0:02:58 - 0:03:04
+Isto tako ako imam b iz n, onda ću dobiti nekakav q crtica;0:03:05 - 0:03:14
+takav da b je element slike od q crtice.;0:03:14 - 0:03:20
+Dakle, kažem, ova oznaka za izomorfizam, ako napišem f ispod,;0:03:24 - 0:03:32
+onda to znači konačni izomorfizam kao od finite.;0:03:32 - 0:03:37
+Konačan. Dakle, ovdje sad kaže uvijeti fort i bek.;0:03:38 - 0:03:44
+Analogni su modernom dokazu teorema uređenog karakterizacije skupa q.;0:03:44 - 0:03:48
+Dakle, ak si sjećate, to je ona priča imam dva skupa,;0:03:48 - 0:03:51
+obično se onda jedan od njih uzme da je q, a drugi je nekakav skup,;0:03:51 - 0:03:55
+koji su prebrojivi, gusti i bez kranjih točaka uređeni,;0:03:55 - 0:03:59
+onda postoji sličnost.;0:03:59 - 0:04:01
+Ta sličnost se konstruira tak da uzmeš neki element ovdje,;0:04:01 - 0:04:04
+neki element ovdje i predružiš.;0:04:04 - 0:04:07
+Onda uzmeš sljedeći, što god sljedeći značilo,;0:04:07 - 0:04:10
+dakle, sa obzirom na to da su oba prebrojivi, može se ići redom,;0:04:10 - 0:04:13
+uzmeš sljedeći element od q i sad vidiš,;0:04:13 - 0:04:16
+aha, ako je on veći od ovog početnog elementa,;0:04:16 - 0:04:19
+onda tu uzmeš neki veći element.;0:04:19 - 0:04:21
+Nije bitno koji.;0:04:21 - 0:04:23
+Onda opet, uzmeš neki element iz q,;0:04:24 - 0:04:27
+ali sad sljedeći porak je zapravo da uzmeš element iz a;0:04:27 - 0:04:31
+i onda ako je taj recimo manji od ove dvojce,;0:04:31 - 0:04:35
+onda u q tražim nekog koji je manji od te dvojce.;0:04:35 - 0:04:39
+I tako dalje.;0:04:40 - 0:04:41
+Dakle, opet sad sljedeći korak je da uzmem iz q nekoga;0:04:41 - 0:04:45
+i recimo sad on je između drugog i trećeg,;0:04:45 - 0:04:49
+onda opet u a uzmem nekog koji je između drugog i trećeg.;0:04:49 - 0:04:53
+I tako dalje.;0:04:53 - 0:04:54
+Uvijek tražim onoga koji se prema ostalim elementima;0:04:55 - 0:04:58
+u tom skupu nalazi u istom odnosu u kojem se nalazi ovaj gore.;0:04:58 - 0:05:04
+I idem na izmjenice.;0:05:04 - 0:05:07
+Dakle, u parnim koracima idem iz q u a,;0:05:07 - 0:05:11
+a u neparnima idem iz a u q.;0:05:11 - 0:05:13
+I na taj način se zapravo onda može dokazati lako;0:05:13 - 0:05:16
+da sam ja pokupio sve elemente.;0:05:16 - 0:05:18
+Jer nekako prije ili kasnije svaki element od q će doći na red;0:05:18 - 0:05:22
+i prije ili kasnije svaki element od a će doći na red.;0:05:22 - 0:05:25
+Ali kažem, ovi uvijek i 40 back zapravo,;0:05:25 - 0:05:29
+ako shvatimo ovo kao neku relacijsku strukturu,;0:05:29 - 0:05:31
+dakle ono koje je, ne znam,;0:05:31 - 0:05:33
+recimo da je ovo prvi, tu je recimo q nula i tu je a nula.;0:05:37 - 0:05:44
+I onda sam recimo našao q1.;0:05:47 - 0:05:50
+I ono što znam je da je q1 veći od q nula,;0:05:51 - 0:05:55
+odnosno q nula, q1 je element ove relacije manje;0:05:55 - 0:06:04
+interpretirane u strukturi q.;0:06:04 - 0:06:07
+Dakle, onda ono što želim, želim da a nula, a1;0:06:08 - 0:06:13
+bude također element relacije manje interpretirane u strukturi a.;0:06:13 - 0:06:18
+I onda sam napravio, uzeo sam neki,;0:06:20 - 0:06:29
+zamislimo da sam imao parcijalni izomorfizam;0:06:33 - 0:06:36
+koji samo preslikava q nula u a nula.;0:06:36 - 0:06:42
+I onda sam htio ga proširiti do novog parcijalnog izomorfizma;0:06:43 - 0:06:48
+q nula, a nula, q1, a1.;0:06:48 - 0:06:52
+Tako da, znači ovo bude podskup, dakle da sam ga stvarno proširio.;0:06:52 - 0:06:58
+I da ovaj ima, što? Da ima q1 u domeni.;0:06:58 - 0:07:03
+A u suprotnom smjeru bi isto tako našao nekakav a;0:07:08 - 0:07:12
+i tražio bi nekakav parcijalni izomorfizam;0:07:12 - 0:07:16
+takav da ima taj a u slici.;0:07:16 - 0:07:20
+Dobro, također ovi uvjeti Fortebek će se pojavljivat;0:07:21 - 0:07:27
+u izvjesnom smislu su slični kao u definiciji bisimulacije;0:07:27 - 0:07:32
+kad budemo pričali o modelnoj logici.;0:07:32 - 0:07:35
+Dobro, dakle, važan teorem vezan uz konačnu izomorfnost;0:07:36 - 0:07:41
+je Fresseov teorem koji kaže ovo.;0:07:41 - 0:07:45
+Znači, ako imam konačnu signaturu i ako imam normalne strukture;0:07:45 - 0:07:50
+onda je biti konačno izomorfan ekvivalentno sa biti elementarno ekvivalentno.;0:07:50 - 0:07:56
+Dakle, dvije strukture su elementarno ekvivalentne;0:07:56 - 0:08:00
+ako i samo ako su konačno izomorfne.;0:08:00 - 0:08:03
+Nijedan smjer mislim da nije baš trivialan, ali dobro.;0:08:06 - 0:08:10
+Nije da ćemo stvarno kroz cijeli dokas proći, ali, dakle,;0:08:12 - 0:08:16
+istaknut ćemo neke važne korake u obliku nekakvih lema.;0:08:16 - 0:08:20
+I za početak ćemo pretpostaviti da je signatura relacijska.;0:08:20 - 0:08:26
+Što znači da je relacijska? Znači da ima samo relacijske simbole.;0:08:26 - 0:08:29
+Dakle, bio sam možda pričao prošli put.;0:08:29 - 0:08:32
+Dakle, prilično je jednostavno emulirati funkcijske simbole preko relacijskih.;0:08:32 - 0:08:40
+Jednostavno prikaužete funkciju preko nježnog grafa.;0:08:40 - 0:08:45
+Naravno, to nije jednako ekspresivno. Dakle, neke stvari se mogu onda puno;0:08:45 - 0:08:49
+lakše iskazati ako imam funkcije nego ako imam relacije.;0:08:49 - 0:08:53
+Ali uz dodavanje nekih novih aksioma, da je to stvarno nekakva relacija;0:08:53 - 0:08:56
+sa funkcijskim svojstvom i tako dologo, se to može emulirati.;0:08:56 - 0:08:59
+Isto tako, naravno, konstante se mogu uvijek emulirati preko konstantnih funkcija,;0:08:59 - 0:09:03
+a one preko svojih grafova.;0:09:03 - 0:09:06
+I kaže ovaj smjer, ako si konačno izomorfan, onda si elementarno ekvalentan, je lakše.;0:09:07 - 0:09:14
+Dakle, pobočni pojam koji će nam trebati je kvantifikatorski rang.;0:09:19 - 0:09:23
+Dakle, to je nekakvo preslikavanje sa formulom u prirodne brojeve,;0:09:23 - 0:09:30
+koje je broj kvantifikatora, ali ne bilo kakve, nego ugnježdjene.;0:09:30 - 0:09:36
+Dakle, koliko najdublje idem sa ugnježdjenim kvantifikatorima u formulu.;0:09:36 - 0:09:42
+Mislim da je jasno kako izgleda onda induktivna definicija.;0:09:42 - 0:09:49
+Dakle, ako imam matomarnu formulu, njezin kvantifikatorski rang je 0,;0:09:49 - 0:09:53
+jer ona uopšte nema kvantifikatora, ona je otvorena.;0:09:53 - 0:09:56
+Kvantifikatorski rang negacije je jednostavno kao da te negacije nema,;0:09:56 - 0:10:01
+dakle kvantifikatorski rang negirane formule.;0:10:01 - 0:10:03
+Kvantifikatorski rang neke binarno povezane formule je, uzmeš kvantifikatorski rang jedne,;0:10:03 - 0:10:09
+kvantifikatorski rang druge i veći od ta dva broja.;0:10:09 - 0:10:13
+Dakle, ako imam neku formulu kvantifikatorskog ranga 2 ili neku formulu kvantifikatorskog ranga 3,;0:10:13 - 0:10:22
+naravno, cijetava formula će imat kvantifikatorski rang 3.;0:10:22 - 0:10:26
+I naravno, ako imam kvantificiranu formulu, onda pogledam koliko je;0:10:26 - 0:10:31
+kvantifikatorski rang ove formule pod kvantifikatorom i donijem jedan.;0:10:31 - 0:10:37
+Mislim da je definicija sasvim očita.;0:10:37 - 0:10:42
+Znači, zašto će nam to trebati?;0:10:42 - 0:10:45
+Zato da bi smo na neki način raslojili formule u nekakvu hijerarhiju po kvantifikatorskom rangu;0:10:45 - 0:10:54
+i to tako da u svakom sloju ih ima konačno mnogo.;0:10:54 - 0:10:58
+Tu je ključno da je signatura konačna.;0:10:58 - 0:11:01
+Dakle, evo, kaže sigma je konačna signatura, a još, kažem, pretpostavili smo da je relacijska,;0:11:01 - 0:11:06
+dakle da ima samo relacijske simbole i r je nekakav prirodan broj.;0:11:06 - 0:11:09
+I onda sad kažem, aha, l, gore sigma, dolje r i dolje n.;0:11:09 - 0:11:16
+Dakle, tri su indeksa, l.;0:11:16 - 0:11:18
+Unutra žive, znači, f je od tog skupa, znači f je sigma formula.;0:11:18 - 0:11:29
+Svi nelogički simboli koji se pojavljuju u f su zapravo iz sigma.;0:11:31 - 0:11:35
+Varijable od f su samo među x1 do, to je valjda n, ne, r je, a, dobra,;0:11:36 - 0:11:47
+ja sam čuo počekivo da je r rang, ali ne, veze,;0:11:50 - 0:11:53
+i kvantifikatorski rang od f je manji ili jednak od n.;0:11:54 - 0:12:00
+Ok.;0:12:01 - 0:12:02
+L, jasno, dobro, budemo još pričali nešto o konačnosti tih skupova.;0:12:08 - 0:12:15
+Dakle, krivo je reći zapravo da je ovaj skup konačan,;0:12:15 - 0:12:17
+jer naravno da ja uvijek mogu imat, šta ja znam, trivialnu formulu,;0:12:17 - 0:12:20
+ono, r 0 dvomjestni x1 x1, i sad mogu reći, aha, ili r 0 dvomjestni x1 x1,;0:12:20 - 0:12:33
+ili, ono, mogu proizvodno tako naslagivati i to će sve biti različite formule,;0:12:34 - 0:12:40
+a sve su one, valjda, u L 1 0 nad bilo kojim sigma.;0:12:40 - 0:12:46
+Tako da, krivo je reći da su ovi skupovi konačni.;0:12:47 - 0:12:50
+Ali, naravno da su ove sve formule međusobno ekvivalentne,;0:12:50 - 0:12:55
+dakle, dovoljno mi je reći ovo.;0:12:55 - 0:12:57
+Nekako, dodavat ove dalje stvari, nekako, neće promijeniti semantiku.;0:12:57 - 0:13:03
+Drugim rečima, kad bih ja gledao L, r, n, sigma,;0:13:04 - 0:13:08
+pocijepan po relaciji logičke ekvivalentnosti,;0:13:08 - 0:13:12
+dakle, to je konačan skup.;0:13:13 - 0:13:15
+Unutar ima samo konačno klasa ekvivalencija, ali to ćemo malo kasnije.;0:13:16 - 0:13:23
+Dakle, zato sad samo vidimo ovo.;0:13:23 - 0:13:25
+Znači, ako imaš formulu iz nekog takvog skupa i dvije konačno izomorfne strukture,;0:13:25 - 0:13:32
+imaš neki parcijalni izomorfizam koji je stvarno takav;0:13:32 - 0:13:40
+da nekakvih r elementa se nalazi u njegovej domeni.;0:13:40 - 0:13:45
+E onda vrijedi ona veza standardna, dakle, f uz nekakvu valuaciju;0:13:45 - 0:13:52
+koja pridružuje prvih r variabli točno te elemente,;0:13:52 - 0:13:57
+vrijedi u ovom lijevom modelu, ako i samo ako uz valuaciju komponiranu sa p;0:13:58 - 0:14:06
+vrijedi ta ista formula na desnom modelu.;0:14:07 - 0:14:10
+Zato je bilo ključno da ovo budu variable prvih r variabli,;0:14:10 - 0:14:14
+da mogu reći, aha, konačno mnogo elementa mi je dovoljno.;0:14:14 - 0:14:19
+I, naravno, moram reći da zahtijevam ovo tu, jer inače ovo ne mora biti definirano.;0:14:20 - 0:14:26
+Dobro, to se dokaže indukcijom posloženosti od f.;0:14:28 - 0:14:32
+Nema neke prećirane pameti.;0:14:32 - 0:14:35
+Samo primijetimo da je r, naravno, ovaj broj, to sam reći rekao,;0:14:36 - 0:14:41
+znači zahtijevam da sve variable budu stvarno pridružene u ovoj valuaciji.;0:14:41 - 0:14:46
+A ovaj n je zapravo ovo odakle je p.;0:14:46 - 0:14:50
+Znači to je malo netrivialno u smislu, dakle, da kad imam n jednako 0,;0:14:50 - 0:14:56
+onda naravno tu ću gledati samo formule iz i 0.;0:14:56 - 0:15:03
+Formula iz i 0, ovaj, parcijalna izomost, izme iz i 0.;0:15:03 - 0:15:07
+Dakle, oni nemaju nikakav uvjet,;0:15:07 - 0:15:12
+da, znači, ne postoje nikakav uvjet s port ili backer,;0:15:15 - 0:15:20
+dakle, svi oni zapravo znači htjevaju da p bude iz i n plus 1.;0:15:20 - 0:15:24
+Znači, jednostavno, to je nekakav skup parcijalnih izomorfizama,;0:15:24 - 0:15:28
+ništa od njemu ne znam, ali ono što znam je da u njemu žive parcijalni izomorfizmi.;0:15:28 - 0:15:33
+Dakle, i to je dovoljno za atomarne formule.;0:15:33 - 0:15:36
+Dakle, ako, ovaj, znate da je p element od i 0, nemate nikakve uvjete fort i back,;0:15:36 - 0:15:42
+ali ono što imate je da je p parcijalni izomorfizam.;0:15:42 - 0:15:45
+I to je u redu, jer za parcijalne izomorfizme, ako se dobro sjećamo,;0:15:45 - 0:15:48
+ovo vrijedi za sve otvorene formule, ali, dakle, svakako vrijedi za;0:15:48 - 0:15:52
+za atomarne formule.;0:15:55 - 0:15:57
+I sad, kažem, možete vi dodavat negaciju, možete dodavat nekakve binarne logičke veznike,;0:15:57 - 0:16:03
+to neće ništa promijeniti, kažemo, sve za otvorene formule zapravo funkcionira.;0:16:03 - 0:16:07
+I sad, kad kvantificirate, onda što će vam se dogoditi?;0:16:09 - 0:16:12
+Zapravo kvantifikatorski rang će vam se povećati.;0:16:12 - 0:16:14
+I onda ćete imati, aha, na primjer, kad, kažem, skačete s 0 na 1,;0:16:14 - 0:16:17
+imat ćete da je p iz i 1.;0:16:17 - 0:16:19
+I onda, naravno, više nećete imati da ovo vrijedi, jer f nije nužno otvorena formula,;0:16:19 - 0:16:23
+mislim, sigurno nije otvorena formula jer ima kvantifikator,;0:16:23 - 0:16:27
+ali ono što ćete imat, znači, imat ćete svojstvo fort.;0:16:27 - 0:16:32
+Znači, za svaki p iz i 1 i a iz m.;0:16:33 - 0:16:36
+Sad, odakle ćete uzeti a iz m, pa isčinjeni će se da vaša kvantificirana formula vrijedi;0:16:36 - 0:16:42
+na jednome od njih, na primjer, što ja znam, ako imate,;0:16:42 - 0:16:45
+da, da dokazat, tako i samo ako, recimo, da dokazujete ovaj smjer.;0:16:45 - 0:16:49
+Ako vrijedi, na primjer, da je f egzistencijalno kvantificirana,;0:16:49 - 0:16:52
+to znači da će postojati u strukturi m nekakav element a, ili a r plus 1, što god,;0:16:52 - 0:16:58
+takav da će ova formula vrijediti sa za jednom većim m.;0:16:58 - 0:17:03
+I onda ćete na taj a i ovaj p primijeniti svojstvo fort;0:17:05 - 0:17:09
+i dobiti tu nekakav b u kojem ćete preslikat ovaj a;0:17:09 - 0:17:16
+i zajedno će to biti parcijalno izmrtljivo.;0:17:16 - 0:17:18
+Za drugi smjer, naravno, ćete koristiti svojstvo back.;0:17:19 - 0:17:22
+Pritom je važno, na pomenut, valjda da ovaj r može biti proizvoljan.;0:17:23 - 0:17:27
+Dakle, vi zapravo dokazujete indukciju posloženosti ili, ja mislim,;0:17:27 - 0:17:30
+zapravo bolje je indukcija plan, jer niš se zapravo ne zbiva;0:17:30 - 0:17:34
+u slučajevima kad imate logičke veznike i od takve stvari, ali dobro.;0:17:34 - 0:17:39
+Ali ono što je važno je da dokazujete tvrnju za svaki r, jer r se mijenja.;0:17:39 - 0:17:43
+Dakle, kad vi idete iz predpostavke u korak indukcije,;0:17:43 - 0:17:46
+r će vam biti neki drugi, jer ćete tu možda dodati još neku varijablu.;0:17:46 - 0:17:50
+Uvijek ima dva različita načina dokazat tvrnje indukcijom koja je dvoparametarska.;0:17:51 - 0:17:58
+Kada vi dokazujete tvrnju koja ovisi o n i r koji su prirodni brojevi,;0:17:58 - 0:18:02
+indukcijom po n, onda možete ili reći neka je r iz n proizvoljan,;0:18:02 - 0:18:07
+dokazujemo tvrnju za taj r indukcijom po n.;0:18:07 - 0:18:11
+To je jednostavnije, ali ponekad ne prolazi.;0:18:11 - 0:18:14
+Ovo što ovdje treba dokazati, indukcijom po n, treba dokazati tvrnju za svaki r vlijedi nešto.;0:18:15 - 0:18:22
+Ljepota toga je da imate u predpostavci predpostavku za svaki r,;0:18:22 - 0:18:27
+pa možete u koraku i promijeniti r ako treba.;0:18:27 - 0:18:30
+A ovdje treba.;0:18:30 - 0:18:32
+Dobro, e sad znači...;0:18:33 - 0:18:35
+Da, i sad primijetite samo korolar ovoga.;0:18:38 - 0:18:43
+Znači, ako je f zatvorena formula, ono što se još požive kada kaže rečenica,;0:18:43 - 0:18:48
+onda je naravno ovaj r nula, jer zapravo ovaj skup je prazan.;0:18:48 - 0:18:53
+Mislim, naravno da može biti i više, ali smije biti nula jer jednostavno nema...;0:18:53 - 0:18:58
+Dobro, čije variable, čije slobodne variable.;0:18:58 - 0:19:01
+Onda svega ovog zapravo nema i onda dobijete da su emjen elementarno ekvalenti.;0:19:05 - 0:19:12
+Konačna relacija signature, svakako vrijedi da konačna izomorfnost povlači elementarnu ekvalenciju;0:19:15 - 0:19:23
+i to je onaj lakši smjer, jel' ne, kad kaže smjer?;0:19:23 - 0:19:27
+Da, vidjel' vam, lakše za relacijske signature.;0:19:28 - 0:19:32
+Dobro, i sad kažem u suprotnom smjeru.;0:19:32 - 0:19:35
+Zapravo ćemo iskoristiti činjenicu da ovih formula u ovim slojevima l, r, n, sigma;0:19:35 - 0:19:41
+nema puno, do na logičku ekvalenciju.;0:19:41 - 0:19:44
+Naravno, znamo šta znači da formula logički slijedi iz nekog skupa formula,;0:19:44 - 0:19:49
+znamo šta znači logička posljedica, znamo, dakle, ovo je samo pokrata za ovako nešto.;0:19:49 - 0:19:57
+Dakle, ako logički slijedi iz jednočlenog skupa, onda pišemo tak,;0:19:57 - 0:20:00
+a naravno pišemo ovo ako slijedi u oba smjera.;0:20:00 - 0:20:05
+I sad, dakle, to je ono što želimo dokazati.;0:20:05 - 0:20:08
+Dakle, kvocjeni skup je konačan za proizvoljne n, r i konačnu relacijsku sigma.;0:20:08 - 0:20:15
+Naravno, kažem, prije toga je važna konačna skupa sigma,;0:20:15 - 0:20:18
+lema se dokazuje indukcijom po n,;0:20:18 - 0:20:21
+u sklipu je definiran operator zatvorenja analogičke veznike.;0:20:21 - 0:20:24
+Dakle, naravno, to je sad dosta petljavo, ali možemo samo možda opisati nekako šta ja tu sad radim.;0:20:24 - 0:20:32
+Znači, nekakva formula je iz L r n plus 1 nad sigma.;0:20:32 - 0:20:41
+Što to zapravo znači? To znači da je, naravno, teoretski je moguće;0:20:41 - 0:20:47
+da je baš njezini kvantifikatorski rang još uvijek manji od n.;0:20:47 - 0:20:50
+Dakle, ako je f element L r n sigma, onda dobro.;0:20:50 - 0:20:57
+Dakle, predpostavka je bila da je taj skup konačan.;0:20:57 - 0:21:00
+Drugi zanimljiviji slučaj je da je kvantifikatorski rang od f baš jednak n plus 1.;0:21:02 - 0:21:09
+I sad što imam zapravo?;0:21:10 - 0:21:12
+Ta n plus 1 je morala na neki način doći od strukture same formule.;0:21:12 - 0:21:16
+Dakle, f je nekakva bulovska kombinacija, nešto raznih može imati zagrbe, kako god.;0:21:16 - 0:21:26
+Dakle, svakako je nekakva bulovska kombinacija formula od kojih je barem jedna;0:21:27 - 0:21:35
+oblika plostoji x f crtica ili za svaki x f crtica,;0:21:40 - 0:21:51
+pri čemu je kvantifikatorski rang od f crtica jednak n.;0:21:52 - 0:21:57
+Jasno zašto? Jer kad to ne bi bilo, onda bi kvantifikatorski rang cijele formule još uvijek bio n.;0:21:59 - 0:22:05
+Dobro?;0:22:10 - 0:22:11
+I sad, znači, barem jedna, ali može biti i više.;0:22:14 - 0:22:17
+I sad, one formule kojima...;0:22:22 - 0:22:25
+Nisam siguran. Dakle, svakako, ako ih je više sa istim kvantifikatorom,;0:22:30 - 0:22:34
+onda je lako, onda valjda nekakva pravila prilaza za kvantifikatore možete iskoristiti.;0:22:34 - 0:22:42
+Ali ako ih je s raočitim kvantifikatorima, samo malo.;0:22:42 - 0:22:46
+Ne, ne tako. Nego ovako, znači, ključna stvar je ovo zapravo.;0:22:52 - 0:22:58
+Ako su formule logički ekvalentne, onda su i kvantificirane formule logički ekvalentne.;0:22:58 - 0:23:06
+Naravno je, dakle, činjenica da su formule logički ekvalentne znači da...;0:23:06 - 0:23:10
+Jedna je logička posljedica, a druga, dakle, ako...;0:23:11 - 0:23:15
+Kad gotovo vrijedi ovo, vrijedi ovo, ali ovo i ovo priča za svaku valuaciju.;0:23:15 - 0:23:20
+Dakle, naravno da onda ako ja univerzalno kvantificiram,;0:23:20 - 0:23:24
+također će biti ekvalentno.;0:23:24 - 0:23:26
+A onda sa negacijom naravno mogu vidjeti za izudjentijanu kvantifikaciju.;0:23:26 - 0:23:31
+Dakle, zapravo svaka od ovih formula se može zamijeniti jednim od,;0:23:31 - 0:23:37
+ajmo reći, kanonskih reprezentanata.;0:23:37 - 0:23:40
+Znači, ajmo reći, možda nek su ovo su formule koje su kvantifikatorskog ranga;0:23:40 - 0:23:48
+manje ili jednake n.;0:23:48 - 0:23:50
+Znači, one se nalaze u L, R, N, sigma.;0:23:51 - 0:23:58
+I za svak od njih imam neki reprezentant.;0:24:00 - 0:24:04
+A ovo tu su recimo one formule či kvantifikatorski rang je baš jednak n plus 1.;0:24:05 - 0:24:13
+I one se mogu zapisati u obliku postoji x, pa tu nekakav element iz L, R, N, sigma;0:24:13 - 0:24:26
+ili za svaki x pa opet nekakav element iz L, R, N, sigma.;0:24:26 - 0:24:32
+I šta sad hoću reći?;0:24:33 - 0:24:39
+Samo to da, dakle, takvih neekvivalentnih Bulovskih kombinacija ima konačno mnogo.;0:24:39 - 0:24:45
+Zašto? Dakle, u L, R, N, sigma ih ima konačno mnogo, recimo 15.;0:24:45 - 0:24:50
+Onda ih ima još ovakvih 15, dakle to je samo oni svi iz L, R, N, sigma;0:24:50 - 0:24:54
+koji ima dodan još izincilin.;0:24:54 - 0:24:56
+Aha, ne. Ne 15, nego može biti po bilo koje variabli.;0:24:56 - 0:25:01
+Ali variabli isto ima konačno mnogo, to je ljepota ovog era.;0:25:01 - 0:25:05
+Dakle, 15 puta R ovakvih i još 15 puta R ovakvih, sve skupa konačno mnogo.;0:25:05 - 0:25:12
+Bulovskih kombinacija od svih tih formula ima bezkonačno mnogo,;0:25:12 - 0:25:17
+ali međusobno neekvivalentnih ima konačno mnogo.;0:25:17 - 0:25:20
+Zašto? Jer Bulovskih kombinacije imaju, na primjer, konjuktivnu normalnu formu.;0:25:20 - 0:25:25
+Dakle, istinitosnu tablicu napišem za sve moguće kombinacije ovih 15 plus 30 R formula.;0:25:26 - 0:25:36
+Ja propišem jel će moja formula biti istinita ili lažna, i to je 2 na nešto.;0:25:36 - 0:25:42
+Dakle, konačno mnogo. Jel jasno?;0:25:42 - 0:25:45
+Dosta je petljav dokaz, ali ideja, ja bih rekao, tu, kažem, u skriptu imate različitost.;0:25:47 - 0:25:54
+Imate raspisano.;0:25:54 - 0:25:56
+Reci.;0:26:00 - 0:26:01
+Čekam da bi možda pokazala da, znači, da se predostavljamo da ima konačno za svaku formulu,;0:26:01 - 0:26:08
+da se može napisati kvalijentnu formulu koja je konačna.;0:26:08 - 0:26:13
+Konačna konačna simbola.;0:26:13 - 0:26:15
+Aha, mislite s te strane.;0:26:19 - 0:26:21
+Pa gledajte, svaka formula ima konačno mnogo simbola, ali je stvar u tome da želite nekako ograničiti;0:26:24 - 0:26:29
+taj, ili duljinu formule, ili...;0:26:29 - 0:26:32
+Dakle, mislim, ima tu nešto. Možda, recimo, na primjer, ako biste mogli reći da svaka formula;0:26:39 - 0:26:45
+se može zapisati u obliku tako da njezina duljina je manja od nekog konkretnog broja;0:26:45 - 0:26:51
+koji na neki način ovisi o R i N, onda bi to slijedilo.;0:26:51 - 0:26:54
+Jer, naravno, alfabet je konačan. Dakle, jedini razlog zašto je alfabet beskonačan uopće nije to,;0:26:54 - 0:27:00
+jer što ima u sigma beskonačno elemenata i što ima u variabli beskonačno mnogo.;0:27:00 - 0:27:05
+A ovdje su i R i sigma konačni, dakle, s te strane sam miran.;0:27:05 - 0:27:08
+Dakle, moj alfabet je konačan i ako mogu duljinu formulu ograničiti sa 50,;0:27:08 - 0:27:12
+onda je to, naravno, svih takvih formula ima manje ili jednako od broja elemenata alfabeta na 50.;0:27:12 - 0:27:17
+Ali nisam baš siguran da je lako ograničiti duljinu formule.;0:27:18 - 0:27:22
+Jer je to sličan ovakav argument. Dakle, konjuktira normalna forma ne može biti pre dugačka;0:27:22 - 0:27:28
+u odnosu na sam broj ovih variabli koje imam na raspolaganju;0:27:28 - 0:27:32
+i samih ovih variacija na temu kvantifikatora ne može biti previše.;0:27:32 - 0:27:37
+Dakle, može biti eksistencijalni universalni limit, tu može biti bilo koje od R variabli i to je više manje to.;0:27:37 - 0:27:42
+I za svaku od ovih formula treba to odabrati. Je li odavde, je li ovako, je li ovako.;0:27:42 - 0:27:50
+I to je ono, gotovo. Dakle, da, vjerojatno bi se moglo i tako.;0:27:50 - 0:27:57
+Ali, kažem, ključno bi bilo ograničiti duljinu.;0:27:57 - 0:28:00
+Dobro, u svakom slučaju, Lema je tu.;0:28:02 - 0:28:05
+E, i sad, sad ide valjda, da, ide drugi, prvi izmjer.;0:28:06 - 0:28:12
+Dakle, ako imam konačno mnogo relativskih simbola, onda elementarna ekvivalencija povlači konačnu izomorfnost.;0:28:12 - 0:28:21
+I kaže ovako, dakle, jednostavno definiram te skupove parcijalnih izomorfizama,;0:28:21 - 0:28:30
+tako da jednostavno unutra stavim ono što moram.;0:28:31 - 0:28:34
+Dakle, jednostavno kažem, ovo parcijalni, dakle, parcijalni izomorfizam koji prvih R,;0:28:34 - 0:28:43
+nekakvih R a ova, preslikava u nekakvih R b ova, će biti unutra ako za svaku formulu vrijedi ovo.;0:28:43 - 0:28:52
+Naravno, ne za svaku formulu, nego za svaku formulu dovoljno malog kvantifikatorskog ranga.;0:28:52 - 0:28:58
+E, i sad trebamo vidjeti, naravno, ova definicija konačne izomorfnosti je trivialna,;0:29:01 - 0:29:06
+ako ne stavimo ovaj uvjet nepraznih skupova, jer naravno sve ovo su univerzalno kvantificirane tvrnje,;0:29:06 - 0:29:15
+tako da ako stavim za svaki iem da je prazan skup, onda je gotovo, jel?;0:29:15 - 0:29:20
+Onda bi sve bilo konačno izomorfno, a to ne želim.;0:29:20 - 0:29:23
+Dakle, želim da unutra stvarno bude nešto i onda ova svojstav 40 BAC mi omogućava i da to nešto proširujem.;0:29:23 - 0:29:29
+Ali sve jedno, s obzirom na to da ovdje za i n stavit ću prazan parcijalni izomorfizam unutra,;0:29:29 - 0:29:43
+zašto? Jer jednostavno m i n su elementarno ekvalentne.;0:29:43 - 0:29:48
+Dakle, na svim rečenicama se one podudaraju.;0:29:48 - 0:29:52
+Trivijalno će prazan skup kao prazna funkcija, prazna parcijalna funkcija,;0:29:53 - 0:29:59
+konačno biti parcijalni izomorfizam između m i n.;0:29:59 - 0:30:02
+Dakle, bit će zadovoljeno ovo svojstvo da su neprazne.;0:30:02 - 0:30:06
+Dobro? E, i sad naravno treba dokazati da ima svojstva 40 BAC, ali potpuno je sve samo za m i n,;0:30:06 - 0:30:14
+dakle, dovoljno je dokazati da ima svojstvo 40.;0:30:14 - 0:30:17
+I sad kaže ovako, uzmeš, dakle, poslovno, po definiciji šta svojstvo 40 kaže,;0:30:17 - 0:30:24
+uzmeš p iz i n plus 1 i uzmeš a iz m;0:30:26 - 0:30:32
+i pobrojiš elemente u domenu od p.;0:30:35 - 0:30:38
+Znači, naravno, p je nekakav konačan,;0:30:38 - 0:30:41
+e sad, jel piše baš da mora biti konačan?;0:30:41 - 0:30:44
+Sad, to nije napisano, ali se svakako podrazumijeva, možda je to ipak trebao napisati, samo malo.;0:30:47 - 0:30:53
+Da.;0:31:03 - 0:31:04
+Ne piše.;0:31:05 - 0:31:07
+Ne piše.;0:31:07 - 0:31:08
+Dobro, ali recimo iz ovakve leme je jasno da se zapravo misle na konačne funkcije,;0:31:13 - 0:31:18
+ali da, svakako, bilo bi pametno to napisati.;0:31:18 - 0:31:22
+Dakle, ako ništa drugo ovdje, znači, niz nepraznih skupova konačnih parcijalnih izomorskih izomorskih,;0:31:28 - 0:31:34
+mislim, na kraju kraja zato se zove konačno izomorsko.;0:31:34 - 0:31:37
+Ok, to je trebao napraviti.;0:31:40 - 0:31:43
+Ali, znači, poprvo, svakako, da to piše, znači, p je svakako konačna funkcija.;0:31:44 - 0:31:50
+A, r, dobro sad.;0:32:00 - 0:32:02
+Znači, da damo koliko ih ima.;0:32:04 - 0:32:06
+Dobro.;0:32:07 - 0:32:08
+I sada, znači, uzmem bilo kakvu f iz l r plus 1 n.;0:32:10 - 0:32:22
+I, a, l, r, l, r plus 1.;0:32:22 - 0:32:30
+A, da, sad moram povećati broj variabli za janja.;0:32:30 - 0:32:33
+Želim ovaj a nekakvu urat u priču.;0:32:33 - 0:32:36
+Dakle, znači, odaberem nekakav f i,;0:32:38 - 0:32:48
+koji je također element od r plus 1 n sigma,;0:32:49 - 0:32:55
+a također je element od nekakvog konačnog skupa f1 do fs.;0:32:56 - 0:33:03
+Skup reprezentanata, skup izbora za ovaj kvocid neskupni.;0:33:05 - 0:33:10
+Dobro.;0:33:12 - 0:33:13
+Ok.;0:33:15 - 0:33:16
+Znači, za svaku formulu iz ovog l r plus 1 n sigma mogu to napraviti.;0:33:17 - 0:33:22
+I onda kažem ovako, znači,;0:33:23 - 0:33:25
+aha, ok, može.;0:33:34 - 0:33:36
+Znači, namjestim sigeove da budu ili lijepovi ili njihove negacije.;0:33:36 - 0:33:42
+Ovisno o tome, znači, sad pitam se što vrijedi za ovaj a.;0:33:42 - 0:33:47
+Dakle, f i, ako u m vrijedi f i a1 do ar i još ovaj a.;0:33:49 - 0:34:03
+Znači, variable v1 do vr valuiram sa njima,;0:34:04 - 0:34:07
+a variablu vr plus 1 valuiram sa ovim novim a.;0:34:08 - 0:34:12
+Znači, neke od tih formula će vrijedit, njih pokupim,;0:34:12 - 0:34:17
+a one za koje neće vrijedit, pokupim njihove negacije.;0:34:17 - 0:34:22
+Znači, s obzirom na to da f i ima samo variable, znači, f i jest element l r plus 1 n,;0:34:25 - 0:34:33
+znači, var od f i je podskup od x1 do xr plus 1.;0:34:33 - 0:34:42
+Dakle, nakon što ja ovo napravim, ovo ili vrijedi u m ili ne vrijedi,;0:34:42 - 0:34:46
+nema više nikakve tu slobode, znači, ili f i vrijedi ovak valuirana ili ne f i vrijedi.;0:34:46 - 0:34:56
+Jednu od, onu koja vrijedi, uzmem i proglasim je za gej.;0:34:56 - 0:35:01
+I onda kažem ovako, očito u m vrijedi,;0:35:01 - 0:35:07
+egzistencijalno kvantificirana, sad, naravno, ljepota bi bila onda napisati ovako,;0:35:07 - 0:35:13
+baš po variabli r plus 1, konjunkcija tih geova, kojih ima konačno mnogo,;0:35:13 - 0:35:22
+jer ih ima s, ovdje, znači, to je priča odas gora, f-ova, f i jeva ima s,;0:35:22 - 0:35:28
+znači, i gejeva ima s, valuirana sa a1 do ar.;0:35:28 - 0:35:35
+Zašto? Jer, zašto to vrijedi? Zato što, naravno, sve što ja trebam dokazati je da postoje nekakva valuacija koja vr plus 1,;0:35:36 - 0:35:44
+da li se napišem v, vx, da,;0:35:46 - 0:35:50
+da, za x sam ostačao variabla, sorry,;0:35:51 - 0:35:55
+da, mislim, uvijek, no,;0:36:00 - 0:36:02
+dakle,;0:36:05 - 0:36:06
+ta xr plus 1, svakako mogu uzeti valuaciju, bilo koju,;0:36:11 - 0:36:16
+i promijeniti je tako da u x, u stvari ne bilo koju, nego onu koja x1 do xr praslikavam u a1 do ar,;0:36:16 - 0:36:23
+i nadopuniti je tako da, ili redefinirati je tako da xr plus 1 praslikam baš u taj a.;0:36:23 - 0:36:30
+I tada će, naravno, sve ove formule g1 do gs vrijediti, pa će vrijediti njihova konjunkcija,;0:36:30 - 0:36:36
+a to znači da vrijedi egzistencijama kvantificirana formula.;0:36:36 - 0:36:40
+Dobro, i sad kaže, aha, ne samo da to vrijedi, nego je kvantifikatorski rang te formule;0:36:40 - 0:36:48
+manji ili jednak od n plus 1. Zašto? Jer svaka od ovih formula je iz LR plus 1 n,;0:36:52 - 0:36:58
+znači qr od fi je manji ili jednako od n.;0:36:58 - 0:37:03
+Znači, naravno, a ovdje sam samo dodalo negacije, to ne mijenja kvantifikatorski rang,;0:37:03 - 0:37:08
+znači qr od g i je manji ili jednako n. Znači, naravno, ovo je konjunkcija,;0:37:08 - 0:37:15
+opet ne mijenja kvantifikatorski rang, a ovo dodavanje jednog egzistencijalna kvantifikatora;0:37:15 - 0:37:21
+samo može povećati, odnosno mora povećati kvantifikatorski rang za 1,;0:37:21 - 0:37:26
+dakle i dalje je manji ili jednak od n plus 1.;0:37:26 - 0:37:29
+Dakle, i sad kaže definicija niza je, znači ono što je bilo završilo u i n plus 1,;0:37:29 - 0:37:44
+aha, da, da, da, predpostavka, znači, da, piše tamo, p je bio iz i n plus 1.;0:37:45 - 0:37:56
+Što to znači? To znači da je p parcijalni izomorfizam i to takav da se sve formule,;0:37:57 - 0:38:07
+da su m i n kao elementarno ekvivalentni, ali na formulama koje su kvantifikatorskog ranga;0:38:07 - 0:38:13
+manji ili jednakog n plus 1. Međutim, ovo je takva formula, pa onda slijedi da i na n to isto vrijedi.;0:38:13 - 0:38:22
+Samo što naravno sad tu moram napisati p od a1, p od a2.;0:38:22 - 0:38:30
+Zapravo ne iz definicije niza, nego baš iz definicije skupa i n plus 1.;0:38:34 - 0:38:39
+Dobro, i sad samo idem u vatrak. Na n vrijedi nekakva egzistencijalna formula.;0:38:43 - 0:38:48
+Kad raspišem šta to znači, to znači da imam nekakav element u n koji kad se doda u ovu valuaciju;0:38:48 - 0:38:56
+na mjesto variable x i n plus 1, dobijem istinitu formulu.;0:38:56 - 0:39:03
+Sad ta formula je konjunkcija ovih geova. Kad to raspišem, znači da svaki pojedini g vrijedi,;0:39:04 - 0:39:09
+a to onda zapravo znači da f-ovi vrijede ili ne vrijede, ovisno o tome što treba.;0:39:10 - 0:39:18
+A, ne, svaka formula iz fl plus 1 je ekvivalentna nekoj od ovih f-i.;0:39:24 - 0:39:34
+Moglo se dogoditi samo dvije stvari. Ili bi ta formula uz ovu valuaciju vrijedila tamo,;0:39:35 - 0:39:41
+ili ne bi sa b-om i to će točno biti ili je ili njezina negacija koja će vrijediti na n-u,;0:39:41 - 0:39:52
+znači ekvivalentna je. Na n-u vrijedi također taj g.;0:39:52 - 0:40:02
+Ovo je slučaj kad vrijedi na n-u.;0:40:05 - 0:40:08
+Moglo bi se isto tako dogoditi da ne vrijedi, u tom slučaju bi ga i bio negacija od f-i,;0:40:09 - 0:40:14
+ali opet bi, naravno, negacije ekvivalentnih su ekvivalentne i opet bi bilo dokazano ovo.;0:40:14 - 0:40:22
+I sad, to sam sve zapravo napravio samo u jednom smjeru koristeći f-ord,;0:40:23 - 0:40:27
+ali naravno sam mogoo i u drugom smjeru koristeći b-ek.;0:40:27 - 0:40:31
+Ne, samo malo.;0:40:35 - 0:40:39
+Tu sam koristio ovo.;0:40:40 - 0:40:46
+Ja sam konstruirao i n kao skup parcijalnih izomorfizama za koje vrijediju ova ekvivalencija.;0:40:47 - 0:40:53
+I onda ako koristim jedan smjer dobijem jedan smjer tamo,;0:40:53 - 0:40:56
+a ako koristim drugi smjer dobijem drugi smjer.;0:40:56 - 0:40:58
+To su mi zapravo svojstva Fortibek.;0:40:58 - 0:41:03
+Još samo moram paziti, aha da, naravno, nisam trebao ništa od ovog raditi,;0:41:06 - 0:41:11
+odnosno zapravo nisam ni smio ništa od ovog raditi,;0:41:11 - 0:41:13
+ako mi a već je element od ovog tu skupa.;0:41:13 - 0:41:16
+Znači, b, x, o, m, p, a nije domeni od b.;0:41:17 - 0:41:23
+Jer ako jest, onda nema šta tražiti da nekam b.;0:41:23 - 0:41:27
+A za b uzmem baš p od toga.;0:41:27 - 0:41:30
+Nisam zapravo ni tražiti ovakvom p, ali mi se moglo dogoditi da onda više nemam funkciju.;0:41:31 - 0:41:36
+Ali naravno da je slučaj kad a je u domeni od p nezanimljiv.;0:41:36 - 0:41:41
+Taj q će upravo biti jednak p.;0:41:43 - 0:41:45
+Niko ne kaže da ovo mora biti pravi nadskup unotra.;0:41:45 - 0:41:48
+Samo da mora biti nadskup i da mora sadržavati a u domeni.;0:41:48 - 0:41:51
+Ako već p sadrži a u domeni, onda stavim q jednako p i to je to.;0:41:51 - 0:41:55
+A naravno ovo tu sa ovim b-om je.;0:41:55 - 0:41:58
+Ovo je tu slučaj kad je q zapravo p unija singleton par a, b.;0:41:58 - 0:42:04
+Dobro, i sad.;0:42:10 - 0:42:11
+Gdje nam je trebalo, bilo je jasno valjda gdje nam treba da je relativska signatura.;0:42:12 - 0:42:18
+Mislim, jednostavno nismo ništ pričali o termijama, samo o variablima.;0:42:18 - 0:42:22
+To je jasno.;0:42:22 - 0:42:23
+Bilo je jasno gdje je važno da je sigma konačan, da ovi jalovi budu konačni.;0:42:23 - 0:42:28
+Ali gdje je bilo važno da su normalne strukture?;0:42:28 - 0:42:32
+Sad ide priča.;0:42:33 - 0:42:34
+Još moram dokazati da je taj q injekcija.;0:42:35 - 0:42:40
+Negako ovaj parcijalni izolfizam.;0:42:42 - 0:42:44
+Između ostalog mora biti injekcija i kako ću se to sad dokazati?;0:42:44 - 0:42:48
+Tako da, opet, iskoristim činjenicu da se ove formule dovoljno malog kvantifikatorskog ranga čuvaju.;0:42:48 - 0:42:54
+A iskonstruiram nekakvu formulu koja baš to kaže da je injekcija.;0:42:55 - 0:42:59
+Jasno je da svi do sad su različiti, preslikavaju se u različite, jer predpostavka je bila da je p injekcija.;0:43:00 - 0:43:10
+E sad samo trebamo vidjeti šta je q bio.;0:43:11 - 0:43:13
+Šta je q bio, q je, evo to piše, znači q je ili p, par što ima, ili je p unija ab.;0:43:13 - 0:43:18
+Znači sve što treba dokazati da bi smo dokazali da je p unija ovaj singleton par injekcija,;0:43:19 - 0:43:24
+znači treba vidjeti, a po predpostavci nije bio jednak nijednome od ovih,;0:43:24 - 0:43:28
+znači treba vidjeti da b nije jednak nijednome iz slike od p.;0:43:29 - 0:43:33
+I to je nužno i dovoljno zapravo.;0:43:33 - 0:43:35
+A to zapravo onda iskonstruiram, zapišem u bliku formule.;0:43:36 - 0:43:40
+Šta formula kaže?;0:43:41 - 0:43:42
+V1 je različita od Vr plus 1, V2 je različita od Vr plus 1 itd.;0:43:42 - 0:43:46
+To je nekakva svakako konačna konjunkcija, znači r elementa unutra ima;0:43:47 - 0:43:52
+i nalazi se u Lr plus 1 zarez 0, kvantifikatorski rang je 0 jer nema uopće kvantifikatora.;0:43:53 - 0:43:59
+Otvorena je formula.;0:43:59 - 0:44:00
+Ali, mislim, svakako je podskup od Lr plus 1, n, znači to je onaj na koji nam treba,;0:44:02 - 0:44:07
+ali to je u redu, na njima se ove formule podudareju.;0:44:08 - 0:44:12
+Na formulama iz tog skupa se m i n podudareju.;0:44:13 - 0:44:16
+Na m ovo vrijedi, zašto? Jer a nije iz ovog tu skupa.;0:44:16 - 0:44:24
+To točno znači da na m vrijedi ova formula f.;0:44:24 - 0:44:27
+A onda, budući da je ona iz tog skupa koji se čuva, ona vrijedi na m,;0:44:28 - 0:44:33
+a to znači da b nije u onom tamo.;0:44:33 - 0:44:36
+Dobro,;0:44:38 - 0:44:41
+da, znači treba još vidjeti da taj kust stvarno je parcijalni izomarsvizam,;0:44:48 - 0:44:53
+ali to, možda kažem, to je zapravo opet posljedica ovog ovdje.;0:44:53 - 0:44:59
+Ako stavite atomarne formule, za atomarne formule to svakako vrijedi,;0:44:59 - 0:45:04
+a to je dovoljno jer je struktura relacijska, jer je signatura relacijska.;0:45:04 - 0:45:10
+Nema nikakvih drugih atomarnih formula nego ovakvih.;0:45:10 - 0:45:15
+Nekakve konkretne varijable, valuirane sa nekakvim elementima iz domena od p.;0:45:15 - 0:45:22
+Mislim, moraju biti valuirane sa elementima domena iz p,;0:45:22 - 0:45:25
+jer inače uvjet parcijalnog izomarsvizma nešto kaže samo kad si u domeni,;0:45:25 - 0:45:31
+ali kad nisi u domeni onda ne kaže ništa, onda trivijalno vrijedi.;0:45:31 - 0:45:35
+Tako, i ovo treba vidjeti, ali kažem, to zapravo stijedi iz ove tri zvijezdice;0:45:36 - 0:45:41
+koje kaže da se pudu da ređe na formulama dovoljno malo kvantifikatorskog ranga.;0:45:41 - 0:45:49
+Ok, ej sad, samo rečenica na kraju, dakle funkcijske i konstantske simbole;0:45:50 - 0:45:56
+emuliramo relacijskima na način da zapravo dodamo još neke formule u priču;0:45:56 - 0:46:00
+i sad te formule treba vidjeti da su opet dovoljno malo kvantifikatorskog ranga, ali može se.;0:46:00 - 0:46:08
+Dobro, dajmo na pobje.;0:46:09 - 0:46:11

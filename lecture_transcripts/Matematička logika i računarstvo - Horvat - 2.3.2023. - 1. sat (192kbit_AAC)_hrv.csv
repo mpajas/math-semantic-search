@@ -1,0 +1,481 @@
+Speech;Timestamp
+Dobro, znači, ajmo polako krenut.;0:00:00 - 0:00:03.540000
+Prošli put smo završili modalnu logiku.;0:00:03.540000 - 0:00:07.060000
+Spominjat ćemo još povremeno, ali sad se nekak prebacujemo u logiku prvog reda.;0:00:07.060000 - 0:00:14.240000
+Zapravo ćemo govoriti o raznim Hilbertovskim sistemima, jel?;0:00:14.240000 - 0:00:20.700000
+Ali nekako ćemo tu i tamo možda više ponavljati ono što ste već radili;0:00:20.700000 - 0:00:27.700000
+na prediplomskom iz računa predikata.;0:00:27.700000 - 0:00:31.200000
+Dobro, znači što su Hilbertovske sistemi?;0:00:31.200000 - 0:00:35.200000
+Pa, hrpa aksijoma i pravila izvoda.;0:00:35.200000 - 0:00:37.700000
+S time da često malo veća hrpa aksijoma nego pravila izvoda.;0:00:37.700000 - 0:00:41.200000
+Kasnije ćemo raditi jedan drugi tip dokaznog sistema;0:00:41.200000 - 0:00:45.200000
+koji su, ajmo reći, sistemi prirodne dedukcije.;0:00:45.200000 - 0:00:48.700000
+Ovoga sad, jel su prirodni više ili manje, to ćemo vidjeti.;0:00:48.700000 - 0:00:52.700000
+Ovoga, oni zapravo imaju jako puno pravila, često.;0:00:52.700000 - 0:00:57.200000
+Dobro, kao što će i pisati, vjerojatno, negdje na slajdu;0:00:57.200000 - 0:01:00.700000
+ako želimo dokazivati nekakve metateoreme;0:01:00.700000 - 0:01:03.700000
+ovoga, o dokaznim postupcima, jel?;0:01:03.700000 - 0:01:06.700000
+Onda će to najzgodnije biti kod Hilbertovskih sistema;0:01:06.700000 - 0:01:09.700000
+jer ćemo imati zapravo vrlo malo slučajeva;0:01:09.700000 - 0:01:12.700000
+u tim induktivnim dokazima, metateorema, jel?;0:01:12.700000 - 0:01:16.200000
+Dobro, znači zadani su aksijomima i pravilima izvoda;0:01:16.200000 - 0:01:20.200000
+definiraju se sljedeći pojmovi.;0:01:20.200000 - 0:01:22.200000
+Dakle, izvod, sjećate se, vjerujem, je konačan niz formula;0:01:22.200000 - 0:01:26.700000
+koji sadrži aksijome, pretpostavke, znači neke formule;0:01:26.700000 - 0:01:30.700000
+koje zovemo pretpostavke i formule dobivene primjenom;0:01:30.700000 - 0:01:34.200000
+pravila izvoda na formule koje su ranije u nizu.;0:01:34.200000 - 0:01:37.200000
+Znači, znači, ak imam ovakav nekakav niz,;0:01:37.200000 - 0:01:47.200000
+možda jedan, dva, dost više od N formula, jel?;0:01:47.200000 - 0:01:52.700000
+I ova zadnja je baš F i stvarno je situacija ovako kakva piše,;0:01:52.700000 - 0:01:57.700000
+to je onda nekakav izvod za F.;0:01:57.700000 - 0:01:59.700000
+Dobro, recimo, koji može biti slučaj?;0:01:59.700000 - 0:02:03.700000
+Pa, F1 bi morala valjda biti ili pretpostavka ili aksijom, jel tako?;0:02:03.700000 - 0:02:08.200000
+Nemam od čega dobivat već, nema ničega ranije da bi dobio;0:02:08.700000 - 0:02:13.700000
+ovoga pomoću nekakvih pravila izvoda na ovu formulu.;0:02:13.700000 - 0:02:17.200000
+Znači, ovo ili aksijom, ili pretpostavka.;0:02:17.200000 - 0:02:19.200000
+I sad, možda je iz njega smo zaključili F2 pomoću pravila izvoda,;0:02:19.200000 - 0:02:24.200000
+a možda je to opet novi aksijom ili pretpostavka,;0:02:24.200000 - 0:02:27.200000
+pa ćemo možda na F1 i F2 primijetit nekakav modus ponens ili nešto itd.;0:02:27.200000 - 0:02:31.700000
+Dobro?;0:02:31.700000 - 0:02:32.700000
+Ok. Kažemo da je ova F izvediva, jel?;0:02:36.200000 - 0:02:42.200000
+Sad, iz čega? Pa iz skupa pretpostavki.;0:02:42.200000 - 0:02:45.700000
+Dobro, recimo, ako je F1 bio pretpostavka, ako je, ne znam, F5 bio pretpostavka,;0:02:45.700000 - 0:02:50.200000
+onda iz tog skupa je izvediva F.;0:02:50.200000 - 0:02:53.700000
+Dobro? I onda kad bi to bilo sve natrpano u skup S,;0:02:54.200000 - 0:02:57.700000
+onda bi napisali S trim style F da kažemo da je iz skupa S izvediva formula F.;0:02:57.700000 - 0:03:03.700000
+Dobro. Znači, ako je F posljedna formula u izvodu sa skupom pretpostavki S, jel?;0:03:04.700000 - 0:03:09.200000
+Dobro, i sad, ako je taj S slučajno prazan,;0:03:09.700000 - 0:03:12.700000
+onda imamo zapravo ono što zovemo dokaz.;0:03:12.700000 - 0:03:15.200000
+Dobro, znači, izvod će iz skupa pretpostavke je prazan,;0:03:15.200000 - 0:03:17.700000
+a onda bi se zadnja formula u dokaz uzvala teorema.;0:03:17.700000 - 0:03:22.200000
+Dobro. I možemo pisati prazno trim style F da kažemo da je izvediva iz prazna skupa,;0:03:22.700000 - 0:03:31.700000
+odnosno dokaziva F, ali često nećemo.;0:03:31.700000 - 0:03:35.200000
+Dobro, znači, jedino zašto ću to ponekad možda pisati je;0:03:35.200000 - 0:03:39.700000
+ako ću uopće doći dovoljno duboko da pričam o konzistentnosti;0:03:39.700000 - 0:03:44.200000
+i onda teoremu dedukcije i tak, pa će se tu nekakva unija pojaviti,;0:03:44.200000 - 0:03:48.200000
+ali vjerojatno čak i neću.;0:03:48.200000 - 0:03:49.700000
+Dakle, ovaj put ću malo, ajmo reći, manje ponavljati nego sam prošle godine,;0:03:50.200000 - 0:03:56.700000
+ali ako hoćete vidjeti to ponavljanje, imate na mojim videima na YouTube.;0:03:56.700000 - 0:04:00.700000
+Dobro. Znači, ako vam nešto nije jasno, naravno možete pitat.;0:04:00.700000 - 0:04:05.700000
+Ali ako vam se čini da vam baš fali ono kao ponavljanja dosta,;0:04:05.700000 - 0:04:10.700000
+onda možete to pogledati. Tamo sam dosta detaljnije išao.;0:04:10.700000 - 0:04:14.200000
+Nije sada da sam podokazivo sve, ali nekak glavne ideje sam ispričao.;0:04:14.200000 - 0:04:18.200000
+Dobro. Znači, pretpostavljam da ste već čuli za ove pojmove,;0:04:18.700000 - 0:04:23.200000
+ili tako, Hilbertovski sistem i za dokaz, izvod i tako.;0:04:23.200000 - 0:04:26.700000
+Dobro. E sad, koji su nekako najvažniji, ajmo reći, primjeri;0:04:26.700000 - 0:04:31.200000
+Hilbertovski sistema ili ova prva, dva najvažnija,;0:04:31.200000 - 0:04:34.200000
+zanimljiv možda u računarstvu i tako.;0:04:36.700000 - 0:04:39.200000
+Dakle, imamo račun sudova. Jer se sjećate možda koliko ima;0:04:40.700000 - 0:04:45.200000
+aksioma taj Hilbertovski sistem?;0:04:45.700000 - 0:04:50.200000
+Tri. Jer se sjećate koja?;0:04:50.700000 - 0:04:52.700000
+Ako vlači B, to vlači C.;0:04:53.700000 - 0:04:56.700000
+Dobro.;0:05:00.700000 - 0:05:01.700000
+Dobro. To je obično treći.;0:05:04.200000 - 0:05:06.700000
+Nije B, A. Ako vlači B.;0:05:08.200000 - 0:05:13.700000
+Ako vlači B, to vlači C. Ako vlači A, to vlači A.;0:05:14.700000 - 0:05:20.200000
+Dakle. Znači, nekako, valjda distributivnost kondicionala prema sebi samom, jel?;0:05:20.700000 - 0:05:26.200000
+Ovako nešto, ja?;0:05:39.200000 - 0:05:40.700000
+Da, da, naravno.;0:05:42.200000 - 0:05:43.700000
+Nisam ni očekivao da ću bez greška da pisem.;0:05:46.200000 - 0:05:48.700000
+Ok. Koja su pravila izvoda u računu sudova?;0:05:48.700000 - 0:05:52.700000
+Dakle, to je to. Jel? Znači...;0:05:54.200000 - 0:05:56.700000
+A, B. A povlači B.;0:05:59.700000 - 0:06:03.700000
+Dobro.;0:06:05.700000 - 0:06:06.700000
+Obično velimo mod pon.;0:06:08.200000 - 0:06:09.700000
+Ili m točka, p točka, ili tako nešto.;0:06:12.200000 - 0:06:14.200000
+Dobro. E sad, ak se prebacimo malo u smjeru logike prvog reda,;0:06:14.200000 - 0:06:19.700000
+znači na račun predikata, koji su tu dodatni aksiomi?;0:06:19.700000 - 0:06:23.200000
+Znači, pardon, ne, aksiomi. Znači, ovo tu ponekad kažem aksiomi;0:06:23.200000 - 0:06:28.200000
+ovak neispravno zapravo. Ovo su šeme aksioma.;0:06:28.200000 - 0:06:32.200000
+Dobro. Znači, ja umjesto A, B i C mogu substituirati;0:06:32.200000 - 0:06:35.700000
+bilo koju drugu formulu logike sudova. Ok. Odnosno računa sudova.;0:06:35.700000 - 0:06:39.700000
+Dobro. E sad, koje su još dodatne šeme u računu predikata?;0:06:40.200000 - 0:06:45.700000
+Koliko ih ima? Dvije.;0:06:45.700000 - 0:06:47.700000
+Znači, ovo tu je nekako RS.;0:06:50.200000 - 0:06:53.700000
+A RP?;0:06:56.200000 - 0:06:57.200000
+Ne sjećate se?;0:07:02.200000 - 0:07:03.200000
+Ajde da vidim, jel vas mogu navesti.;0:07:05.700000 - 0:07:07.700000
+Znači, svakako će u sebi spominjati najviše kvantifikatore,;0:07:08.700000 - 0:07:13.200000
+jer to je ono po čemu se razlikuju ta dva računa.;0:07:13.200000 - 0:07:16.200000
+E sad, što biste mogli reći, ako imate situaciju;0:07:16.200000 - 0:07:23.200000
+za svaki Xa, znači za svaki X pa nekakva formula?;0:07:25.200000 - 0:07:30.200000
+Šta bi ja sad onda mogu iz toga zaključiti?;0:07:30.200000 - 0:07:33.200000
+Šta obično napravimo ako imamo neku istinitu univerzalnu tvrdnju, na primjer?;0:07:38.200000 - 0:07:42.200000
+Dobro. Ali sad, kužite, znači A, on u zanimljivom slučaju;0:07:46.200000 - 0:07:52.200000
+ima slobodnu variablu X koja je vezana pomoću ovog kvantifikatora, jel?;0:07:52.200000 - 0:07:57.200000
+Dobro. To je čak istina, zato što su modeli, odnosno strukture;0:08:00.200000 - 0:08:04.700000
+koje se promatraju za logiku prvog reda, su uvijek sa nepraznom domenom.;0:08:04.700000 - 0:08:09.700000
+Znači, možete svi empty domain izgooglata ovoga, zanimljivo je začiti.;0:08:10.700000 - 0:08:14.700000
+To je točno, ali nekak to nas sad nije niti riješilo;0:08:15.200000 - 0:08:23.200000
+tog kvantifikatora, niti nam je dalo nešto opipljivo zaraditi s time.;0:08:23.200000 - 0:08:27.700000
+Znači, nekakak znam da nešto vrijedi za sve,;0:08:28.200000 - 0:08:31.200000
+ja bi se sad mogo izabrat jednoga i onda o njemu dalje ić pričat, razumijete?;0:08:31.200000 - 0:08:35.700000
+To bi bilo nekak dosta korisno.;0:08:35.700000 - 0:08:37.700000
+Drugim riječima, ja mogu reći da je A T za X.;0:08:37.700000 - 0:08:42.700000
+Dobro? Znači, jak imam nekakav term T, onda ga mogu uvaliti unutra, jel?;0:08:43.700000 - 0:08:48.700000
+Jer on imenuje nekakav, ajmo reći, ono semantički gledano,;0:08:48.700000 - 0:08:52.200000
+imenuje neki element nosača, jel tako?;0:08:52.200000 - 0:08:54.700000
+A ovo bi trebalo vrijediti za svaki element nosača?;0:08:54.700000 - 0:08:58.200000
+Znači, to je čisto sa semantičke razine ovak.;0:08:58.700000 - 0:09:01.700000
+Ali kakav taj T može biti? Kakav on smije biti?;0:09:01.700000 - 0:09:05.200000
+Da ne bi se tu nešto pokvarilo?;0:09:05.200000 - 0:09:07.200000
+Znači, jel smijem baš bilo kakav T frknut unutra?;0:09:14.700000 - 0:09:18.700000
+Jer pazite, u ovom A ne mora jedina slobodna variabla biti X.;0:09:19.200000 - 0:09:24.700000
+Mogo bi nekakav Y biti isto?;0:09:25.200000 - 0:09:27.200000
+Zapravo, čakajte, čak nisam to sad htio reći.;0:09:29.700000 - 0:09:33.700000
+Ne da bi Y mogo biti slobodan, nego mogo bi biti vezan, recimo.;0:09:34.200000 - 0:09:39.200000
+Dobro? Znači, taj A može imati nekakve vezane variable,;0:09:39.200000 - 0:09:43.700000
+naprimjer, Y. I sad šta ako bi ovaj T sadržavao Y u sebi?;0:09:43.700000 - 0:09:49.700000
+Onda bi se on nekako vezao unutar A. Razumijete?;0:09:50.700000 - 0:09:55.200000
+E, a to gotovo sigurno ne želite, jel?;0:09:55.200000 - 0:09:58.200000
+To će vjerojatno biti u domaćoj zadaći da razmislite malo zašto to ne želite.;0:09:58.200000 - 0:10:03.200000
+Ali je prilično jasno da T mora biti term;0:10:03.200000 - 0:10:07.700000
+slobodan;0:10:09.700000 - 0:10:10.700000
+za variablu;0:10:15.200000 - 0:10:16.200000
+X u A.;0:10:16.700000 - 0:10:21.700000
+Najčešće ne napišem što to točno znači, ali kažem, dobro?;0:10:21.700000 - 0:10:25.700000
+Znači, ako ja T uvrstim umjesto X-a, to je ovo,;0:10:25.700000 - 0:10:30.700000
+T slobodan za X, jel? Uvrstim umjesto X-a u formulu A,;0:10:30.700000 - 0:10:35.700000
+dobro, onda će mi se neka, znači, da nije slobodan bi bilo;0:10:35.700000 - 0:10:41.700000
+da bi mi se variabla neka zavezala, dobro?;0:10:41.700000 - 0:10:44.700000
+A da je slobodan znači da se to neće dogoditi, u redu.;0:10:45.200000 - 0:10:49.200000
+Znači, nema variable koja je u dosegu;0:10:49.200000 - 0:10:54.200000
+odgovarajućeg kvantifikatora u formuli A, dobro?;0:10:54.200000 - 0:10:59.200000
+Ne znam, evo, kaznam.;0:11:01.200000 - 0:11:03.200000
+Za svaki X,;0:11:07.200000 - 0:11:09.200000
+ajde, postoji Y, R X Y.;0:11:09.700000 - 0:11:17.700000
+Za term T, recimo, kaznam,;0:11:18.700000 - 0:11:25.700000
+F od G,;0:11:26.700000 - 0:11:28.700000
+od,;0:11:29.700000 - 0:11:30.700000
+od,;0:11:34.700000 - 0:11:35.700000
+samo malo, aha, znači,;0:11:39.200000 - 0:11:41.200000
+da ga uvrstim, aha, nisam ga trebao, nisam htio tu kvantificirat, sorry.;0:11:41.700000 - 0:11:45.700000
+Znači, od X,;0:11:45.700000 - 0:11:47.700000
+i ne znam, C1, C2, recimo.;0:11:49.200000 - 0:11:51.700000
+Ovoga, je li ovaj tu term slobodan za variablu X u ovoj formuli?;0:11:52.700000 - 0:12:02.700000
+Znači, hoće li se nešto nenadano zavezati;0:12:04.700000 - 0:12:07.700000
+ako ja ovaj tu cijeli term uvrstim umjesto X?;0:12:08.200000 - 0:12:11.200000
+Neće, je li tako?;0:12:15.200000 - 0:12:17.200000
+Znači, uopće nema nikakvog kvantifikatora po X-u,;0:12:17.200000 - 0:12:21.200000
+a X je jedina variabla tu, dobro?;0:12:21.200000 - 0:12:23.200000
+Ali, recimo, ovaj, taj nije slobodan za X u ovoj variabli, dobro?;0:12:24.200000 - 0:12:30.200000
+Zašto? Zato što bi se ovaj Y vezao tu, u redu.;0:12:30.200000 - 0:12:35.200000
+Ok.;0:12:38.200000 - 0:12:39.200000
+Aha, i možda bi tu odmah mogo...;0:12:41.200000 - 0:12:43.200000
+Da, dobro, neću sad.;0:12:43.200000 - 0:12:45.200000
+Ok, i šta je peta stvar?;0:12:47.200000 - 0:12:49.200000
+Znači, sad nekako imamo negaciju, imamo ovoga kondicional,;0:12:56.200000 - 0:13:01.200000
+pa valjda je još onda dosta imat samo jedan kvantifikator,;0:13:01.200000 - 0:13:05.200000
+pa nekak sad bi valjda imalo smisla izraziti i peti,;0:13:05.200000 - 0:13:08.700000
+petu šemu aksijoma u terminima kvantifikatora za svaki,;0:13:09.700000 - 0:13:13.200000
+kad smo se već za to odlučili nekako.;0:13:13.200000 - 0:13:15.700000
+Nema potrebe sad dualno cijelo vrijeme prebacivati,;0:13:15.700000 - 0:13:18.700000
+pričati, ne znam, na polo o dajmondima, na polo o boksovima, jo?;0:13:18.700000 - 0:13:22.700000
+Hoćemo nekak...;0:13:22.700000 - 0:13:24.700000
+Ono, uniformno pričati o stvarima, jo?;0:13:26.700000 - 0:13:29.700000
+Znači, koji bi još mogo biti nekako važan aspekt?;0:13:30.200000 - 0:13:34.200000
+Očito ponašanja, recimo, univerzalnog kvantifikatora prema kondicionalu.;0:13:34.200000 - 0:13:39.700000
+Jer nekako o tome cijelo vrijeme zapravo tu pričamo, jo?;0:13:41.700000 - 0:13:45.200000
+Znači, šta ak imam situaciju...;0:13:46.700000 - 0:13:49.200000
+Ovako nešto. Šta bi sad iz toga mogao zaključiti?;0:13:54.700000 - 0:13:59.700000
+Jer se sjećate onog rezultata o prijelazu kvantifikatora?;0:14:04.200000 - 0:14:08.200000
+Znači, na koji način bi negako sad ovo šibnulo tu, na ljevu stranu,;0:14:08.200000 - 0:14:13.700000
+odnosno na desnu stranu?;0:14:13.700000 - 0:14:15.700000
+Kak bi izgledalo sa ljeve strane?;0:14:15.700000 - 0:14:17.700000
+Da hoću ovaj za svaki x, ako a, onda b.;0:14:17.700000 - 0:14:20.200000
+Sad da ga hoću samo lokalizirati.;0:14:20.700000 - 0:14:22.700000
+Oću tu negakav kvantifikator na a, jo?;0:14:22.700000 - 0:14:26.200000
+I onda reći, povlači b. Šta bi tu došlo?;0:14:26.700000 - 0:14:31.200000
+Tu bi se flipnulo, tu bi posto postoji, jel?;0:14:34.700000 - 0:14:37.200000
+Jer, četjete se, ovo je negacija a ili b.;0:14:37.200000 - 0:14:39.700000
+Dobro.;0:14:40.200000 - 0:14:41.200000
+E, a s desne strane se ne bi flipnulo.;0:14:42.200000 - 0:14:44.700000
+Nego bi baš pisalo ovak.;0:14:54.200000 - 0:14:56.200000
+Ali šta je tu važno da to tak bude?;0:14:56.700000 - 0:15:00.200000
+Ne znam.;0:15:05.200000 - 0:15:06.200000
+Jel moram tu negaku pretpostavku, ko što sam tu morao?;0:15:09.700000 - 0:15:12.700000
+Što da b mora biti?;0:15:13.700000 - 0:15:15.200000
+Ne na b.;0:15:17.200000 - 0:15:18.200000
+B je ok.;0:15:18.700000 - 0:15:19.700000
+Nego na a.;0:15:19.700000 - 0:15:20.700000
+a ne smije imat slobodne nastupe od x,;0:15:21.700000 - 0:15:24.700000
+odnosno x ne smije bit slobodan u a.;0:15:24.700000 - 0:15:27.200000
+Dobro?;0:15:27.700000 - 0:15:28.700000
+Ili slobodna, slobodna variabla u a, jel?;0:15:29.200000 - 0:15:32.200000
+Dobro? Znači, ono, kao možemo se tu zamiješati,;0:15:34.200000 - 0:15:36.700000
+ono, tu je, ono, b od x, eventualno, ali a ne.;0:15:36.700000 - 0:15:42.700000
+Dobro? Znači, u a, x ne smije imat slobodne nastupe.;0:15:42.700000 - 0:15:46.700000
+Dobro?;0:15:46.700000 - 0:15:47.700000
+Koje su tu, ovoga, pravila izvoda?;0:15:48.200000 - 0:15:52.700000
+Evo, prepisat ću, zato što sam sad negak razdvojio.;0:15:52.700000 - 0:15:55.700000
+Modus ponensi.;0:15:55.700000 - 0:15:56.700000
+Tako je.;0:15:57.700000 - 0:15:58.700000
+Dobro?;0:16:00.200000 - 0:16:01.200000
+Kakva generalizacija izgleda?;0:16:01.200000 - 0:16:03.200000
+Dobro?;0:16:07.700000 - 0:16:08.700000
+Ok.;0:16:12.700000 - 0:16:13.700000
+Dajte mi, recite, šta ćemo ovo,;0:16:16.700000 - 0:16:21.700000
+sistema modalne logike k, dobro, to smo već malo pričali.;0:16:21.700000 - 0:16:26.700000
+Ajde, možda samo da ponovimo.;0:16:26.700000 - 0:16:28.700000
+Znači, koliko k ima ŠEMA axioma, odnosno pravila izvoda.;0:16:28.700000 - 0:16:34.700000
+Dobro, sad, ŠEMA axioma, ajde, kao, znači, sve ta utologija;0:16:35.700000 - 0:16:40.700000
+u proširenom jeziku, jel tako?;0:16:40.700000 - 0:16:42.700000
+Onda, ono, distributivnost boksa prema kondicionalno.;0:16:43.700000 - 0:16:48.700000
+Jel tako?;0:16:48.700000 - 0:16:49.700000
+I šta će biti pravila izvoda u k?;0:16:50.700000 - 0:16:57.700000
+Znači, bit će isto, ko u RP, u principu.;0:16:58.700000 - 0:17:01.700000
+Znači, bit će modus ponensi, nužnost ili generalizacija,;0:17:01.700000 - 0:17:05.700000
+jel samo boks ide, ne ide kvantifikator,;0:17:05.700000 - 0:17:07.700000
+jer radimo upravo pozicijskoj modalnoj logici.;0:17:07.700000 - 0:17:09.700000
+Dobro?;0:17:09.700000 - 0:17:10.700000
+I sad svakakva proširenja S4, S5, GL, itd.;0:17:10.700000 - 0:17:14.700000
+Dobro.;0:17:14.700000 - 0:17:15.700000
+Ok. Mislim da za sad ne moram više niš' reć'.;0:17:18.700000 - 0:17:21.700000
+Znači, najvažnije veze ovoga su između Hilbertovskih sistema;0:17:22.700000 - 0:17:28.700000
+i semantike. Dobro? Mislim, sintakse i semantike u svakom slučaju,;0:17:28.700000 - 0:17:32.700000
+na primjer, Hilbertovskih sistema.;0:17:32.700000 - 0:17:34.700000
+E sad, šta kaže teorem adekvatnosti? Kaže da je svaki teorem;0:17:34.700000 - 0:17:38.700000
+sistema valjanski, a ne je to nešto.;0:17:38.700000 - 0:17:41.700000
+Teorem adekvatnosti kaže da je svaki teorem sistema valjana formula.;0:17:41.700000 - 0:17:45.700000
+Dobro? Znači, ako ja mogu nešto dokazati u danom sistemu,;0:17:45.700000 - 0:17:51.700000
+onda, e sad, dobro, ajde, možda ovak najbolje.;0:17:51.700000 - 0:17:55.700000
+Ako ovo, onda je A valjana. Dobro?;0:17:55.700000 - 0:18:01.700000
+E sad, ovaj smjer bi bio potpunost, jel?;0:18:01.700000 - 0:18:05.700000
+Ako je valjana, onda je dokaziva.;0:18:05.700000 - 0:18:13.700000
+U redu. Sad primijetite, tu je strašno važno za primijetit,;0:18:13.700000 - 0:18:17.700000
+znači, ovdje sad stalno govorim o valjanosti i o dokazima.;0:18:17.700000 - 0:18:21.700000
+U redu. Znači, tu mi je uvijek prazar skup akcijoma.;0:18:22.700000 - 0:18:27.700000
+Ako govorimo o jakoj potpunosti, koja može i ne mora vrijediti,;0:18:27.700000 - 0:18:31.700000
+evo, recimo, za sistem K ne vrijedi,;0:18:31.700000 - 0:18:34.700000
+ovoga smijem tu pisati kakve hoću pretpostavke.;0:18:34.700000 - 0:18:38.700000
+Dobro? Znači, iz S je izvediva F ako i samo ako je F;0:18:38.700000 - 0:18:43.700000
+logička posjedica od S. Odnosno, za svaki model od S;0:18:43.700000 - 0:18:47.700000
+taj je model i za F. Vrijedno?;0:18:47.700000 - 0:18:51.700000
+Svaki model od S je model za F.;0:18:51.700000 - 0:18:54.700000
+S tim je da, naravno, mora biti uopće ono sigma struktura i tak da je.;0:18:55.700000 - 0:19:01.700000
+Dobro. I ovoga, ako se radi o nekakoj teoriji,;0:19:01.700000 - 0:19:06.700000
+mora zadovoljiti njezine akcijome, naravno.;0:19:06.700000 - 0:19:08.700000
+Dobro. E sad, ajmo vidjeti o primjere.;0:19:08.700000 - 0:19:13.700000
+Znači, formula logike sudova je teorem sistema RS;0:19:13.700000 - 0:19:17.700000
+ako i samo ako je tautologija. Dobro?;0:19:17.700000 - 0:19:21.700000
+Znači, time zapravo govorimo da je RS adekvatan i potpun sistem.;0:19:21.700000 - 0:19:28.700000
+Dokazni sistem. Dobro? Kak bi ste to dokazali?;0:19:28.700000 - 0:19:33.700000
+Znači, kak bi ste dokazali adekvatnost od RS i potpunost od RS?;0:19:33.700000 - 0:19:40.700000
+Znači, sad pitan samo za ono super high level ideju.;0:19:42.700000 - 0:19:46.700000
+Ako se išlo, to bi nije dobro?;0:19:46.700000 - 0:19:49.700000
+Tako je. Dobro. I jel' možemo još onako više, možda, vrtički reći?;0:19:49.700000 - 0:19:54.700000
+Znači...;0:19:54.700000 - 0:19:56.700000
+Znači, kak bi ta indukcija zapravo išla što je u bazi, a što je u koraku?;0:20:02.700000 - 0:20:07.700000
+Dokazimo da su akcijomi valjane formule i da pravila izvoda čuvaju valjanost.;0:20:11.700000 - 0:20:15.700000
+Jel' tako? I to je to.;0:20:15.700000 - 0:20:17.700000
+Ono što je dosta simpatično, čim to tak velite, onda zapravo sve neka...;0:20:17.700000 - 0:20:23.700000
+Skužite da su zapravo sve među formule, svi među koraci u tom dokazu,;0:20:23.700000 - 0:20:28.700000
+da su zapravo valjane formule.;0:20:28.700000 - 0:20:30.700000
+Znači, ne samo da krenemo i završimo s valjanim formulama,;0:20:30.700000 - 0:20:33.700000
+nego bilo kaj u među vremenu kaj dobijemo je isto valjano.;0:20:33.700000 - 0:20:36.700000
+Dobro. Znači, tak se adekvatnost dokazuje.;0:20:38.700000 - 0:20:42.700000
+A kak bi ste potpunost dokazali?;0:20:42.700000 - 0:20:45.700000
+Znači, da čim imam neku valjanu formulu, a kaj to znači u računu sudova?;0:20:47.700000 - 0:20:53.700000
+To znači da je formula istinita za svaku interpretaciju, jel' za bilo kakvu...;0:20:53.700000 - 0:21:01.700000
+Assignment mi pada na pamet. Za bilo kakvo pridruživanje;0:21:02.700000 - 0:21:06.700000
+ovoga nula i jedinica, jel', propozicijskim variablama.;0:21:06.700000 - 0:21:11.700000
+I onda treba dokazati da se može pomoću one tri šeme aksioma,;0:21:12.700000 - 0:21:16.700000
+u koje upucavamo bilo kakve formule, da se pomoću toga može dokazati;0:21:16.700000 - 0:21:21.700000
+sa modus ponensom, jel'? Kak bi to?;0:21:21.700000 - 0:21:25.700000
+Ima inače neka, ajmo reći, određena špranca;0:21:25.700000 - 0:21:29.700000
+koja se više manje slijedi uvijek. Znači, slijedi će se i ovdje i ovdje,;0:21:29.700000 - 0:21:33.700000
+samo će se morat' modificirat', naravno.;0:21:33.700000 - 0:21:37.700000
+Ali nekak ima određena špranca.;0:21:37.700000 - 0:21:40.700000
+Jel' znate otprilike kak bi to išlo?;0:21:42.700000 - 0:21:45.700000
+Možemo nekako napisati ovo? Mislim...;0:21:50.700000 - 0:21:53.700000
+Normalno, ovaj nam je u glazi, bilo bi u ovom stanju.;0:21:54.700000 - 0:21:58.700000
+Mislim, šta je? Tamo se duši. Je li jednostavno ili kompliciranije?;0:22:01.700000 - 0:22:05.700000
+Pa ja bih rekao da je značajno kompliciranije nego ovoga;0:22:05.700000 - 0:22:10.700000
+adekvatnost. Jer ono, vi tu sad samo provjerite da ta teorija ima nekakvog smisla.;0:22:11.700000 - 0:22:16.700000
+Jel' znači da vam ne laže, u redu, ovoga. Znači, samo provjerite da je;0:22:16.700000 - 0:22:21.700000
+okej ono od čega krećete i okej i nastavljate dalje.;0:22:21.700000 - 0:22:25.700000
+A sad kad treba nekak ono, ja sad dobijem neku ogromnu formuletinu;0:22:25.700000 - 0:22:30.700000
+i sad treba iskonstruirati dokaz. To je teško. Mislim, znate iz matematičke prakse;0:22:30.700000 - 0:22:34.700000
+da je teško dokazivati tvrdnje i da nema sad neki baš lagani način.;0:22:34.700000 - 0:22:39.700000
+Ali dobro, ovdje zapravo trebamo nekakav metateorem o dokaznom sustavu dokazati.;0:22:40.700000 - 0:22:46.700000
+Nije sad da ćemo mi izabrati jednu tvrdnju unutar sustava i ću dokazati unutar sustava.;0:22:46.700000 - 0:22:51.700000
+Nego mi sad dokazujemo nešto o sustavu.;0:22:51.700000 - 0:22:54.700000
+E vidite, znači, prvo ide najčešće neka priča o konzistentnosti.;0:22:54.700000 - 0:22:59.700000
+Jer nekak ak imate inkonzistentnu teoriju, onda možete dokazati sve.;0:23:03.700000 - 0:23:08.700000
+To onda nije uopće ni interesantno. I u toj priči o konzistentnosti se često pojavi;0:23:08.700000 - 0:23:14.700000
+teorem dedukcije. E sad to ponekad zna biti jako nezgodno ovoga,;0:23:16.700000 - 0:23:23.700000
+zato što to teorem dedukcije ne vrijedi. Znači, u RS-u vrijedi onak kak biste ga išli reći.;0:23:23.700000 - 0:23:29.700000
+Znači, kak to ide? Znači, jak nekaj mogu dokazati ovak, onda...;0:23:30.700000 - 0:23:38.700000
+onda se mogu dokazati ovo unutar sustava.;0:23:44.700000 - 0:23:47.700000
+To je nekak je dosta očito, da to neće baš svuda proći, sam tak.;0:23:48.700000 - 0:23:55.700000
+Znači, prije svega za RP će trebat pretpostaviti da je ova A zatvorena.;0:23:56.700000 - 0:24:01.700000
+Ne baš, može se to jako oslabiti. Samo nesmijem primjenjivati generalizaciju;0:24:02.700000 - 0:24:08.700000
+po kojoj varijabli...;0:24:08.700000 - 0:24:13.700000
+valjda po varijabli koja ima sloboda nastup u toj formuli.;0:24:16.700000 - 0:24:21.700000
+Znači, u svakom slučaju to se da oslabiti malo, ne mora baš biti zatvorena.;0:24:22.700000 - 0:24:27.700000
+A u K je još malo gore, jer tamo čak niti neka takva jednostavna varijanta;0:24:34.700000 - 0:24:44.700000
+teorema dedukcije ne bi baš prošla. Tamo će se morati svašta i izvod,;0:24:44.700000 - 0:24:48.700000
+će se morati malo redefinirati.;0:24:48.700000 - 0:24:50.700000
+Jel bi znali jedan primjer, navest zašto ovo neštima u modelnoj logici?;0:24:51.700000 - 0:24:57.700000
+Jel imate neki jednostavan primjer?;0:24:58.700000 - 0:25:02.700000
+Evo, hint.;0:25:04.700000 - 0:25:06.700000
+Znači, ne trebate se patiti sa pretpostavkama.;0:25:08.700000 - 0:25:11.700000
+Znači, jel imam primjer za...;0:25:11.700000 - 0:25:16.700000
+Iz A se da dokazati B, ali nije dokazivo A povlači B.;0:25:18.700000 - 0:25:31.700000
+Znači, govorimo o sistemu K.;0:25:31.700000 - 0:25:33.700000
+Kaj je adekvatan sustav?;0:25:42.700000 - 0:25:45.700000
+Dobro, pa ne morate o ovome mislit, nego možete mislit o ovome.;0:25:45.700000 - 0:25:51.700000
+Aha, ispričavam se, tu sam htio ovo napraviti.;0:25:51.700000 - 0:25:53.700000
+Ne tako, ne tako, pardon.;0:25:57.700000 - 0:25:59.700000
+Znači da ova formula nije valjana.;0:26:06.700000 - 0:26:08.700000
+Dobro?;0:26:09.700000 - 0:26:10.700000
+Znači, ako imam neku da nije valjana, onda ona ne može biti niti dokaziva.;0:26:16.700000 - 0:26:21.700000
+Jer, ako je dokaziva, je valjana.;0:26:21.700000 - 0:26:23.700000
+Dobro? Znači, ako uspijem ovo isforsirati nekako,;0:26:23.700000 - 0:26:27.700000
+onda stvarno vidim da teorem dedukcije ne vrijedi u modelnoj logici, u sistemu K.;0:26:28.700000 - 0:26:36.700000
+Znači, to je nekakvo o minimalnoj modelnoj logici.;0:26:37.700000 - 0:26:42.700000
+Ajde, pa dosta smo crtali, valjda, te sitnicice.;0:26:45.700000 - 0:26:49.700000
+Koji je najlakši jednokoračni izvod u sistemu K, koji si možete zamisliti?;0:26:51.700000 - 0:26:58.700000
+Šta imali smo? Modus ponens, to je već prekomplicirano.;0:27:00.700000 - 0:27:03.700000
+Imali smo generalizaciju. Znači, kaj mogu, recimo, napisati umjesto formule A?;0:27:03.700000 - 0:27:08.700000
+Neku možda propozicijsku variablu, je li tako? Neki P.;0:27:08.700000 - 0:27:12.700000
+Dobro?;0:27:12.700000 - 0:27:13.700000
+I sad, što se ispe da isčupati u K? Box P.;0:27:18.700000 - 0:27:23.700000
+Znači, ovo tu se slažemo da je izvod u K, je li tako?;0:27:24.700000 - 0:27:30.700000
+Iz P izvedeš box P. Dobro?;0:27:30.700000 - 0:27:33.700000
+A je li valjana formula P povlači box P?;0:27:35.700000 - 0:27:43.700000
+Ili ćete mi uspjet dat neki modeli svijet gdje to ne vrijedi?;0:27:43.700000 - 0:27:49.700000
+Dobro? Znači, rekli smo da su nam nosači neprazni, pa nekaj moram tu sad, čvrčku neku moram staviti.;0:28:00.700000 - 0:28:07.700000
+Ako sad ne napišem P, onda naravno da bude dobro, pa idem napisati P.;0:28:08.700000 - 0:28:14.700000
+Tako je.;0:28:18.700000 - 0:28:19.700000
+I tu ću ono kak da sad... Nema P. Dobro? Znači, tu nije P.;0:28:22.700000 - 0:28:29.700000
+P, nemojte vidjeti.;0:28:30.700000 - 0:28:31.700000
+Još ti ima? Dobro. Znači, u K ne vrijedi teorem dedukcije.;0:28:32.700000 - 0:28:38.700000
+Sad se moramo malo oko toga nekako dovinuti šta bismo.;0:28:38.700000 - 0:28:44.700000
+Ali samo kažem, ono, tu postoje te sitne poteškoće i tak.;0:28:44.700000 - 0:28:48.700000
+Ali u svakom slučaju, kreće se uvijek od nekakve predpostavke konzistentnosti,;0:28:50.700000 - 0:28:54.700000
+koja se malo izmasira, dobije nešto drugčije preko teorema dedukcije i tako.;0:28:54.700000 - 0:28:59.700000
+Ali u svakom slučaju, kako uopće glasi ta potpuno za RS?;0:28:59.700000 - 0:29:03.700000
+Kak bi to napisali?;0:29:06.700000 - 0:29:08.700000
+Znači, rekli smo, inkonzistentni skupovi formula nas ne zanimaju.;0:29:10.700000 - 0:29:15.700000
+Znači, konzistentan skup formula je kakav?;0:29:16.700000 - 0:29:27.700000
+Znači, postoje interpretacija na kojemu su sve formule istinite.;0:29:28.700000 - 0:29:33.700000
+I spunjiv, jel' tako?;0:29:37.700000 - 0:29:39.700000
+Ovoga... Dobro. Znači, krećemo od konzistentnog skupa formula,;0:29:43.700000 - 0:29:50.700000
+pa onda ide ta priča. E sad, kak se nastavi?;0:29:50.700000 - 0:29:55.700000
+Znači... E, tako je. Baš to.;0:29:57.700000 - 0:30:04.700000
+Znači, mi sad imamo nekakav konzistentan skup.;0:30:05.700000 - 0:30:09.700000
+Ok, neke stvari veli, neke ne veli. Nikad ne veli dvije oprečne stvari.;0:30:09.700000 - 0:30:16.700000
+Jel'? Ali mi bismo ga htjeli povećati do maksimalno konzistentnog skupa.;0:30:16.700000 - 0:30:21.700000
+Tako da možemo dokazati neke zgodne stvari iza toga.;0:30:21.700000 - 0:30:25.700000
+Znači, dolazi Lindenbaumova lema. U redu.;0:30:25.700000 - 0:30:32.700000
+I sad je taj, ajmo reći, MCS.;0:30:32.700000 - 0:30:35.700000
+Jel'? Maximally Consistent Set ili Maksimalno Konzistentan Skup.;0:30:35.700000 - 0:30:40.700000
+Dobro. I onda zadnji sastojak kak se zove?;0:30:40.700000 - 0:30:44.700000
+Obično se naziva lema u istinitosti.;0:30:44.700000 - 0:30:47.700000
+Dobra. Lema, o, ajmo da napisem. Istinitosti.;0:30:48.700000 - 0:30:55.700000
+Koja kaže taj je dobar. Jel'?;0:30:57.700000 - 0:31:00.700000
+Taj MCS je ispunjiv. Jel'?;0:31:05.700000 - 0:31:10.700000
+Ovoga, a ovaj naš početni je bio podskup.;0:31:10.700000 - 0:31:14.700000
+Pa je onda i on ispunjiv. I to na istom modelu.;0:31:14.700000 - 0:31:18.700000
+Dobro. Ok. Šta je s računom predikata? Kak tamo glasi nekakav teorem potpunosti?;0:31:18.700000 - 0:31:25.700000
+Možda znate ovoga za generalizirani.;0:31:30.700000 - 0:31:40.700000
+Mislim, naravno, sad opet za RP je ovo šta smo rekli.;0:31:41.700000 - 0:31:47.700000
+Ako je valjana, onda je... Znači svaka valjana formula je teorem sistema,;0:31:47.700000 - 0:31:54.700000
+ali iz čega će slijedit takav teorem za RP?;0:31:54.700000 - 0:31:59.700000
+Iz nečega što se zove generalizirani teorem potpunosti;0:31:59.700000 - 0:32:06.700000
+za teorije prvog reda.;0:32:06.700000 - 0:32:10.700000
+Dobro. I kak će to glasiti? Jel' se sjećate?;0:32:17.700000 - 0:32:22.700000
+Još jače.;0:32:27.700000 - 0:32:29.700000
+Konzistentna teorija prvog reda.;0:32:30.700000 - 0:32:40.700000
+Ima kakav model? Zvaće se kanonski model i biće prekrasan.;0:32:42.700000 - 0:32:47.700000
+A što je njegova glavna nekako značajka? Prebrojiv je.;0:32:47.700000 - 0:32:53.700000
+Ima prebrojiv model.;0:32:53.700000 - 0:32:55.700000
+Opa.;0:33:00.700000 - 0:33:02.700000
+Recimo, teorija prvog reda za uređaj na R.;0:33:08.700000 - 0:33:11.700000
+Ima prebrojiv model.;0:33:11.700000 - 0:33:13.700000
+Dobro.;0:33:15.700000 - 0:33:17.700000
+Ima prebrojiv model.;0:33:17.700000 - 0:33:19.700000
+Mislim, negakva teorija uređaja, jel' sad?;0:33:24.700000 - 0:33:34.700000
+Može biti svašta. Dobro.;0:33:34.700000 - 0:33:36.700000
+Znači, samo malo.;0:33:37.700000 - 0:33:39.700000
+Ok. E sad, kak će se tamo ova tu špranca negako slijediti?;0:33:40.700000 - 0:33:46.700000
+Tamo ćemo imati neke probleme. Dobro.;0:33:46.700000 - 0:33:49.700000
+Neke probleme pri dokazu.;0:33:49.700000 - 0:33:51.700000
+E sad, koji će ti problemi biti?;0:33:51.700000 - 0:33:54.700000
+Znači, na koji način ćemo definirati nosač?;0:33:54.700000 - 0:34:02.700000
+Jel' se to sjećate?;0:34:02.700000 - 0:34:04.700000
+Jer sad pazite, sad imamo tu negakve terme.;0:34:05.700000 - 0:34:08.700000
+Imamo negakve konstante, imamo funkcijske simbole,;0:34:08.700000 - 0:34:13.700000
+imamo individualne variable.;0:34:13.700000 - 0:34:16.700000
+Onda ove konstante funkcije i relacije treba negak interpretirati.;0:34:16.700000 - 0:34:21.700000
+Znači, kak će taj model izgledati?;0:34:21.700000 - 0:34:24.700000
+Taj model koji bih sbog htjeli dobiti.;0:34:24.700000 - 0:34:27.700000
+Znači, taj prebrojiv model.;0:34:27.700000 - 0:34:29.700000
+Šta će on imati u svom nosaču?;0:34:29.700000 - 0:34:32.700000
+Sve zatvorene terme.;0:34:35.700000 - 0:34:37.700000
+Jer, kužite, ja kad napišem, ne znam, f od c1, c2.;0:34:46.700000 - 0:34:50.700000
+Dobro. Ja bi sad htio da to u mom modelu nešto imenuje.;0:34:50.700000 - 0:34:56.700000
+E, ali sad, da budem maksimalno fleksibilan,;0:34:56.700000 - 0:35:01.700000
+ja ću jednostavno reći da to je element mog modela.;0:35:01.700000 - 0:35:05.700000
+Razumijete?;0:35:05.700000 - 0:35:07.700000
+Neću ja da mi sad f od c1, c3 nužno mora biti isto što i f od c1, c2.;0:35:07.700000 - 0:35:14.700000
+Da pa će. Ja ću ih učiniti različitima.;0:35:14.700000 - 0:35:18.700000
+I onda sad, kužite, kad bi oni za neke funkcije, relacije itd.;0:35:18.700000 - 0:35:23.700000
+možda bili isti, to je drugo.;0:35:23.700000 - 0:35:26.700000
+Ali, znači, ovisi nekako o toj teoriji šta će ona s tim raditi.;0:35:26.700000 - 0:35:30.700000
+Ali ja ću jednostavno dopustiti da to može biti različito.;0:35:30.700000 - 0:35:34.700000
+Dobro. Znači, skup svih zatvorenih terma.;0:35:34.700000 - 0:35:38.700000
+Znači, nemaju, ovo tu samo znači da nemaju individualne varijable.;0:35:38.700000 - 0:35:44.700000
+Jel' tako? Dobro. A kak ću interpretirati?;0:35:44.700000 - 0:35:48.700000
+Znači, ja sad moram za svaki funkcijski, konstantski i relacijski simbol;0:35:48.700000 - 0:35:53.700000
+reći o ovoga koja je interpretacija.;0:35:53.700000 - 0:35:58.700000
+U drugim rječima, znači, koji bi ja zatvoreni term;0:35:58.700000 - 0:36:03.700000
+mogao pridružiti konstantskom simbolu C?;0:36:03.700000 - 0:36:06.700000
+Koji ima najviše smisla?;0:36:07.700000 - 0:36:09.700000
+Pa C je sam po sebi zatvoren term, jel' tako?;0:36:13.700000 - 0:36:16.700000
+Dobro. Ako imam ovoga funkciju F, odno funkcijski simbol F;0:36:17.700000 - 0:36:27.700000
+i trebam ga primijeniti na N, mislim, trebam funkciju F i od F;0:36:27.700000 - 0:36:33.700000
+primijeniti na N elementata nosača, odnosno zatvorenih terma,;0:36:33.700000 - 0:36:37.700000
+pa koji će to onda zatvoreni term biti?;0:36:37.700000 - 0:36:40.700000
+Tako je. Znači, kužite, ne morate se brinuti;0:36:44.700000 - 0:36:47.700000
+da su sad tu neke varijable. Nisu. Ovo su elementi nosača.;0:36:47.700000 - 0:36:51.700000
+A u nosaču nema terma s varijablama. Dobro.;0:36:51.700000 - 0:36:54.700000
+Znači, to su sve zatvoreni termi. Drugim riječima, fakat je F od T1 do TN;0:36:54.700000 - 0:37:01.700000
+zatvoreni term. Dobro. Ok. Šta ću sa relacijskim simbolima?;0:37:01.700000 - 0:37:06.700000
+Znači, kak ću definirati ovo? Znači, tu naravno ono je N mjesni, jel?;0:37:06.700000 - 0:37:27.700000
+To ne pišem, jel se vidi? Znači, Fi od R od T1 do TN je kada.;0:37:27.700000 - 0:37:34.700000
+Znači, ili ako hoćete, T1 do TN je element od Fi od R kada?;0:37:34.700000 - 0:37:39.700000
+Ako je R od T1 do TN što? Gdje?;0:37:43.700000 - 0:37:50.700000
+Pa ne. Mislim, u nosaču sigurno neće biti jer ovo nije zatvoreni term.;0:37:55.700000 - 0:38:02.700000
+Znači, ovo tu je ono kao... semantička ideja je da ima bulovsku vrijednost.;0:38:02.700000 - 0:38:07.700000
+Ono, ili jeste ili nije. Dobro. Znači, isto tako smo mi sad se zapitali;0:38:07.700000 - 0:38:12.700000
+jel relacija odgovarajuća vrijedi za T1 do TN. Jel tako?;0:38:12.700000 - 0:38:17.700000
+Znači, to je sad kao, ajmo reći, nekakva atomarna formula. Dobro.;0:38:17.700000 - 0:38:21.700000
+Znači, nije ona više glagol nego je imenica. Jel?;0:38:21.700000 - 0:38:25.700000
+Glagol koji ima kao imenice T1 do TN. Nekako ih povezuje. Dobro.;0:38:26.700000 - 0:38:32.700000
+I sad, to ili jest ili nije. E sad, naravno, ne možemo,;0:38:32.700000 - 0:38:36.700000
+kad kažem jest ili nije, ne možemo reći istinito.;0:38:36.700000 - 0:38:39.700000
+Jer istinitost sad definiramo. Jel? Znači, mi sad definiramo kad;0:38:39.700000 - 0:38:45.700000
+ovoga Fi od R na T1 do TN jest, a kad nije.;0:38:45.700000 - 0:38:50.700000
+Ali mi, pazite, mi smo krenuli od nekakve konzistentne teorije.;0:38:51.700000 - 0:38:55.700000
+Evo, konzistentna teorija T prvog reda. Znači, šta se sad možemo zapitat;0:38:55.700000 - 0:39:03.700000
+u okviru te teorije o R od T1 do TN? Jer to je formula te teorije.;0:39:03.700000 - 0:39:08.700000
+Možemo se zapitat, jel ta formula dokaziva ili nije.;0:39:12.700000 - 0:39:15.700000
+I nekak ima smisla da kažemo da je istina Fi od R T1 do TN,;0:39:15.700000 - 0:39:21.700000
+ako i samo ako, je dokazivo u teoriji T R od T1 do TN.;0:39:22.700000 - 0:39:27.700000
+Jer, pazite, šta mi uopće hoćemo? Mi hoćemo da dokazivost;0:39:28.700000 - 0:39:33.700000
+i istinitost korespondiraju. Odnosno, dokazivost i valjanost.;0:39:33.700000 - 0:39:37.700000
+Jel tako? Pa upravo ovo se čini kao vrlo obećavajući način.;0:39:37.700000 - 0:39:41.700000
+E, ali sad tu nastupaju dva problema nekakva.;0:39:42.700000 - 0:39:45.700000
+Znači, jedan problem koji se može dogoditi je zato što ovoga...;0:39:46.700000 - 0:39:53.700000
+Znači, jedan problem je da nam fali imena u redu. Znači, fali nam nekako...;0:39:53.700000 - 0:39:58.700000
+Znači, fali nam nekako.;0:40:11.700000 - 0:40:13.700000
+Znači, fali nam nekako.;0:40:41.700000 - 0:40:43.700000
+Znači, fali nam nekako.;0:41:11.700000 - 0:41:13.700000
+Znači, fali nam nekako.;0:41:41.700000 - 0:41:43.700000
+Znači, fali nam nekako.;0:42:11.700000 - 0:42:13.700000
+Znači, fali nam nekako.;0:42:41.700000 - 0:42:43.700000
+Znači, fali nam nekako.;0:43:11.700000 - 0:43:13.700000
+Znači, fali nam nekako.;0:43:41.700000 - 0:43:43.700000
+Znači, fali nam nekako.;0:44:11.700000 - 0:44:13.700000

@@ -1,0 +1,749 @@
+Speech;Timestamp
+Hvala. Dakle, bili smo, sredovi, u izvijesnom smislu universalne teorije.;0:00:00 - 0:00:08.400000
+To smo nekako bedno rekli, to su teorije koje su akcijomatizirane nekim universalnim formulama,;0:00:09.040000 - 0:00:14.360000
+dakle, formulama koje imaju samo universalne kvantifikatore na početku;0:00:14.360000 - 0:00:17.960000
+i nakon toga formulu bez kvantifikatora.;0:00:18.360000 - 0:00:21.040000
+Važno je da su na početku, jer, kažem, inače možete sa kondicionalima i negacijama i tako;0:00:21.360000 - 0:00:27.440000
+možete postići da zapravo onda možete sve kvadratiti, bilo kakav raspored kvantifikatora ima.;0:00:27.440000 - 0:00:34
+Dakle, jednom kad kažete da je preneksna normalna forma, onda ima smisla reći kakvi su kvantifikatori na početku.;0:00:34 - 0:00:41
+Dakle, ako su samo universalni, onda smo vidjeli da to zapravo odgovara očuvanju na podmodele.;0:00:41 - 0:00:48
+Dakle, ako je nešto model takve teorije, onda je i podmodel i bilo kakav,;0:00:48 - 0:00:54
+bilo kakva podstruktura također model.;0:00:54.560000 - 0:01:00.560000
+To bi bilo, mislim, ako znate nešto o aritmetičkoj ili analitičkoj hirarhiji, to bi bilo pi 1,;0:01:00.560000 - 0:01:10.080000
+dakle, one koje počinju sa univerzalnim kvantifikatorima.;0:01:10.080000 - 0:01:13.080000
+Nakon toga imaju samo formule bez kvantifikatora.;0:01:13.080000 - 0:01:17.560000
+A onda smo pogledali nešto što se opišno u toj hirarhiji zove sigma 1,;0:01:17.560000 - 0:01:21.560000
+dakle, ono što počinje samo sa egzistencijalnim kvantifikatorima.;0:01:21.640000 - 0:01:25.640000
+E sad ćemo gledati nešto što se zove pi 2.;0:01:25.640000 - 0:01:28.640000
+Dakle, šta znači pi 2? To znači počinje sa univerzalnim kvantifikatorom,;0:01:29.640000 - 0:01:33.640000
+i može ih biti proizvoljno konačno mnogo za redom,;0:01:33.640000 - 0:01:36.640000
+a nakon toga idu egzistencijalni kvantifikatori, opet proizvoljno konačno mnogo za redom.;0:01:36.640000 - 0:01:41.640000
+I opet nakon toga ide samo otvorena formula.;0:01:41.640000 - 0:01:44.640000
+Dakle, to sad nema neki pametan način, naziv, ali jednostavno,;0:01:44.640000 - 0:01:47.640000
+mislim, ima pametan naziv, pametan naziv je pi 2,;0:01:47.640000 - 0:01:50.640000
+ali mi ćemo to u ovom kontekstu nazivati jednostavno kao za svaki postoji formula.;0:01:50.720000 - 0:01:56.720000
+Teorija je naravno za svaki postoji teorija,;0:01:57.720000 - 0:01:59.720000
+ako su sve njeni elementi za svaki postoji formule.;0:01:59.720000 - 0:02:03.720000
+Dakle, aksijomatizirana je takvim formulama.;0:02:03.720000 - 0:02:06.720000
+I sad primijedite, naravno, sad kako sve više širimo,;0:02:06.720000 - 0:02:09.720000
+našu sintaksnu klasu formula, sve više stvari možemo aksijomatizirati.;0:02:09.720000 - 0:02:13.720000
+Recimo, na primjer, obostrano neograničene i gusti lindarne uređaje,;0:02:13.720000 - 0:02:17.720000
+da l o n e, ak si isićite, dakle, dense linear orders with no endpoints.;0:02:17.800000 - 0:02:22.800000
+Jako poznata teorija, dakle, važna je zbog toga što, naravno,;0:02:23.800000 - 0:02:27.800000
+ima, je alef nula kategorična, dakle, ima samo jedan prebrojivi model;0:02:27.800000 - 0:02:33.800000
+i to je skupiraciju onih brojeva.;0:02:33.800000 - 0:02:35.800000
+Dona izumo šviza.;0:02:36.800000 - 0:02:37.800000
+Onda, na primjer, možemo teoriju grupa.;0:02:38.800000 - 0:02:40.800000
+Ovaj, da, dakle, zapravo, ovo smo mogli samo pomoću;0:02:40.880000 - 0:02:47.880000
+univerzalnog kvantifikatora, jel, dakle, to nam ne treba ništa, tako.;0:02:47.880000 - 0:02:50.880000
+Teorija grupa, dobro, kažem, isto, ak dovoljno toga utrpamo u jezik,;0:02:50.880000 - 0:02:56.880000
+kao još onu oznaku za inverzi, tako, onda možemo i sa samo;0:02:56.880000 - 0:03:00.880000
+univerzalnim formulama, ali nekako je prirodno, recimo,;0:03:00.880000 - 0:03:03.880000
+reakcijom svaki element ima inverzi, jel, to je baš doslovno;0:03:03.880000 - 0:03:07.880000
+za svaki postoji formula.;0:03:07.960000 - 0:03:09.960000
+Ili, na primjer, teorija polja, jel, dakle, možda je sad tu malo;0:03:10.960000 - 0:03:13.960000
+na prvi pogled problematično šta je sa onim,;0:03:13.960000 - 0:03:16.960000
+e, izistencijom inverza, dakle, doslovno u teoriji polja se kaže,;0:03:17.960000 - 0:03:20.960000
+aha, ak x nije nula, tada postoji y takav da je x;0:03:20.960000 - 0:03:25.960000
+puta y, ovaj, jednak jedan.;0:03:25.960000 - 0:03:28.960000
+Naravno, sad tu pišem za svaki x.;0:03:29.960000 - 0:03:31.960000
+I sad treba vidjeti, aha, ova tu formula zapravo nema veze;0:03:32.960000 - 0:03:36.960000
+sa xom, pa je zapravo mogu, ono, pravilo za preneksno;0:03:37.040000 - 0:03:43.040000
+normalnu formu, napisat, nema veze sa yom, dakle,;0:03:43.040000 - 0:03:47.040000
+mogu kvantifikator po y izlučit vam.;0:03:47.040000 - 0:03:50.040000
+Naravno, sad to mogu napisat.;0:03:52.040000 - 0:03:54.040000
+Disjunktivno normalne formele nije uopšte bitno.;0:03:55.040000 - 0:03:57.040000
+Za svaki x postoji y, i nakon toga formula bez kvantifikatora.;0:04:00.040000 - 0:04:03.040000
+Dobro, dakle, primijetite sad, to je, dakle, teorija polja je nešto;0:04:03.120000 - 0:04:10.120000
+što prije nismo mogli formalizirati, rkažem, nismo ovako neki,;0:04:10.120000 - 0:04:14.120000
+ovako neku, neki aksijom nismo mogli formalizirati do sad.;0:04:14.120000 - 0:04:20.120000
+Niti kao pi1, niti kao sigma1, ta formula.;0:04:20.120000 - 0:04:25.120000
+Primijetimo da ako, da naravno, dakle, pi1 je podskup od pi2,;0:04:26.120000 - 0:04:32.120000
+i sigma1 je podskup od pi2, jer uvijek možemo reći da stavimo nula;0:04:32.200000 - 0:04:36.200000
+ovih univerzalnih ili nula egzistencijelnih kvantifikatora,;0:04:36.200000 - 0:04:39.200000
+ili ako mora biti nešto, stavimo neki irrelevantni kvantifikator,;0:04:39.200000 - 0:04:43.200000
+dakle, po nekoj variabli koja se uopšte ne pojavljuje u formuli.;0:04:43.200000 - 0:04:46.200000
+Da je to ekvalentno, slijedi ili iz teorema o prenavrstnoj normalnoj formi;0:04:48.200000 - 0:04:51.200000
+ili iz toga da je model uvijek neprzan.;0:04:51.200000 - 0:04:54.200000
+Dobro, ali zanimljivije je možda, dakle, i ja bih rekao prelično netrivijalno,;0:04:55.200000 - 0:05:01.200000
+konjunkcija, odnosno disjunkcija takvih formula je ponovno ekvivalentna takvom formulom.;0:05:01.280000 - 0:05:06.280000
+Primijetite, dakle, ne mogu sad, na primjer, ako ja imam neku formulu;0:05:06.280000 - 0:05:10.280000
+za svaki x postoji y, r od xy,;0:05:10.280000 - 0:05:16.280000
+i imam neku drugu za svaki a postoji b, takav da p od ab,;0:05:17.280000 - 0:05:24.280000
+i sad bih ja htio njihovu konjunkciju zapisati u obliku za svaki postoji formula.;0:05:25.280000 - 0:05:30.280000
+Naravno, tu ne mogu napraviti standardni postupak pretvaranja u prenavrstnoj normalnom formuli,;0:05:31.280000 - 0:05:40.280000
+jer ću onda dobiti, naravno, za svaki x postoji y, takav da za svaki a postoji b,;0:05:40.280000 - 0:05:45.280000
+r od xy, i p od ab, a to ne valja.;0:05:46.280000 - 0:05:52.280000
+Dakle, to više nije za svaki postoji formula.;0:05:53.280000 - 0:05:55.280000
+Ali, dakle, važno je da to mogu raditi bilo kojim redom.;0:05:55.280000 - 0:05:59.280000
+I onda, naravno, to radim redom tako da prvo izvučem za svaki x za svaki a,;0:05:59.360000 - 0:06:05.360000
+onda izvučem postoji x, 7 postoji b, i onda dobijem ovaj ovaj.;0:06:05.360000 - 0:06:10.360000
+To se onda stvarno može.;0:06:12.360000 - 0:06:14.360000
+Dakle, i pokazuje se ne samo pi2, nego bilo koje kasnije klase, recimo pi3,;0:06:14.360000 - 0:06:18.360000
+to bi bilo za svaki postoji za svaki.;0:06:18.360000 - 0:06:20.360000
+Imamo neki niz univerzalnih kvantifikatora,;0:06:21.360000 - 0:06:25.360000
+konačnih, pa onda konačnih iz existencialnih, pa onda polovno konačnih;0:06:25.440000 - 0:06:28.440000
+iz univerzalnih kvantifikatora.;0:06:28.440000 - 0:06:30.440000
+Takva klasa formula je isto zatvorena na konjunkcije i disjunkciju.;0:06:30.440000 - 0:06:34.440000
+Ali za nas je važna ova tu.;0:06:35.440000 - 0:06:37.440000
+Dobro, e sad, dakle, čemu će to odgovarati u smislu očuvanja?;0:06:37.440000 - 0:06:40.440000
+Odgovarat će konstrukciji unije lanaca.;0:06:41.440000 - 0:06:43.440000
+Dakle, kažemo da je teorija očuvana za unije lanaca modela.;0:06:44.440000 - 0:06:48.440000
+Ako, opet, je njezina klasa modela te teorije;0:06:48.520000 - 0:06:52.520000
+zatvorena na unije lanaca.;0:06:56.520000 - 0:06:58.520000
+Što to znači?;0:06:58.520000 - 0:06:59.520000
+Ako imam neki lanac, modela te teorije,;0:06:59.520000 - 0:07:02.520000
+dakle, u svakom, svaki element tog lanaca jest model te teorije,;0:07:02.520000 - 0:07:07.520000
+onda je i, znači ovo, onda je i unija tog lanaca model teorije.;0:07:07.520000 - 0:07:12.520000
+Naravno, bitno je da bude lanac, dakle, da uopće možemo;0:07:12.520000 - 0:07:15.520000
+pametno definirati uniju.;0:07:15.600000 - 0:07:17.600000
+Primijetite samo da, dakle, niko ne govori o elementarnosti lanca,;0:07:19.600000 - 0:07:23.600000
+dakle, ne pričamo o elementarnim podmodelima,;0:07:23.600000 - 0:07:25.600000
+nego o običnim podmodelima.;0:07:25.600000 - 0:07:26.600000
+Dakle, za svaki ovaj i nekako smatramo da na sebi ima nekakav uređaj.;0:07:26.600000 - 0:07:32.600000
+I, ako je i1 manji od i2 u tom uređaju,;0:07:32.600000 - 0:07:35.600000
+onda je mi1 podmodel, ne nužno elementarni, od mi2.;0:07:35.600000 - 0:07:41.600000
+Dobro, i onda znamo, dakle, naravno da je svaki od tih mi1 podmodel od ovog tu.;0:07:41.680000 - 0:07:50.680000
+Dakle, u nekom smislu je zatvoreno proširenje,;0:07:50.680000 - 0:07:53.680000
+ali ne bilo kakvo proširenje, dakle, to proširenje mora biti takvo;0:07:53.680000 - 0:07:58.680000
+da je baš dobiveno unijom nekog lanca.;0:07:58.680000 - 0:08:03.680000
+Dobro, i sad, naravno, trebamo opet dokazati da je to ekvivalentno,;0:08:03.760000 - 0:08:10.760000
+dakle, da je teorija očuvarana na unije lanaca modela,;0:08:10.760000 - 0:08:14.760000
+ako i samo ako je ekvivalentna nekoj za svaki postoji teoriji.;0:08:14.760000 - 0:08:18.760000
+Najprije, dakle, kažem sad, s obzirom na to da idu sve komplicirani dokazi,;0:08:18.760000 - 0:08:24.760000
+sve ćemo manje toga stvarno dokazivati,;0:08:24.760000 - 0:08:26.760000
+ali, bar ne neku skicu dokaza da vidimo.;0:08:26.760000 - 0:08:29.760000
+Dakle, najprije navodimo tri leme,;0:08:29.760000 - 0:08:32.760000
+prva od njih se dokazuje, dakle, ovo su tri leme,;0:08:32.840000 - 0:08:35.840000
+indukcijom po prvog plantifikatora, dakle, jednostavno,;0:08:35.840000 - 0:08:39.840000
+a druga i treća se dokazuju metodom dijagrama;0:08:39.840000 - 0:08:41.840000
+i to praktički na isti način kao one stvari koje smo već vidjeli.;0:08:41.840000 - 0:08:46.840000
+Samo još, prethodno, jedan pomoćni pojam,;0:08:47.840000 - 0:08:50.840000
+dakle, M, znamo što znači da je elementarni podmodel,;0:08:50.840000 - 0:08:54.840000
+ovo što znači da je jedan elementarni podmodel,;0:08:54.840000 - 0:08:57.840000
+piše se ovako, znači sa jedinicom,;0:08:57.840000 - 0:09:00.840000
+ako, šta se ovdje zapravo drugačije kaže nego za podmodel,;0:09:00.920000 - 0:09:08.920000
+ovdje piše univerzalnu formulu, dakle,;0:09:08.920000 - 0:09:11.920000
+ne za bilo kakvu formulu, dakle, nego za univerzalnu formulu.;0:09:13.920000 - 0:09:19.920000
+I primijetite da u tom slučaju ne moram govorit oba smjera,;0:09:22.920000 - 0:09:27.920000
+dakle, ako imam općenito elementarni podmodel,;0:09:28 - 0:09:31
+onda sam morao reći ovo, ako i samo,;0:09:31 - 0:09:34
+za jedan elementarni podmodel je dovoljno reći ovo,;0:09:34 - 0:09:38
+povlači i ovo, jer čim vrijedi ovo, vrijedi i ovo,;0:09:38 - 0:09:41
+s obzirom na to da je F univerzalna.;0:09:41 - 0:09:43
+Dakle, to je posljedica toga da je M podmodel ovdje.;0:09:43 - 0:09:47
+To smo dokazali, to je očuvanje,;0:09:47 - 0:09:49
+mini teorije koja se sastoji samo od jedne formule,;0:09:49 - 0:09:52
+ovaj, s obzirom na, aha, ne, ne mogu tako,;0:09:52 - 0:09:56
+jer nije rečenice, dobro, ali uglavnom jasno je da se,;0:09:56.080000 - 0:10:01.080000
+i za nerečenice, da se čuva ta univerzalnost;0:10:01.080000 - 0:10:06.080000
+prema dolje, prema podmodelima.;0:10:06.080000 - 0:10:09.080000
+Dobro, dakle, kaže, ovo znači,;0:10:11.080000 - 0:10:16.080000
+ako je M jedan elementarni podmodel od M crtica,;0:10:16.080000 - 0:10:21.080000
+onda je ih moguće proširiti,;0:10:21.160000 - 0:10:26.160000
+ali tako da, ovaj, dakle, naći neku strukturu;0:10:26.160000 - 0:10:31.160000
+koja je elementarni nadmodel od M;0:10:31.160000 - 0:10:34.160000
+i obični nadmodel od M crtica.;0:10:34.160000 - 0:10:38.160000
+Dakle, nekako, ne smeta, naravno,;0:10:38.160000 - 0:10:41.160000
+nije da moram nužno moći naći da je elementarni podmodel;0:10:43.160000 - 0:10:47.160000
+za jedno i za drugo, dakle, to ćemo isto imat kasnije,;0:10:47.240000 - 0:10:51.240000
+nego svojstvo koje će nam to mogućit,;0:10:51.240000 - 0:10:54.240000
+ovdje to ne mora nužno biti, ali pod pretpostavkom;0:10:54.240000 - 0:10:58.240000
+da je jedan elementarni, uvijek mogu zapravo proširiti;0:10:58.240000 - 0:11:03.240000
+do nadmodela M, čak i ovaj M crtica.;0:11:03.240000 - 0:11:10.240000
+Ono, nekako, nema unutra elementa koji na neki način smetaju.;0:11:10.240000 - 0:11:15.240000
+Dobro, aha, ovo je samo, dakle, kažem, vrlo jednostavno.;0:11:17.240000 - 0:11:22.240000
+Naravno, kažem, ovdje piše u definiciji povlači,;0:11:26.240000 - 0:11:29.240000
+ali drugi smjer vrijedi zbog ovoga, pa sam mogo u definiciji;0:11:29.240000 - 0:11:32.240000
+napisati tako i samo, ako bilo bi isto.;0:11:32.240000 - 0:11:35.240000
+A Lema 1 kaže da to isto vrijedi i za egzistencijalne formule.;0:11:35.240000 - 0:11:38.240000
+Naravno, jer egzistencijalne formule su više manje negacije univerzalnih,;0:11:38.240000 - 0:11:42.240000
+samo što još imaju negiranu i ovu matricu unutra.;0:11:42.240000 - 0:11:46.240000
+Ali to ne mijenja ovu stvar, evaluaciju i interpretaciju.;0:11:46.320000 - 0:11:53.320000
+Tako da je sasvim jasno, ja bih rekao da čak ne treba;0:11:53.320000 - 0:11:57.320000
+indukciju po broju kvantifikatora, nego jednostavno ispričati;0:11:57.320000 - 0:12:00.320000
+neku općenitu priču o tome kakva je veza;0:12:00.320000 - 0:12:04.320000
+egzistencijalnih i univerzalnih formula preko konjugiranja preko negacije.;0:12:04.320000 - 0:12:08.320000
+Dobro, znači, ta prva je, kažem, prilično bez veze.;0:12:08.320000 - 0:12:12.320000
+Druga je zanimljiva i, kažem, dokazuje se metodom dijagrama,;0:12:12.320000 - 0:12:15.320000
+to bi bilo lijepo možda stvarno napraviti, recimo u drugoj zareči.;0:12:15.400000 - 0:12:21.400000
+Ali treba vidjeti, ali u skriptu ima, tako da samo treba prvo;0:12:21.400000 - 0:12:26.400000
+praviti skript, a onda nije možda toliko zanimljivo.;0:12:26.400000 - 0:12:28.400000
+Treća kaže nešto vezano uz teorije.;0:12:28.400000 - 0:12:32.400000
+Dakle, ako se sjećate, to smo uvijek bili, jednostavno,;0:12:32.400000 - 0:12:35.400000
+ne mogu ja sad reći, aha, uzmi iz teorije samo za svaki postop i rečenicu,;0:12:35.400000 - 0:12:39.400000
+jer je moguće da nema ni jedna unutra.;0:12:39.400000 - 0:12:41.400000
+Dakle, teorija zapravo govore nešto takvo, ali zamaskirano,;0:12:41.480000 - 0:12:45.480000
+tak da, na primjer, na početku s tim svakim postopimi rečenicama;0:12:45.480000 - 0:12:49.480000
+dodam još neki irrelevantni, egzistencijni kvantifikator,;0:12:49.480000 - 0:12:52.480000
+i onda više neće biti za svaki postop i rečenice,;0:12:52.480000 - 0:12:54.480000
+ali mogu svajok uzeti skup svih za svaki postop i posljedica od teorije T.;0:12:54.480000 - 0:13:00.480000
+Za teoriju T, tako nešto zovemo T crtica.;0:13:00.480000 - 0:13:03.480000
+I sad kaže ovo, znači, ako imaš model za T crtica,;0:13:03.480000 - 0:13:07.480000
+znači samo za, da tako kažem, za svaki postop i fragment od teorije T,;0:13:07.560000 - 0:13:12.560000
+onda se on može proširiti do jedan elementarnog nadmodela;0:13:13.560000 - 0:13:18.560000
+za čitavu teoriju T. Dakle, opet, naravno, metoda diagrama.;0:13:18.560000 - 0:13:23.560000
+Dobro, i sad, pomoću tih lema ajmo vidjeti, znači,;0:13:25.560000 - 0:13:29.560000
+kako bi se dokazao glavni teorem koji kaže ono što očekujemo.;0:13:29.560000 - 0:13:33.560000
+Dakle, T je očuvana za unije lanaca modela,;0:13:33.560000 - 0:13:35.560000
+ako i samo ako je ekvivalentna nekoj za svaki postop i teoriji.;0:13:35.640000 - 0:13:41.640000
+Dobro, opet, jedan smjer je, mislim, nije sad više tako lagan,;0:13:42.640000 - 0:13:46.640000
+ali je negako straightforward, jasno je što treba raditi.;0:13:46.640000 - 0:13:49.640000
+Dakle, ako je teorija ekvivalentna za svaki postop i teorijom,;0:13:49.640000 - 0:13:55.640000
+ja trebam dokazati da je njezina klasa modela;0:13:56.640000 - 0:14:00.640000
+zatvorena na unije lanaca modela.;0:14:02.640000 - 0:14:04.640000
+E, a sad, naravno, ako je teorija ekvivalentna nekoj za svaki postop i teoriji,;0:14:05.640000 - 0:14:08.640000
+onda je njezina klasa modela, znači, T je ekvivalentna,;0:14:08.640000 - 0:14:14.640000
+T' označi da je klasa modela od T jednaka klasi modela od T',;0:14:15.640000 - 0:14:22.640000
+pa reći da je jedna od njih zatvorena na unije lanaca;0:14:22.640000 - 0:14:26.640000
+je isto kao i reći da je druga zatvorena na unije lanaca,;0:14:26.640000 - 0:14:28.640000
+jer je to ista klasa.;0:14:28.640000 - 0:14:29.640000
+Dakle, negako, za ovaj smjer, bez menjenja općenitosti,;0:14:29.640000 - 0:14:33.640000
+možemo pretpostaviti da je baš T sama za svaki postop i teorij,;0:14:33.720000 - 0:14:37.720000
+jer, inače, zamijenimo sve T crtice i ništa se ne mijenja.;0:14:37.720000 - 0:14:39.720000
+Dobro, dakle, onda trebam dokazati da je,;0:14:40.720000 - 0:14:43.720000
+znači, ta teorija je sad stvarno sintaksno popis negakvih za svaki postop i formula,;0:14:44.720000 - 0:14:49.720000
+i zapravo je dovoljno dokazati da je svaka formula na tom popisu očuvana.;0:14:49.720000 - 0:14:54.720000
+Dakle, negako, teorija se sastoji od tri za svaki postop i formule,;0:14:54.720000 - 0:15:02.720000
+ako ja dokažem da je svaka od njih očuvana za unije lanaca modela,;0:15:03.720000 - 0:15:09.720000
+onda će, naravno, i čitava teorija biti očuvana zajedno,;0:15:09.720000 - 0:15:12.720000
+znači, model za svaku formulu.;0:15:12.720000 - 0:15:16.720000
+Dobro, dakle, prvi bsomvp je da je teorija T već sintaksno oblika za svaki postop,;0:15:18.720000 - 0:15:26.720000
+a drugi bsomvp je da teorija T ima samo jednu formulu.;0:15:26.720000 - 0:15:30.720000
+Dakle, neka je F sad ta formula.;0:15:30.800000 - 0:15:33.800000
+Pazite, tu ne mogu konjunkciju, mislim, naravno,;0:15:33.800000 - 0:15:36.800000
+ovo bi sad čovjek rekao, imaš tri formule, staviš konjunkciju,;0:15:36.800000 - 0:15:38.800000
+ali naravno, ne možeš, uopće, nije to ako imaš beskonačno novu formulu,;0:15:38.800000 - 0:15:41.800000
+ali nije bitno, ovaj pristup radi.;0:15:41.800000 - 0:15:43.800000
+Dakle, neka je F, neka za svaki postop i formula,;0:15:43.800000 - 0:15:47.800000
+dakle, sad, naravno, ove variable označimo drugačije,;0:15:47.800000 - 0:15:50.800000
+dakle, sa xove koje su universalno kvantificirane, sa yove koje su egzistencijalno,;0:15:50.800000 - 0:15:55.800000
+i to je sad neka otvorena formula u njima.;0:15:55.800000 - 0:15:57.800000
+I sad šta moram? Moram nekakav lanac modela uzeti;0:15:57.880000 - 0:16:01.880000
+i vidjeti da je njegova unija, koju označimo sa M,;0:16:01.880000 - 0:16:05.880000
+također model za F, odnosno da je F vrijedi u modelu.;0:16:05.880000 - 0:16:08.880000
+I sad, čisto po definiciji, što znači da u nekom modelu vrijedi;0:16:11.880000 - 0:16:14.880000
+nekakva universalno kvantificirana formula?;0:16:14.880000 - 0:16:17.880000
+Pa to znači da za bilo kakvu valuaciju ovih tu prvih x1 do xn,;0:16:17.880000 - 0:16:21.880000
+znači, za bilo koje je a1 do an iz nosača,;0:16:21.880000 - 0:16:24.880000
+vrijedi ova tu egzistencijalna kvantificirana formula.;0:16:24.960000 - 0:16:29.960000
+Naravno, ona sad više nije rečenica, ali znamo kak se evaluiraju ovi x1 do xn.;0:16:29.960000 - 0:16:35.960000
+I sad, ključna stvar ovdje je da kak ja znam da oni postoje.;0:16:37.960000 - 0:16:41.960000
+Odnosno, ključno je zapravo gdje oni postoje.;0:16:41.960000 - 0:16:44.960000
+Evo, ovo je unija, međutim, stvari u tome da je i totalno uređeno.;0:16:44.960000 - 0:16:49.960000
+Dakle, ako je i totalno uređeno, onda ja za svaki od ovih a ova;0:16:49.960000 - 0:16:53.960000
+on se nalazi u nekakvom unandu, nekakvom modelu u toj uniji.;0:16:54.040000 - 0:17:01.040000
+Dakle, na primjer, a1 se nalazi u nekom mi1,;0:17:01.040000 - 0:17:05.040000
+a2 se nalazi u nekom mi2, a1 se nalazi u nekom mi1.;0:17:05.040000 - 0:17:09.040000
+I sad, od svih tih mi1 do mi1, odnosno, precizno,;0:17:09.040000 - 0:17:13.040000
+od svih tih indeksa i1 do i1,;0:17:13.040000 - 0:17:16.040000
+s obzirom na to da je ilijenarni uređen, postoji najveći.;0:17:16.040000 - 0:17:19.040000
+Znači, sortiramo te ijeve, to možemo učiniti.;0:17:19.120000 - 0:17:22.120000
+I najveći od njih je onaj, s obzirom na to da je to lanac modela,;0:17:22.120000 - 0:17:28.120000
+dakle, svi ostali, recimo neke to mi3,;0:17:28.120000 - 0:17:31.120000
+onda su svi ostali, mi1, mi2, mi4 i tako delje,;0:17:31.120000 - 0:17:35.120000
+svi su podmodeli od njega.;0:17:35.120000 - 0:17:37.120000
+Odnosno, ovi tu podmodeli su sigurno i podskupovi u smislu nosača,;0:17:37.120000 - 0:17:42.120000
+dakle, svi ovi a ovi su zapravo elementi nosača jednog konkretnog modela.;0:17:42.120000 - 0:17:47.120000
+E, ali onda je gotovo, jer u tom konkretnom modelu,;0:17:47.200000 - 0:17:50.200000
+na primjer mi3, odnosno u njegovom nosaču,;0:17:50.200000 - 0:17:52.200000
+postoje b1 do bp takvi da ovo vrijedi.;0:17:52.200000 - 0:17:55.200000
+Zašto? Zato što ova tu formula mora vrijediti na mi3.;0:17:55.200000 - 0:17:59.200000
+Predpostavka je bila da ova formula stvarno vrijedi u svakom.;0:18:01.200000 - 0:18:05.200000
+Evo, lanac modela za f.;0:18:05.200000 - 0:18:07.200000
+Znači, skoristimo smo da je lanac i sad još iskoristimo da je svaki unutra,;0:18:07.200000 - 0:18:12.200000
+ali specijalno onaj tu, tamo mi3, model za f.;0:18:12.200000 - 0:18:15.200000
+Znači, postoje b1 do bp iz nosača od mi3.;0:18:15.280000 - 0:18:19.280000
+Već u tim, naravno, opet, unija lanca je takva da pokupi sve nosače.;0:18:19.280000 - 0:18:22.280000
+Znači, nosač unije lanca je unija nosača pojedinih.;0:18:22.280000 - 0:18:27.280000
+Dakle, ovaj nosač od mi3 jest podskup od nosača ovog tu.;0:18:28.280000 - 0:18:32.280000
+Znači, mogu jednostavno reći, postoje b1 do bp iz nosača ove unije,;0:18:32.280000 - 0:18:36.280000
+takvi da vrijedi ovaj h.;0:18:36.280000 - 0:18:38.280000
+I sad je gotovo da je taj mi3 jest podmodel od ove unije.;0:18:39.280000 - 0:18:44.280000
+To je bila neka hvalema pri početku.;0:18:44.360000 - 0:18:46.360000
+Dakle, kad napraviš uniju lanca modela, uniju lanca bilo kakvih struktura,;0:18:46.360000 - 0:18:51.360000
+onda svaka struktura u toj uniji jest podmodel čitave unije.;0:18:51.360000 - 0:18:55.360000
+Naravno, ne piše elementarni podmodel,;0:18:57.360000 - 0:19:00.360000
+ali s rećom h je otvorena formula, pa nije bitno.;0:19:00.360000 - 0:19:02.360000
+Dakle, za općenite formule bi nam trebao elementarni podmodel,;0:19:02.360000 - 0:19:05.360000
+ali za otvorene formule je dovoljno obični podmodel.;0:19:05.360000 - 0:19:10.360000
+I to je to.;0:19:10.360000 - 0:19:12.360000
+To je jedan smjer.;0:19:12.440000 - 0:19:14.440000
+Što bi rekao čovjek, lakši smjer.;0:19:15.440000 - 0:19:17.440000
+Sad, naravno, ovo je težiće, onda bit bitno teži, ali dobro.;0:19:17.440000 - 0:19:21.440000
+Znači, kaže ovako, trebamo neko iskoristiti činjenicu;0:19:21.440000 - 0:19:24.440000
+da je t očuvana za uniju lanca modela.;0:19:24.440000 - 0:19:27.440000
+Standardna priča, ne možemo samo izvaditi za svaki postoji formule;0:19:28.440000 - 0:19:33.440000
+iz teorije t, nego moramo gledati za svaki postoji posljivice od t.;0:19:33.440000 - 0:19:37.440000
+To je ovaj t3.;0:19:37.440000 - 0:19:39.440000
+Zelim dokazati da su t i t3 ekvalente.;0:19:39.520000 - 0:19:43.520000
+Primijetite, t3 očito je za svaki postoji, teorija, trivialno.;0:19:43.520000 - 0:19:47.520000
+Dakle, dovoljno je dokazati da je ovo jednako.;0:19:47.520000 - 0:19:50.520000
+I primijetite opet da je ovaj smjer valjda očit,;0:19:50.520000 - 0:19:53.520000
+jer, jer, jer, jer, aha, ne mogu reći da je podskup,;0:19:53.520000 - 0:19:57.520000
+ali dobro, znači da je t podskup od t3,;0:19:57.520000 - 0:20:00.520000
+ali, znači, mislim, t3 podskup od t,;0:20:00.520000 - 0:20:03.520000
+ali šta mogu reći? Mogu reći, ako je nešto model za t,;0:20:03.520000 - 0:20:06.520000
+onda je model za s... onda u njutra vrijedi svaka formula od t,;0:20:06.600000 - 0:20:10.600000
+ali onda vrijedi svaka postjelica od t.;0:20:11.600000 - 0:20:14.600000
+Postjelica točno znači da vrijedi u svakom modelu u kojem vrijedi t.;0:20:14.600000 - 0:20:18.600000
+Znači, ako je, dobro,;0:20:20.600000 - 0:20:22.600000
+m,;0:20:23.600000 - 0:20:24.600000
+mod t,;0:20:26.600000 - 0:20:28.600000
+tada na m vrijedi t,;0:20:29.600000 - 0:20:32.600000
+budući da t ima za postjelicu g,;0:20:32.680000 - 0:20:36.680000
+tada na m vrijedi g,;0:20:36.680000 - 0:20:39.680000
+a g je proizvodna formula iz t.;0:20:42.680000 - 0:20:45.680000
+Za sve je g iz 5 crtica.;0:20:47.680000 - 0:20:50.680000
+Dakle, m na m vrijedi 5 crtica,;0:20:50.680000 - 0:20:53.680000
+dakle, m je;0:20:54.680000 - 0:20:56.680000
+srednji na 5 crtice, dakle.;0:20:57.680000 - 0:21:00.680000
+Ovako je ovo, dakle, podskup. Dobro.;0:21:02.680000 - 0:21:05.680000
+I sve što treba zapravo zanimljivo učiniti,;0:21:06.680000 - 0:21:09.680000
+pri čemu treba koristiti ovu očuvanost na unijelanaca modela,;0:21:09.680000 - 0:21:14.680000
+je drugi smjer, druga intuzija.;0:21:15.680000 - 0:21:18.680000
+Druga intuzija ide ovako.;0:21:28.680000 - 0:21:30.680000
+E, samo da kažem, dakle,;0:21:30.760000 - 0:21:33.760000
+ako vam se ovo razmišljanje čini poznatim,;0:21:34.760000 - 0:21:37.760000
+to je razmišljanje koje ste imali sigurno,;0:21:37.760000 - 0:21:40.760000
+na primjer, na teoriji Skupova, kad rješavate one standardne zadatke sa cornovom lemom.;0:21:40.760000 - 0:21:44.760000
+To upravo imate tu unijelanca,;0:21:45.760000 - 0:21:47.760000
+samo to se onda ne kaže modela, jer naravno ne znate šta je model,;0:21:47.760000 - 0:21:50.760000
+ali nekako traži se nekako svojstvo, je li to ono?;0:21:50.760000 - 0:21:53.760000
+Tipični zadatak sa cornovom lemom je dokaži da postoji maksimalni slon.;0:21:53.760000 - 0:21:58.760000
+Onda se slon karakterizira s nekakvim formulama,;0:21:58.840000 - 0:22:01.840000
+naravno ne kažete da je to formula,;0:22:01.840000 - 0:22:03.840000
+ali nekakva svojstva ima, tipa neprazanje,;0:22:03.840000 - 0:22:06.840000
+tipa zatvorenje na neku operaciju,;0:22:06.840000 - 0:22:08.840000
+tipa disjunktanje sa nečim i tako ima.;0:22:08.840000 - 0:22:11.840000
+Ima raznih svojstava koja se od slonova mogu tražiti,;0:22:11.840000 - 0:22:14.840000
+ali se pokaže, kad ih se formalizira u logici prvog reda,;0:22:14.840000 - 0:22:17.840000
+da su sve, sva ta svojstva uvijek za svaki postoji formula.;0:22:17.840000 - 0:22:21.840000
+I onda se zapravo kaže, aha, na primjer, gustoća, je li?;0:22:22.840000 - 0:22:25.840000
+U dvojicu postoji treći koji je između njih.;0:22:25.920000 - 0:22:28.920000
+I onda kakvi dokažete ono što trebate dokazati za cornom lemu,;0:22:29.920000 - 0:22:32.920000
+dakle da je unija lanca gustih ponovno gust,;0:22:32.920000 - 0:22:36.920000
+pa uzmete dvojicu iz unije lanca, jedan je u jednom članu lanca,;0:22:37.920000 - 0:22:41.920000
+drugi je u drugom članu lanca, od svih tih,;0:22:41.920000 - 0:22:43.920000
+naravno to znači da je ovaj n jednak 2,;0:22:43.920000 - 0:22:46.920000
+a ovaj p jednak 1.;0:22:47.920000 - 0:22:48.920000
+Za svaki od te dvojice je u nekom,;0:22:49.920000 - 0:22:51.920000
+ali lanac je uređen, pa onda dvojice su zapravo u jednom od njih,;0:22:52 - 0:22:57
+u onom većem, i onda u tom većem postoji ovaj treći.;0:22:57 - 0:23:01
+Takav da je između njih.;0:23:03 - 0:23:04
+I onda, znači, možemo reći ovo je zapravo template;0:23:05 - 0:23:08
+u koji se mogu uvrstiti svi takvi zadaci sa primjerom cornova lema.;0:23:08 - 0:23:13
+Odnosno možemo nekako sintaksno reći, dakle,;0:23:17 - 0:23:19
+sintaksni oblik cornova lema,;0:23:19.080000 - 0:23:21.080000
+znači ako je, kako je to išlo,;0:23:22.080000 - 0:23:24.080000
+ako imaš pus, parcijalno uređen skup,;0:23:25.080000 - 0:23:28.080000
+koji je neprazan i njegova definicijska formula;0:23:28.080000 - 0:23:32.080000
+je negakva za svaki postoji formula ili konjunkcija takvih svejedno,;0:23:33.080000 - 0:23:37.080000
+onda taj skup ima maksimalni element.;0:23:38.080000 - 0:23:40.080000
+Skroz uopćeniti.;0:23:42.080000 - 0:23:43.080000
+Jer unije lanca takvih mora biti takva.;0:23:43.080000 - 0:23:45.080000
+No dobro, e sad kaže drugi smjer,;0:23:49.080000 - 0:23:51.080000
+slično dokazu Robinsonova teorema.;0:23:52.080000 - 0:23:54.080000
+Dakle, što radim?;0:23:55.080000 - 0:23:56.080000
+Izgrađujem uniju, izgrađujem nekakav lanac,;0:23:56.080000 - 0:23:59.080000
+stepenicu po stepenicu i na kraju napravim uniju.;0:24:00.080000 - 0:24:03.080000
+Ali dosta je petljavo što tu sve treba raditi.;0:24:04.080000 - 0:24:07.080000
+Dobro, znači, trebam dokazati da je ovo pod skupom ovog.;0:24:07.080000 - 0:24:12.080000
+Dakle, uzmem proizvodnu strukturu odavlje,;0:24:12.080000 - 0:24:14.080000
+dakle, model za te sljedeće.;0:24:15.080000 - 0:24:17.080000
+To nazovem M0, dakle,;0:24:19.080000 - 0:24:21.080000
+to bih reći nekakva sugestija;0:24:21.080000 - 0:24:23.080000
+da će to biti nekakav niz.;0:24:23.080000 - 0:24:25.080000
+Polemi 3, na M3 kaže,;0:24:26.080000 - 0:24:28.080000
+onda možeš taj model napuhat do modela za čitavu T;0:24:29.080000 - 0:24:33.080000
+i to tako da bude jedan elementarni nadmodel.;0:24:34.080000 - 0:24:37.080000
+M0,;0:24:41.080000 - 0:24:42.080000
+onda možemo;0:24:42.160000 - 0:24:43.760000
+jedan elementarni nadmodel M1.;0:24:45.760000 - 0:24:49.760000
+E sad, znači to je Lema 3.;0:24:51.760000 - 0:24:54.760000
+Onda na to primjenim Lemu 2,;0:24:55.760000 - 0:24:57.760000
+koja kaže, imaš M2, znači,;0:24:58.760000 - 0:25:00.760000
+ovaj M0 i M1 su takvi,;0:25:01.760000 - 0:25:03.760000
+po lemi 2 postoji M2.;0:25:08.760000 - 0:25:10.760000
+Takav da je elementarni od jednog;0:25:12.760000 - 0:25:15.760000
+i obični od drugog.;0:25:15.760000 - 0:25:17.760000
+Znači, M0, da, ovaj manji, naravno,;0:25:17.760000 - 0:25:20.760000
+elementarni, a ovaj veći, obični.;0:25:21.760000 - 0:25:25.760000
+Mislim, gdje pisat crtica, gdje ne?;0:25:26.760000 - 0:25:29.760000
+Sve su te relacije refleksive, pa mi svima trebalo pisat crtice ispod ovih.;0:25:30.760000 - 0:25:34.760000
+Kako je M0 model za T crtica?;0:25:37.760000 - 0:25:41.760000
+I elementarni podmodel od M2, naravno,;0:25:42.760000 - 0:25:44.760000
+znači, ovdje je povijesim T crtica,;0:25:45.760000 - 0:25:48.760000
+znači i ovdje isto vrijedi T crtica.;0:25:48.760000 - 0:25:52.760000
+E sad, kaže zapravo, uzastupnom primjenom Lema,;0:25:55.760000 - 0:25:58.760000
+znači, što bi bio M3?;0:25:58.760000 - 0:26:00.760000
+M3 bi bio ovaj tu, iznad M2.;0:26:00.760000 - 0:26:02.760000
+Jedan elementarni nadmodel od M2,;0:26:12.760000 - 0:26:16.760000
+koji je model za T.;0:26:19.760000 - 0:26:21.760000
+I sad opet, ovdje, znači,;0:26:27.760000 - 0:26:29.760000
+bio bi M4, na kojem vrijedi T crtica?;0:26:33.760000 - 0:26:38.760000
+Jer je elementarni nadmodel od M2.;0:26:39.440000 - 0:26:43.440000
+Dobro, i tako da rije.;0:26:43.440000 - 0:26:45.440000
+Znači, šta kaže, da provjerimo,;0:26:46.440000 - 0:26:48.440000
+znači, svaki parni je model za T crtica,;0:26:48.440000 - 0:26:52.440000
+svaki neparni je model za T,;0:26:54.440000 - 0:26:56.440000
+svaki parni je jedan elementarni od sljedećeg,;0:26:58.440000 - 0:27:02.440000
+a to je ovo, prema vertikala,;0:27:03.120000 - 0:27:07.120000
+svaki parni je obični elementarni podmodel od sljedećeg parnog,;0:27:12.120000 - 0:27:18.120000
+to je ovo,;0:27:19.120000 - 0:27:20.120000
+i svaki neparni je obični podmodel od idućeg,;0:27:23.120000 - 0:27:28.120000
+dakle, to je ovo.;0:27:28.120000 - 0:27:30.120000
+Jo, znači, to je ta slika.;0:27:33.120000 - 0:27:35.120000
+Ok, i sad, veli, posebno,;0:27:36.120000 - 0:27:38.120000
+svaki parni je podmodel,;0:27:41.120000 - 0:27:43.120000
+znači, naravno, jedan elementarni podmodel,;0:27:44.120000 - 0:27:46.120000
+pazite, jedan elementarni ne znači elementarni podmodel,;0:27:46.120000 - 0:27:49.120000
+ali znači podmodel, no pa onda, ok,;0:27:49.120000 - 0:27:51.120000
+znači, šta sad hoću reć', hoću reć',;0:27:53.120000 - 0:27:55.120000
+M0 je podmodel, jedan elementarni,;0:27:55.120000 - 0:27:58.120000
+ali jest podmodel od M1,;0:27:58.120000 - 0:28:00.120000
+M1 je podmodel ovaj obični od M2,;0:28:00.120000 - 0:28:02.120000
+M2 opet je, jest podmodel nekakav od M3,;0:28:02.800000 - 0:28:05.800000
+M3 je podmodel od M4 i tako dalje,;0:28:05.800000 - 0:28:07.800000
+dakle, kad gledam ovak zmiju,;0:28:07.800000 - 0:28:10.800000
+to je rastući,;0:28:11.800000 - 0:28:13.800000
+u smislu relacije podmodela.;0:28:16.800000 - 0:28:18.800000
+Dakle, mogu napraviti uniju.;0:28:19.800000 - 0:28:21.800000
+To nije unija elementarnog lanca,;0:28:22.800000 - 0:28:23.800000
+ali jest unija lanca podmodela,;0:28:23.800000 - 0:28:25.800000
+odnosno, lanca modela.;0:28:25.800000 - 0:28:27.800000
+E, ali veli, to ti je isto kao;0:28:27.800000 - 0:28:29.800000
+kad napraviš tak uniju,;0:28:30.480000 - 0:28:32.480000
+to je ti isto kao da napraviš uniju;0:28:32.480000 - 0:28:34.480000
+samo ovih neparnih.;0:28:34.480000 - 0:28:36.480000
+Zašto? Jer naravno svaki neparni;0:28:36.480000 - 0:28:38.480000
+je nadmodel od ovog dolje,;0:28:38.480000 - 0:28:43.480000
+ali dakle, to nema veze sa;0:28:43.480000 - 0:28:45.480000
+ovim konkretnim odnosom između njih, jednostavno,;0:28:45.480000 - 0:28:47.480000
+unija lanca modela,;0:28:47.480000 - 0:28:49.480000
+indeksiranog prirodnim brojevima,;0:28:49.480000 - 0:28:51.480000
+je unija po bilo kojem kofinitnom,;0:28:51.480000 - 0:28:53.480000
+kofinalnom skupu prirodnih brojeva.;0:28:54.480000 - 0:28:57.480000
+Recimo, mogu reć', ono, uzmeš;0:28:57.480000 - 0:28:59.480000
+prvi, drugi, četvrti, osmi, šestnajsti,;0:29:00.160000 - 0:29:02.160000
+ono, svaki dva na entu,;0:29:02.160000 - 0:29:04.160000
+i opet će unija biti isto, jer naravno,;0:29:04.160000 - 0:29:06.160000
+sve što je bitno je da se svaki element;0:29:06.160000 - 0:29:08.160000
+nađe u njoj prije ili kasnije,;0:29:08.160000 - 0:29:10.160000
+a sve što je za to bitno je da imaš;0:29:10.160000 - 0:29:12.160000
+negakav niz koji teže u beskonačnosti.;0:29:12.160000 - 0:29:14.160000
+Dakle, na primjer, uzmeš samo ove,;0:29:14.160000 - 0:29:16.160000
+štima, ili uzmeš samo ove,;0:29:16.160000 - 0:29:18.160000
+dakle, samo parne ili samo neparne,;0:29:18.160000 - 0:29:20.160000
+to je isto.;0:29:20.160000 - 0:29:22.160000
+Sve skupa, ili samo ovi, ili samo ovi,;0:29:26.160000 - 0:29:28.160000
+i u jednom i drugom slučaju, i u trećem;0:29:28.840000 - 0:29:30.840000
+se dobije jedan te isti m, kao unija.;0:29:30.840000 - 0:29:32.840000
+I sad kaže ovako, međutim, ta m ima;0:29:35.840000 - 0:29:37.840000
+zanimljiva svojstva. Svaki neparni;0:29:37.840000 - 0:29:39.840000
+je model za t.;0:29:39.840000 - 0:29:41.840000
+Pa je onda, aha, t je,;0:29:45.840000 - 0:29:47.840000
+to je ono što smo trebali dokazati,;0:29:47.840000 - 0:29:49.840000
+dakle, to je ono što smo trebali iskoristiti,;0:29:49.840000 - 0:29:51.840000
+t je očuvana za unija vanaca,;0:29:51.840000 - 0:29:53.840000
+i stoga slijedi da na m također vredite.;0:29:58.840000 - 0:30:00.840000
+Dobro, el, kaže ovako,;0:30:10.840000 - 0:30:12.840000
+ovo tu, znači ovaj tu lanac,;0:30:12.840000 - 0:30:14.840000
+je ne samo rastući, mislim, jest,;0:30:18.840000 - 0:30:20.840000
+ali ovo je elementarni lanac.;0:30:20.840000 - 0:30:22.840000
+Dakle, ovo sad nije jedan elementarni,;0:30:28.840000 - 0:30:30.840000
+nego je baš elementarni.;0:30:30.840000 - 0:30:32.840000
+E, ali elementarni lanac ima;0:30:34.840000 - 0:30:36.840000
+zgodno svojstvo da su sve teorije očuvane,;0:30:36.840000 - 0:30:38.840000
+pa onda, ovaj,;0:30:38.840000 - 0:30:40.840000
+dakle, da su, kako je to išlo,;0:30:44.840000 - 0:30:46.840000
+da je bilo koji element,;0:30:47.840000 - 0:30:49.840000
+bilo koji unand, bilo koji model;0:30:49.840000 - 0:30:51.840000
+u tom, u toj uniji,;0:30:51.840000 - 0:30:53.840000
+elementarnog lanca je elementarni;0:30:54.840000 - 0:30:56.840000
+podmodel od unije svega.;0:30:57.520000 - 0:30:59.520000
+A to smo, to smo htjeli,;0:30:59.520000 - 0:31:01.520000
+jer, dakle, konkretno,;0:31:01.520000 - 0:31:03.520000
+m nula,;0:31:03.520000 - 0:31:05.520000
+nula je elementarni;0:31:11.520000 - 0:31:13.520000
+podmodel od m.;0:31:13.520000 - 0:31:15.520000
+A na m vrijedi,;0:31:15.520000 - 0:31:17.520000
+sad sam vidio t,;0:31:17.520000 - 0:31:19.520000
+dakle, na m nula;0:31:19.520000 - 0:31:21.520000
+također vrijedi t.;0:31:21.520000 - 0:31:23.520000
+Je i, mislim,;0:31:23.520000 - 0:31:25.520000
+elementarni podmodel je, između ostalog,;0:31:26.200000 - 0:31:28.200000
+elementarno ekvivalentan.;0:31:28.200000 - 0:31:30.200000
+Dakle, krenuli smo od ovog,;0:31:30.200000 - 0:31:32.200000
+dobili smo ovo.;0:31:32.200000 - 0:31:34.200000
+Dobro, dakle, mislim,;0:31:36.200000 - 0:31:38.200000
+izuzetno petljav dokaz, još pogotovo;0:31:38.200000 - 0:31:40.200000
+kad se uzme u obzir da ove leme nismo dokazali,;0:31:40.200000 - 0:31:42.200000
+koje su zapravo najpetljavije;0:31:42.200000 - 0:31:44.200000
+u cijeloj priči, ali dobro.;0:31:44.200000 - 0:31:46.200000
+E sad, naravno,;0:31:46.200000 - 0:31:48.200000
+sad je već, možda teško,;0:31:48.200000 - 0:31:50.200000
+u smislu nije tako jednostavno smisliti;0:31:50.200000 - 0:31:52.200000
+teorije koje nisu očuvane;0:31:52.200000 - 0:31:54.200000
+za unijeloveca, ali recimo, naprimjer,;0:31:54.880000 - 0:31:56.880000
+jedna sljedeća klasa je onda bila sigma 2.;0:31:56.880000 - 0:32:01.880000
+Dakle, ovo. Postoji za svaki.;0:32:01.880000 - 0:32:03.880000
+Kažu ovako,;0:32:05.880000 - 0:32:07.880000
+gusti linarni uređaj, ali s rubovima.;0:32:07.880000 - 0:32:09.880000
+Ok, sad, naravno, gusti linarni uređaj,;0:32:09.880000 - 0:32:11.880000
+to čak i nije ovo,;0:32:11.880000 - 0:32:13.880000
+to je pi 2,;0:32:13.880000 - 0:32:15.880000
+ali, ovaj, kad kažete da ima rub,;0:32:15.880000 - 0:32:17.880000
+onda je to upravo ovo.;0:32:17.880000 - 0:32:19.880000
+Postoji, naprimjer, minimum,;0:32:19.880000 - 0:32:21.880000
+postoji x,;0:32:21.880000 - 0:32:23.880000
+i, naravno, da za svaki y je x;0:32:23.880000 - 0:32:25.880000
+manje ili jednako od tog y.;0:32:25.880000 - 0:32:27.880000
+I, naravno, onda postoji maksimum,;0:32:27.880000 - 0:32:29.880000
+opet neka takva formula, opet konjunkcija takvih;0:32:29.880000 - 0:32:31.880000
+jest takva, znači,;0:32:31.880000 - 0:32:33.880000
+to da ima rubove,;0:32:33.880000 - 0:32:35.880000
+da ima minimum i maksimum, zapravo, jest;0:32:35.880000 - 0:32:37.880000
+samo po sebi sigma 2.;0:32:37.880000 - 0:32:39.880000
+Ali, naravno,;0:32:39.880000 - 0:32:41.880000
+onda sad ovo je još nekakva;0:32:41.880000 - 0:32:43.880000
+konjunkcija sa pi 2 stvarima,;0:32:43.880000 - 0:32:45.880000
+tako da to će vjerojatno završiti negdje;0:32:45.880000 - 0:32:47.880000
+više gore, vjerojatno, delta 3 ili tako nešto.;0:32:47.880000 - 0:32:49.880000
+Uglavnom, dakle,;0:32:49.880000 - 0:32:51.880000
+ono što mi hoćemo vidjeti ovdje;0:32:51.880000 - 0:32:53.880000
+je jedan vrlo jednostavni primjer,;0:32:53.880000 - 0:32:55.880000
+dakle, kako, kako,;0:32:55.880000 - 0:32:57.880000
+za dovoljno komplicirane formule,;0:32:57.880000 - 0:32:59.880000
+nije više teorija očuvana u njegovica.;0:32:59.880000 - 0:33:01.880000
+I, evo, na primjer,;0:33:01.880000 - 0:33:03.880000
+jedan vrlo jednostavan primjer,;0:33:03.880000 - 0:33:05.880000
+valjda najjednostavniji koji čovjek može pasati na pamet.;0:33:05.880000 - 0:33:07.880000
+Ako napraviš,;0:33:07.880000 - 0:33:09.880000
+nije najjednostavniji, valjda najjednostavniji je;0:33:09.880000 - 0:33:11.880000
+da uzmeš od 0 do k,;0:33:11.880000 - 0:33:13.880000
+ali u svakom slučaju, recimo,;0:33:13.880000 - 0:33:15.880000
+ako uzmeš od minus k do k,;0:33:15.880000 - 0:33:17.880000
+za svaki pojedini k,;0:33:17.880000 - 0:33:19.880000
+da svaki od njih;0:33:19.880000 - 0:33:21.880000
+je gust linijarno uređen skup sa rubovima,;0:33:21.880000 - 0:33:23.880000
+očito, ali njihova unija,;0:33:23.880000 - 0:33:25.880000
+i svakako,;0:33:25.880000 - 0:33:27.880000
+za k manji od l,;0:33:27.880000 - 0:33:29.880000
+ovaj mk;0:33:29.880000 - 0:33:31.880000
+je podmodel;0:33:31.880000 - 0:33:33.880000
+od ml,;0:33:33.880000 - 0:33:35.880000
+dakle, ključ je da nije elementarni podmodel,;0:33:35.880000 - 0:33:37.880000
+naravno, jer kada ovoga interpretiraš sa k,;0:33:37.880000 - 0:33:39.880000
+onda će on biti,;0:33:39.880000 - 0:33:41.880000
+zadovoljavati formulu da je maksimum,;0:33:41.880000 - 0:33:43.880000
+a u ovom većem više neće.;0:33:43.880000 - 0:33:45.880000
+Ali, da,;0:33:45.880000 - 0:33:47.880000
+samo za biti podmodel,;0:33:47.880000 - 0:33:49.880000
+to ne treba, samo treba postojati maksimum,;0:33:49.880000 - 0:33:51.880000
+a to postoji u svakom od njih.;0:33:51.880000 - 0:33:53.880000
+E, ali unija je naravno,;0:33:53.880000 - 0:33:55.880000
+čita ver, koji je također;0:33:55.880000 - 0:33:57.880000
+gust linijarni uređaj,;0:33:57.880000 - 0:33:59.880000
+ali nema rubove,;0:33:59.880000 - 0:34:01.880000
+tako da, ključ znajte to svojstvo,;0:34:01.880000 - 0:34:03.880000
+imati rub nije;0:34:03.880000 - 0:34:05.880000
+za svaki postoji uključen.;0:34:05.880000 - 0:34:07.880000
+Dobro,;0:34:07.880000 - 0:34:09.880000
+dakle, ovdje smo vidjeli;0:34:09.880000 - 0:34:11.880000
+na par mjesta je dobro;0:34:11.880000 - 0:34:13.880000
+došlo to da su podmodeli elementarni,;0:34:13.880000 - 0:34:15.880000
+ako to možemo općenito;0:34:15.880000 - 0:34:17.880000
+zaključiti za bilo kakve podmodele,;0:34:17.880000 - 0:34:19.880000
+takvu teoriju zovemo;0:34:19.880000 - 0:34:21.880000
+modelno potpuno.;0:34:21.880000 - 0:34:23.880000
+Dakle, teorija te je;0:34:23.880000 - 0:34:25.880000
+modelno potpuno,;0:34:25.880000 - 0:34:27.880000
+ako, kad god imate dva njena;0:34:27.880000 - 0:34:29.880000
+modela,;0:34:29.880000 - 0:34:31.880000
+ključno je da to stvarno jesu,;0:34:31.880000 - 0:34:33.880000
+oba su modeli te teorije,;0:34:33.880000 - 0:34:35.880000
+treba reći za oba da jesu,;0:34:35.880000 - 0:34:37.880000
+ako je jedan podmodel drugog,;0:34:37.880000 - 0:34:39.880000
+onda je zapravo elementarni podmodel.;0:34:39.880000 - 0:34:41.880000
+I, naravno,;0:34:41.880000 - 0:34:43.880000
+propozicija je sad prilično jednostavna,;0:34:43.880000 - 0:34:45.880000
+dakle da svaka takva teorija;0:34:45.880000 - 0:34:47.880000
+jest ekvivalentna nekoj;0:34:47.880000 - 0:34:49.880000
+za svaki postoji teoriji,;0:34:49.880000 - 0:34:51.880000
+jer naravno sad želimo samo vidjeti;0:34:51.880000 - 0:34:53.880000
+da se ovakva konstrukcija može provest,;0:34:53.880000 - 0:34:55.880000
+ali to je zapravo sad prilično jednostavno.;0:34:55.880000 - 0:34:57.880000
+Svaki lanac je zapravo elementarni lanac.;0:34:57.880000 - 0:34:59.880000
+Jer naravno, za svaki par;0:35:03.880000 - 0:35:05.880000
+mi i mj;0:35:05.880000 - 0:35:07.880000
+vrijedi da je mi podmodel od mj,;0:35:07.880000 - 0:35:09.880000
+e, ali ako je svaki,;0:35:09.880000 - 0:35:11.880000
+ako je bio lanac modela za te,;0:35:11.880000 - 0:35:13.880000
+onda svaki odnutra je model za te,;0:35:13.880000 - 0:35:15.880000
+i onda, ovaj,;0:35:15.880000 - 0:35:17.880000
+na svaki par mogu primijeniti;0:35:17.880000 - 0:35:19.880000
+definiciju modelne potpunosti,;0:35:19.880000 - 0:35:21.880000
+dakle, opet za svaki par dobijem;0:35:21.880000 - 0:35:23.880000
+ovu teoriju. To znači zapravo da sam;0:35:23.880000 - 0:35:25.880000
+dobio elementarni lanac.;0:35:25.880000 - 0:35:27.880000
+Ali primjezite, naravno, teorija je uvijek;0:35:27.880000 - 0:35:29.880000
+očuvana za unije elementarnih lanaca,;0:35:29.880000 - 0:35:31.880000
+jer to točno znači,;0:35:31.880000 - 0:35:33.880000
+unija elementarnih lanca;0:35:33.880000 - 0:35:35.880000
+je elementarni nadmodel;0:35:35.880000 - 0:35:37.880000
+od svakog elementa unije.;0:35:37.880000 - 0:35:39.880000
+Teorem o uniji elementarnog lanca,;0:35:41.880000 - 0:35:43.880000
+baš smo ga tako zvali.;0:35:43.880000 - 0:35:45.880000
+Ali, to je to. Onda sam dokazao;0:35:47.880000 - 0:35:49.880000
+zapravo da je očuvana;0:35:49.880000 - 0:35:51.880000
+na unije lanaca, jer;0:35:51.880000 - 0:35:53.880000
+unija lanaca njenih modela;0:35:53.880000 - 0:35:55.880000
+je uvijek unija elementarnog lanca;0:35:55.880000 - 0:35:57.880000
+modela, a na to je uvijek očuvana.;0:35:57.880000 - 0:35:59.880000
+I, po prethodnom teoremu,;0:35:59.880000 - 0:36:01.880000
+ekvivalentna je nekoj za svaki postoji;0:36:01.880000 - 0:36:03.880000
+teoriji.;0:36:03.880000 - 0:36:05.880000
+Dobro, e, sad idemo;0:36:05.880000 - 0:36:07.880000
+još malo dalje, dakle, sintaksno,;0:36:07.880000 - 0:36:09.880000
+širimo naše formule.;0:36:09.880000 - 0:36:11.880000
+Kažemo što su pozitivne;0:36:11.880000 - 0:36:13.880000
+formule. Dakle, sad mogu;0:36:13.880000 - 0:36:15.880000
+kvantifikatorima kakvi god hoću,;0:36:15.880000 - 0:36:17.880000
+mogu imat logičke veznike konjunkcije;0:36:17.880000 - 0:36:19.880000
+i disjunkcije, ali ne smijem imat;0:36:19.880000 - 0:36:21.880000
+ove šta mogu uvest negativno,;0:36:21.880000 - 0:36:23.880000
+mogu uvest nekakve negacije,;0:36:23.880000 - 0:36:25.880000
+ali bilo direktno,;0:36:25.880000 - 0:36:27.880000
+bilo posredno preko kondicionala;0:36:27.880000 - 0:36:29.880000
+ili bikondicionala.;0:36:29.880000 - 0:36:31.880000
+Formula je pozitivna ako;0:36:31.880000 - 0:36:33.880000
+ne sadrži niti logički veznik negacije,;0:36:33.880000 - 0:36:35.880000
+niti kondicionala, niti bikondicionala,;0:36:35.880000 - 0:36:37.880000
+odnosno u pozitivnom smislu;0:36:37.880000 - 0:36:39.880000
+sastoji se od atomarnih;0:36:39.880000 - 0:36:41.880000
+formula, konjunkcije, disjunkcije;0:36:41.880000 - 0:36:43.880000
+i kvantifikatora.;0:36:43.880000 - 0:36:45.880000
+Naravno, pozitivna teorija;0:36:45.880000 - 0:36:47.880000
+je ona teorija koja se sastoji;0:36:47.880000 - 0:36:49.880000
+od rečenica koje su samo pozitivne.;0:36:49.880000 - 0:36:51.880000
+Odgovarajuće očuvanje,;0:36:51.880000 - 0:36:53.880000
+donaj jednu zvijezdnicu;0:36:53.880000 - 0:36:55.880000
+koju ćemo vidjeti poslije,;0:36:55.880000 - 0:36:57.880000
+je očuvanje za homomorfizme.;0:36:57.880000 - 0:36:59.880000
+Dakle, teorija je očuvana za homomorfizme,;0:36:59.880000 - 0:37:01.880000
+a ako je klasa svih jezinih;0:37:01.880000 - 0:37:03.880000
+modela zatvorena na homomorfizme,;0:37:03.880000 - 0:37:05.880000
+što znači da ako imaš model za tu teoriju;0:37:05.880000 - 0:37:07.880000
+i imaš neki homomorfizam,;0:37:07.880000 - 0:37:09.880000
+onda je, naravno, ne njužno kod omena,;0:37:09.880000 - 0:37:11.880000
+jer kod omena može biti bilo što,;0:37:11.880000 - 0:37:13.880000
+ali slika tog homomorfizma;0:37:13.880000 - 0:37:15.880000
+je također model.;0:37:15.880000 - 0:37:17.880000
+E sad,;0:37:21.880000 - 0:37:23.880000
+formula je očuvana za homomorfizme.;0:37:25.880000 - 0:37:27.880000
+Formula je očuvana za homomorfizme.;0:37:27.880000 - 0:37:29.880000
+Aha, da, naravno,;0:37:33.880000 - 0:37:35.880000
+ovo je jako lako reći,;0:37:35.880000 - 0:37:37.880000
+jer je teorija, teorija je skup rečenica.;0:37:37.880000 - 0:37:39.880000
+Treba će nam u dokazu,;0:37:39.880000 - 0:37:41.880000
+treba će nam i pojam očuvanja formule,;0:37:41.880000 - 0:37:43.880000
+koja nije nužno rečenica za homomorfizme,;0:37:43.880000 - 0:37:45.880000
+pa možemo i to,;0:37:45.880000 - 0:37:47.880000
+ali, dakle, više manje i isto.;0:37:47.880000 - 0:37:49.880000
+Jedino što se sad ovi slobodni moraju nekako preslikati,;0:37:49.880000 - 0:37:51.880000
+a naravno, kak će se preslikati?;0:37:51.880000 - 0:37:53.880000
+Preslikati će se upravo po tom homomorfizmu.;0:37:53.880000 - 0:37:55.880000
+Znači, kad god imaš formulu;0:37:55.880000 - 0:37:57.880000
+sa nekakvih n slobodnih variabli;0:37:57.880000 - 0:37:59.880000
+i nekakve n nekakvih elementa;0:37:59.880000 - 0:38:03.880000
+iz domene homomorfizma;0:38:03.880000 - 0:38:05.880000
+i s njima evaluiraš taj f,;0:38:05.880000 - 0:38:07.880000
+te vove u f,;0:38:07.880000 - 0:38:09.880000
+onda ovo će povlačit ovo,;0:38:09.880000 - 0:38:15.880000
+s tim da, naravno, u kojoj domeni moraš evaluirat vove drugačije,;0:38:15.880000 - 0:38:19.880000
+evaluiraš ih sa h od a1 do h od a1.;0:38:19.880000 - 0:38:23.880000
+Dobro, i naravno, teorija močuvanja.;0:38:25.880000 - 0:38:31.880000
+Primjećujete možda jedan dodatak,;0:38:31.880000 - 0:38:37.880000
+bez ovoga ne ide, naravno.;0:38:37.880000 - 0:38:39.880000
+Zašto ne ide?;0:38:39.880000 - 0:38:41.880000
+Dakle, dodatno se mora reći da je teorija konsistentna.;0:38:41.880000 - 0:38:43.880000
+Jer, pazite, ako teorija nije konsistentna,;0:38:43.880000 - 0:38:45.880000
+što to zapravo znaš za klasu njezinih modela?;0:38:45.880000 - 0:38:49.880000
+Klasa njezinih modela je sve.;0:38:49.880000 - 0:38:51.880000
+Sve.;0:38:51.880000 - 0:38:53.880000
+Dakle, ovaj, ne, sorry,;0:38:53.880000 - 0:38:57.880000
+inkonzistentna, dakle, klasa njezinih modela je prazna,;0:38:57.880000 - 0:39:01.880000
+pa je trivialno zatvorena na homorfizme.;0:39:01.880000 - 0:39:03.880000
+Ako imaš model, a nemaš,;0:39:03.880000 - 0:39:05.880000
+i imaš homomorfizam s njega u neku drugu strukturu,;0:39:05.880000 - 0:39:07.880000
+onda je ta druga struktura model.;0:39:07.880000 - 0:39:09.880000
+Slažem se, ali to je, ono,;0:39:09.880000 - 0:39:11.880000
+izlaži slijedi što god hoću.;0:39:11.880000 - 0:39:13.880000
+Znači, inkonzistentne teorije su trivialno očuvane za homomorfizme,;0:39:13.880000 - 0:39:17.880000
+ali, nažalost, nisu ekvivalentne pozitivnim teorijama,;0:39:18.880000 - 0:39:22.880000
+ne mogu nikako biti ekvivalentne pozitivnim teorijama,;0:39:22.880000 - 0:39:25.880000
+jer ima caka, dakle, pozitivna teorija je uvijek konsistentna.;0:39:25.880000 - 0:39:30.880000
+Zašto? Jer nekako, da bi došao u kontradikciju,;0:39:30.880000 - 0:39:33.880000
+moraš upotrebit negaciju. To je ključno.;0:39:33.880000 - 0:39:35.880000
+Kak se to može ovak, ne, pozitivno izreći?;0:39:35.880000 - 0:39:40.880000
+Uzmeš nosač koji se zastavlja sa samo jednog elementa;0:39:40.880000 - 0:39:43.880000
+i pomoću njega interpretiraš sve što ti treba.;0:39:43.880000 - 0:39:45.880000
+Dakle, na primjer, konstantske simbole interpretiraš sa njime,;0:39:45.880000 - 0:39:48.880000
+funkcijske simbole interpretiraš kao konstantne funkcije,;0:39:48.880000 - 0:39:51.880000
+a relacijske simbole interpretiraš kao, da stvarno unutra nešto bude,;0:39:51.880000 - 0:39:58.880000
+bude ta n-torka koliko već je mjesnost tih nula ili čega veće.;0:39:58.880000 - 0:40:02.880000
+I lako vidite, naravno, čim nema negacije, konjunkcija, disjunkcija,;0:40:02.880000 - 0:40:06.880000
+kvantifikacija, sve se čuva. Dakle, kvantifikacija se čuva zbog tega;0:40:06.880000 - 0:40:10.880000
+što je sve jedno člono. Tak da, je sve jedno,;0:40:10.880000 - 0:40:13.880000
+je l-univerzalno, je l-eksistencijalno, kvantificirate i sve što ima.;0:40:13.880000 - 0:40:16.880000
+Znači, zapravo, svaka pozitivna teorija je trivialno konsistentna,;0:40:16.880000 - 0:40:20.880000
+dakle ne može niko biti ekvivalentan sa te ako te nije konsistentna.;0:40:20.880000 - 0:40:23.880000
+Dakle, to je caka i naravno to znači da će i dokaz biti caka,;0:40:23.880000 - 0:40:28.880000
+u smislu nekako ćemo trebati bitno iskoristići činjenicu da je te konsistentna teorija.;0:40:28.880000 - 0:40:33.880000
+Ali dobro, znači, ono što je važno, opet je da jedan smjer, sad više, naravno,;0:40:33.880000 - 0:40:39.880000
+dokaze su postale već toliko komplicirane da samo mašamo rukama,;0:40:39.880000 - 0:40:42.880000
+ali dakle, za jedan smjer, kaže, dovoljno je dokazati,;0:40:42.880000 - 0:40:46.880000
+i to se dokazuje indukcijom posloženosti, naravno,;0:40:46.880000 - 0:40:49.880000
+da su pozitivne formule očuvane za homošizm.;0:40:49.880000 - 0:40:53.880000
+Vidite, tu sam treba definicija sa prethodnog slajda,;0:40:53.880000 - 0:40:57.880000
+dakle, ne samo rečenice, nego formule.;0:40:57.880000 - 0:41:01.880000
+Naravno, onda će i njihove logičke posljedice biti takve i onda zapravo,;0:41:01.880000 - 0:41:07.880000
+ovo, saj kalendrošću teorija možete napraviti.;0:41:07.880000 - 0:41:11.880000
+Ima sad tu nešto pisanja, ali nije, ja bih rekao da nije strašno.;0:41:13.880000 - 0:41:18.880000
+Dakle, naravno, konjunkcija i disjunkcija će proći, vrlo jednostavno.;0:41:19.880000 - 0:41:24.880000
+Atomarne formule će proći po definiciji homošizma.;0:41:25.880000 - 0:41:27.880000
+Homošizm točno znači da čuva atomarne formule.;0:41:27.880000 - 0:41:30.880000
+Kažem, konjunkcija i disjunkcija, vrlo jednostavno.;0:41:31.880000 - 0:41:33.880000
+I sad kvantifikacija, naravno, sad tu treba uz one variable;0:41:33.880000 - 0:41:36.880000
+kao još imamo slobodne, dodati još neke po kojima ćemo kao kvantificirati.;0:41:36.880000 - 0:41:39.880000
+I onda vidi da homošizm to sačuva u smislu da ako ovdje kažem za svaku valuaciju,;0:41:39.880000 - 0:41:45.880000
+onda će za svaku biti i u slici.;0:41:45.880000 - 0:41:47.880000
+Mislim, više manje to je definicija slike, ali slika je ona koja...;0:41:47.880000 - 0:41:51.880000
+Jesi u slici ako si slika nekog konkretnog elementa.;0:41:51.880000 - 0:41:55.880000
+Ali ako vrijedi za svaki u domeni, onda vrijedi i za svaki u slici.;0:41:55.880000 - 0:41:59.880000
+Naravno, nenužno za svaki u kojoj domeni, ali to nas nije ne traži.;0:41:59.880000 - 0:42:03.880000
+To je kao nekako surjetivnost treba za jedan kvantifikator,;0:42:04.880000 - 0:42:07.880000
+a za drugi isto surjetivnost.;0:42:10.880000 - 0:42:12.880000
+Naravno, homošizmi nisu nužno injekcije, dakle samo surjetivnost.;0:42:12.880000 - 0:42:17.880000
+Dakle, ako postoji netko u kojom domeni, u domeni,;0:42:17.880000 - 0:42:21.880000
+onda postoji netko u slici jer taj netko je upravo slika tog elementa iz domene.;0:42:21.880000 - 0:42:26.880000
+Dobro, inače ovo isto možemo reći neki kao template u kojem možete reći,;0:42:27.880000 - 0:42:36.880000
+kad u teoriji skupova dokazujete da je nešto invarianta sličnosti,;0:42:36.880000 - 0:42:40.880000
+onda najčešće imate ovako razmišljeno.;0:42:40.880000 - 0:42:43.880000
+Imate nekakvu homošizam, to je naravno sličnost, samo dodatno da je surjekcija.;0:42:43.880000 - 0:42:47.880000
+I onda želite vidjeti da se neko svojstvo čuva,;0:42:47.880000 - 0:42:51.880000
+a to svojstvo je, najčešće zapravo čak i nije pozitivno,;0:42:51.880000 - 0:42:55.880000
+ali je iskazano u obliku da zapravo vlada.;0:42:55.880000 - 0:42:59.880000
+Vrijedi ako i samo ako pa onda možete...;0:42:59.880000 - 0:43:02.880000
+Šta smo to zvali? Jaki homošizam zapravo.;0:43:02.880000 - 0:43:05.880000
+Ej, sad kaže drugi smjer, ali idemo na pauzu.;0:43:09.880000 - 0:43:14.880000
+Ovo je naša prijateljska kreća.;0:43:55.880000 - 0:43:59.880000
+U ovom videu ćemo vidjeti da je to nešto imenuti;0:43:59.880000 - 0:44:03.880000
+nešto što je nije uvijek uvijek uvijek uvijek uvijek uvijek.;0:44:03.880000 - 0:44:08.880000
+I sad ćemo vjetirati na to.;0:44:08.880000 - 0:44:12.880000
+Ovo je naša prijateljska kreća.;0:44:12.880000 - 0:44:16.880000
+Ovo je naša prijateljska kreća.;0:44:16.880000 - 0:44:20.880000
+Ovo je naša prijateljska kreća.;0:44:20.880000 - 0:44:24.880000
+Ovo je naša prijateljska kreća.;0:44:24.880000 - 0:44:28.880000
+Ovo je naša prijateljska kreća.;0:44:28.880000 - 0:44:32.880000

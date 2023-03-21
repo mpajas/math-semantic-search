@@ -1,0 +1,438 @@
+Speech;Timestamp
+Idemo na definabilnost. Betov teorem je važna stvar i to ćemo, valjda, imati više sreća nego sa Craigom.;0:00:00 - 0:00:10
+Ali idemo prvo. Betov teorem je veza između implicitne definabilnosti i eksplicitne definabilnosti.;0:00:11 - 0:00:17
+O čemu se nekak radi? Vrlo ovak, možda elementarno.;0:00:17 - 0:00:22
+Što znaš i da je nekakav relacijski simbol definabilan u nekoj teoriji?;0:00:23 - 0:00:27
+Dakle, naravno, ajmo reći, valjda, prvo što nam pada na pamet je;0:00:27 - 0:00:31
+mogu napisati neku formulu takvu da je ta formula ekvivalentna s time da,;0:00:33 - 0:00:37
+sa nekakvom atomarnom formulom s tim relacijskim simbolima.;0:00:38 - 0:00:41
+I to je zapravo, mislim, više manje eksplicitna definabilnost.;0:00:41 - 0:00:45
+A implicitna definabilnost nije to, nego je nešto ovakvo.;0:00:45 - 0:00:50
+Dakle, kaže zapravo da ako imam nekakvu teoriju,;0:00:50 - 0:00:54
+unutar koje imam nekakav relacijski simbol,;0:00:54 - 0:00:58
+i onda napravim drugu teoriju koja se od te prve razlikuje samo u imenu;0:00:59 - 0:01:04
+tog relacijskog simbola, i onda napravim uniju njih,;0:01:04 - 0:01:07
+onda zapravo u takvo proširenoj teoriji,;0:01:08 - 0:01:12
+dakle, mogu reći, kopiranoj teoriji, znači sa promjenjenim imenom;0:01:12 - 0:01:19
+tog relacijskog simbola, zapravo mogu dokazati da su ove dvije stvari;0:01:19 - 0:01:23
+ekvivalentne. Naravno, onda ne bismo možda čak to zvali definabilan,;0:01:23 - 0:01:27
+to bismo možda zvali nekako jednoznačno određen.;0:01:27 - 0:01:31
+Sama teorija T jednoznačno određuje P,;0:01:31 - 0:01:34
+ako kad ga nazovem drugačije, uniju te dvije teorije mogu,;0:01:34 - 0:01:38
+kad ga nazovem pet srtica, uniju te dvije teorije mogu dokazati;0:01:38 - 0:01:41
+da je P i pet srtica isto.;0:01:41 - 0:01:43
+Dakle, mislim da je sad malo jasnije što znači implicitna definabilnost.;0:01:44 - 0:01:50
+A kažem formalno, sad tu ima nekakvih priča, znači imam signaturu sigma,;0:01:50 - 0:01:56
+imam nekakav P i nekakav P srtica, ni jedan ni drugi nisu iz sigma;0:01:56 - 0:02:04
+i oni su još različiti među sobom.;0:02:04 - 0:02:07
+A onda kaže sigma srtica, da dobro, ovo je malo šašava terminologija,;0:02:09 - 0:02:17
+dobro, znači sigma srtica se dobije tako da se u sigma stavi P,;0:02:17 - 0:02:20
+znači bez srtice.;0:02:20 - 0:02:22
+A onda se srtica napravi tako da se ovi slaševi pišu.;0:02:22 - 0:02:26
+Dakle, G pet srtica za P je jednostavno find replace,;0:02:26 - 0:02:34
+dakle, prođem kroz formulu G i svuda u njoj zamijenim pojavu simbola P;0:02:34 - 0:02:41
+sa simbolom pet srtice.;0:02:41 - 0:02:43
+I naravno za teoriju isto, jednostavno to napravim za svaku formulu u toj teoriji.;0:02:43 - 0:02:55
+Dobro, dakle, Lema kaže nešto što bismo svakako očekivali,;0:02:59 - 0:03:06
+dakle, da ako je F sigma formula, dakle u F se ne pojavljuju niti P, niti pet srtica,;0:03:06 - 0:03:12
+i F ima za logičku posteljicu G, onda je F ima za logičku posteljicu i G u kojoj je pet srtica promijen.;0:03:12 - 0:03:20
+Kako bi se to, hajdemo reći, formalno napravilo?;0:03:20 - 0:03:24
+Pa, jednostavno, uzmete bilo koju strukturu,;0:03:24 - 0:03:29
+znači, što uopće znači, hajdemo biti skoro sprecisni,;0:03:29 - 0:03:35
+što uopće znači da F ima za logičku posteljicu ovako nešto?;0:03:35 - 0:03:39
+Znači, da u bilo kojoj strukturi, ali nad zajedničkom signaturom u kojoj je vrijedi F,;0:03:39 - 0:03:45
+mora vrijediti ovako nešto. Znači, vi zapravo uzmete strukturu M;0:03:45 - 0:03:48
+koja je nad sigma unija još ove pet srtica, i u njoj je vrijedi F.;0:03:48 - 0:03:53
+Međutim, naravno, F ne spominje pet srtica, pa onda u, kak se to formalno zove, redukciji,;0:03:53 - 0:04:00
+znači, te strukture, znači, onaj kao M minus ili kak smo ga već zvali,;0:04:00 - 0:04:09
+znači, iz kojeg je izbačena pet srtica, također vrijedi F.;0:04:09 - 0:04:15
+A onda, opet, i u ekspanziji te strukture, znači, koja umjesto tog pet srtica;0:04:15 - 0:04:25
+kojeg sam sad izbacio i više ga uopće nema, znači, radi se o sigma strukturi,;0:04:25 - 0:04:29
+ja mogu jednostavno napraviti ekspanziju sa simbolom P, koji se opet ne pojavljaju u F.;0:04:29 - 0:04:34
+Dakle, u takvo definiranoj strukturi mora vrijediti i F.;0:04:34 - 0:04:39
+Znači, M1 vrijedi F, znači, nad sigma unija pet srtica.;0:04:39 - 0:04:51
+M2 vrijedi F, znači, nad sigma redukcija.;0:04:52 - 0:05:00
+I onda M3 vrijedi F, nad sigma unija pet ekspanzija.;0:05:02 - 0:05:14
+I onda, naravno, nad M3 mora vrijediti G.;0:05:15 - 0:05:23
+A onda, naravno, nad M1 mora vrijediti G za pet srtica nad P, jer jednostavno samo sam...;0:05:25 - 0:05:36
+Kad raspišem što znači jedno i što znači drugo, i jedno i drugo znače doslovno jednoteisto,;0:05:36 - 0:05:48
+jer samo se promijenilo ime ovog relativskog simbola.;0:05:48 - 0:05:53
+Ok, znači, kažem, lema stvarno nije teška za dokazat.;0:05:57 - 0:06:02
+Kažem, ako ćete ići raspisivati ovu Tarskijevo semantiku, onda je posla, ali zapravo,;0:06:03 - 0:06:08
+rekli bi smo, ide baljda nekakvom, cijela priča ide nekom indukcijom po G,;0:06:08 - 0:06:14
+indukcijom po izgradnju od G.;0:06:14 - 0:06:16
+Dobro, u zaglom slučaju vraćamo se na ovu priču o implicitne definabilnosti.;0:06:19 - 0:06:24
+Dakle, još jedan put uzmem teoriju koja je sigma srtica teorija,;0:06:24 - 0:06:29
+ona je teorija nad sigma u kojoj se još smije pojavljivati relativski simbol P,;0:06:29 - 0:06:36
+n mi jasni, i onda što napravim, dobro, ove akcijome u kojima se ne pojavljuje P;0:06:37 - 0:06:43
+ostavim na miru, ali akcijome u kojima se pojavljuje P dupliciram;0:06:43 - 0:06:47
+i u njima P zamijenim sa 5 srtice.;0:06:47 - 0:06:49
+Dakle, na taj način dobijem nadebljenu teoriju.;0:06:49 - 0:06:52
+Iako u toj nadebljenoj teoriji mogu dokazat' da su P i 5 srtice ekvalentni,;0:06:52 - 0:06:56
+u smislu naravno da su sve vrijednosti variabli.;0:06:56 - 0:06:59
+Dakle, ovo sad više nije rečenica, ovo je formula, ali onda podrazumijavamo zapravo;0:06:59 - 0:07:03
+da to znači njeđeno uvjevr zato za otvorenje je zapravo logička posljedica od te unija,;0:07:03 - 0:07:10
+te srtice, te u kojim je 5 zamijenjeni sa 5 srtice.;0:07:10 - 0:07:16
+Propozicija kaže ovo što sam rekao, dakle, zašto bismo implicitnu definabilnost;0:07:20 - 0:07:24
+možda bolje zvali jednoznačna definiranost, to točno ta proposicija kaže.;0:07:24 - 0:07:30
+Dakle, P je implicitno definabilan u nekakvoj sigma srtica teoriji.;0:07:30 - 0:07:34
+I samo ako, dakle, stvarno je to karakterizacija, za svaku sigma strukturu,;0:07:34 - 0:07:40
+znači za svaku ovakvu sigma, postoji najviše jedna interpretacija od P.;0:07:40 - 0:07:47
+Znači, jasno je da sam iz M1 do M2 došao na jedinstven način jer je to redukcija,;0:07:47 - 0:07:53
+ali zapravo ovo kaže da je i u suprotnom smjeru mogućna najviše jedna.;0:07:53 - 0:07:57
+Znači, postoji najviše jedna interpretacija od P, takva da je odgovarajuća ekspanzija;0:07:57 - 0:08:01
+model za te srtice.;0:08:01 - 0:08:06
+Ne, da je sigma srtica ekspanzija, dakle, ekspanzija sa relacijskim simbolom P,;0:08:10 - 0:08:16
+model za i ove preostale akcije.;0:08:19 - 0:08:22
+Dobro, sad, nisam siguran da se tako pozicija stvarno dokazuje.;0:08:23 - 0:08:26
+Da, ne. Ali, je li treba ova lema? Valjda treba, ali gdje? U kom smjeru?;0:08:26 - 0:08:35
+Znači, imam predpostavku da je P implicitno da je finabilon.;0:08:46 - 0:08:49
+Sad trebam uzeti sigma strukturu M i dokazati da vrijedi ovo.;0:08:50 - 0:08:56
+Aha, da, lako je. Predpostavim suprotno, znači, suprotno od postoji najviše jedna,;0:08:57 - 0:09:02
+jer postoje bar M2 interpretacije i ekspandiram M.;0:09:02 - 0:09:07
+Znači, jednostavno M1 i M2, napravim ekspanzije tako da stvarno;0:09:07 - 0:09:17
+predpostavljam sad da postoje dvije različite interpretacije,;0:09:17 - 0:09:20
+dakle da napišem to. I onda, šta kažem, onda sigurno unutar ove teorije;0:09:20 - 0:09:31
+te unija... Mi nije rečeno da je konsistentna.;0:09:33 - 0:09:39
+Aha, ne, ako nije konsistentna, onda nemam ni ovog M-a, onda sam u većim problemima.;0:09:42 - 0:09:45
+Za početak uzimamo da je T konsistentna. Onda kažemo ovako,;0:09:47 - 0:09:50
+predpostavka je da je P implicitno da je finabilon, dakle da ja iz ove tu unije;0:09:53 - 0:09:58
+mogu izvest ovo. Znači, to zapravo znači da je mogu izvest za svake,;0:09:58 - 0:10:02
+za sve vrijednosti variabli V1 do Vn. Međutim, ovo mi kaže da sam ja zapravo mogao,;0:10:02 - 0:10:09
+znači, ovako, PM1 je različita od PM2, dakle interpretacija P u strukturi M1;0:10:09 - 0:10:21
+je različita od interpretacije u strukturi M2. Dakle, a to su nekakvi enmjestne relacije,;0:10:21 - 0:10:31
+dakle, podskupovi od L. Znači, ovdje je ekspanzija, to smo već hrva puta koristili,;0:10:31 - 0:10:43
+dakle, ekspanzija ne mijenja nosač. Dakle, nosač od M1 je isti kao i nosač od M,;0:10:43 - 0:10:49
+a on je isti kao i nosač od M2. To ćemo naravno onda označiti, recimo, sam M.;0:10:49 - 0:10:56
+E sad, ovo je podskup od M na N2 i ovo tu je podskup od M na N2 i to su različiti skupove.;0:10:56 - 0:11:03
+Znači, ima nekakva entorka X1, a sad nije bi dobro zvati X1, zapravo čak i mogu jer ovo su zove V-ovi,;0:11:03 - 0:11:12
+Xn, element M na N2, tako da je u jednom od njih, dakle, BSOmP X1 do Xn;0:11:13 - 0:11:26
+je u M1, a nije u M2. E, ali onda naravno, ova tu formula nije istinita u;0:11:26 - 0:11:41
+u strukturi nekoj malo većoj, jel' znači, gdje bih ja interpretirao i P i P';0:11:42 - 0:11:57
+Može, znači napravim M4, znači to je ekspanzija od čega?;0:11:57 - 0:12:10
+M1, M2, M3, od M1 gdje dodamo P' i interpretiram ga u M3 kao P u M2.;0:12:10 - 0:12:35
+To mogu, naravno, jer opet nosač je potpuno isti.;0:12:36 - 0:12:39
+Dakle, i sad dobijem jednu te istu strukturu, naravno nad signaturom koja sad u sebi uključuje i P, i P';0:12:42 - 0:12:54
+koja jest model za T, naravno, jer ovaj dio koji se odnosi na P vrijedi,;0:12:55 - 0:13:00
+a isto tako je model za ovu T gdje je P zamijenjen sa P' jer, jednostavno, samo sam, M1 i M2 su potpuno isti što se tiče ovih preostalih stvari.;0:13:00 - 0:13:13
+Znači, imam strukturu M3 na kojoj vrijedi ovo, a očito ne vrijedi ovo jer ima konkretni element nježnjeg nosača;0:13:16 - 0:13:23
+koji je u jednom, a nije u drugom. Znači, to je ovaj, jedan smjer valja.;0:13:23 - 0:13:29
+Drugi smjer, e sad, ako za svaku sigma strukturu postoji neviše jedna interpretacija, tada je P implicitno definibilan.;0:13:31 - 0:13:40
+Kak to?;0:13:41 - 0:13:43
+Moram dobiti da je ovo logička posljedica.;0:13:48 - 0:13:52
+A više manje se obrne ova priča, samo da, treba da ima dosta tih stupnjeva slobode, trebalo bi vidjeti.;0:13:52 - 0:14:04
+Znači, dobro, uzmem bilo kakvu strukturu koja je model za ovo, onda je ona, naravno, model posebno za ovo, posebno za ovo.;0:14:09 - 0:14:21
+Znači,;0:14:23 - 0:14:24
+pa da, i pretpostavim da nije ovo logička posljedica, onda ima takva struktura, znači koja je model i za ovo i za ovo,;0:14:29 - 0:14:37
+ali koja nije model za ovo. Što znači da nije model za bi-kondicional?;0:14:37 - 0:14:41
+To znači da jedna od te dvije, znači, na primjer, ova vrijedi u toj strukturi, a ova ne vrijedi.;0:14:41 - 0:14:47
+Ali to točno znači da ja onda tu strukturu koja je, znači ona je nad sigma unija P i P';0:14:47 - 0:15:00
+ja mogu reducirati tako da, da izbacim P' onda će ona biti model za T,;0:15:00 - 0:15:12
+a mogu isto tako izbaciti P' onda će ona biti model za ovo.;0:15:12 - 0:15:16
+I sad na jednoj od njih vrijedi P, na drugoj ne vrijedi P.;0:15:21 - 0:15:25
+Aha, i to je to. Dobio sam dvije različite ekspanzije od M koje su model za T.;0:15:28 - 0:15:39
+Ali to je u suprotnosti sa ovim tu ispropozicijem. Dakle, je, ima raspisivanja, ali dobro.;0:15:39 - 0:15:48
+Stvarno bih rekao da prolazi.;0:15:49 - 0:15:52
+Dobro, e sad, znači, to je bila implicitna definabilnost, sad explicitna definabilnost,;0:15:56 - 0:16:03
+kažem, to je ono što zapravo obično mislimo pod definabilnošću.;0:16:03 - 0:16:07
+Dakle, jednostavno postoji nekakva formula, ova F sa N variabli slobodnih,;0:16:07 - 0:16:14
+takva da je ona ekvivalenta u prošljenoj teoriji, znači u prošljenoj signaturi;0:16:16 - 0:16:22
+sa tim da, sa tom atomarnom formulom, sa tim gravatskim simbolom.;0:16:26 - 0:16:33
+Kao i prije, dodamo P, sad više nema P crtica, sad je samo P,;0:16:34 - 0:16:39
+ali sigma crtice se i dalje zove u ovaj prošljena signatura.;0:16:40 - 0:16:43
+Znači sad nema više s desne strane nekakva druga, kao fold druga,;0:16:45 - 0:16:50
+P nego je zapravo nekakva formula. I to je sigma formula, dakle naravno.;0:16:50 - 0:16:55
+Ne želimo rekursivnu definiciju od P, dakle jednostavno želimo P explicitno definirati;0:16:55 - 0:17:00
+i moćemo da nećemo nešto što ne spominje P.;0:17:00 - 0:17:02
+Dakle, ne želimo cirkularne definicije.;0:17:03 - 0:17:05
+Dobro, i sad, dobro, ja bih rekao da je ovo stvarno jednostavno,;0:17:06 - 0:17:11
+dakle explicitna definabilnost povlači implicitnu definabilnost.;0:17:11 - 0:17:15
+Zašto? Jer ako imaš ovakvu sigma formulu, onda naravno za onaj P crtice će ti biti to isto.;0:17:15 - 0:17:20
+Explicitno je definabilan u T, evo, to piše, a onda je naravno P crtica;0:17:23 - 0:17:28
+explicitno definabilan u T gdje je P crtica zamijenjen sa P,;0:17:28 - 0:17:31
+jer kažem, zapravo samo sam za utarskije definiciju instinitosti se ništa ne mijenja,;0:17:31 - 0:17:38
+samo sam promijenio ime relativskog simbola.;0:17:38 - 0:17:40
+A onda naravno, kad imam uniju te dvije teorije, onda u njoj vrijedi i ova formula;0:17:40 - 0:17:45
+i ova sa P crtica, a onda su naravno sve te tri ekvivalentne i to je to.;0:17:45 - 0:17:51
+Evo, možemo samo vidjeti da iz...;0:17:51 - 0:17:53
+Vidjeti ovo, a to je stvarno jednostavno.;0:17:59 - 0:18:04
+A je ovaj P, B je ovaj F, a C je ovaj P crtica.;0:18:04 - 0:18:09
+Da, onda, da kažem, pa da ova metoda može biti ponekad korisna,;0:18:16 - 0:18:21
+ali kažem, zapravo je logički prilično jednostavna.;0:18:21 - 0:18:24
+Evo jednog primjera, primjene pa da ovoj metode, dakle, kaže imam signaturu;0:18:24 - 0:18:31
+koja zapravo sadrži samo plus od zanimljivih simbola, funkcijski binarni;0:18:31 - 0:18:38
+i jednakost standardno.;0:18:38 - 0:18:40
+I još, znači to je ova osnovna signatura, a onda sad imam još ovaj donatni;0:18:40 - 0:18:49
+koji kao pokušavam vidjeti je li definiran, dakle ovaj R.;0:18:49 - 0:18:52
+Nekom dvomjestnim relacijskim simbolom.;0:18:52 - 0:18:55
+I sad ja bih nego htio da to bude uređaj.;0:18:55 - 0:18:58
+Zamislim nosač Z, plus je naravno zbrajanje na Z,;0:18:59 - 0:19:03
+a ovaj, taj R bi kao trebao biti uređaj na Z.;0:19:03 - 0:19:08
+I onda zapravo hoću reći, e, ali uređaj je zapravo nemoguće definirati;0:19:09 - 0:19:13
+samo pomoću zbrajanja na Z.;0:19:13 - 0:19:15
+Sad kao, zašto?;0:19:15 - 0:19:17
+I on vrlo elegantan argument slijedi iz metode i one propozicije;0:19:17 - 0:19:24
+sa prethodnog slajda.;0:19:24 - 0:19:25
+Jer kaže, ako obrneš uređaj, i dalje će bit sve isto.;0:19:25 - 0:19:30
+Dakle, u smislu, ta struktura će biti izomorf na ovoj početnoj strukturi,;0:19:30 - 0:19:37
+jer zapravo sam mogu flipnuti Z oko nula, jel?;0:19:37 - 0:19:40
+Dakle, zbrajanje će ostati isto, invariantno,;0:19:40 - 0:19:43
+a uređaj će se promijeniti.;0:19:44 - 0:19:46
+To točno znači kontraprimjer za tvrdnju iz one propozicije tamo, jel?;0:19:47 - 0:19:51
+Dakle, ne postoji jedinstvena interpretacija od R,;0:19:51 - 0:19:55
+takva da je ova ekspanzija model za teoriju T.;0:19:55 - 0:19:58
+Što je teorija? Aha, ne, teorija T je sve skupa, jel?;0:20:01 - 0:20:04
+Teorija T je, znači, teorija od Z plus, ali, dobro.;0:20:05 - 0:20:15
+Dakle, sigurno ne vrijedi da je uređaj implicitno definabilan u T,;0:20:15 - 0:20:27
+a onda, naravno, popad ova ova metodi nije ni explicitno definabilan.;0:20:28 - 0:20:33
+Dakle, nije moguće napisati formulu takvu da je,;0:20:33 - 0:20:38
+koja koristi samo plus i jednako,;0:20:39 - 0:20:42
+pomoću koja se može definirati uređaj.;0:20:43 - 0:20:45
+Naravno, za razliku od N-a, gdje je to totalno trivialno,;0:20:45 - 0:20:49
+dakle, na N-u je, naravno, a manje od b,;0:20:49 - 0:20:53
+ekvivalentno sa postojiće takav da je a plus c,;0:20:53 - 0:20:58
+sjedbenik, kako se to već piše, jednako b.;0:20:59 - 0:21:03
+Dakle, naravno, čitava poanta je da na N-u ovako nešto ne možete napraviti,;0:21:05 - 0:21:11
+i zato je stvar, smije biti definabilna, a doista i je definabilna,;0:21:11 - 0:21:15
+a na Z-u imate ovaj izomorfizam koji pokazuje da ne možete to interpretirati.;0:21:15 - 0:21:20
+Potpuno ista situacija, možda, negako prirodnija, odnosno poznatija,;0:21:20 - 0:21:24
+je u algebri, kad se hoće reći da se i ne može definirati.;0:21:24 - 0:21:29
+Dakle, ljudi kao hoće reći, aha, i ti je korijen iz minus 1,;0:21:29 - 0:21:34
+mislim, slažem se, to je sasvim dobra karakterizacija od i,;0:21:34 - 0:21:38
+ali ne može biti definicija zato što takav i nije jedinstven.;0:21:38 - 0:21:42
+Dakle, minus i je isto korijen od minus 1, i zapravo jedini način;0:21:42 - 0:21:46
+da vi zapravo na neki način odaberete jednog od te dvojice;0:21:46 - 0:21:50
+se svodi ili na to da imate nekakve argumente, ili imate nekakvu strukturu;0:21:50 - 0:21:56
+kompleksne ravnine koja je kompliciranija od same algebre.;0:21:56 - 0:21:59
+Dakle, sama činjenica da je i na kvadrat jednak minus 1 nije dovoljna,;0:21:59 - 0:22:03
+jer naravno postoje dva takva i ono što preslikava jedan od drugog,;0:22:03 - 0:22:08
+dakle, ovaj z u z konjugirano je automorfizam.;0:22:08 - 0:22:12
+Dakle, ne samo da smijete plus koristiti, ako smijete i puta koristiti.;0:22:12 - 0:22:16
+Dakle, to je automorfizam polja.;0:22:16 - 0:22:18
+Dakle, u čitavom polju c plus puta i nije definibilni.;0:22:25 - 0:22:30
+Dakle, naravno uređaj ne mogu ovdje ni imati, jer ne postoji uređaj;0:22:33 - 0:22:42
+koji je kompatibilan s operacijama, ali baš zato kažem da je zanimljivo.;0:22:42 - 0:22:48
+I naravno to sad kad generalizirate, znači sad, ako umjesto ove jednadžbe;0:22:53 - 0:22:58
+x na kvadrat plus 1 jednako 0 promatrate bilo kakve jednadžbe algebarske;0:22:58 - 0:23:04
+i ovdje promatrate bilo kakve automorfizme koji čuvaju nekakvo jezgreno polje,;0:23:04 - 0:23:09
+onda dobijete ga lovao u teoriju zapravo.;0:23:09 - 0:23:12
+Samo kažem, to je na neki način generalizacija ove priče.;0:23:13 - 0:23:17
+I sad, Beethoven teorem definibilnosti kaže zapravo da vrijedi i obrat.;0:23:18 - 0:23:24
+To je ono što je u izvjesnom smislu dosta fascinantno.;0:23:24 - 0:23:28
+Dakle, da čim je nekaj relacijski simbol implicitno definibilan,;0:23:29 - 0:23:35
+da onda mora biti explicitno definibilan.;0:23:35 - 0:23:37
+Čim ja imam u nekakvoj teoriji sa dupliciranim akcijojima,;0:23:38 - 0:23:42
+sa preimenovanim simbolima, da su ta dva simbola koji su pali s neba;0:23:42 - 0:23:47
+nekako ekvivalentni, ja tada zapravo imam način da ja u samoj teoriji,;0:23:47 - 0:23:51
+u ovoj bez, znači na sigma, bez jednog od tih relacijskih simbola;0:23:51 - 0:23:55
+zapravo definiram to.;0:23:55 - 0:23:57
+Na prvi pogled se čini jako, jako snažno, ali znači vidjet ćemo kako se to dokaže.;0:23:57 - 0:24:03
+Znači, opet, nek je to P, nek je ovo preostalo je sigma;0:24:06 - 0:24:10
+i sajedno značivo mjesnost.;0:24:10 - 0:24:12
+Uvedemo još N različitih konstantskih simbola, novih,;0:24:13 - 0:24:17
+koji nisu u sigma.;0:24:18 - 0:24:20
+To smo rekli da ćemo kao nekako se praviti da uvijek to možemo napraviti.;0:24:20 - 0:24:24
+Nije doslovno posljedica toga da je beskonačno,;0:24:24 - 0:24:26
+jer, naravno, sigma je mogao biti beskonačan,;0:24:26 - 0:24:29
+ali izmislim nekako N novih konstantskih simbola koji nisu u sigma.;0:24:29 - 0:24:37
+Dobro.;0:24:37 - 0:24:38
+I preimenovim ovaj P u pet srdice.;0:24:40 - 0:24:42
+Evo, naravno, moram se osigura da taje pet srdice isto nije iz sigma.;0:24:42 - 0:24:47
+E, i sad, činjenica da je P implicitno definibilna,;0:24:49 - 0:24:51
+dakle, predpostavka mog teorema kaže ovo.;0:24:51 - 0:24:55
+Znači, P od v1 do vN je vrijedi bikondicional sa pet srdica od v1 do vN;0:24:56 - 0:25:03
+u teoriji koja ima čitavu teoriju T i još ove teoriju T u kojoj je P zamijenjen sa pet srdice.;0:25:03 - 0:25:11
+I sad kaže ovako. Znači, to zapravo bi značilo da,;0:25:13 - 0:25:17
+konkretno, ako uzmeš čitavu T, u nju dodaš P od c1 do cN.;0:25:18 - 0:25:26
+Dakle, kažem, naravno, ideja je da ti c1 do cN budu potpuno slobodne konstante,;0:25:26 - 0:25:32
+dakle, da ne znamo ništa od njihove interpretacije,;0:25:32 - 0:25:34
+ali, dakle, to mogu uvrstiti ovdje.;0:25:34 - 0:25:37
+I mogu uvrstiti ovdje u pet srdica sa negacijom;0:25:38 - 0:25:41
+i još dodati ovu teoriju T sa zamijenjenim relativskim simbolima.;0:25:41 - 0:25:47
+Kaže to je inkonsistentno. Zašto?;0:25:48 - 0:25:50
+Jer, naravno, kad bi to bilo konsistentno, to bi značilo da imam,;0:25:50 - 0:25:55
+to bi zapravo značilo da ispunjivo L, to bi značilo da imam strukturu;0:25:55 - 0:25:59
+koja je model za to, to, to i to.;0:25:59 - 0:26:01
+Ili, drugim liječima, model za ovo, ovo, ovo i ne, ne ovo.;0:26:02 - 0:26:08
+L, takva struktura bi onda bila model za ovo i ove dvije stvari,;0:26:09 - 0:26:13
+a očito ne bi bila model za ovu formulu jer u njoj bi onda;0:26:13 - 0:26:17
+za konkretne v1 do vn koje evaluiram sa c1 do cN,;0:26:17 - 0:26:22
+koje evaluiram sa interpretacijama c1 do cN, vrijedilo ovo, ali ne i ovo.;0:26:25 - 0:26:31
+Onda ne bi kondicionalno bio ispunjen.;0:26:31 - 0:26:34
+Dakle, doista ova teorija je inkonsistentna.;0:26:34 - 0:26:37
+Po teorijem o kompaktnosti postoji konačan podskup koji nije ispunjiv,;0:26:37 - 0:26:42
+međutim, taj konačan podskup je naravno ovaj s1,;0:26:42 - 0:26:50
+s1 je podskup od...;0:26:50 - 0:26:52
+Te unija...;0:27:03 - 0:27:05
+Mislim, ovi ceovi mi služi samo tome da mogu govoriti o variablama,;0:27:12 - 0:27:16
+a da zapravo ne govorim formalno o variablama.;0:27:16 - 0:27:19
+Da ne znam ništa o njihovim interpretacijima.;0:27:19 - 0:27:22
+Dakle, oni su kao slobodne variable, ali nisu variable, nego su konstante.;0:27:22 - 0:27:27
+Zato da imam rečenice, da mogu primjeriti teorije o kompaktnosti.;0:27:28 - 0:27:31
+E...;0:27:31 - 0:27:32
+Dobro.;0:27:41 - 0:27:42
+E, i sad kaže taj s1 je zapravo, ga rastavim na one dijelove koji su podskupovi,;0:27:43 - 0:27:51
+znači s definiram kao s1 presjek T, a s' definiram kao s presjek ova preimenova na T.;0:27:51 - 0:28:07
+I onda je naravno s unija ovo ovdje, unija s', unija ovo ovdje,;0:28:08 - 0:28:15
+ili je to baš jednako s1, ili je nekakav trivialni natskup od s1.;0:28:16 - 0:28:20
+Dakle, možda sam dodao još neka dva elementa, ali u svakom slučaju to je neispunjivo.;0:28:20 - 0:28:26
+Ok.;0:28:44 - 0:28:45
+E, i sad kaže, budući da su to konačni skupovi, konjunkciju jednog mogu napraviti,;0:28:46 - 0:28:56
+jednostavno konjunkciju svih formule iz njega i to značim sa f,;0:28:56 - 0:28:59
+i isto tako konjunkciju svih iz drugog i to značim sa g.;0:29:00 - 0:29:06
+I sad kaže, f i p povlači logički g kondicional p crtica.;0:29:07 - 0:29:26
+Zašto? Jer kad to ne bi bilo, postojala bi struktura na kojoj je ovo istina,;0:29:27 - 0:29:37
+ovo istina, a ovo nije istina.;0:29:37 - 0:29:40
+Međutim, ovo nije istina bi značilo da je ovo istina i ovo nije istina,;0:29:40 - 0:29:44
+a to bi točno bio model za ovo ovdje.;0:29:44 - 0:29:48
+Dobro?;0:29:49 - 0:29:50
+Dakle, reći da je ova tu kondicional, logička posljedica ove tu konjunkcije;0:29:50 - 0:29:55
+je samo jedan maštovit način za reći da je ovo tu.;0:29:55 - 0:29:59
+Dakle, da je skup f, p, g, n, p crtica, ne ispunjujem.;0:29:59 - 0:30:09
+Dobro?;0:30:10 - 0:30:11
+Ja i sad naravno primijenim krajga.;0:30:12 - 0:30:14
+Da?;0:30:15 - 0:30:16
+Da, čak i za sve, mislim naravno pošto je tako,;0:30:16 - 0:30:21
+što mi je dobro da je za sve čak da je s, u, mi, a, v, l, z, n, c, u, n, z, z, z, z, z.;0:30:21 - 0:30:29
+Da je to i uvijek u sve.;0:30:29 - 0:30:31
+Pa ne, naravno, recimo ako je da uzmem prazne...;0:30:31 - 0:30:34
+Pa da, u primjeru u p, c, n, u, mi, a, v, l, z, z, z, z, z, z, z, z, z, z, z, z, z.;0:30:35 - 0:30:41
+Ekvivalente su pod ovom teorijom.;0:30:42 - 0:30:44
+Aha.;0:30:44 - 0:30:45
+Dakle, naravno da ne možete, mislim, jednostavno, vi ako ne znate ništa;0:30:46 - 0:30:51
+o relacijskom simbolu p i sad ga preimenujete u p crtice, naravno to neće biti ekvivalentno.;0:30:51 - 0:30:56
+Upravo vam treba da imate neku teoriju tako da kad u njoj preimenujete;0:30:56 - 0:31:01
+i to stavite u uniju sa originalnim teorijom da u njoj možete dokazati.;0:31:01 - 0:31:03
+Sad je čitava ideja teorijalne kompaktnosti da je zapravo na neki način b, s, o, m, p, d, t, t, konačna.;0:31:03 - 0:31:10
+To je ključno.;0:31:10 - 0:31:11
+Onda je naravno i ova tu konačna i onda konjunkcije i sad dalje.;0:31:11 - 0:31:15
+E onda Craig i onda kaže imaš interpolant.;0:31:15 - 0:31:20
+E, a sad naravno, taj interpolant bi trebao biti na sigma, ali nažalost nije jer naravno ima i ove c1 do cr,;0:31:20 - 0:31:26
+oni su sad zajednički još, ali dobro, nije strašno.;0:31:26 - 0:31:29
+Ali ono što je važno je da on nema ni p, ni p crnica.;0:31:29 - 0:31:32
+To je ključno.;0:31:32 - 0:31:33
+Jer oni su izbačani u ovoj priči prelazka na interpolanta.;0:31:33 - 0:31:41
+I onda sad kaže, aha, f je konjunkcija od s, a s je podskup od t, onda naravno f je logička posljedica od t.;0:31:44 - 0:31:54
+A vrlo je lako vidjeti da, ha, to je doslovno Craig, ha je logička posljedica od f i p,;0:31:55 - 0:32:06
+pa je, pa onda iz f slijedi, znači, f i p povlači h, dakle iz f slijedi p kondicional h,;0:32:06 - 0:32:27
+pa onda, mislim, specialno, odnosno generalizirano, iz t slijedi p kondicional h, jer naravno f je logička posljedica od t.;0:32:27 - 0:32:40
+Dobro.;0:32:41 - 0:32:42
+E, i sad je napokon mogu, znači sad sam ga dobio na onoj strani na kojoj želim, znači sad mogu reći, aha,;0:32:44 - 0:32:52
+naravno ovaj p tu ima ove c-ove, međutim t nema c-ove u sebi, dakle ovo zapravo vrijedi za sve variable v1 do vn.;0:32:53 - 0:33:04
+To je potpuno isto ono razmišljanje koje smo imali u prošljedu tijedan,;0:33:04 - 0:33:07
+tad sam ga detaljno bio pričao, ovo. Znači, ako je nekakva formula koja je sadržena nekakve simbole;0:33:08 - 0:33:17
+koje se ne pojavljuju t crtica posljedica od t crtica, to znači da je stvar vrijedi za svaku valuaciju,;0:33:17 - 0:33:22
+za svaku interpretaciju ovih konstantskih simbola, ali to za svaku interpretaciju,;0:33:23 - 0:33:27
+na primjer od a1 potez, može izaći izvan kvantifikatora po ovoj t crtica, pa onda zapravo to znači da ovo vrijedi;0:33:27 - 0:33:35
+univerzalno kvantificirana forma, isto tako i ovdje.;0:33:37 - 0:33:41
+Ok. Dakle, to. E sad kaže ovaj drugi dio, sad ne piše analogno, sva zreća,;0:33:42 - 0:33:56
+ali kaže ovako, dakle, ovaj t u kojem je zamijenjen t sa p crtica ima za logičku posljedicu g.;0:33:58 - 0:34:05
+To fakat je analogno, zašto? Zato što g je konjunkcija od svih formula iz s crtica,;0:34:05 - 0:34:12
+a s crtica je podskup od ove promjenjene teorije.;0:34:12 - 0:34:16
+To što ima. A ovo je opet kreg, dakle kreg kaže da je h interpolant, znači iz h slijedi ova.;0:34:17 - 0:34:24
+Znači tu sam obatio h po kregu.;0:34:24 - 0:34:29
+Dobro. Znači iz h ovo, a iz ovoga ovo, dakle iz ovoga ovo.;0:34:33 - 0:34:47
+Kak se to vidi? A vidi se nekako. Znači svaki model za ovo, na njemu ili ne vrijedi h,;0:34:48 - 0:35:03
+pa ovo vrijedi trivialno, ili vrijedi h, pa vrijedi ovo.;0:35:04 - 0:35:08
+Međutim, na svakom modelu za ovo vrijedi g, pa onda ako još su 100 vrijedi h;0:35:09 - 0:35:14
+i vrijedi ovo, po modu spomenu su, ili mislim, jel' samo sad pitanje je da li imam nekakav dokazni sustav;0:35:14 - 0:35:20
+ili samo logičku posljedicu, ali već je logička posljedica dovoljna da zaključim da vrijedi ovo.;0:35:20 - 0:35:25
+E, i sad imam zanimljivu situaciju. Dakle, to je sad ova, to nije doslovno ova lema,;0:35:26 - 0:35:34
+vanjda ova lema je bila rekla, ako imaš sigma formulu.;0:35:34 - 0:35:37
+Ali ja bih rekao da je ovo još jednostavnije. Znači, ako imaš formulu u kojoj,;0:35:38 - 0:35:43
+znači, možda ovak, ako f ima za logičku posljedicu g, tada f u kojem sam zamijenio p sva 5 crtica;0:35:44 - 0:35:54
+ima za logičku posljedicu g u kojem sam zamijenio p sva 5 crtica.;0:35:54 - 0:35:59
+Evo, dakle g je f i g nad sigma crtica.;0:35:59 - 0:36:06
+Dobro, dakle, aha, to je sad kao za formulu, a naravno za teoriju isto,;0:36:14 - 0:36:22
+jer teorija je samo skup formula i ova zamjena se izvršava na svakoj formuli,;0:36:22 - 0:36:26
+teorija je zasebna. Dakle, iz ovoga ja mogu u čitavoj priči promijeniti 5 crtica u p.;0:36:26 - 0:36:37
+Kad promijenim 5 crtica u p, ovdje natrag dobijem t, jer t nije ništa znao o 5 crtica,;0:36:37 - 0:36:43
+dakle kad sam zamijenio sve p obje sa 5 crticama i sve 5 crtice natrag sa p objima,;0:36:43 - 0:36:48
+budući da 5 crtica nije bio u originalnoj teoriji, dobio sam ovu istu teoriju.;0:36:48 - 0:36:52
+H je zanimljiv, dakle naravno ključno je da se p i 5 crtica ne pojavljuju u H,;0:36:53 - 0:36:58
+dakle kad da H napravimo u zamjenu p crtica natrag u p, da ostane mi ista formula H.;0:36:58 - 0:37:04
+A kad na ovoj formuli, naravno ovo je atomarna formula, dakle tu nemam šta posebno gledat dalje zamjenu,;0:37:04 - 0:37:10
+jedino mjesto gdje trebam napraviti zamjenu je ovdje i tu zamijenim 5 crtice sa p i dobijem ovo.;0:37:10 - 0:37:15
+Ok, sad opet mogu istu stvar reći kao i gore, dakle T nema u sebi simbole C1 do Cn,;0:37:16 - 0:37:25
+dakle za svaku interpretaciju tih ostatskih simbola mora vrediti ovo.;0:37:25 - 0:37:30
+Međutim, kažem, to za svaku interpretaciju od C1, za svaku interpretaciju od Cn,;0:37:31 - 0:37:36
+mogu izvući van i zapravo reći da onda na T vrijedi univerzalno kvantificirana formula;0:37:36 - 0:37:42
+ili još lakše jednostavno formula sa slobodnim variablima.;0:37:42 - 0:37:46
+E, a sad naravno, sad ovo tu je H preživio jer naravno se u njemu nisu pojavljivali ni p ni 5 crtica,;0:37:47 - 0:37:56
+ali su se svakako mogli pojavljivati C1 do Cn, dakle to je ova priča.;0:37:56 - 0:38:01
+H naravno nije nad sigma.;0:38:02 - 0:38:03
+Ali dobro, znači, jednostavno ću onda nekako zamijeniti natrag te C-ove sa variablima;0:38:03 - 0:38:09
+i to ću označiti sa H crtica.;0:38:09 - 0:38:11
+Nije uopće bitno da to bude onaj originalni interpolant.;0:38:11 - 0:38:14
+Bitno je da sam dobio nekakvu formulu i evo je tu.;0:38:14 - 0:38:17
+Čak ne mora biti zatvorena, naravno, nije smije biti zatvorena,;0:38:18 - 0:38:21
+mora imati neke slobodne variable ve jedan do ven.;0:38:21 - 0:38:23
+I to je to. Ona je ta koji, e sad, ona je ta za koju bih htio reći da definira ovaj P.;0:38:27 - 0:38:34
+Međutim, sad sam kao dobio samo jedan smjer.;0:38:34 - 0:38:36
+E sad kaže, ovdje je opet drugi smjer, slično.;0:38:36 - 0:38:38
+Ovdje bih stvarno rekao da je slično.;0:38:39 - 0:38:41
+Zašto? Zato što nekako ovaj interpolant je;0:38:41 - 0:38:46
+iz jedne, mislim, vrijedi i jedan i drugi smjer.;0:38:47 - 0:38:50
+Dakle, i prema desno i prema lijevo se ponaša ok.;0:38:50 - 0:38:56
+E sad, naravno, ovaj, ček.;0:38:56 - 0:38:59
+A ne, tu sam isto htio, a ne.;0:39:05 - 0:39:07
+Zaboravite, ovo slično se dobije drugi smjer.;0:39:09 - 0:39:11
+Ne, ovdje treba pisati h-srtica, jel?;0:39:11 - 0:39:13
+Dakle, ovdje sam napravio istu stvar.;0:39:13 - 0:39:16
+Dakle, zamjenio sam sve cijele salveoima.;0:39:16 - 0:39:18
+I ovdje, znači sad sam iz toga onda dobio da T stvarno dokazuje bi-kondicionalno.;0:39:18 - 0:39:25
+Nema njih slično. Doista nije slično.;0:39:25 - 0:39:29
+Mislim, možda je slično, ali sigurno nije analogno.;0:39:29 - 0:39:32
+Dakle, ovdje se dobije jedan smjer, ovdje se dobije drugi smjer.;0:39:32 - 0:39:35
+Jer ovdje treba isto pisati h-srtica.;0:39:35 - 0:39:37
+Onda to štima. I dakle, P je stvarno eksplicitno definibilan.;0:39:37 - 0:39:41
+Jer sam dobio formulu h-srtica sa slobodnim variablama v1 do vn,;0:39:41 - 0:39:45
+koja je u teoriji T ekvivalentna sa P od v1 do vn.;0:39:45 - 0:39:51
+I to je zapravo prilično dobro mjesto za stat.;0:39:52 - 0:39:56
+Samo, dobro sad, tih par minuta samo da negako onda malo motiviram šta ćemo dalje raditi.;0:39:56 - 0:40:05
+Ali kažem, još sam dužan ovo sigurno, za idući put.;0:40:05 - 0:40:08
+Ali, dakle, sljedeće što ćemo raditi, promatraćemo produkte struktura.;0:40:08 - 0:40:14
+Znači, naravno, znamo možda iz algebre, možda i ne znamo, ali prilično je jednostavno vidjeti;0:40:14 - 0:40:20
+da produkti često ne čuvaju algebarske strukture.;0:40:20 - 0:40:28
+Naprimjer, evo jedan primjer koji je, ajmo reći, zapravo izuzetak u nekom smislu.;0:40:28 - 0:40:34
+Dakle, ako stvarno imate neku familiju grupa i napravite kardensijev produkt,;0:40:34 - 0:40:39
+to će stvarno također biti grupa.;0:40:39 - 0:40:41
+Dakle, jednostavno, ne mislim dvije, nego proizvodne mnogo,;0:40:41 - 0:40:45
+dakle, direktni produkt od proizvodne mnogo grupa.;0:40:45 - 0:40:49
+Jednostavno ćete uzeti jedinicu iz svake i to ćete natrpati u niz ili kakvu već funkciju;0:40:49 - 0:40:55
+i na taj način ćete dobiti jedinicu tog velikog produkta.;0:40:55 - 0:40:59
+Uzet ćete operaciju iz svake i to ćete opet napraviti po točkama,;0:40:59 - 0:41:03
+definirati operaciju i opet će sve štimati.;0:41:03 - 0:41:06
+I inverse isto, dakle, jednostavno uzet ćete nekakav niz ili što već,;0:41:06 - 0:41:11
+recimo da je niz, da je ovaj i upravo skup prirodnih brajava,;0:41:11 - 0:41:16
+onda biste imali niz elementa i za svaki je, svaki je iz odgovarajuće grupe,;0:41:16 - 0:41:21
+svako ga invertirate u toj njegove grupi, dobijete niz inversa,;0:41:21 - 0:41:24
+koji je naravno opet inverse s obzirom na ovu grupnu operaciju na produktu.;0:41:24 - 0:41:30
+Znači, kažem, to, ali to najčešće ne funkcionira tako.;0:41:30 - 0:41:33
+Evo, na primjer, ako već uzmete u mjesto grupe, uzmete polje, stvar se raspadne.;0:41:33 - 0:41:38
+Jer, na primjer, mislim, naravno sad, možda se može definirati nekako drugačije,;0:41:38 - 0:41:43
+to ćemo vidjeti poslije, zašto se ne može definirati drugačije,;0:41:43 - 0:41:46
+ali onak naivno se sigurno ne može definirati jer kaže,;0:41:46 - 0:41:50
+evo, već uzmeš dvojicu, već ne valja jer, na primjer, 0.1 i 1.0,;0:41:50 - 0:41:56
+nijedan od njih nije 0 jer 0 je naravno 0,0, kao konstanta funkcija 0;0:41:56 - 0:42:06
+i onda naravno nijedan od ovih nije,;0:42:06 - 0:42:08
+ali ako definiram operaciju množenja po točkama, onda naravno njihov omnožak jest.;0:42:08 - 0:42:13
+Ovdje je 0 puta 1, a ovdje je 1 puta 0 i obje su 0.;0:42:13 - 0:42:16
+I sad sam stvarno dobio ovaj tu i onda šta imam?;0:42:16 - 0:42:19
+Imam zapravo dijelitelje 0, imam dvojicu koji nisu 0, a čijim množak je 0.;0:42:19 - 0:42:23
+Dakle, nešto jest u teoriji polja i u teoriji općenitosti, prsteno, takvi nekih čudnih stvari,;0:42:23 - 0:42:29
+malo da vidimo da ovdje je, a dobro, za dijelitelje 0 bih mogao čak i funkcionirati,;0:42:29 - 0:42:34
+ali dakle, na primjer, u teoriji polja ima nešto što onemogućuje da radim produkte;0:42:34 - 0:42:43
+koji čuvaju algebarsku strukturu, a u teoriji grupa toga nema, odnosno, stvarno stvar prođe lijepo.;0:42:43 - 0:42:50
+I sad, dakle, dobar dio, dakle, prvo ćemo promatrat nekakve reducirane produkte,;0:42:50 - 0:42:56
+to će biti produkti pocijepani po nekakvoj relaciji ekvivalencije,;0:42:56 - 0:43:00
+koji će biti malo bolji od ovih općenitih kardensijih produkata,;0:43:01 - 0:43:04
+onda ćemo promatrat ultra produkte, koji će biti još bolji od reduciranih produkata,;0:43:04 - 0:43:09
+i onda ćemo s druge strane napraviti nekakve teoreme očuvanja,;0:43:09 - 0:43:12
+koji će jednostavno iz sintaksnog oblika teorije, dakle, jednostavno, aha, teorija izgleda tako,;0:43:12 - 0:43:17
+ima nekakve kvantifikatore u pravilnostnoj formi,;0:43:17 - 0:43:19
+odmah ćemo moći zaključiti, aha, ova je očuvana na produkte, a ova nije.;0:43:19 - 0:43:23
+Ali kažem, to ćemo.;0:43:23 - 0:43:25
+Subnja da ćemo sve napraviti, idući tijan, ali to je sad sljedeće na redu.;0:43:25 - 0:43:31
+Eto.;0:43:32 - 0:43:33
+To je to.;0:43:34 - 0:43:35

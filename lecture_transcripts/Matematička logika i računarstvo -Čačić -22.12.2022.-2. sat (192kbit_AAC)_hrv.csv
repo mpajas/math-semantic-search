@@ -1,0 +1,512 @@
+Speech;Timestamp
+Dakle, dokažem ekvivalenciju ove tri tvrdnje.;0:00:00 - 0:00:05
+F je ultrafilter, F je maksimalan među pravima,;0:00:06 - 0:00:10
+dakle, predpostavka propozicije je da je pravi,;0:00:10 - 0:00:14
+i ima ovo svojstvo unije.;0:00:14 - 0:00:17
+Dakle, malo bih smo ići u krug, ali mislim da zapravo nema potrebe,;0:00:20 - 0:00:24
+jer ova tvrdnja i jena je zapravo nekako najlakša za raditi.;0:00:24 - 0:00:28
+Dakle, F je pravi.;0:00:28 - 0:00:31
+Jedan kaže F je ultrafilter,;0:00:34 - 0:00:37
+dva kaže F je maksimalan među pravima,;0:00:39 - 0:00:43
+znači nema pravi njegov nadskup koji je pravi filtr još uvijek, jel'o?;0:00:49 - 0:00:53
+I treće, x unija y je elemento def,;0:00:54 - 0:01:01
+ako je samo F je x elemento def, ili y elemento def.;0:01:01 - 0:01:07
+Dobro, da sam sad bih nešto raspisivao, mislim da sve imam.;0:01:12 - 0:01:16
+Dakle, zapravo ćemo dokazati ekvivalenciju 1 sa 2;0:01:16 - 0:01:22
+i ekvivalenciju 1 sa 3.;0:01:22 - 0:01:24
+Znači, imam da je F ultrafilter i pretpostavim da nije maksimalni među pravima,;0:01:26 - 0:01:32
+znači pretpostavim da postoji nekakav F crtica, pravi nadskup pod F,;0:01:32 - 0:01:40
+takav da je F crtica također pravi filtr.;0:01:40 - 0:01:47
+Zašto je to nemoguće? Pa zato što je ovaj ultrafilter, sad kako?;0:01:48 - 0:01:53
+Znači, ovako, činjenica da je pravi nadskup znači da ima netko,;0:01:53 - 0:01:59
+postoji nekakav x koji se nalazi u F crtica, ali se ne nalazi u F.;0:02:00 - 0:02:05
+I sad, naravno, ako se x ne nalazi u F, F je ultrafilter,;0:02:06 - 0:02:12
+iz toga slijedi da se i bez x nalazi u F.;0:02:13 - 0:02:18
+Komplement, ali komplement, F je podskup od F crtica, pa imam da se i bez x nalazi u F crtica.;0:02:19 - 0:02:29
+I što sad imam? Imam dvojicu u F crtica, evo ga, x je u F crtica i i bez x je u F crtica,;0:02:29 - 0:02:36
+znači njihov presjek je također u F crtica.;0:02:36 - 0:02:39
+Međutim, naravno, i x i i bez x su disjunktni,;0:02:42 - 0:02:48
+to je kontradikcija sa činjenicom da je F crtica pravi filtr,;0:02:50 - 0:02:56
+upravo sam našao prazan skup u njemu, znači ako je prazan onda su i svi unutra.;0:02:56 - 0:03:01
+Dobro,;0:03:02 - 0:03:03
+povlači 3, znači što moram dokazati, neko je kvalenciju, ako i samo ako.;0:03:07 - 0:03:13
+Međutim, unutar ovog 3 smjer ovaj je trivialan jer naravno x unija y je nadskup i od x i od y,;0:03:13 - 0:03:26
+čim imaš da je x u F, odmah imaš da je x unija y u F po zatvorenosti nadskupove.;0:03:26 - 0:03:31
+Isto tako da imaš da je y u F, odmah imaš da je x unija y u F po zatvorenosti nadskupove.;0:03:31 - 0:03:37
+Dakle, to je trivialno. E sad, naravno, ovaj drugi smjer je u njemi.;0:03:37 - 0:03:40
+Što trebam dokazati? Trebam dokazati da iz ovoga slijedi ovo ili ovo.;0:03:41 - 0:03:44
+Pretpostavim da to ne vrijedi,;0:03:44 - 0:03:46
+pretpostavimo suprotno, e sad što znači suprotno od a slijedi b ili c,;0:03:49 - 0:03:53
+znači vrijedi a, ne vrijedi b i ne vrijedi c.;0:03:53 - 0:03:56
+Dakle, ne mogu ja. x unija y jeste element od F, x nije element od F i y nije element od F.;0:03:56 - 0:04:05
+Međutim, opet, pretpostavka 1 je bila da je F ultrafilter.;0:04:05 - 0:04:09
+Iz toga slijedi da je i bez x element od F i isto tako dolje i bez y element od F.;0:04:11 - 0:04:19
+Što sad mogu? Opet presjek. A što je njihov presjek?;0:04:20 - 0:04:23
+Znači u F-u se nalazi i presjek x, presjek i bez x, presjek i bez y,;0:04:24 - 0:04:32
+međutim, demorganito je i bez x unija y.;0:04:32 - 0:04:37
+I što sad opet imam? Imam i bez x unija y je u F, a gore sam imao da je x unija y u F;0:04:38 - 0:04:46
+i opet sad njihov presjek je praznan stupnjom da mora biti u F,;0:04:46 - 0:05:03
+a to je kontradikcija, naravno, F je ultrafilter.;0:05:03 - 0:05:06
+Znači, F je ultrafilter.;0:05:06 - 0:05:08
+Znači, on mora biti pravi.;0:05:11 - 0:05:13
+Činjeni se da je ultrafilter.;0:05:15 - 0:05:17
+Dobro, znači, 1 je iz 1 slijedi 2 i iz 1 slijedi 3.;0:05:18 - 0:05:21
+Iz 3 slijedi 1, to je vrlo jednostavno.;0:05:22 - 0:05:25
+Zašto? Zato što kad god uzmeš nekakav x podskup od i,;0:05:28 - 0:05:32
+onda možeš i napisati kao x unija y bez x.;0:05:33 - 0:05:38
+Dakle, ovaj tu je sigurno element od F, to je prvo svojstvo filtera i čitav i se nalazi u F,;0:05:40 - 0:05:46
+a po trećem svojstvu točno to kaže da je x element od F ili y bez x.;0:05:47 - 0:05:57
+Znači, stvarno, barem jedan od njih je unutra.;0:05:58 - 0:06:03
+A zašto nisu obojica? Pa opet isto kao tamo, jel?;0:06:04 - 0:06:06
+Dakle, kad bi bili i x i y bez x elementi od F,;0:06:07 - 0:06:14
+tada bi njihov presjek bio element od F, međutim, presjek je prazan.;0:06:15 - 0:06:18
+Znači, nisu obojica, a barem jedan jest, dakle, točno, ja od njih je u F;0:06:28 - 0:06:33
+i to je točno svojstvo ultrafiltra.;0:06:34 - 0:06:36
+E i sad, dakle, najteži dio je dva poboći, jedan.;0:06:37 - 0:06:41
+Znači, pretpostavimo da jest maksimalno među pravima;0:06:57 - 0:07:06
+i moram dokazati da je ultrafiltar.;0:07:07 - 0:07:08
+Pretpostavim da nije ultrafiltar, međutim, pravi jest.;0:07:09 - 0:07:10
+Dakle, jedino što se još može dogoditi je da padne ono svojstvo 5.;0:07:11 - 0:07:14
+Pretpostavimo F nije ultrafiltar, ali jest radi filtar.;0:07:14 - 0:07:25
+I sad opet, što to znači?;0:07:27 - 0:07:28
+To formalno znači da ima nekakav skup x;0:07:29 - 0:07:31
+takav da nije točno jedan od x i bez x unutra.;0:07:35 - 0:07:42
+Međutim, to kao znači x nije u F i i bez x nije u F;0:07:42 - 0:07:50
+ili x je u F i i bez x nije u F.;0:07:52 - 0:07:58
+Međutim, ovo je kontradikcija sa time da je prav jer opet njihov presjek je prazan.;0:07:59 - 0:08:06
+Znači, jedino što se zapravo može dogoditi je ovo,;0:08:07 - 0:08:11
+a sad ćemo vidjeti da će i to dovest do kontradikcije sa time da je maksimalno među pravima.;0:08:12 - 0:08:17
+Kako dobiješ kontradikciju da je netko maksimalno među pravima?;0:08:18 - 0:08:20
+Konstruiraš pomoći ovog tu nekih pravi koji mu je pravi nadskup.;0:08:21 - 0:08:24
+I veli on se konstruira ovako, znači;0:08:25 - 0:08:28
+F crtica, bar mislim da će tako funkcionirati, je skup svih z pod skup i;0:08:28 - 0:08:40
+takvih da postoji y element od F takav da je x presjek y pod skup od z.;0:08:41 - 0:08:50
+Dakle, imitiram onu konstrukciju filtera iz familije,;0:08:51 - 0:08:55
+samo naravno znam da je ova familija F filtr pa onda tu sad ne moram;0:08:55 - 0:08:59
+proizvodno puno njih uzimati nego je dovoljno dva jer;0:09:00 - 0:09:03
+ovih sad tu ima puno iz F, opet njihov presjek će biti jedan član iz F,;0:09:04 - 0:09:07
+dakle dovoljno je uzeti jedan taj y.;0:09:08 - 0:09:10
+Dakle, što sad moram dokazati?;0:09:12 - 0:09:13
+Moram dokazati, znači tvrdimo, F crtica jest filter;0:09:14 - 0:09:23
+nad i pravi i pravi nad skup, znači nad skup od F;0:09:26 - 0:09:36
+i različit od F, dakle četiri svojstva moram dokazati;0:09:41 - 0:09:46
+i onda ovaj, znači ovdje pravi znači i nije element od,;0:09:47 - 0:09:55
+odnosno i sigurno jest element nego valjda prazen skup nije element od F crtice.;0:09:56 - 0:10:02
+Dobro, kak vidim da je filter? Znači svakako je pod skup ovdje i;0:10:07 - 0:10:12
+svakako sadrži i, zašto? Jer za i postoji y u F, evo ti ga i,;0:10:13 - 0:10:20
+dakle baš odabereš i u F, on sigurno je, znači postoji sve jedno unutra;0:10:21 - 0:10:26
+i x presjek i će baš biti x.;0:10:27 - 0:10:34
+Dobro, a x je svakako pod skup i, znači štima.;0:10:35 - 0:10:39
+Ovo, prvo svojstvo je ispunjeno.;0:10:43 - 0:10:46
+Svojstvo zatvorenosti nad skupove je fakat trivialno, dakle,;0:10:47 - 0:10:50
+ako imaš z crtica koja je nad skup od z, onda uzmeš ta isti y,;0:10:51 - 0:10:53
+dakle ako je x presjek y pod skup od z, onda je pod skup i od svakog njegove nad skupa.;0:10:54 - 0:10:58
+I zatvorenost na presjeke, e sad tu možda treba pisati, dakle šta?;0:10:59 - 0:11:03
+Imaš dvojcu, znači z1 i z2.;0:11:04 - 0:11:07
+Oni su ovdje meniti od F crtica.;0:11:07 - 0:11:12
+To znači da postoji y1 i y2,;0:11:13 - 0:11:15
+takvi da je x presjek y1 pod skup od z1 i x presjek y2 pod skup od z2.;0:11:16 - 0:11:26
+Dobro, šta trebam?;0:11:27 - 0:11:32
+Trebam vidjeti da je njihov presjek također unutra,;0:11:33 - 0:11:36
+onda ću uzeti y1 presjek y2, znači ovih tu su u F.;0:11:37 - 0:11:41
+Po svojoj tu zatvorenosti na presjeke,;0:11:42 - 0:11:44
+slijede y, znači sa y ću označiti y1 presjek y2, to je element od F.;0:11:47 - 0:11:54
+I onda tvrdim naravno x presjek y će jednostavno biti x presjek y1 presjek y2,;0:11:55 - 0:12:06
+međutim to mogu napisati, to je svakog pod skup od z1,;0:12:07 - 0:12:14
+jer je x presjek y1 je pod skup od z1 pa onda još kad ga presječem sa y2,;0:12:15 - 0:12:20
+će biti pod skup od z1, međutim isto tako ću dobiti je pod skup od x presjek y2,;0:12:21 - 0:12:26
+znači je pod skup od z2.;0:12:27 - 0:12:28
+Sad imam jedan te isti skup x presjek y koji je pod skup i od z1 i od z2,;0:12:29 - 0:12:32
+naravno to znači da je on pod skup od z1 presjek z2, a to sam htio.;0:12:32 - 0:12:39
+Znači z1 presjek z2 je element od F crtica.;0:12:40 - 0:12:43
+Dobro, znači dokazao sam da je F crtica filtr na d.;0:12:44 - 0:12:47
+I sad još ova neka dodatna svojstva.;0:12:48 - 0:12:50
+Kako znam da je F crtica pravi?;0:12:51 - 0:12:52
+Dakle, moram vidjeti da prazan skup nije uvotra.;0:12:53 - 0:12:55
+Predpostavljam da je.;0:12:56 - 0:12:57
+Predpostavljam da je prazan skup u F crtice.;0:12:58 - 0:13:01
+Šta bi to značilo?;0:13:01 - 0:13:02
+To bi značilo da postoji nekakav y element od F;0:13:03 - 0:13:05
+takav da je x presjek y, x je ovaj fiksni od to,;0:13:06 - 0:13:10
+x presjek y pod skup od prazno.;0:13:11 - 0:13:14
+Međutim, naravno pod skup od prazno zapravo znači jednako prazno;0:13:15 - 0:13:18
+i to onda zapravo znači y je disjungtan sa x.;0:13:19 - 0:13:21
+E, i sad, sad smo na konju jer biti disjungtan sa x zapravo znači;0:13:21 - 0:13:30
+biti pod skup od njegovog komplementa.;0:13:31 - 0:13:33
+Dakle, y je onda pod skup od i bez x,;0:13:34 - 0:13:37
+a y je u F, a F je zatvoreno nad skupove,;0:13:40 - 0:13:44
+iz ovog bi onda slijedilo da je i bez x element od F,;0:13:44 - 0:13:51
+a sjećate se, možda to je bila kontradikcija.;0:13:52 - 0:13:55
+Dakle, bili smo predpostavljali da postoji x takav da x nije element od F,;0:13:58 - 0:14:02
+sad smo s tim radili, ali i bez x nije element od F,;0:14:03 - 0:14:06
+sad smo dobili da x bez x mora biti element od F, naravno to je nemoguće.;0:14:07 - 0:14:09
+Ok, dakle, to isto ništa.;0:14:09 - 0:14:12
+Zašto je to nad skup od F?;0:14:13 - 0:14:14
+Znači, uzmeš nekakav z iz F,;0:14:15 - 0:14:17
+znači neka je z iz F proizvodnijan,;0:14:18 - 0:14:21
+i sad moraš naći y u F takav da je x presijek;0:14:22 - 0:14:26
+ta y baš pod skup od tog z, pa uzmeš baš taj z.;0:14:27 - 0:14:30
+Za y ne staviš baš z i kažeš naravno x presijek z,;0:14:31 - 0:14:37
+i onda svakako pod skup od z uvijek, dakle z je element od F.;0:14:38 - 0:14:44
+I još samo moramo vidjeti da nije jednak F-u,;0:14:50 - 0:14:54
+a kako to vidim, pa trebam samo naći neki element koji nije u F-u,;0:14:55 - 0:14:59
+jer F je u F-crtica, naravno malo mi je baš ova x i stvarno to funkcionira.;0:15:00 - 0:15:04
+Dakle, x nije u F prema predpostavci,;0:15:05 - 0:15:14
+ali x je u F-crtica jer valjda, što uzmeš y?;0:15:15 - 0:15:20
+Za y uzmeš i, znači x presijek i,;0:15:21 - 0:15:29
+i je upravo x, što je pod skup od x, dakle x jeste element od F-crtica.;0:15:30 - 0:15:55
+Evo ga, znači dobio sam pravi nad skup od F,;0:15:56 - 0:16:02
+koji je pravi filtr na D, dakle kontradikcija sa činjenicom da je F maksimalni među pravima.;0:16:03 - 0:16:10
+Dobro, eto, smo još tu elementarno nije raspisali do kraja.;0:16:11 - 0:16:18
+Danje?;0:16:26 - 0:16:28
+Dakle, teorema o ultrafiltru kaže, mislim može se reći preko pravog filtra,;0:16:36 - 0:16:42
+ali može se zapravo uopće niti reći preko bilo koje familije sa svojstvom konačnih presijeka.;0:16:42 - 0:16:46
+Znači, mora biti nad nepraznim skupom, ali dobro, naravno nas zanima i uglavnom bez konačnih skupove.;0:16:47 - 0:16:52
+Dakle, imam nad nepraznim skupom neku familiju sa svojstvom konačnih presijeka,;0:16:52 - 0:16:57
+familiju pod skupom ovaj.;0:16:57 - 0:16:59
+Tada, postoji ultrafiltr nad tim istim skupom koji je nad skup od te familije.;0:16:59 - 0:17:04
+Znači, svaka familija nad nepraznim skupom koja ima svojstvo konačnih presijeka;0:17:04 - 0:17:08
+se može proširiti do ultrafiltra.;0:17:08 - 0:17:10
+Kako se to napravi?;0:17:11 - 0:17:13
+Prvo, kaže, napraviš filtr generiran sa E, to je ono standardno,;0:17:13 - 0:17:17
+presijek svih filtra koji zadrže E, to je pravi filtr.;0:17:17 - 0:17:20
+Zašto? Jer ova ima svojstvo konačnih presijeka.;0:17:20 - 0:17:22
+To je ona stvar od prije.;0:17:22 - 0:17:24
+Tu vidimo, to je ova propozicija.;0:17:35 - 0:17:37
+Ima svojstvo konačnih presijeka, dakle, filtr generiran s njom je pravi.;0:17:38 - 0:17:42
+To je ova F0.;0:17:42 - 0:17:44
+I sad kaže, dobro, sad će nam ta F0, vidjet ćemo uskoro.;0:17:45 - 0:17:47
+Kaže, promotri familiju svih pravih filtra koji sadrže E.;0:17:47 - 0:17:53
+Sad bih tio nekog opet presijeka, ali ne mogu, dakle,;0:17:53 - 0:17:56
+morajući zapravo preko cornova lema, ali polako.;0:17:56 - 0:18:00
+Znači, familija svih pravih filtra koji sadrže E.;0:18:00 - 0:18:03
+Znači, filtri su pravi, su sadrže E.;0:18:03 - 0:18:06
+Kaže, da bi primijenili cornovu lemu, moraš prvo vidjeti da ima neki takav.;0:18:07 - 0:18:11
+Koji je takav? Pa upravo F0.;0:18:11 - 0:18:13
+F0 je pravi filtr i sadrže E, dakle, F0 je element lijepog F.;0:18:13 - 0:18:20
+Dobro. E šta ti još treba za cornovu lemu? Trebaju ti unije lanaca.;0:18:20 - 0:18:23
+Znači, ako uzmeš proizvodni lanac u toj lijepoj F urađenom inkluzijom,;0:18:23 - 0:18:28
+treba vidjeti da je njegova unija također element lijepoj F.;0:18:28 - 0:18:31
+Dakle, treba vidjeti da je filtr, da je pravi i da sadrže F.;0:18:31 - 0:18:37
+Svaka od tih stvari je vrlo trivialna, ono mislim,;0:18:37 - 0:18:40
+dakle, vrlo šablonska i onako kako ste dokazivali na teoriji skupova;0:18:40 - 0:18:45
+kad ste primijenjivali cornovu lemu, sve to možete potpuno jednako primijeniti ovdje.;0:18:45 - 0:18:49
+Dakle, kažem, to je vrlo, stvarno vrlo šablonsko.;0:18:49 - 0:18:52
+Recimo šta ja znam. Zatvorena presjeh. Zašto?;0:18:52 - 0:18:54
+Uzmeš dvojicu iz unije lanca, jedan je u jednom elementu lanca,;0:18:54 - 0:18:57
+drugi je u drugom elementu lanca, u lancu su svi elementi usporedivi,;0:18:57 - 0:19:01
+pa dakle, ta dvojica koji su dva elementa lanca su u nekim usporedivima,;0:19:01 - 0:19:04
+ja od njih je znači veći, onda su obojica u tom jednom.;0:19:05 - 0:19:08
+A ta jedan je element lanca, dakle, element familije, dakle,;0:19:08 - 0:19:12
+zatvorena presjeke, pa je presjek u njemu, a onda je unija lanca.;0:19:12 - 0:19:16
+Isto tako za sve ostale, sva ostala svojstva nekih, 5-6 njih.;0:19:16 - 0:19:20
+Znači, po cornovu lemu slijedi da F ima maksimalni element.;0:19:22 - 0:19:25
+E, i sad, naravno, ova propozicija, nismo joj dokazivali, bez veze,;0:19:25 - 0:19:30
+maksimalni element među pravim filterima je upravo ultrafilter.;0:19:31 - 0:19:37
+Dobro, e sad kažem, to je općeniti teorema koji prolazi,;0:19:38 - 0:19:42
+ali, naravno, mogu jednostavno izbaciti ovaj prvi korak;0:19:42 - 0:19:46
+i već krenut od pravog filtera.;0:19:46 - 0:19:50
+Dakle, naravno, svaki pravi filter jest familija sa svojstvom;0:19:50 - 0:19:53
+koračnih presjeka, dakle, za njega je to sigurno vrijedi.;0:19:53 - 0:19:56
+I onda, kao korolara, zapravo, izuzetno važan teorem,;0:19:56 - 0:20:02
+svaki pravi filter se može proširiti do ultrafiltera.;0:20:02 - 0:20:06
+Naravno, mora biti pravi, jer, inače, kad ga proširim,;0:20:06 - 0:20:09
+mislim, jednostavno, već je sve unutra, pa bilo kakvim proširenjem;0:20:09 - 0:20:12
+ne mogu nikog smanjiti, ali čim je pravi, može se proširiti do ultrafiltera.;0:20:12 - 0:20:17
+Konkretno, dakle, Frechetov filter jest pravi, naravno, jer,;0:20:19 - 0:20:23
+na primjer, prazdan skup sigurno nije bezkonačan,;0:20:23 - 0:20:27
+prazdan skup nije takav da mu je komplement konačan.;0:20:27 - 0:20:30
+Zašto? Jer, naravno, trebamo uzeti neki bezkonačni skup,;0:20:30 - 0:20:34
+ali, recimo, uzem skup prirodnih brojeva, na njemu promatram;0:20:34 - 0:20:37
+Frechetov filter, na njemu Frechetov filter jest pravi,;0:20:37 - 0:20:41
+i po ovom korolaru postoji ultrafilter koji ga proširi.;0:20:41 - 0:20:47
+Naravno, dokaz u njegoveg izdencije smo koristili;0:20:47 - 0:20:50
+s onom u Lemu, dakle, to nije konstruktivno, ali, znamo da možete.;0:20:50 - 0:20:55
+Prijedite, samo, znači, kad bih uzeo konačni skup,;0:20:55 - 0:20:59
+ovo i dalje funkcionira, samo, naravno, onda,;0:20:59 - 0:21:02
+Frechetov filter, šta su to? To su skupovi čiji je komplement konačan.;0:21:02 - 0:21:06
+Međutim, to su svi. Jer, dakle, ako imate konačni skup,;0:21:06 - 0:21:09
+onda svi njegovi podskupovi su konačni, pa i svi komplement;0:21:09 - 0:21:13
+njegovih podskupova su konačni. Dakle, to je zapravo,;0:21:13 - 0:21:17
+to nije pravi filter, to je ne pravi.;0:21:17 - 0:21:21
+Druga stvar, taj ultrafilter koji proširuje Frechetov sigurno nije glavni,;0:21:21 - 0:21:26
+jer smo rekli, to je opet ova propozicija, tu.;0:21:26 - 0:21:30
+Sadrži sve komplemente, znači sadrži Frechetov, onda nije glavni.;0:21:30 - 0:21:35
+Eto, i sad najpokoj nijemo nekakav neglavni ultrafilter,;0:21:37 - 0:21:40
+sad možemo nekakve netrivialne konstrukcije s tim raditi.;0:21:40 - 0:21:45
+Da, prethodno, da malo generaliziramo ovu priču o konačnim presjedcima,;0:21:46 - 0:21:51
+dakle, često, ne baš često, ali ponekad treba ne samo presjek;0:21:51 - 0:21:56
+konačno mnogo njih, nego presjek niza skupova.;0:21:56 - 0:22:00
+Znači, presjek prebrojivo mnogo elementata ultrafiltera.;0:22:00 - 0:22:05
+Dakle, naravno, to bi smo mogli za proizvodne filtere definirati,;0:22:07 - 0:22:10
+ali najđa će se definirati samo za ultrafiltere, pa ćemo tu napisati;0:22:10 - 0:22:13
+za ultrafilter, takvo svojstvo zovemo prebrojiva potpunost.;0:22:13 - 0:22:17
+Dakle, ultrafilter je prebrojivo potpun ako je zatvoren ne samo na konačna presjega,;0:22:17 - 0:22:21
+što mora kao filter, nego je zatvoren i na prebrojivaju presjega.;0:22:21 - 0:22:25
+Što je efektivno znači da, ako imaš nekakav niz elementa u,;0:22:25 - 0:22:29
+onda ovaj njihov presjek također element od u.;0:22:29 - 0:22:33
+Ultrafiltere se obično označavaju sa u.;0:22:34 - 0:22:36
+Ultrafiltere koji nisu prebrojivo potpuni se zovu prebrojivo nepotpuni.;0:22:37 - 0:22:40
+Znači za njih se može dogoditi u nekom trenutku da imate nekakav niz elementa od u,;0:22:40 - 0:22:45
+ali njihov presjek ne bude element potpuni.;0:22:45 - 0:22:48
+Primijetite da je ovaj u kojem smo pričali na prošlom slajdu,;0:22:49 - 0:22:53
+dakle onaj koji sadrži fraša, je sigurno prebrojivo nepotpuni.;0:22:53 - 0:22:57
+Aha, što znači sigurno?;0:22:58 - 0:22:59
+Dobro, za nekakav, recimo na primjer konkretno uzmeš baš prebrojivsku,;0:22:59 - 0:23:03
+dakle uzmeš skuprirodnih broja.;0:23:03 - 0:23:05
+I onda imaš komplemente singletona, dakle en bez nula, en bez jedinice,;0:23:05 - 0:23:12
+en bez dvojke, en bez trojke i tako dalje.;0:23:12 - 0:23:14
+To su sve elementi od fraša, jer njihov komplement je jednočlan, dakle konačan.;0:23:14 - 0:23:19
+Dakle svi oni su elementi od u, a njihov presjek je naravno prazan,;0:23:20 - 0:23:23
+jer kad makneš nulu iz jednog, jedinicu iz drugog, dvojku iz trećeg itd.;0:23:23 - 0:23:28
+i to presječeš, onda zapravo nećeš dobiti više ništa unutra.;0:23:28 - 0:23:32
+Glavni filtre su sigurno prebrojivo potpuni, trivialno, opet jerak.;0:23:33 - 0:23:38
+Sve što te zanima je li neki mali x unutra ili nije,;0:23:38 - 0:23:41
+onda, čak i nije uopće bitno da je prebrojivo, ali možeš imati bilo kakvu familiju skupova,;0:23:41 - 0:23:46
+svi oni sadržaju taj mali x, onda je njihov presjek kakav god bio,;0:23:46 - 0:23:50
+koje god kardinalnosti bio sadržuje taj mali x.;0:23:50 - 0:23:52
+Znači, očito je zatvoren na proizvode presjeka, ne samo na presjeke prebrojivao mevog skupova.;0:23:52 - 0:23:57
+Ali kažem, glavni nas zapravo ne zanimaju, samo treba uvijek paziti šta oni zadovoljavaju;0:23:57 - 0:24:03
+i da imamo nekakve univerzalne tvrdnje koje vrijedi za sve, sve ultrafiltre, pa tako i za glavne.;0:24:03 - 0:24:09
+Evo, ovo je propozicija koja, ona opet je poprilično kombinatorička,;0:24:10 - 0:24:15
+ne bi sad išao dokazivati, samo ću možda ispričati kak se dokaže,;0:24:15 - 0:24:18
+ali kažem, možete svakako probati sami, nikakva logika se tu ne zahtjeva,;0:24:18 - 0:24:24
+ovo je samo igranje sa skupovima.;0:24:24 - 0:24:27
+Znači, koje razlike među ovog i ovog gore?;0:24:27 - 0:24:31
+Dakle, ovdje jednostavno kaže bilo kakav niz, ovdje kaže padajući niz.;0:24:31 - 0:24:35
+Znači, padajući niz i to ne bilo kakav, nego baš počinje sa čitavim i;0:24:35 - 0:24:42
+i na kraju završi u praznom skupu.;0:24:42 - 0:24:44
+Dakle, ne ovo gore samo kaže moraš završiti, da bi bio prebrojio nepopun,;0:24:44 - 0:24:48
+moraš završiti u nečemu što nije element od u,;0:24:48 - 0:24:50
+međutim, ovo kaže više, dakle, moraš baš završiti u praznom skupu.;0:24:50 - 0:24:54
+A ova druga karakterizacija kaže slično, dakle, samo u nekom smislu dualno.;0:24:55 - 0:25:01
+Dakle, unija njihova je čitav i nijedan od njih nije u i oni su u paravirmadisungti.;0:25:01 - 0:25:09
+Dobro, znači, imate x-eve, x-evi su znači niz, bilo kakav, elementi su u u,;0:25:10 - 0:25:18
+presjeh je u, kako od x-eva dobiti y-e?;0:25:19 - 0:25:22
+To je lako, svaki y je kumulativni presjeh svih x-eva dotad.;0:25:23 - 0:25:30
+Znači, y0 definirate da je i, y1 definirate da je x0,;0:25:30 - 0:25:41
+y2 definirate da je x0 presjeh x1,;0:25:42 - 0:25:48
+y3 definirate da je x0 presjeh x1 presjeh x2 i tako dalje.;0:25:49 - 0:25:58
+Znači, sasvim jasno da je to padajući niz,;0:25:59 - 0:26:03
+znači svaki taj y2 presjeh x2 je svaka odstupa za y2,;0:26:03 - 0:26:10
+padajući niz jest i je y0 po definiciji i njihov presjek je prazan.;0:26:11 - 0:26:16
+Zašto je njihov presjek prazan?;0:26:17 - 0:26:19
+Jer, onda to će biti presjek x-eva.;0:26:22 - 0:26:30
+To ne mora onda biti, samo malo.;0:26:30 - 0:26:34
+Moram još nešto izvariti.;0:26:42 - 0:26:44
+Dobro, a da uzmem, znači ovo je, ovo je mora biti i, ok?;0:26:50 - 0:26:55
+Ali od ovih recimo onda mogu uzeti bez presjeka svih x-eva.;0:26:56 - 0:27:05
+Najbolje se, uglavnom, tihni.;0:27:15 - 0:27:16
+Ne iz i, nego iz n, ali sad je komplicirano tako napisati.;0:27:17 - 0:27:21
+Uglavnom, znači, izbacim sve takve koji su u presjeku svih iz x0.;0:27:22 - 0:27:31
+Zašto je to, aha, ne.;0:27:36 - 0:27:39
+Ok, može. Znači, što sam ovdje zapravo napisao?;0:27:42 - 0:27:45
+Mogu to ovako napisati. x0, presjek, presjek svih x i komplement.;0:27:45 - 0:27:53
+I sad, znači komplement naravno u odnosu na veliko i.;0:27:54 - 0:27:57
+I sad je ključno da ovo tu nije iz u, zašto? Jer je u prebrojivo nepotpun.;0:27:58 - 0:28:03
+Dakle, ovo tu jest iz u, jer je u ultrafiltra.;0:28:04 - 0:28:08
+Čim neko nije unutra, onda njegov komplement jest unutra.;0:28:10 - 0:28:13
+I što sad imam? Aha, ovo tu nije iz u. Dakle, ovo je zadvornost na koračevoj presjeki.;0:28:13 - 0:28:20
+Presjek je dva elementa, to mora biti element iz u.;0:28:21 - 0:28:24
+I sad dalje je lako, jel, znači, ovo tu je, opet, bez ovog tu,;0:28:25 - 0:28:31
+ali to je zapravo, mogu napisati, y1, presjek x1.;0:28:31 - 0:28:36
+I to je element iz u, zašto? Jer y1 je iz u, a x1 je također iz u,;0:28:37 - 0:28:42
+opet svojstvo zadvornosti na presjeku.;0:28:42 - 0:28:45
+Nećemo ovako, nego ćemo samo definirati prethodni presjek sa pojedinim x-om;0:28:49 - 0:28:56
+i onda će to biti svakako padajući niz, biće niz u i njihov presjek,;0:28:56 - 0:29:02
+ne, sad je vidjeti, znači, presjek svih y i.;0:29:02 - 0:29:07
+To je isto kao i presjek x-ema, jer su y-e dobiveni kao presjeci x-ema,;0:29:08 - 0:29:18
+još presjek sa jednim od njih, a, naprimjer, uzmem baš y1.;0:29:19 - 0:29:26
+Zašto to? Zato što je to onda, naravno, presjek svih x-ema;0:29:27 - 0:29:31
+presjek x nula, presjek svih x-eva komponent.;0:29:32 - 0:29:39
+Međutim, naravno, ovo tu je prazno, ova x nula neće biti,;0:29:39 - 0:29:43
+zato je presjek je prazan.;0:29:43 - 0:29:46
+Znači, to je kako od x-eva dobiti y-ove.;0:29:46 - 0:29:49
+Kako od y-eva dobiti z-ove?;0:29:50 - 0:29:52
+Imam padajući niz y-ova, znači, ovo mi je y nula, to je čitav i.;0:29:53 - 0:29:59
+Ovo mi je y1, ovo mi je y2, itd.;0:30:00 - 0:30:05
+Kako dobiti z-ove? Z-ove moraju biti parametrični, to su ovi komponenti.;0:30:05 - 0:30:10
+Tu je z1, tu je z2, itd.;0:30:11 - 0:30:19
+Definiram z nula, on je i bez y1, nije mogu reći, y nula bez y1.;0:30:19 - 0:30:29
+I općajenje to, dakle, z n definiram kao y n bez y n plus 1.;0:30:32 - 0:30:40
+Oni će očito biti parametrični, jer su y-ove padajući.;0:30:40 - 0:30:46
+To sad, susjedni su uporani da su umkni, to je valjda očito,;0:30:46 - 0:30:51
+ali i općajenji to su uporani da su umkni.;0:30:51 - 0:30:55
+Tu sad ima malo pisat.;0:30:55 - 0:30:57
+Njihova unija je čitav i, jer naravno na početku dobijemo i,;0:30:57 - 0:31:04
+onda samo mićem, opet, treba pisat, ali nije strašno.;0:31:04 - 0:31:09
+I nijedan od njih nije element od u, kako to znam?;0:31:09 - 0:31:12
+Pa tako što njihovi komplementi su elementi u.;0:31:12 - 0:31:15
+Znači, šta ću reći?;0:31:16 - 0:31:18
+I bez z n će jednostavno biti, i bez ovo znači,;0:31:19 - 0:31:27
+z n komplement, odnosno na i.;0:31:31 - 0:31:33
+Šta je komplement skupovine razlike?;0:31:33 - 0:31:35
+Znači, nisi u skupovom razlici ako...;0:31:35 - 0:31:38
+Jesi u skupovom razlici ako jesi ovdje, a nisi ovdje.;0:31:41 - 0:31:44
+Evo ga, konjunkcija.;0:31:44 - 0:31:45
+E sad, ako nisi ovdje, ili jesi ovdje.;0:31:45 - 0:31:52
+Međutim, onda je lako vidjeti da je to nadskup od y n plus 1.;0:31:53 - 0:32:00
+Dakle, a ovaj tu je element iz u.;0:32:00 - 0:32:03
+To smo imali.;0:32:03 - 0:32:04
+Znači, zatvorimo stanarsku poletnu.;0:32:04 - 0:32:07
+Znači, ovaj tu mora biti element iz u, pa onda po svojstvu ultrafiltera z n ne smo li biti element iz u.;0:32:07 - 0:32:15
+Evo ga.;0:32:15 - 0:32:16
+Znači, to je kako od x-eva dobiti y-one i kako od y-ova dobiti z-ove.;0:32:16 - 0:32:20
+Kako od z-ova dobiti x-eve?;0:32:20 - 0:32:23
+Ne hraje, vratit se suprotno.;0:32:23 - 0:32:25
+Z-ove i x-evi...;0:32:28 - 0:32:30
+Dobro pitanje.;0:32:31 - 0:32:33
+Dakle, moraju biti elementi u.;0:32:34 - 0:32:37
+Presjek ne smije biti element u.;0:32:40 - 0:32:43
+Dobro, ono što je valjda jasno je kako od y-ova dobiti x-eve.;0:32:49 - 0:32:52
+To je lako, jer valjda...;0:32:52 - 0:32:56
+Mogu uzeti baš y-ove za x-eve.;0:33:01 - 0:33:04
+Ovdje kaže, prebrojivo je nepotpun.;0:33:06 - 0:33:09
+Znači, ako imaš takav niz y-ova, onda trebaš nekakav niz x-eva.;0:33:09 - 0:33:13
+Međutim, y-ovi su svi u, znači što se toga tiče u redu.;0:33:13 - 0:33:19
+I njihov presjek nije u.;0:33:20 - 0:33:22
+Pa naravno, jer njihov presjek je prazan, a prazan skup sigurno nije element ultrafiltera, jer je ultrafilter praven.;0:33:22 - 0:33:28
+Znači, to je lako.;0:33:28 - 0:33:30
+I sad, kako od z-ova dobiti y-ove?;0:33:30 - 0:33:34
+H negako znači unije ovih, jel?;0:33:35 - 0:33:37
+Znači, y nula će biti unija svih, y1 će biti unija od z i j, na dalje i tako dalje.;0:33:37 - 0:33:42
+Dakle, valjda yn, unija xn, potpuno sredno, će biti unija po svim h većima od n.;0:33:42 - 0:33:52
+Dakle, većima ili jednakima od n.;0:33:52 - 0:33:57
+Od z, k.;0:33:59 - 0:34:00
+To opet treba vidjeti hrpu tih svoj stava, ali prođe.;0:34:00 - 0:34:05
+Dobro, znači imam karakterizaciju prebrojivo nepotpunih ultrafiltera.;0:34:08 - 0:34:12
+I sad je još preostalo dokazat' wash-off teorem, a to stvarno sumnim da se može u 10 minuta, ali dobro, možemo krenut'.;0:34:12 - 0:34:20
+Dakle, šta kaže?;0:34:21 - 0:34:24
+Kaže više manje, ako napraviš onu istu konstrukciju reducijernog produkta,;0:34:24 - 0:34:29
+ali ne nad bilo kakvim filtram, nego nad ultrafiltram,;0:34:29 - 0:34:32
+onda će ti, ne samo za ono, kao ne logičke simbole, relacijski, atomarne formule i tako dologo,;0:34:32 - 0:34:38
+nego će ti za proizvodnu formulu vrijedit' upravo ona glasačka metafora.;0:34:38 - 0:34:43
+Dakle, ako formula vrijedi na dovoljno velikom skupu ovih faktora, onda vrijedi na ultra produktu.;0:34:43 - 0:34:51
+I ne samo, ne mora biti rečenica, znači može imat' neke slobodne variable,;0:34:51 - 0:34:56
+onda moraš na još neke valuacije pričat', ali to je ona priča,;0:34:56 - 0:34:59
+znači na svakoj mi ja imam neku valuaciju v, i onda imam valuaciju v na čitavom,;0:34:59 - 0:35:06
+na ultra produktu koja je inducirana tom familijom o valuacijama.;0:35:06 - 0:35:11
+I sad kaže, dokazujemo indukcijom posloženosti formule f,;0:35:11 - 0:35:16
+znači moram dokazat' za atomarne formule i moram dokazat' za nekako formule izgrađene od manjih;0:35:17 - 0:35:23
+pomoću logičkih veznika i kvantifikatora.;0:35:23 - 0:35:26
+Za atomarnu formulu to je relativno jednostavno jer tak' smo definirali interpretaciju;0:35:26 - 0:35:31
+relacijskog simbola. Znači jednostavno kaže, aha, na emu, na tom ultra produktu,;0:35:31 - 0:35:39
+uz induciranu valuaciju vrijedi ta atomarna formula, ako i samo ako,;0:35:39 - 0:35:45
+kad valuiraš te pojedine terme, oni su ti završe u eru interpretirano u ultra produktu.;0:35:45 - 0:35:52
+Međutim, eru interpretiranu u polu ultra produktu je upravo ovo,;0:35:52 - 0:35:58
+e sad naravno treba još pravo vidjeti šta su ove valuacije,;0:35:58 - 0:36:01
+ali to je ona priča koju smo dokazali, to je ovo, ova lema.;0:36:01 - 0:36:06
+Znači primijenim ovu lemu, tu, i onda primijenim definiciju od era.;0:36:07 - 0:36:13
+Znači to, skup svih jeva, takvi da glasaju za to da to bude, je element od era.;0:36:13 - 0:36:19
+Evo, kad rašpišem šta ovo znači, to točno znači da u mi, uz valuaciju vi,;0:36:20 - 0:36:24
+pazite sad ove vi su zaisti, znači uz tu valuaciju vrijedi upravo ova atomarna formula f;0:36:24 - 0:36:30
+od koja sam krenuo. I to je to. Znači to je tvrdnja za, upravo tvrdnja koju želimo dokazati;0:36:30 - 0:36:36
+za atomarne formule.;0:36:36 - 0:36:38
+E sad, logički veznici, dobro, pogledajmo negaciju.;0:36:38 - 0:36:41
+Negacija je dosta onak jednostavna, dakle treba, važno je tu koristiti ovo svojstvo 5,;0:36:42 - 0:36:47
+dakle svojstvo da od dva skupa, koji čine particiju od i, točno jedan je element ultra,;0:36:47 - 0:36:53
+ultra filtera. Vrijedi negacija od g, s obzirom na valuaciju v,;0:36:53 - 0:36:58
+ako i samo ako, s obzirom na tu istu valuaciju, ne vrijedi g.;0:36:58 - 0:37:02
+Dakle, kažem to za, smo obično koristili za rečenice, zato što nismo imali valuaciju.;0:37:02 - 0:37:07
+Nismo imali valuaciju, onda to vrijedi za proizvodnu formulu.;0:37:07 - 0:37:10
+Dakle, vrijedi negacija formule, ako ne vrijedi formula, ali za fiksnu valuaciju.;0:37:10 - 0:37:14
+Ok, sad, primijenim pretpostavku indukcije, dakle, sa formula g je manje;0:37:14 - 0:37:19
+složenosti nego ne g, dakle, za nju vrijedi ovo tu, naravno, šta vrijedi?;0:37:19 - 0:37:24
+Vrijedi ekvivalencija, to je ključna, dakle, ja cijelo vrijeme dokazujem ekvalenciju.;0:37:24 - 0:37:28
+Dakle, ako i samo ako.;0:37:28 - 0:37:30
+Znači, za formulu g vrijedi da je ona istimita tu, ako i samo ako je ovaj skup;0:37:31 - 0:37:38
+onih koji glasaju za nju element od uveka.;0:37:38 - 0:37:41
+Naravno, ako su te dvije stvari ekvalentne, ono su i njihove negacije ekvalentne.;0:37:41 - 0:37:44
+Znači, to ne vrijedi u strukturi, ako i samo ako skup glasača nije dovoljno veliko.;0:37:44 - 0:37:50
+E, međutim, sad kažem svojstvo 5.;0:37:50 - 0:37:53
+Ako nisi u, onda je tvoj komplement u, i opet u to.;0:37:53 - 0:37:58
+Dakle, točno jedna od dva s dvojice je u.;0:37:58 - 0:38:00
+Dakle, opet imam ako i samo ako, komplement toga je u.;0:38:00 - 0:38:03
+A šta je komplement? Komplement su svi ijevi na kojima ovo ne vrijedi.;0:38:03 - 0:38:07
+Međutim, opet, sad imam fiksnu valuaciju, samo šta je ona vi,;0:38:07 - 0:38:11
+to znači da uz tu fiksnu valuaciju vrijedi upravo negacija od g.;0:38:11 - 0:38:15
+I kad pogledam početak i kraj, to je upravo tvrdnja za nege, za formulu nege.;0:38:15 - 0:38:21
+Danje, daj će mi je konjunkcija.;0:38:22 - 0:38:27
+Aha, dobro, konjunkcija.;0:38:29 - 0:38:31
+Može, ajde, možda ovo.;0:38:31 - 0:38:33
+Znači, konjunkcija je dosta jednostavna, ali ima par subtilnosti.;0:38:33 - 0:38:39
+Dakle, na strukturi uz valuaciju vrijedi konjunkcija,;0:38:39 - 0:38:43
+ako vrijede oba konjunkta, opet kažem, vrlo jednostavno.;0:38:43 - 0:38:47
+Po predpostavci indukcije, to znači da je ova dva skupa,;0:38:47 - 0:38:51
+znači skup glasača za g i skup glasača za h, su dovoljno velike.;0:38:51 - 0:38:56
+E, ali onda? Onda je svakako njihov presjek dovoljno velik,;0:38:56 - 0:39:00
+znači ovaj smjer vrijedi po zatvorenosti na presjeke,;0:39:00 - 0:39:03
+ali vrijedi i ovaj smjer po zatvorenosti na adskupove,;0:39:03 - 0:39:05
+jer presjek, svaka dva, a i b, su adskupove od a presjek b.;0:39:05 - 0:39:09
+Znači, ako ja presjek b u ultrafiltru, u bilo kakvom filtru,;0:39:09 - 0:39:13
+onda su a i b umutra, znači opet vrijedi ako i samo ako.;0:39:13 - 0:39:16
+Dobro, međutim što je presjek taj dva skupa?;0:39:17 - 0:39:19
+Pa presjek taj dva skupa je skup svih j na kojima vrijedi i ovo i ovo,;0:39:19 - 0:39:23
+pa to je točno skup svih j na kojima vrijedi konjunkcija.;0:39:23 - 0:39:26
+I to je točno tvrdnje za konjunkciju.;0:39:26 - 0:39:28
+E, i još je preostalo vidjeti egzistencijanu kvantifikaciju.;0:39:28 - 0:39:33
+Tu sad ima subtilnosti, trebamo malo misliti o ovim induciranim valuacijama,;0:39:33 - 0:39:38
+a kažem, to bih ostavio vama da skroz pročete do kraja,;0:39:38 - 0:39:43
+da se uvjerite da je to što ima, ali samo da prođemo kroz to.;0:39:43 - 0:39:47
+Znači, predpostavka indukcije je da...;0:39:47 - 0:39:50
+Ne, zapravo, ja trebam dokazati opet ovo je ako i samo ako,;0:39:51 - 0:39:55
+i ovdje dokazujem jedan smjer...;0:39:55 - 0:39:58
+Ne, dokazujem oba smjera, ok.;0:40:01 - 0:40:03
+Prvo predpostavim da na ultraproduktu vrijedi egzistencijalno kvantificirana formula.;0:40:03 - 0:40:08
+To po definiciji istinitosti egzistencijalno kvantificirane formule,;0:40:09 - 0:40:13
+znači da imaš valuaciju, sjećate se ono, Vx je bilo, znači,;0:40:13 - 0:40:17
+valuacija koja se podudara sa V na svim variablama osim možda na X,;0:40:17 - 0:40:21
+znači, smije se i na X podudarati, ali ne mora na X, a na svim ostalim mora.;0:40:21 - 0:40:25
+Znači, takva valuacija postoji.;0:40:25 - 0:40:27
+E, i sad kaže, lako je vidjeti da mi niste i rećili.;0:40:27 - 0:40:30
+Dakle, što je ovo? Ovo je Vx, dakle, Vx je opet nekakva valuacija;0:40:30 - 0:40:34
+koja je, to je ona priča, svaka valuacija je zapravo inducirana nekakvom familijom,;0:40:35 - 0:40:44
+znači, ima smisla napisati što je Vx pa onda to I.;0:40:44 - 0:40:50
+Taj Vx je također induciran nekakvom familijom VxI.;0:40:50 - 0:40:54
+Dobro, međutim, one, oni ijevi takvi da uz valuaciju VxI vrijedi G,;0:40:55 - 0:41:04
+je podskup od onih ijeva takvih da na V i mrvi su promijenjene,;0:41:04 - 0:41:14
+dakle, promijenjene možda u X, vrijedi G.;0:41:14 - 0:41:17
+Mogu reći, ovdje sam promijenio pojedini element,;0:41:18 - 0:41:23
+a ovdje sam promijenio čitav redak, dakle, nekakve tablice.;0:41:23 - 0:41:27
+S jedne strane imam ove ijeve, s druge strane imam varijable.;0:41:27 - 0:41:30
+Sad samo gledam, s obzirom na varijablu X, možda onda,;0:41:30 - 0:41:33
+bolje reći, stupac, dakle, ali sigurno postoji onda valuacija čitava;0:41:33 - 0:41:39
+koju jednostavno definiram na ostalim varijablama kako god hoću.;0:41:39 - 0:41:42
+Ovaj, odnosno, ne, uzmem, znači, uzmem taj V i, Vx,;0:41:42 - 0:41:49
+ovaj i on je nastao od nekakvog V i, znači, definiram ga kao V i svuda,;0:41:49 - 0:41:55
+a na X-u ga definiram kao VxI.;0:41:55 - 0:41:59
+I onda, na taj način sam dobio valuaciju koja se podudara sa V i;0:41:59 - 0:42:03
+na svim varijablama osim možda na X, evo, promijenio sam samo na X-u,;0:42:03 - 0:42:07
+dakle, ima smisla, evo, znači, sa V i pa onda X, ovdje.;0:42:07 - 0:42:11
+Subtilno je različito ovo dvoje i stvarno to nisu jednake skupove,;0:42:11 - 0:42:16
+znači, možete stvarno probati smisli kad ovdje ne vrijedi jednakasta,;0:42:16 - 0:42:19
+ali vrijedi ovaj implozijac.;0:42:19 - 0:42:21
+A to je dovoljno jer onaj tamo skup je upravo skup onih na kojim,;0:42:21 - 0:42:25
+glasača za existencijalno kvantificiranu formulu, to je U,;0:42:25 - 0:42:29
+dakle,;0:42:29 - 0:42:31
+a ne, ovaj je U,;0:42:41 - 0:42:43
+a da, naravno, ovo me ne znam, dakle, ali znam da je nadskup od ovoga,;0:42:45 - 0:42:50
+a ovaj je element od U, pa je onda i ovaj panirovan nadskup.;0:42:50 - 0:42:54
+Ok.;0:42:55 - 0:42:56
+Ovdje u smjer, opet, dakle, samo ova subtilnost, samo sad ne mijenjem stupce,;0:42:57 - 0:43:03
+nego mijenjem redke tablice, ali, opet kažem, probajte se,;0:43:03 - 0:43:06
+se uvjeriti da to stvarno štima.;0:43:06 - 0:43:08
+Najlakši način je da stvarno nadstavite dvoje dimenzionalno tablicu,;0:43:08 - 0:43:11
+znači, s jedne strane su ovo mijevi, s druge strane su ovo mixevi,;0:43:11 - 0:43:13
+i onda gledajte šta se tu zbiva.;0:43:13 - 0:43:15
+Aha, ima, ima još ovdje, znači, da,;0:43:19 - 0:43:21
+kad ja induciram takvu V crtica, da je ona doista oblika V pa dolje x-ić,;0:43:22 - 0:43:28
+znači da je stvarno se pod udara sa V, sa V na svim variablama različitih od x.;0:43:29 - 0:43:33
+Znači, čak i raspisano.;0:43:35 - 0:43:37
+Ok, i sad, što sam napravio?;0:43:37 - 0:43:38
+Naprao sam za izdencijalnu konjunkciju, negaciju i atomarne,;0:43:38 - 0:43:43
+ali to su zapravo sve, jer kažem, svi ostali veznici i kvantifikatori;0:43:43 - 0:43:46
+se mogu napisati pomoću ovih tri, dakle, zapravo,;0:43:46 - 0:43:50
+dalje više ne moram.;0:43:50 - 0:43:52
+I sad, dakle, to je bilo za proizvodnju formulu,;0:43:52 - 0:43:55
+na reduciranim variablama, na reduciranim evalovacijama,;0:43:55 - 0:43:58
+ali korular, naravno, ako imam rečenicu, onda ne moram ništa o evalovacijama prizivno,;0:43:58 - 0:44:03
+onda jednostavno, donostavno dobijem ono što bih nekako htio od ove glazačke mašinerije.;0:44:03 - 0:44:07
+Dakle, formula rečenica vrijedi na ultra produktu,;0:44:07 - 0:44:11
+ako i samo ako na dovoljno velikom skupu faktora tog ultra produkta vrijedi.;0:44:11 - 0:44:18
+Eto. Ima pitanja? Nema? Ok.;0:44:18 - 0:44:23

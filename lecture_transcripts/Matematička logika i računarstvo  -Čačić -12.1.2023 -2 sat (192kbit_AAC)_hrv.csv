@@ -1,0 +1,541 @@
+Speech;Timestamp
+Dobro, dakle, kao što rekli smo, s jedne strane nam je ta priča o očuvanjima,;0:00:00 - 0:00:10.560000
+znači klasa, modela neke teorije je očuvana na nešto,;0:00:10.560000 - 0:00:16
+nekakvu konstrukciju ili nekakvu relaciju između struktura,;0:00:16 - 0:00:19.240000
+a s druge strane nam je sintaksni oblik teorije.;0:00:19.240000 - 0:00:21.760000
+I onda naravno ne možemo zapravo očekivati da bi ćemo,;0:00:21.760000 - 0:00:24.760000
+u jednom smjeru možemo, dakle, ako su sve formule u teoriji;0:00:24.760000 - 0:00:29.560000
+nekog sintaksnog oblika, onda će klasa, modela biti zatvorena na nešto, naravno.;0:00:29.560000 - 0:00:33.960000
+Ali htjeli bismo zapravo dokazati karakterizaciju, dokazati oba smjera,;0:00:33.960000 - 0:00:38.600000
+znači i drugi smjer, onda nekako, ako je klasa, modela zatvorena na nešto,;0:00:38.600000 - 0:00:43.240000
+onda sve formule te teorije imaju nekakav sintaksni oblik.;0:00:43.240000 - 0:00:47.240000
+Naravno, to je apsolutno nemoguće jer ne možemo nikako propisati;0:00:47.240000 - 0:00:51.200000
+sintaksni oblik formule samo na osnovi toga u kakvim modelima vrijedi,;0:00:51.200000 - 0:00:54.640000
+jer, vjerojatno, vi mogu napisati ekvivalentnu formulu koja nije tog sintaksnog oblika,;0:00:54.640000 - 0:00:59.160000
+ali mogu, na primjer, ako je, ono, teorem kaže da moram imat nekakve univerzalne formule unutra,;0:00:59.160000 - 0:01:05.640000
+dakle samo sa univerzalnim kvantifikatorima, ja uvijek mogu na formulu dodat na početak;0:01:05.640000 - 0:01:09.280000
+neki irrelevantni egzistencijalni kvantifikator, ona više neće biti tog oblika.;0:01:09.280000 - 0:01:12.640000
+Ali, znači, ne možemo se nadat da ćemo stvarno dobiti ako i samo ako,;0:01:12.640000 - 0:01:16.160000
+pod predpostavkom da s jedne strane stoji sintaksni oblik formula u teoriji,;0:01:16.160000 - 0:01:20.120000
+a s druge strane zatvornost klase, modela te teorije na nešto.;0:01:20.120000 - 0:01:23.880000
+Ali, to ćemo lako riješiti tako da zapravo ovu ekvivalenciju upotrebimo kao džoker,;0:01:24.160000 - 0:01:31.680000
+dakle nećemo reći aha, tada u toj teoriji sve formule, na primjer, su univerzalne,;0:01:31.680000 - 0:01:38.120000
+nego u nekoj ekvivalentnoj teoriji.;0:01:38.120000 - 0:01:40.840000
+Sad, ono što znači ekvivalentna teorija, pa ono zapravo što vidi iste modele,;0:01:40.840000 - 0:01:45.800000
+onako, što ima istu klasu modela.;0:01:45.800000 - 0:01:49.880000
+Znači, prvo, nad istom signaturom dvije teorije, te i te trdice, zovemo ekvivalentnima;0:01:50.200000 - 0:01:54.400000
+ako su, bilo koja je struktura nad tom signaturom model za jednu,;0:01:54.400000 - 0:02:01.320000
+ako i samo ako je model za drugu.;0:02:01.320000 - 0:02:03.160000
+E sad, dakle, sad možemo govoriti o ovoj semantičkom značenju ove očuvanosti za,;0:02:03.680000 - 0:02:10.080000
+na primjer, podmodele. Što to znači? To znači da...;0:02:10.080000 - 0:02:13.920000
+Aha, dobro, imamo dvije stvari, imamo očuvanje na podmodele i zatvoranost za podmodele.;0:02:13.920000 - 0:02:22.840000
+Dakle, ili zatvoranost na podmodele i očuvanost za podmodele.;0:02:22.840000 - 0:02:27.800000
+Nisam siguran da jezik tu nešto posebno ima za propisat, ali dobro, uglavnom,;0:02:27.800000 - 0:02:34.680000
+valjda Vuković tako kaže u svojoj knjizi.;0:02:34.680000 - 0:02:37.520000
+Dakle, klasa je zatvorana na podmodele, ono što bismo očekivali.;0:02:37.520000 - 0:02:42.920000
+Dakle, ako imaš element T klase i neki njegov podmodel,;0:02:42.920000 - 0:02:48.520000
+onda taj podmodel također mora biti u toj klasi.;0:02:48.520000 - 0:02:51.320000
+A onda, s obzirom na to, ako je ta klasa baš klasa modela neke teorije T,;0:02:51.320000 - 0:02:56.120000
+onda kažemo da je teorija T očuvana za podmodela.;0:02:56.120000 - 0:02:59.320000
+E sad kažem, to možemo karakterizirati ovako.;0:02:59.320000 - 0:03:01.520000
+Znači, ako imam podmodel nekog modela za T, onda je on također model za T.;0:03:01.520000 - 0:03:06.720000
+I teorijem prvi u seriji tih teorijema očuvanja je,;0:03:07.720000 - 0:03:13.320000
+teorija je očuvana za podmodele ako i samo ako,;0:03:13.320000 - 0:03:16.720000
+sad bismo htjeli reći je univerzalna, ali ne možemo,;0:03:16.720000 - 0:03:18.920000
+razloga koju smo prije rekli je ekvivalentna nekoj univerzalnoj T crtica.;0:03:18.920000 - 0:03:25.320000
+T je ekvivalentna, sad, kako bi čovjek vidio teorije da su ekvivalentne,;0:03:28.520000 - 0:03:32.920000
+odnošavao, ne znam, mislim, pa možete reći ovako u smislu,;0:03:33.120000 - 0:03:37.120000
+semantički, dakle, kroz modele.;0:03:37.120000 - 0:03:40.320000
+T crtica je univerzalna za neki T crtica.;0:03:40.320000 - 0:03:50.520000
+Ovaj, ako i samo ako imaš neki podmodel modela za T,;0:03:50.720000 - 0:04:01.320000
+povlakći da je on također model za T.;0:04:01.320000 - 0:04:09.120000
+Dobro, i jedan smjer je vanjda prilišno jasan,;0:04:12.120000 - 0:04:15.320000
+to je ono gdje bi čovjek očekivao da,;0:04:15.320000 - 0:04:18.520000
+ako ja imam samo univerzalne rečenice,;0:04:18.920000 - 0:04:21.920000
+znači za početak maknimo ovaj T crtica,;0:04:21.920000 - 0:04:24.920000
+za ovaj smjer zapravo ne treba taj ekvivalencije miđu teorijama,;0:04:24.920000 - 0:04:27.520000
+odnosno ona samo komplicira stvari, ali ajmo prvo vidjeti za samu teoriju T.;0:04:27.520000 - 0:04:31.520000
+Znači kaže ovako nešto, ako imaš univerzalnu rečenicu;0:04:31.520000 - 0:04:34.520000
+i ona te vrijedi na nekakvom modelu,;0:04:34.520000 - 0:04:37.520000
+onda naravno da vrijedi i na svakom njegovom podmodelu,;0:04:37.520000 - 0:04:40.520000
+jer podmodel je upravo onaj na kojem su atomarne rečenice,;0:04:40.520000 - 0:04:44.520000
+relacijski simboli su interpretirani kao restrikcije,;0:04:44.520000 - 0:04:48.520000
+odnosno kao prešici sa ovim manjim nosačem,;0:04:48.520000 - 0:04:51.520000
+a univerzalni kvantifikatori upravo sad kvantificiraju po tom manjem nosaču,;0:04:51.520000 - 0:04:56.520000
+dakle sve štima, ako kažem da nešto vrijedi za sve cijele brojeve,;0:04:56.520000 - 0:05:02.520000
+onda svakako vrijedi i za sve prirodne brojeve,;0:05:02.520000 - 0:05:05.520000
+dakle sasvim jasno.;0:05:05.520000 - 0:05:07.520000
+Kaže ovdje formalno, indukcija po broju kvantifikatora,;0:05:10.520000 - 0:05:12.520000
+univerzalne formule, ali mislim da čak i to ne treba,;0:05:12.520000 - 0:05:14.520000
+nego jednostavno samo treba reći, aha, za svaki,;0:05:14.520000 - 0:05:18.520000
+no, formula ima oblik.;0:05:18.520000 - 0:05:20.520000
+I tu je sad nekakav g koji je otvorena,;0:05:25.520000 - 0:05:27.520000
+formula ovaj,;0:05:28.520000 - 0:05:30.520000
+ovo tu znači da kad god uzmem nekakvu valuaciju,;0:05:34.520000 - 0:05:38.520000
+kakva gotova ona bila na variablama x1 do xk,;0:05:38.520000 - 0:05:42.520000
+s obzirom na tu valuaciju će vrijediti g u ovom, emo.;0:05:44.520000 - 0:05:49.520000
+E sad, specijalno, znači za sve valuacije;0:05:50.520000 - 0:06:00.520000
+koje idu iz x1 do xk u nosač od n, nešto vrijedi,;0:06:01.520000 - 0:06:10.520000
+pa, specijalno, za sve valuacije koje idu u nosač od n,;0:06:11.520000 - 0:06:17.520000
+jer je nosač od n podskup od nosača od n i to je to.;0:06:17.520000 - 0:06:21.520000
+Dobro, dakle, e sad, naravno, to je bila priča samo o teoriji t,;0:06:23.520000 - 0:06:27.520000
+ako imam teoriju t crnica, onda se kao full stvari kompliciraju,;0:06:27.520000 - 0:06:30.520000
+ali zapravo ne, jer jedino što ja koristim od t, odnosno t crnica,;0:06:30.520000 - 0:06:34.520000
+su njihovi modeli, a klasa modela su im iste.;0:06:34.520000 - 0:06:38.520000
+Dakle, taj smjer je jasan. E sad drugi smjer, naravno,;0:06:39.520000 - 0:06:42.520000
+ovaj koji je zamijenit.;0:06:43.520000 - 0:06:46.520000
+Šta bih ja nekako htio reći? Na prvi pogled, šta bih mogao pomislit,;0:06:47.520000 - 0:06:51.520000
+znači da t crnica bude, mislim, opet, ne mogu staviti da t crnica bude t,;0:06:52.520000 - 0:06:56.520000
+jer, kažem, t može imat nekakve irrelevantne existencijale kvantifikatore,;0:06:56.520000 - 0:07:00.520000
+može biti da formule unutra nisu preakstonalne ove formule,;0:07:00.520000 - 0:07:03.520000
+može biti svašta, ali nekako, prvo što se čovjek učini,;0:07:03.520000 - 0:07:06.520000
+mogao bih samo profiltirati, samo uzeti one rečenice iz t koje su univerzalne.;0:07:06.520000 - 0:07:12.520000
+Ali to neće funkcionirati, jer, kažem, ako vi uzmete neku rečenicu;0:07:13.520000 - 0:07:16.520000
+koja je univerzalna i njoj dodate existencijalni kvantifikator na početak,;0:07:16.520000 - 0:07:19.520000
+ona neće proći ovoj filtre.;0:07:19.520000 - 0:07:22.520000
+Ali kako nekako semantički reći da je irrelevantni kvantifikator dodan?;0:07:22.520000 - 0:07:27.520000
+Pa tako što je ona formula bez existencijalnog kvantifikatora posljedica;0:07:27.520000 - 0:07:31.520000
+formule sa existencijalnim kvantifikatorom.;0:07:31.520000 - 0:07:34.520000
+Dakle, zapravo, neću uzeti sve univerzalne rečenice koje su elementi iz t,;0:07:34.520000 - 0:07:38.520000
+jer to bi možda bilo premalo, ali ću uzeti sve univerzalne rečenice;0:07:38.520000 - 0:07:42.520000
+koje su posljedice od t.;0:07:42.520000 - 0:07:44.520000
+Naravno, to sad može biti puno više, jer, naravno, ovaj t će možda biti,;0:07:44.520000 - 0:07:47.520000
+možda biti, na primjer, konačna aksijomatizacija, pa možda ima tri formule unutra,;0:07:47.520000 - 0:07:51.520000
+tri aksijoma, a ovo je onda, naravno, beskonačno.;0:07:51.520000 - 0:07:54.520000
+Sigurno, čim je nešto ispunjivo, ima se logičko posljedice, sva što.;0:07:54.520000 - 0:08:00.520000
+Dakle, čak i da gledate samo univerzalne formule i da ih možete,;0:08:00.520000 - 0:08:04.520000
+ne znam, dodavati univerzalne i relevantne kvantifikatore na početak,;0:08:04.520000 - 0:08:09.520000
+ako ništa drugo.;0:08:09.520000 - 0:08:10.520000
+Dakle, sasvim jasno da će ovo biti beskonačno, ali nije bitno za ovaj teorem.;0:08:10.520000 - 0:08:15.520000
+Ono što treba dokazati je da je taj T-crtica ekivalentan sa T.;0:08:17.520000 - 0:08:21.520000
+I to je jedino što treba dokazati.;0:08:21.520000 - 0:08:22.520000
+Dakle, treba dokazati da postoji univerzalna teorija, T-crtica je ekivalentan sa T.;0:08:22.520000 - 0:08:29.520000
+T-crtica je očito univerzalna teorija, jer unutra žive samo univerzalne rječenice,;0:08:29.520000 - 0:08:33.520000
+dakle, samo treba dokazati da im se klase modela podudaraju.;0:08:33.520000 - 0:08:37.520000
+I opet, očito jedna inkluzija vrijednje.;0:08:37.520000 - 0:08:40.520000
+Sad, dobro, da sam samo profiltrirao, onda bi bilo stvarno sasvim očito.;0:08:40.520000 - 0:08:44.520000
+Ovako, kad uzmem posteljica, onda na prvi pogled nije očito,;0:08:44.520000 - 0:08:47.520000
+ali na drugi pogled ipak jeste očito.;0:08:47.520000 - 0:08:49.520000
+Jer ako je nešto, dako je neka struktura ovdje, to znači da u njoj vrijede sve formule iz T.;0:08:49.520000 - 0:08:55.520000
+E onda to znači da u njoj vrijedi g.;0:08:55.520000 - 0:08:57.520000
+Za bilo koju g iz T-crtica, jer g je upravo, to je upravo definicija logičke posteljice.;0:08:57.520000 - 0:09:02.520000
+Znači, kad god na nekoj strukturi vrijede sve formule iz T,;0:09:03.520000 - 0:09:07.520000
+tada za svaku formulu g iz T-crtica ona vrijedi na toj strukturi.;0:09:07.520000 - 0:09:11.520000
+To zapravo znači da je ta pošetna struktura od koje sam krenuo,;0:09:11.520000 - 0:09:15.520000
+također model za T-crtica. Dakle, jedna inkluzija je ispunjena.;0:09:15.520000 - 0:09:19.520000
+E sad, naravno, druga inkluzija je...;0:09:19.520000 - 0:09:22.520000
+puno zanimljivija.;0:09:25.520000 - 0:09:26.520000
+Kaže ovako, dovoljno je dokazati da je T unija čitav,;0:09:27.520000 - 0:09:31.520000
+ne čitav, nego onaj jednostavni dijagram od M ispunjiv.;0:09:31.520000 - 0:09:36.520000
+Dakle, za elementarni podmotev bi nam trebao potpun dijagram.;0:09:36.520000 - 0:09:39.520000
+Ovdje nam treba jednostavni dijagram.;0:09:39.520000 - 0:09:42.520000
+Dakle, zašto to? Lemao dijagramu kaže da onda imaš model,;0:09:43.520000 - 0:09:49.520000
+onda imaš strukturu, dakle, samo da imate ovo tu,;0:09:50.520000 - 0:09:53.520000
+to bi značilo da imam strukturu koja je kao fall ekstenzija od M,;0:09:53.520000 - 0:09:59.520000
+ali naravno ona ima sad još interpretaciju ovih novih konstantnih simbola i tako to.;0:09:59.520000 - 0:10:05.520000
+Onda kad to sve maknem iznutra, dakle reduciram na ovu originalnu signaturu,;0:10:05.520000 - 0:10:09.520000
+to smo označavali sa godsko N minus, dobijem nešto što je proširenje ovog M-a,;0:10:13.520000 - 0:10:20.520000
+odnosno M je podmodel od K od N, ali zapravo od N minus.;0:10:20.520000 - 0:10:24.520000
+Dobro, ali ne želimo da samo to bude ispunjivo, jer naravno to trivialno,;0:10:26.520000 - 0:10:31.520000
+mogu samo uzeti M, nego to još unijate. Dakle, onda ću dobiti strukturu koja je;0:10:31.520000 - 0:10:38.520000
+s jedne strane nadmodel od M, a s druge strane model za T.;0:10:38.520000 - 0:10:44.520000
+Nijedno i drugo nije istina, nego jedno i drugo vrijedi za N minus,;0:10:44.520000 - 0:10:47.520000
+ali kažem, to su sad ovi tehnički, birokratski konstantni simboli koje dodajem,;0:10:47.520000 - 0:10:52.520000
+koji mi zapravo nisu bitni ni za ovu relaciju, ni za ovu relaciju.;0:10:52.520000 - 0:10:56.520000
+E, ali kaže, ako to uspijem napraviti, onda naravno iz toga slijedi da nemu vrijedi T.;0:10:57.520000 - 0:11:05.520000
+Zašto? Jer pretpostavka je bila, nije ovdje pisalo, ali kad dokazujem ovaj smjer,;0:11:05.520000 - 0:11:10.520000
+naravno, pretpostavka je da je T počuvana za podmodela.;0:11:10.520000 - 0:11:14.520000
+Dakle, kad goti imam neki podmodel nekog modela od T, tada je i on model za T.;0:11:14.520000 - 0:11:21.520000
+Dobro, znači, dovoljno je da kazat' ovo tu.;0:11:22.520000 - 0:11:24.520000
+Pretpostavljamo da nije i onda opet, koji uvijek ulevio dijagramu,;0:11:24.520000 - 0:11:29.520000
+neki skup nije ispunjiv, kontrapozicija teorema kompaktnosti.;0:11:30.520000 - 0:11:34.520000
+Postoji konačno mnogo formula iz tog skupa, iz ovog tu skupa, koje nisu ispunjive.;0:11:34.520000 - 0:11:41.520000
+Dobro, znači, to svakako možemo tako reć', ali možemo i ovako reć'.;0:11:41.520000 - 0:11:44.520000
+Dakle, postoji konačno mnogo formula iz ovog tu skupa, znači, samo ovog,;0:11:44.520000 - 0:11:49.520000
+koje nekako nisu, u smislu njihova konjunkcija, nije logička posljedica od ovog ovdje.;0:11:49.520000 - 0:11:54.520000
+Kak' to zapravo slijedi? Znači, teorema kompaktnosti kaže,;0:11:54.520000 - 0:11:57.520000
+postoje formule, konačno mnogo formula, znači, pod skup od T unija jednostavni dijagram od M.;0:12:01.520000 - 0:12:13.520000
+I sad kaže, razvrstaj te formule. Dakle, neke su iz T, neke su iz jednostavnog dijagrama od M.;0:12:13.520000 - 0:12:18.520000
+Naravno, neke su možda iz oba skupa, ali nije uopće bitno.;0:12:18.520000 - 0:12:21.520000
+Znači, neke su ove tu iz T, a neke su ove tu, dakle, recimo, naprijed, da nisu iz T,;0:12:21.520000 - 0:12:27.520000
+a jesu iz jednostavnog dijagrama ovdje.;0:12:27.520000 - 0:12:32.520000
+I sad, ove tu nazovem sa G1 do Gm. Dakle, one svakako jesu od ovdje.;0:12:32.520000 - 0:12:41.520000
+A ove tu, ne znam, nazovem sa H1 do Hn.;0:12:41.520000 - 0:12:48.520000
+I sad šta sam dobio? Dobio sam da ovaj tu skup nije ispunjiv.;0:12:48.520000 - 0:12:55.520000
+To mi daje teorema kompaktnosti, odnosno njegova kontrapozicija.;0:12:55.520000 - 0:12:59.520000
+Što to znači? To znači da ne postoji model koji bi istovremeno bio i za ovo i za ovo.;0:13:01.520000 - 0:13:06.520000
+A to znači da svaki model za ove tu sigurno nije model za sve ove ovdje.;0:13:07.520000 - 0:13:13.520000
+E, ali svaki model za ove tu, mislim, naravno, oni su svi elementi od T.;0:13:13.520000 - 0:13:18.520000
+Dakle, mogu jače reći, svaki model za T sigurno nije model za sve ove ovdje.;0:13:18.520000 - 0:13:24.520000
+Jer svaki model za T mora specialno biti model za ovih nh ova.;0:13:24.520000 - 0:13:29.520000
+Svaki model za T nije model za ovo.;0:13:30.520000 - 0:13:33.520000
+To zapravo znači da je model za negaciju konjunkcije, odnosno ovako.;0:13:33.520000 - 0:13:42.520000
+Nije model za konjunkciju, može, a to točno znači da konjunkcija nije logička posteljica od teorije T.;0:13:42.520000 - 0:13:50.520000
+I sad opet ona ista priča koju smo već nekoliko puta pričali.;0:13:52.520000 - 0:13:58.520000
+Dakle, opet ovi birokratski novi simboli koji su dodani,;0:13:58.520000 - 0:14:02.520000
+da bi smo mogli govoriti o elementima strukture.;0:14:02.520000 - 0:14:05.520000
+Sad ih moram ekstrahirat, znači, naravno, označim sa A1 do AN potez sve nove konstantske simbole;0:14:05.520000 - 0:14:14.520000
+koje se pojavljuju u formulama G1 do Gm.;0:14:14.520000 - 0:14:17.520000
+Aha, aha, aha, onda je možda bitno da ovi tu nisu, da ovi tu nemaju.;0:14:17.520000 - 0:14:22.520000
+Znači ovako ćemo onda, da ovi nisu u, ovdje je A, ovi.;0:14:23.520000 - 0:14:29.520000
+Za ove uopće nije bitno da nisu u T, ali za ove je bitno da nisu u dijagramu,;0:14:29.520000 - 0:14:34.520000
+da nemaju te nove konstantske simbole.;0:14:34.520000 - 0:14:36.520000
+Daj mi priključit da novi konstantski simbol završi samo ovdje.;0:14:36.520000 - 0:14:39.520000
+Dakle, naravno, negak mogu ja tu granicu povući,;0:14:39.520000 - 0:14:44.520000
+zapravo, vjenom dijagramu, dakle, koji ću li povući ovdje ili ovdje, ali zgodnije je ovako.;0:14:44.520000 - 0:14:50.520000
+Dobro, na taj način onda svi ti novi konstantski simboli završaju s ove strane;0:14:50.520000 - 0:14:55.520000
+i označim ih sa A1 do An potese.;0:14:55.520000 - 0:14:59.520000
+Dobro, i sad kaže ovako, na M-u vrijedi taj G.;0:15:02.520000 - 0:15:09.520000
+Naravno, jer, što je to ova priča,;0:15:10.520000 - 0:15:16.520000
+jednostavni dijagram, mislim i potpuni dijagram, ali nebitno,;0:15:17.520000 - 0:15:20.520000
+jednostavni dijagram je zatvoren na konjunkciju.;0:15:20.520000 - 0:15:22.520000
+Dakle, svaki pojedini je iz delta od M, a onda, naravno, i G je element delta od M,;0:15:22.520000 - 0:15:35.520000
+a to znači da vrijedi na strukturi M.;0:15:35.520000 - 0:15:39.520000
+I, naravno, u njoj se ne mogu sad pojaviti, to sa samu konjunkciju napravio,;0:15:40.520000 - 0:15:44.520000
+ne mogu se pojaviti neki drugi konstantski simboli.;0:15:44.520000 - 0:15:46.520000
+Dakle, to su točno ti A1 do An potese.;0:15:46.520000 - 0:15:50.520000
+Znači, to jest očito.;0:15:51.520000 - 0:15:53.520000
+No, T ima za logičku posljedicu negaciju toga.;0:15:54.520000 - 0:15:58.520000
+E, sad te svoja opet priča, dakle, no ti novi konstantski simboli se ne pojavnjuju u sigma,;0:16:02.520000 - 0:16:08.520000
+a T je sigma teorija.;0:16:08.520000 - 0:16:10.520000
+To zapravo znači da T, to je ona opet, univerzalna, uvođenje univerzalnog kvantifikatora,;0:16:11.520000 - 0:16:19.520000
+zapravo ove tuja mogu tratirati kao slobodne konstantske simbole.;0:16:19.520000 - 0:16:24.520000
+Dakle, oni se ne pojavljuju ni u kojoj predpostavci koju smo koristili u dokazu,;0:16:24.520000 - 0:16:28.520000
+jer predpostavka sve dolazi iz T, dakle, mogu zaključiti ovdje.;0:16:28.520000 - 0:16:33.520000
+Naravno, to je sad korištenje teorije dokaza u priči.;0:16:33.520000 - 0:16:37.520000
+Da, ko ne voli teorije dokaza, može to napraviti pomoću teorije modela.;0:16:37.520000 - 0:16:41.520000
+Isto onaj kak smo već bili napravili.;0:16:41.520000 - 0:16:43.520000
+Dakle, šta ovo zapravo znači?;0:16:43.520000 - 0:16:45.520000
+Ovo znači za svaku valuaciju, za svaku interpretaciju,;0:16:45.520000 - 0:16:49.520000
+a interpretacija konstantskih simbola a1 do n;0:16:49.520000 - 0:16:53.520000
+se može uvijek retrointerpretirati kao valuacija ovih variabli x1 do xn.;0:16:53.520000 - 0:17:03.520000
+I onda reći za svaku interpretaciju od a1 potes,;0:17:04.520000 - 0:17:08.520000
+to zapravo znači za svaki element od nosača od n.;0:17:08.520000 - 0:17:12.520000
+A to onda možemo isto tako reći za svaku valuaciju od x1 i tako dalje.;0:17:13.520000 - 0:17:17.520000
+Dakle, ključno je da se naravno taj a1 ne pojavljuje ovdje,;0:17:18.520000 - 0:17:21.520000
+dakle, da stvarno mogu izbući, to je ona opet preneksna normalna forma.;0:17:21.520000 - 0:17:26.520000
+Ovo je naša svaka simbola.;0:17:34.520000 - 0:17:36.520000
+Ovako.;0:17:48.520000 - 0:17:49.520000
+I onda, s obzirom na to da se ovi tu simboli ne pojavljuju ovdje,;0:17:52.520000 - 0:17:57.520000
+onda to mogu izbući van.;0:17:57.520000 - 0:17:59.520000
+I onda ovo samo reinterpretirati kao...;0:18:04.520000 - 0:18:09.520000
+To se piše.;0:18:13.520000 - 0:18:14.520000
+Piše nešto sa x1.;0:18:15.520000 - 0:18:18.520000
+Ali kažem, to sam dvajdedeljno pričao prvi put kad smo imali takvo zaključivanje,;0:18:19.520000 - 0:18:23.520000
+tamo još kod dokaza Lema o diagramu.;0:18:23.520000 - 0:18:26.520000
+Dobro, u svakom slučaju, znači mogu dokazati ovo,;0:18:27.520000 - 0:18:31.520000
+ne moram dokazivati, znači mogu jednostavno reći,;0:18:31.520000 - 0:18:34.520000
+to je logička posljedica od te.;0:18:34.520000 - 0:18:36.520000
+Međutim, sad je ključno, ovakva formula ima stvarno sindaksni oblik kakav treba.;0:18:36.520000 - 0:18:41.520000
+Unutra se nalaze, počinje sa nekoliko, konačno,;0:18:41.520000 - 0:18:45.520000
+mnogo univerzalnih kvantifikatora i nakon toga se nalazi utvorena formula.;0:18:45.520000 - 0:18:48.520000
+Zašto? Jer, naravno, ovi g-ovi su, kaže tu, iz...;0:18:48.520000 - 0:18:54.520000
+I sad je tu ključno da je to jednostavni diagram,;0:18:55.520000 - 0:18:57.520000
+dakle, u jednostavnom diagramu žive samo otvorene formule.;0:18:57.520000 - 0:19:01.520000
+I naravno konjunkcija otvorenih formula je također otvorena,;0:19:04.520000 - 0:19:07.520000
+negacija toga je onda otvorena i ovo stvarno je sindaksno univerzalna rečenica.;0:19:07.520000 - 0:19:12.520000
+A to znači da ona je univerzalna posljedica od teorije te,;0:19:12.520000 - 0:19:18.520000
+dakle, ona se po definiciji nalazi u teoriji te crtica.;0:19:18.520000 - 0:19:21.520000
+Međutim, te crtica vrijedi na EMU, pa onda na EMU vrijedi konkretno ta formula.;0:19:22.520000 - 0:19:28.520000
+Sve formule iz te crtica, pa tako i ova ovdje.;0:19:29.520000 - 0:19:31.520000
+Međutim, to je naravno nemoguće jer na EMU bi ispalo da,;0:19:31.520000 - 0:19:36.520000
+tu piše, na EMU vrijedi konkretno ovo.;0:19:36.520000 - 0:19:39.520000
+Naprimjer, kad bih x1 interpretirao baš s ovim, xn baš s ovim,;0:19:39.520000 - 0:19:44.520000
+onda bi ispalo da sam dobio kontraprimjer za ovo ovdje.;0:19:44.520000 - 0:19:47.520000
+Ne interpretirao, nego valuirao.;0:19:48.520000 - 0:19:50.520000
+Našao sam konkretnu valuaciju s obzirom na koju ovo ne vrijedi,;0:19:50.520000 - 0:19:54.520000
+dakle, ne može vrijedi to univerzalno.;0:19:54.520000 - 0:19:56.520000
+Naravno, bitno je da su ove interpretacije tih konstantskih simbola stvarno unutar ovog EMA,;0:19:58.520000 - 0:20:03.520000
+ali jasno, jer je sve krenulo od dijagrama od cm.;0:20:03.520000 - 0:20:08.520000
+Dobro, i sad, primjena toga, dakle, ako se sjećate bili smo rekli da,;0:20:08.520000 - 0:20:16.520000
+to smo sad nedano rekli, pa sigurno se sjećate,;0:20:17.520000 - 0:20:20.520000
+teoriju grupa možemo svaziti kao univerzalnu ako proširimo jezik.;0:20:22.520000 - 0:20:26.520000
+Ako dodamo, ovo se obično i dodaje, nekako da se uopće to ne zove proširenje jezika,;0:20:26.520000 - 0:20:32.520000
+ali i ovo se obično smatra nekakim proširenjem jezika,;0:20:32.520000 - 0:20:35.520000
+dakle, ako dodamo sad taj novi jednomjestni funkcijski simbol.;0:20:35.520000 - 0:20:40.520000
+E sad, pomoću teorema očuvanja za podmodele,;0:20:40.520000 - 0:20:43.520000
+mi možemo dokazati da je taj korak nužan.;0:20:43.520000 - 0:20:46.520000
+Dakle, da ako ostavimo jezik ovakav, znači samo ovu tu kao signaturu,;0:20:46.520000 - 0:20:51.520000
+onda smo sigurni da se to ne može napraviti.;0:20:51.520000 - 0:20:54.520000
+Znači da se ne može teorija grupa aksijumatizirati koristit će samo univerzalna rječenica.;0:20:54.520000 - 0:20:59.520000
+I sad, kako to napravimo, kaže ovako.;0:21:00.520000 - 0:21:02.520000
+Uzmeš dva podmodela, recimo, na primjer, cijeli brojovi sa zbrajanjem i nulom;0:21:04.520000 - 0:21:10.520000
+i prirodni brojovi sa zbrajanjem i nulom.;0:21:10.520000 - 0:21:12.520000
+I sad primijetite šta imam.;0:21:13.520000 - 0:21:14.520000
+Imam, M je svakako model za teoriju grupa, hoću reći M je grupa,;0:21:14.520000 - 0:21:19.520000
+znači Z je grupa sa zbrajanjem i nulom.;0:21:19.520000 - 0:21:22.520000
+A ovo tu nije grupa, jel?;0:21:22.520000 - 0:21:25.520000
+Dakle, naravno, na primjer, nema inverza od broja 7,;0:21:25.520000 - 0:21:31.520000
+s obzirom na zbrajanje.;0:21:31.520000 - 0:21:33.520000
+Međutim, N je podmodel od M.;0:21:33.520000 - 0:21:36.520000
+Naravno, nije elementarni podmodel, sad smo upravo rekli,;0:21:36.520000 - 0:21:38.520000
+ali podmodel svakako je.;0:21:38.520000 - 0:21:41.520000
+Zbrajanje na N-u je upravo restrikcija zbrajanja na Z-u.;0:21:41.520000 - 0:21:46.520000
+Znači, 3 plus 4 je 7 i u N i u Z, jer su 3 i 4 iz N-u.;0:21:46.520000 - 0:21:51.520000
+I šta još treba vrijediti? Nula u N-u je upravo ona ista nula kao u Z.;0:21:52.520000 - 0:21:56.520000
+Da je bilo još relacijskih, onda bi one isto morali biti presici,;0:21:57.520000 - 0:22:00.520000
+ali u ovom slučaju nema relacijskih simbola.;0:22:00.520000 - 0:22:02.520000
+Dakle, sve što sam trebao provjeriti u vrijedi, znači, doista je podmodel.;0:22:02.520000 - 0:22:07.520000
+I šta sad imam?;0:22:07.520000 - 0:22:08.520000
+Imam podmodel strukture za teoriju grupa, koji sam po sebi nije podmodel za teoriju grupa.;0:22:08.520000 - 0:22:16.520000
+Dakle, teorija grupa nije očuvana za podmodele.;0:22:16.520000 - 0:22:19.520000
+Dakle, teorija grupa nije, preopolom teoremu,;0:22:19.520000 - 0:22:22.520000
+ekvivalentna nijednoj univerzalnoj teoriji.;0:22:22.520000 - 0:22:25.520000
+Dakle, ne mogu aksijomatizirati teoriju grupa koristeći samo univerzalne rečenice,;0:22:25.520000 - 0:22:31.520000
+ako ostavim jezik ovakav.;0:22:31.520000 - 0:22:33.520000
+Gdje je dokaz pada ako proširim jezik?;0:22:33.520000 - 0:22:36.520000
+Ako uvedem novi funkcijski simbol, onaj na minus prvu, onda ovo više nije podmodel.;0:22:37.520000 - 0:22:42.520000
+Jer, na primjer, šta ja znam?;0:22:42.520000 - 0:22:44.520000
+Ne, mislim, nije uopće model, nije uopće, ono, nije struktura s obzirom na tu signaturu,;0:22:46.520000 - 0:22:53.520000
+jer, naravno, na primjer, term 3 pa nakon toga na minus prvu,;0:22:53.520000 - 0:22:57.520000
+to je konkretan funkcijski term koji nema denotaciju, koji, znači, ne denotira ništa ovdje.;0:22:57.520000 - 0:23:05.520000
+Odnosno, možemo reći da ovaj minus 1 interpretiran unutar ovog n-a,;0:23:05.520000 - 0:23:14.520000
+zapravo bi trebao biti nekakva funkcija sa ovom.;0:23:14.520000 - 0:23:21.520000
+U ovo to hoću reći, maljda, ovo.;0:23:21.520000 - 0:23:24.520000
+Međutim, takva nešto ne postoji.;0:23:24.520000 - 0:23:26.520000
+Mislim, postoji takva funkcija, ali ne takva da zadovoljava onaj aksijom koji treba u teoriji grupa.;0:23:26.520000 - 0:23:32.520000
+Ili jednostavno uopće nije struktura u toj prošljenoj signaturi,;0:23:33.520000 - 0:23:37.520000
+ili, ako negako proizvodno definiram interpretaciju tog funkcijskog simbola,;0:23:37.520000 - 0:23:42.520000
+onda neće biti model za teoriju grupa.;0:23:42.520000 - 0:23:49.520000
+Nije ni sad bio model za teoriju grupa, šta je.;0:23:50.520000 - 0:23:52.520000
+A, ne, ne, ako negako proizvodno definiram, neće biti podmodel jer neće biti restrikcija ovog ovdje.;0:23:55.520000 - 0:24:02.520000
+Jasno. Ja bih htio ovaj tu funkcijski simbol kad ga interpretiram u m,;0:24:04.520000 - 0:24:12.520000
+gude upravo preslikavanje koje x-u pridruži minus x, na z.;0:24:12.520000 - 0:24:19.520000
+Nosač od m je upravo z.;0:24:23.520000 - 0:24:25.520000
+I sad, da bi ovo bilo podmodel, moralo bi biti restrikcija.;0:24:26.520000 - 0:24:31.520000
+Međutim, naravno nije jer ne može biti jer onda ne ide u m.;0:24:31.520000 - 0:24:38.520000
+Ok.;0:24:39.520000 - 0:24:40.520000
+Dobro, i sad kaže u dokazima često koristimo Lemo diagramu,;0:24:44.520000 - 0:24:47.520000
+kao što smo imali prilike vidjeti.;0:24:47.520000 - 0:24:49.520000
+I sad, razni drugi teoremi.;0:24:50.520000 - 0:24:52.520000
+Evo za početak jednog, dajmo reći, vrlo naslišnu temu.;0:24:53.520000 - 0:24:57.520000
+Mrvicu je drugačiji, ali možemo u izvjesnom smislu ga smatrati dualom onog teorema;0:24:57.520000 - 0:25:04.520000
+kojeg smo upravo sad dokazali.;0:25:04.520000 - 0:25:06.520000
+Dakle, teorija je očuvana nekako prema dolje, na podmodele,;0:25:06.520000 - 0:25:11.520000
+ako i samo ako je univerzalna ili ekvivalentno univerzalna.;0:25:12.520000 - 0:25:17.520000
+Ovdje ću naravno onda reći, teorija je očuvana prema gore,;0:25:17.520000 - 0:25:21.520000
+dakle, očuvana je za proširenja, ako i samo ako je egzistencijalna;0:25:21.520000 - 0:25:25.520000
+ili preciznije, ekvivalentno egzistencijalna.;0:25:25.520000 - 0:25:28.520000
+Znači, sve je potpuno isto definicija egzistencijalne rečenice,;0:25:28.520000 - 0:25:31.520000
+ono što biste očekivali.;0:25:31.520000 - 0:25:33.520000
+Konačno, mnogo je egzistencijalnih kvantifikatora i nakon toga otvorena rečenica.;0:25:33.520000 - 0:25:37.520000
+Otvorena formula.;0:25:38.520000 - 0:25:40.520000
+Ne rečenica, čak i što više.;0:25:40.520000 - 0:25:42.520000
+Najčešće nije rečenica jer najčešće ima x1 do x7 slobodne.;0:25:42.520000 - 0:25:46.520000
+Međutim, EF je rečenica.;0:25:49.520000 - 0:25:51.520000
+Isto ne mora biti, ali nas zanimaju egzistencijalne rečenice jer od njih;0:25:52.520000 - 0:25:56.520000
+radimo egzistencijalni teorije.;0:25:56.520000 - 0:25:58.520000
+Teorija je očuvana za proširenja, ako čim imaš neki model;0:25:58.520000 - 0:26:02.520000
+i imaš njegovo proširenje, onda to proširenje je također model za teoriju.;0:26:02.520000 - 0:26:06.520000
+I sad, naravno, opet, teorija je očuvana za proširenja,;0:26:07.520000 - 0:26:09.520000
+ako i samo ako je ekvalentna nekoj egzistencijalnoj teoriji nad istom signaturom.;0:26:09.520000 - 0:26:15.520000
+Opet, jedan smjer je, valjda, totalno očit, ali zgodno je vidjeti;0:26:16.520000 - 0:26:20.520000
+da ga ne moram dokazivati pješice, kao što sam morao ovdje,;0:26:20.520000 - 0:26:26.520000
+nego mogu koristiti ovaj teorem koji sam upravo dokazao.;0:26:26.520000 - 0:26:30.520000
+Kako? Tako da kažemo ovak, nekaj N proširenja od M,;0:26:30.520000 - 0:26:37.520000
+ali naravno to mogu isto tako čitati kao nekaj M podmodel od N.;0:26:37.520000 - 0:26:41.520000
+A ovdje jednostavno, dobro, ovo mi sad ne pomože, ali mi pomože ovo.;0:26:41.520000 - 0:26:45.520000
+Znači, pretpostavljamo suprotno da na N ne vrijedi F,;0:26:45.520000 - 0:26:48.520000
+F je rečenica, dakle na N vrijedi negacija od F.;0:26:48.520000 - 0:26:51.520000
+I sad, naravno, ne mogu reći negacija F je univeralna rečenica,;0:26:51.520000 - 0:26:54.520000
+jer nije, sintaksno nije, ali je ekvalentna univeralna rečenica.;0:26:54.520000 - 0:26:57.520000
+Jer kad je prebacim u prankst normalnu formu, ne igram sve te kvantifikatore,;0:26:57.520000 - 0:27:01.520000
+dobit ću upravo univerzalnu rečenicu.;0:27:01.520000 - 0:27:04.520000
+Znači, negacija F jest ekvivalentna univerzalnoj rečenici.;0:27:04.520000 - 0:27:09.520000
+To znači da ako ću gledati teoriju koja se sastoji samo od jedne formule,;0:27:09.520000 - 0:27:13.520000
+to mogu, naravno, bilo kakav skup formula, u ovom slučaju,;0:27:13.520000 - 0:27:17.520000
+konkretno ova tu, jest ekvivalentna nekoj univerzalnoj teoriji.;0:27:17.520000 - 0:27:22.520000
+Konkretno, univerzalnoj teoriji koja opet se sastoji samo od jedne formule,;0:27:22.520000 - 0:27:25.520000
+koja je upravo ova ne F u prankst normalnoj formuli.;0:27:25.520000 - 0:27:28.520000
+Po prethodnom teoremu, ta teorija je očuvana za podmodelo.;0:27:28.520000 - 0:27:31.520000
+E, međutim, sad ne valja jer ta teorija vrijedi u strukturi N,;0:27:31.520000 - 0:27:38.520000
+po predpostavce suprotnog.;0:27:39.520000 - 0:27:41.520000
+N je podmodelo od N, međutim na M-u ne vrijedi jer na M-u vrijedi T.;0:27:41.520000 - 0:27:46.520000
+Na M-u vrijedi T, to zapravo znači da na M-u vrijedi T crtica,;0:27:47.520000 - 0:27:54.520000
+dakle M je element one klase modela sa T, međutim T i T crtice su ekvivalentne,;0:27:54.520000 - 0:28:00.520000
+znači klase modela su im iste, dakle na M-u vrijede sve formule iz T crtica,;0:28:00.520000 - 0:28:04.520000
+F je iz T crtica, dakle ispalo bi da na M-u vrijedi F i da na M-u ne vrijedi F,;0:28:04.520000 - 0:28:09.520000
+odnosno vrijedi negacije od F, to je naravno kontradikcija.;0:28:09.520000 - 0:28:13.520000
+Dobro, mislim, nije uopšte jasno da je to išta brže nego ono,;0:28:13.520000 - 0:28:16.520000
+ali zgodno vidjeti kak se može iskoristiti ovaj prethodni teorem.;0:28:16.520000 - 0:28:20.520000
+Dobro, e sad, drugi smjer je naravno kompliciraniji.;0:28:21.520000 - 0:28:31.520000
+Ne mogu više samo se osloniti na posljedice,;0:28:34.520000 - 0:28:38.520000
+nego moramo ovak znači zaobilazno.;0:28:42.520000 - 0:28:44.520000
+Za svaku pojedinu rečenicu ja mogu gledat,;0:28:45.520000 - 0:28:48.520000
+a opet ovo isto, znači sve univerzalne posljedice,;0:28:51.520000 - 0:28:54.520000
+čekaj sam malo da se tu onda opet koristi ovaj teorem,;0:28:56.520000 - 0:28:59.520000
+ili to ide bez njega?;0:28:59.520000 - 0:29:01.520000
+Ne mislim da ide bez njega, samo nije baš jasno zašto dokaz nije potpuno isti,;0:29:02.520000 - 0:29:09.520000
+ali možete možda probati, raspisati potpuno isti dokaz, pa vidjeti gdje ne prolazi.;0:29:09.520000 - 0:29:16.520000
+U svakom slučaju, ono što se ovdje napravi,;0:29:16.520000 - 0:29:18.520000
+znači za svaku rečenicu se promatraju sve njezine univerzalne posljedice,;0:29:18.520000 - 0:29:23.520000
+to sad više nema onog znakića jer je jedna konkretna rečenica, ne skupnjih,;0:29:25.520000 - 0:29:31.520000
+i sad kaže ovo, metodom dijagrama se vidi,;0:29:33.520000 - 0:29:37.520000
+znači to sad kažem, jednostavno ovaj prvi dokaz smo stvarno raspisali kak treba,;0:29:37.520000 - 0:29:42.520000
+a ove ostale ćemo više, sve više i više mahat rukama,;0:29:42.520000 - 0:29:46.520000
+ali uglavnom, isto kao i ovo do sada, dakle primjera metode dijagrama,;0:29:46.520000 - 0:29:51.520000
+za svaki m na kojem vrijedi ovo, znači na kojem vrijede sve univerzalne posljedice od f,;0:29:52.520000 - 0:29:58.520000
+postoji nadmodel na kojem vrijedi f.;0:30:00.520000 - 0:30:03.520000
+Dakle, nekako, gledate ovo, znači gledate teoriju f, singleton f,;0:30:03.520000 - 0:30:10.520000
+on je jednostavni dijagram od m.;0:30:10.520000 - 0:30:13.520000
+I na to primijenite metodu dijagrama i prođe, znači jednostavno,;0:30:13.520000 - 0:30:17.520000
+kad dobijete model za ovo tu, to zapravo znači da imate model za f;0:30:17.520000 - 0:30:21.520000
+i da imate model za ovo, a to zapravo znači da imate m unutra.;0:30:21.520000 - 0:30:27.520000
+Dakle, sad naravno, ovo je opet treba reći,;0:30:27.520000 - 0:30:29.520000
+taj n nije onaj koji vam dade metoda dijagrama,;0:30:31.520000 - 0:30:34.520000
+nego je metoda dijagrama dade nekakav n', a ovo je onda n' minus.;0:30:34.520000 - 0:30:39.520000
+Ali uglavnom, potpuno isto kao i tamo.;0:30:39.520000 - 0:30:42.520000
+Dobro, i sad kažem ovako, kada god, znači ovo je bilo za svaku rečenicu f,;0:30:44.520000 - 0:30:50.520000
+međutim, ako daberete baš rečenicu iz t, onda naravno ova tu teorija je inkonsistentna.;0:30:50.520000 - 0:30:56.520000
+Zašto? Jer ne bi moglo biti da je negdje, znači,;0:30:56.520000 - 0:31:05.520000
+kad bi ta teorija bila ispunjiva, konsistenta, znači da imala neku strukturu na kojoj vrijedi,;0:31:06.520000 - 0:31:11.520000
+što bi to značilo? Znači što na njoj vrijedi čitava t, pa onda vrijedi i f,;0:31:11.520000 - 0:31:17.520000
+a isto tako vrijede sve univerzalne posljedice od ne f,;0:31:19.520000 - 0:31:23.520000
+a ne, ne, to, ok, još piše svijetljica, ok, znači to nije uopće jednostavno,;0:31:27.520000 - 0:31:34.520000
+ali to je posljedica ovog tu rezultata.;0:31:34.520000 - 0:31:37.520000
+Da, znači kad bi nešto bilo, model za ovo, to bi bilo među ovim m-ovima gore,;0:31:43.520000 - 0:31:49.520000
+na njemu bi onda, od njega bi postojao neko proširenje na kojem vrijedi f,;0:31:49.520000 - 0:31:56.520000
+međutim to nije moguće jer na tom proširenju bi onda morao vrijediti i t.;0:31:56.520000 - 0:32:03.520000
+Zašto? Jer je t očuvana za proširenje.;0:32:04.520000 - 0:32:06.520000
+Ok.;0:32:06.520000 - 0:32:07.520000
+T je kontradikcija, znači predpostavljam da je kontradikcija.;0:32:16.520000 - 0:32:20.520000
+Predpostavljam da je kontradikcija.;0:32:20.520000 - 0:32:22.520000
+Znači, od ne f i a, t je i konec stehnada.;0:32:26.520000 - 0:32:38.520000
+Predpostavljam da je supradla, postoji njega kakv m,;0:32:40.520000 - 0:32:45.520000
+takav da na m vrijedi u od ne f i na m vrijedi t.;0:32:45.520000 - 0:32:58.520000
+Na m vrijedi u od f, prema ovom od prije imam nekakav n nad model proširenje od m,;0:33:00.520000 - 0:33:12.520000
+takav da na n vrijedi t.;0:33:13.520000 - 0:33:19.520000
+I sad, t je zatvorena, očuvana na nad modele,;0:33:20.520000 - 0:33:30.520000
+zapravo znači da na n također vrijedi t.;0:33:31.520000 - 0:33:38.520000
+Dobro, međutim, na n vrijedi u od, da bih ti pišao to,;0:33:39.520000 - 0:33:50.520000
+t, aha, f i steh, na n vrijedi f,;0:33:51.520000 - 0:34:08.520000
+hmm, kada opet ne vidim to.;0:34:09.520000 - 0:34:18.520000
+Na ovom manjem vrijedi u od ne f.;0:34:24.520000 - 0:34:28.520000
+Dobro, po zvijezdici imam proširenje na kojem vrijedi t.;0:34:28.520000 - 0:34:36.520000
+Ne, ne, ne, proširenje na kojem vrijedi f.;0:34:38.520000 - 0:34:42.520000
+Mislim, sve štima, samo treba drugačije to posložiti.;0:34:48.520000 - 0:34:51.520000
+Dakle, na njemu vrijedi f, e i sad ova priča, znači, n je proširenje od m,;0:34:51.520000 - 0:34:58.520000
+na m vrijedi t, i t je očuvano za proširenje, znači da na n vrijedi t.;0:34:58.520000 - 0:35:04.520000
+Aha, joj, f.;0:35:12.520000 - 0:35:15.520000
+Znači, ovaj f, dakle, ovdje je zapravo bih trebao pisat za svaku formulu f nešto vrijedi,;0:35:16.520000 - 0:35:23.520000
+pa onda to primijeniti na ne f.;0:35:23.520000 - 0:35:26.520000
+Dobro, to. Za svaku rečenicu, pa tako specijalno i za ne f.;0:35:31.520000 - 0:35:38.520000
+To nije f, ovaj dolje.;0:35:39.520000 - 0:35:43.520000
+Nego je taj gornji f je zapravo ne f, ovaj dolje.;0:35:45.520000 - 0:35:49.520000
+Jezica primijenjena na ne f.;0:35:52.520000 - 0:35:59.520000
+Ok, uglavnom, znači sad imam na n vrijedi ne f,;0:36:02.520000 - 0:36:05.520000
+međutim, na n vrijedi čitava teorija t, f je iz t,;0:36:05.520000 - 0:36:08.520000
+na n vrijedi f i ove dvije stvari jesu u kontradikciji.;0:36:08.520000 - 0:36:13.520000
+Dobro.;0:36:13.520000 - 0:36:14.520000
+Ok, i sad opet imam, znači, inkonsistentnu teoriju.;0:36:17.520000 - 0:36:22.520000
+Po teorijama kompaktnosti imam ponoćno mnogo njih,;0:36:22.520000 - 0:36:26.520000
+neke su ovdje, neke su ovdje.;0:36:26.520000 - 0:36:28.520000
+Sad čak i nije bitno,;0:36:29.520000 - 0:36:31.520000
+da, jer, dakle, tu sad više nema ovog dijagrama,;0:36:34.520000 - 0:36:37.520000
+znači nema tih čudnih konstantskih simbola i takvih stvari,;0:36:37.520000 - 0:36:40.520000
+znači to više ne moram gledat'.;0:36:40.520000 - 0:36:42.520000
+Jednostavno raspilim negakva na dva dijela;0:36:42.520000 - 0:36:44.520000
+i izdvojim samo one koji su u od ne f.;0:36:45.520000 - 0:36:48.520000
+Neke su to, naravno, ponoćno mnogo njih,;0:36:48.520000 - 0:36:51.520000
+podskup ponoćnog, dakle, g1 do gn.;0:36:51.520000 - 0:36:53.520000
+A ovih iz t uzmem sve, što god.;0:36:54.520000 - 0:36:57.520000
+Znači, g1 do gn i još sve formule iz t dobijem,;0:36:57.520000 - 0:37:01.520000
+opet, inkonsistentnu teoriju.;0:37:01.520000 - 0:37:03.520000
+Opet isto, znači konjunkcija svih tih g-ova je također,;0:37:04.520000 - 0:37:07.520000
+ono, sad je to, prvo imam bez ponoćnog mnogo formula,;0:37:07.520000 - 0:37:11.520000
+pa onda konjačnog mnogo formula, pa onda jednu formulu,;0:37:11.520000 - 0:37:13.520000
+ali i jedno i drugo i treće je inkonsistentno sa t.;0:37:13.520000 - 0:37:17.520000
+I sad, zašto sam to opće radio?;0:37:18.520000 - 0:37:20.520000
+Zato da mogu reći t ima za logičku poziciju negaciju te formule,;0:37:20.520000 - 0:37:24.520000
+dakle, jedne formule.;0:37:24.520000 - 0:37:25.520000
+I sad se idemo pitati za sintaksni oblik.;0:37:30.520000 - 0:37:33.520000
+Mi bismo htjeli reći da je ovo egzistencijalno,;0:37:33.520000 - 0:37:36.520000
+ali naravno nije, ne doslovno,;0:37:36.520000 - 0:37:39.520000
+nego ovako, svaka g i je univerzalna, to je doslovno,;0:37:40.520000 - 0:37:43.520000
+to piše tu, skup u od f ili u od nef,;0:37:43.520000 - 0:37:48.520000
+smo tako definirali, pa onda to što ima.;0:37:49.520000 - 0:37:51.520000
+Dakle, svaka g i je univerzalna.;0:37:54.520000 - 0:37:56.520000
+Konjunkcija univerzalnih, to smo rečeli,;0:37:57.520000 - 0:37:59.520000
+nije univerzalna, ali je logički ekvivalentna univerzalnoj.;0:37:59.520000 - 0:38:06.520000
+A onda negacija, znači ovo je ekvivalentna univerzalnoj,;0:38:07.520000 - 0:38:16.520000
+njezina negacija je ekvivalentna negaciji te univerzalne,;0:38:16.520000 - 0:38:19.520000
+što opet kad primijenim prejaksu u normalnu formu,;0:38:19.520000 - 0:38:22.520000
+bude ekvivalentno nekoj egzistencijalnoj.;0:38:22.520000 - 0:38:24.520000
+Tu egzistencijalno, naravno, može biti više,;0:38:25.520000 - 0:38:27.520000
+ali konkretno tu, dakle, koja se dobije;0:38:27.520000 - 0:38:29.520000
+kad se svi kvalifikatori izvode na početak;0:38:29.520000 - 0:38:31.520000
+i negacija prođe kroz njih, označim sa hf.;0:38:31.520000 - 0:38:34.520000
+To zapravo znači da ako ja promatram skup svih hf-ova,;0:38:37.520000 - 0:38:42.520000
+to će biti egzistencijalna teorija,;0:38:42.520000 - 0:38:44.520000
+to naravno da označim sa t.;0:38:44.520000 - 0:38:46.520000
+I sad opet želim dokazati da t-crtica i t imaju istu klasu modela,;0:38:48.520000 - 0:38:52.520000
+odnosno da su ekvivalentne.;0:38:52.520000 - 0:38:54.520000
+Jedan smjer je očit, ali sad naravno je drugi smjer,;0:38:54.520000 - 0:38:56.520000
+jer kad god je nešto model za t, onda je model i za t-crtica.;0:38:56.520000 - 0:39:01.520000
+Zašto? Jer je model za svaku pojedinu hf.;0:39:01.520000 - 0:39:03.520000
+Čim si model za t, tu piše, onda si model za negf.;0:39:04.520000 - 0:39:10.520000
+Onda si model za hf, jer su hf i negf ekvivalentne formule.;0:39:10.520000 - 0:39:15.520000
+Dakle, ovo je sad ono kao, ekvivalente teorije je nešto komplicirano,;0:39:15.520000 - 0:39:18.520000
+ali ako ih svedem na pojedinačne formule,;0:39:18.520000 - 0:39:20.520000
+onda znamo što znači da su dvije formule ekvivalente.;0:39:20.520000 - 0:39:23.520000
+Dobro, znači to je to. E sad drugi smjer.;0:39:26.520000 - 0:39:28.520000
+Znači moram dokazati da svaki model za t-crtica;0:39:28.520000 - 0:39:31.520000
+ujednom bude i model za t.;0:39:31.520000 - 0:39:33.520000
+Dobro, uzmem model za t-crtica.;0:39:33.520000 - 0:39:35.520000
+Znači moram dokazati da je model za t.;0:39:35.520000 - 0:39:37.520000
+Što znači to? Da je model za svaku rečenicu iz t.;0:39:37.520000 - 0:39:39.520000
+Uzmem proizvodnu rečenicu iz t, f.;0:39:39.520000 - 0:39:41.520000
+I sad što? Aha, nemam ekvivalenciju više, ali imam jedan smjer.;0:39:42.520000 - 0:39:47.520000
+Taj jedan smjer je upravo ovaj koji mi treba.;0:39:47.520000 - 0:39:49.520000
+Dakle, hf je ekvivalento sa negf,;0:39:49.520000 - 0:39:51.520000
+međutim, negf sigurno povlači f.;0:39:51.520000 - 0:39:53.520000
+Zašto? Zato što sve gi su iz ovog skupa.;0:39:53.520000 - 0:40:00.520000
+Dobro, pa njegova konjunkcija, znači kad bi nešto bilo...;0:40:02.520000 - 0:40:08.520000
+Znači neka na nekom n vrijedi negf.;0:40:19.520000 - 0:40:25.520000
+Što to zapravo znači? To znači da vrijedi neg1, neg2,;0:40:27.520000 - 0:40:30.520000
+negn.;0:40:30.520000 - 0:40:34.520000
+Ili možda bolje.;0:40:37.520000 - 0:40:39.520000
+A ne, to baš tako treba. Dobro.;0:40:41.520000 - 0:40:43.520000
+Znači, međutim, sve ove tu su posljedice od f.;0:40:43.520000 - 0:40:49.520000
+Ne, ne krivo, su posljedice od negf.;0:40:50.520000 - 0:40:53.520000
+Ne, f.;0:40:53.520000 - 0:40:55.520000
+Da, opet isto, fali mi ta negacija.;0:41:00.520000 - 0:41:02.520000
+Dobro, dakle, da. 5% ima suprotno.;0:41:02.520000 - 0:41:06.520000
+Kad u toj, u toj menu ne bi vrijedio f, tada bi vrijedio negf, jer je f rečenica.;0:41:06.520000 - 0:41:20.520000
+I onda bi vrijedile sve ove, a to je nemoguće.;0:41:20.520000 - 0:41:24.520000
+Dakle, jer vrijedi negacija njihove konjunkcije.;0:41:24.520000 - 0:41:28.520000
+Reci ti.;0:41:43.520000 - 0:41:44.520000
+Treba da su ove posljedice od negf, znači da su sve ge i,;0:41:44.520000 - 0:41:50.520000
+nešto je ge i f, bez negacije treba da su posljedice od negf.;0:41:50.520000 - 0:41:55.520000
+Dobro, znači da, malo sam bio fast and loose s tom negacijom.;0:41:55.520000 - 0:42:01.520000
+Ajmo vidjeti što to zapravo znači.;0:42:01.520000 - 0:42:03.520000
+Znači, ne ge f, znači na n-u ne vrijedi ge f.;0:42:04.520000 - 0:42:13.520000
+Ge f je naravno konjunkcija.;0:42:13.520000 - 0:42:16.520000
+Znači, na n-u ne vrijedi konjunkcija, aha, da, to onda znači da postoji neki koji ne vrijedi.;0:42:24.520000 - 0:42:33.520000
+Ok?;0:42:44.520000 - 0:42:45.520000
+Međutim, taj konkretni ge i f je element od nf.;0:42:46.520000 - 0:42:52.520000
+Dakle, on je posljedica od negf.;0:42:53.520000 - 0:42:56.520000
+Ok?;0:43:04.520000 - 0:43:05.520000
+A sad imamo ovo, znači, pretpostavim suprotno da na n-u ne vrijedi f,;0:43:06.520000 - 0:43:11.520000
+onda na n-u vrijedi negacija od f, onda na n-u vrijedi ge f.;0:43:11.520000 - 0:43:18.520000
+I to je naravno kontradikcija se s ovim ovdje.;0:43:21.520000 - 0:43:25.520000
+Da, znači, krivo sam napisao, demorgana nisam primjenio,;0:43:26.520000 - 0:43:29.520000
+ali zapravo, zapravo, jesu jedno što se ovog tiče.;0:43:29.520000 - 0:43:33.520000
+A nisam primjenio demorgana jer opet bezvezno je to da ovdje zapravo treba pisati negaciju.;0:43:33.520000 - 0:43:41.520000
+Dobro, i šta sad? Znači sad sam dobio da iz hf slijedi f,;0:43:44.520000 - 0:43:49.520000
+a hf je iz t crtica jer tako sam definirao t crtica.;0:43:50.520000 - 0:43:55.520000
+Dakle, na n-u vrijede sve formule iz t crtica,;0:43:56.520000 - 0:44:02.520000
+pa onda specijalno i hf, pa onda i f.;0:44:02.520000 - 0:44:05.520000
+I to je za bilo koju formulu f, dakle, ne za bilo koju, za tu formulu f.;0:44:06.520000 - 0:44:11.520000
+Dakle, to točno znači da na n-u vrijedi f.;0:44:11.520000 - 0:44:14.520000
+Da, i sad ovo je dobro mjesto za sad.;0:44:21.520000 - 0:44:24.520000
+Dakle, sad ćemo provučavati malo kompliciranije teorije.;0:44:24.520000 - 0:44:26.520000
+Dakle, ovo bi bile, ajmo reći za one koji znaju nešto malo o logičkoj hjerarhiji formula,;0:44:26.520000 - 0:44:30.520000
+dakle, one bi bile sigma, prvo pi 1, dakle, ove su universalne,;0:44:30.520000 - 0:44:35.520000
+onda bi bile sigma 1, ove je egzistencijalne, a ovo će biti, dakle, pi 2.;0:44:35.520000 - 0:44:40.520000
+Universalni pa egzistencijalni kvantifikator.;0:44:41.520000 - 0:44:44.520000
+Naravno, to sad puno ekspresivnije teorije,;0:44:44.520000 - 0:44:46.520000
+tako da ćemo manje moći reći o očuvanju,;0:44:46.520000 - 0:44:49.520000
+ali ispada da će biti, na primjer, očuvanje za unije lanaca.;0:44:49.520000 - 0:44:53.520000
+Ali kažem o tome više idući tijen.;0:44:53.520000 - 0:44:56.520000
+Ima kakvih pitanja online? Možda nema.;0:45:00.520000 - 0:45:03.520000

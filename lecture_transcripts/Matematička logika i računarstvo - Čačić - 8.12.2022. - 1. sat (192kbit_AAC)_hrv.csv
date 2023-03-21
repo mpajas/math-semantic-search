@@ -1,0 +1,477 @@
+Speech;Timestamp
+Sljedeća tema nam je Robinsonov teorem konzistentnosti i bili smo rekli da zapravo konzistentnost nam za sad znači isto što je ispunjivost,;0:00:00 - 0:00:11.560000
+to je samo zato što još nikakvu ideju dokaznog sustava nemamo, a nekako je prirodno tu sad napraviti taj teorem.;0:00:11.560000 - 0:00:18.280000
+Teorem se naravno može napraviti, dokazati pomoću tehnike teorije dokaza,;0:00:18.280000 - 0:00:24.520000
+ali ovdje ćemo ga naravno gledati, dokazat ćemo ga pomoću tehnike teorije modela.;0:00:24.520000 - 0:00:32.080000
+Pa onda naravno mogli bismo ga zvat Robinsonov teorem ispunjivosti, ali s obzirom na to da se u literaturi obično zove;0:00:32.080000 - 0:00:40.440000
+consistency theorem, onda neko ostane taj naziv, ali kažem, poslije ćemo zapravo vidjeti što je konzistentnost zapravo jest.;0:00:40.440000 - 0:00:50.120000
+Znate naravno ako ste radili nekakvu logiku na diplomskom studiju.;0:00:50.200000 - 0:00:54.640000
+Uglavnom, dakle, par priprema. Radit ćemo sa dvije signature za početak, dakle, sigma i sigma crtica;0:00:56 - 0:01:05.640000
+i one će biti u ovom odnosu, sigma crtica je veća nadskup;0:01:05.640000 - 0:01:11.680000
+i često ćemo imati potrebu nekakvu sigma crtica strukturu M srezati na taj sigma,;0:01:12.120000 - 0:01:24.160000
+onda ćemo to označavati M minus, dakle, minus je kao crtica na minus prvu,;0:01:24.160000 - 0:01:29.480000
+odnosno, ako idem u jednom smjeru, onda to označim sa crticom, a u drugom smjeru to označim sa minusom.;0:01:29.480000 - 0:01:35.360000
+Imaćemo i nekakve teorije, dakle, T i T crtica i tako još ćemo imati postupak, možda nekakve N i N crtica i tako ovaj.;0:01:35.880000 - 0:01:49.240000
+Uglavnom, dakle, dvije leme ćemo dokazati, jedna je zapravo,;0:01:51.440000 - 0:01:58.440000
+no mislim, i jedna i druga zapravo idu preko metode diagrama dokaz,;0:01:59.440000 - 0:02:04.440000
+dakle, to ćemo isto malo ponoviti i malo ćemo možda govoriti o jednoj nepreciznosti koja zapravo smo joj već imali i prije,;0:02:04.520000 - 0:02:12.520000
+to je ono kad je jedan model uloživ u drugi versus kad je jedan model podmodel od drugog.;0:02:12.520000 - 0:02:18.520000
+Znači, naravno, uloživ je ako je izomorfan podmodel, ali to ne znači doslovno da je podmodel, pa onda,;0:02:18.520000 - 0:02:26
+kako ću bih kaže, imam nekakav M podmodel od N, to doslovno znači,;0:02:26.560000 - 0:02:35.480000
+ali, dakle, između ostalog da je elementarni podmodel, pardon, isto tako elementarno ulaganje.;0:02:35.480000 - 0:02:42.480000
+Dakle, nosač je svakako podskup nosača, dakle, ne mogu ja sad tu mijenjati elemente,;0:02:43.480000 - 0:02:49.480000
+ali kad imam nekakvo elementarno ulaganje;0:02:49.960000 - 0:02:55.960000
+ili elementarno proslikavanje, ne znam kako se odbali,;0:02:59.960000 - 0:03:01.960000
+onda, dakle, naravno da ja imam taj nekakav sliku od F koja onda jest elementarni podmodel od N.;0:03:01.960000 - 0:03:14.960000
+I to je nekak jasno da ako ja smijem mijenjati ovo, dakle, M je tada izomorfan sa slikom od F,;0:03:15.440000 - 0:03:25.440000
+dakle, ako mi nije bitno kakva je priroda elementa ovdje u M,;0:03:26.440000 - 0:03:30.440000
+onda lako mogu umjesto M-a uzeti sliku od F koja je zapravo njemu izomorfna,;0:03:31.440000 - 0:03:36.440000
+a doista je elementarni podmodel.;0:03:36.440000 - 0:03:38.440000
+Međutim, često čovjeku treba obrnuto, čovjeku treba da priroda ovih elementa;0:03:38.440000 - 0:03:44.440000
+od N nije bitna, a M bi nekako htio sačuvati.;0:03:44.920000 - 0:03:48.920000
+Onda je nekak jasno, opet intuitivno da se to isto može napraviti,;0:03:49.920000 - 0:03:52.920000
+ali se ne može ovak lijepo napraviti.;0:03:52.920000 - 0:03:53.920000
+Dakle, ovdje vaš konkretno imaš sliku od F, to je ono s čim zamijenjiš M i to je to.;0:03:53.920000 - 0:03:59.920000
+A sad, s čim zamijeniti N tako da ovaj pravi M doista bude podmodel od njega,;0:03:59.920000 - 0:04:05.920000
+a nekako ono, kao slika na minus prvu jezgra ili tako rešto.;0:04:05.920000 - 0:04:09.920000
+Ali, šta se zapravo zbio, možemo možda ovako reći.;0:04:10.400000 - 0:04:13.400000
+Imam M i imam nekakvu veću strukturu N.;0:04:14.400000 - 0:04:22.400000
+I sad kažem, ovaj M se nekako injektivno preslika unutar ovog N-a;0:04:22.400000 - 0:04:28.400000
+i tu je sad ta neka slika od F.;0:04:28.400000 - 0:04:31.400000
+E, ako bih htio ovo drugo, onda bih mogao, na primjer, definirati N crtica;0:04:32.400000 - 0:04:38.400000
+kao N bez slike od F unija M.;0:04:38.880000 - 0:04:46.880000
+S tim da, naravno, sad tu treba paziti da ova unija treba biti sjunkta.;0:04:46.880000 - 0:04:50.880000
+Dakle, da nekako razlikujem te stvari, na primjer, ove.;0:04:50.880000 - 0:04:55.880000
+Ove ofarbam u neku boju, a ove iz N-a ofarbam u neku drugu boju;0:04:59.880000 - 0:05:04.880000
+i onda napravim uniju toga.;0:05:04.880000 - 0:05:06.880000
+I onda po slučajevima definiram interpretaciju funkcijskih simbola, recimo,;0:05:07.360000 - 0:05:11.360000
+na primjer, ako uzmem neki dvomjestni funkcijski simbol koji mu dvojicu ovih preslika ovdje,;0:05:11.360000 - 0:05:17.360000
+onda naravno neću to zvat više interpretacijom funkcijske vrijednosti,;0:05:17.360000 - 0:05:23.360000
+nego ću zvat odgovarajuću vrijednost ovdje.;0:05:23.360000 - 0:05:25.360000
+Dakle, stravično petlja voza napraviti, eksaktno, ali jasno da se može.;0:05:25.360000 - 0:05:31.360000
+I onda opet imate, dakle, ta struktura je onda izomorfna,;0:05:32.360000 - 0:05:37.840000
+izomorfna sa izvornom strukturom N, a M, ovaj pravi M,;0:05:40.840000 - 0:05:45.840000
+doista jest elementarni podmodel od nje.;0:05:45.840000 - 0:05:49.840000
+Dakle, kažem.;0:05:50.840000 - 0:05:51.840000
+Naravno, još se neko može pitaći, šta ako...;0:05:55.840000 - 0:05:58.840000
+Ja sam ovdje zapravo, kad sam ovdje disjunktificirao,;0:05:59.320000 - 0:06:02.320000
+možda sam morao kartezijevski pomnožiti s nečim,;0:06:02.320000 - 0:06:05.320000
+pa onda ne bi to doista bili elementi od M,;0:06:05.320000 - 0:06:07.320000
+ali čak i tome se da doskoči u teoriji skupova,;0:06:07.320000 - 0:06:09.320000
+samo naravno to nikog ne zanima ta razina detaljnosti.;0:06:09.320000 - 0:06:14.320000
+Ali ovo je, kažem, poznata konstrukcija, koju, opet kažem,;0:06:14.320000 - 0:06:17.320000
+možda ste joj već vidjeli, najčešće se pojavljuje;0:06:17.320000 - 0:06:20.320000
+kad imate, ono, strogu definiciju Z.;0:06:20.320000 - 0:06:24.320000
+Z je, naravno, zapravo, N puta N pocijepan po nekoj relaciji,;0:06:24.800000 - 0:06:32.800000
+ali onda, naravno, kad tako definira taj mređ Z1,;0:06:32.800000 - 0:06:37.800000
+onda vam N nije podskup od Z1.;0:06:38.800000 - 0:06:42.800000
+Naravno da je uloživ u Z1, ali, ono, konkretan broj 3;0:06:43.800000 - 0:06:49.800000
+sigurno nije više ovakav neki, ovakva neka klasa ekvalencije.;0:06:50.280000 - 0:06:56.280000
+Onda, naravno, što napravite?;0:06:56.280000 - 0:06:58.280000
+Definirate Z2 kao Z1 bez, dakle, sad, kako bi čovjek to ulaganje negako zvao,;0:06:58.280000 - 0:07:07.280000
+dakle, imam negako ulaganje sa N u Z,;0:07:07.280000 - 0:07:12.280000
+Z1 bez slika od J, Unija, izvadim sve pozitivne cijele brojeve;0:07:12.760000 - 0:07:24.760000
+i umjesto njih stavim prave prirodne brojeve;0:07:24.760000 - 0:07:27.760000
+i redefiniram operacije po slučajevima.;0:07:27.760000 - 0:07:30.760000
+To je, ono, kak se radi u osnovnoj školi.;0:07:30.760000 - 0:07:32.760000
+Znamo, ne znam, oduzimat prirodne brojeve;0:07:32.760000 - 0:07:36.760000
+i sad kažem, naravno, ovakve, jedan već je od drugih,;0:07:36.760000 - 0:07:39.760000
+u ispravnom poredku i onda kažemo, ha, cijeli brojevi ti se oduzimaju tak da,;0:07:40.240000 - 0:07:44.240000
+ako su pozitivni, oduzimaš ih kao prirodne brojeve.;0:07:44.240000 - 0:07:47.240000
+Možda zbrajaš, ali, dakle, ako su, zbrajaš cijele brojeve tako da,;0:07:48.240000 - 0:07:53.240000
+ako su pozitivni, zbrajaš ih kao prirodne brojeve.;0:07:53.240000 - 0:07:55.240000
+Dakle, nekako, eksplicitno, ako su negativni,;0:07:55.240000 - 0:07:59.240000
+onda ih opet zbrajaš kao prirodne brojeve, samo promjeriš predznak.;0:07:59.240000 - 0:08:02.240000
+Ali, dakle, važno je da nekako tu definiciju funkcijskih simbola;0:08:02.240000 - 0:08:07.240000
+poslučajno imamo, prirodno imamo kad stvarno želimo proširiti nekakve takve strukture.;0:08:07.720000 - 0:08:12.720000
+Onda, naravno, imamo da je N pravi, podskup doista od Z2,;0:08:12.720000 - 0:08:19.720000
+a Z2 je izomorfan sa Z1.;0:08:19.720000 - 0:08:23.720000
+A s druge strane, ova prva priča bi bila N je izomorfan sa slikom;0:08:24.720000 - 0:08:32.720000
+od iota koja je pravi podskup od Z1.;0:08:33.200000 - 0:08:38.200000
+Dakle, ako mi nije bitno koji N uzmem, onda mogu N zamijeniti sa slikom od iota.;0:08:39.200000 - 0:08:45.200000
+Ali, ako mi je bitno koji N uzmem, ali mi nije bitno koji Z uzmem,;0:08:45.200000 - 0:08:49.200000
+onda mogu Z uzeti ovakvu konstrukciju.;0:08:49.200000 - 0:08:51.200000
+I kažem, to se zapravo može napraviti skrozopćenito.;0:08:51.200000 - 0:08:55.200000
+Dobro, vratimo se mi na ovu lemu.;0:08:56.200000 - 0:09:00.200000
+Prva lema kaže, N je potpuna sigma teorija.;0:09:03.700000 - 0:09:09.200000
+Sjetimo se, potpuna znači da nema puno modela.;0:09:16.200000 - 0:09:20.200000
+Dakle, u smislu, može ih imati puno, ali svi su elementarno ih vjeleni.;0:09:22.200000 - 0:09:29.200000
+E crtica je sigma crtica teorija, konsistentno.;0:09:30.180000 - 0:09:40.680000
+Za nas, za sad, to znači ispunjiva.;0:09:43.680000 - 0:09:45.680000
+Dakle, nema malo, nema premalo modela, nema nula modela,;0:09:45.680000 - 0:09:48.680000
+nego ima barim jedan.;0:09:48.680000 - 0:09:50.680000
+Dakle, ovo je nekako ima modele ograničene od ozdo,;0:09:50.680000 - 0:09:53.680000
+ovo ima modele ograničene od ozdo.;0:09:53.680000 - 0:09:55.680000
+Međutim, naravno, njihov odnos je takav da je te podskup od te crtice.;0:09:56.160000 - 0:10:02.160000
+Dakle, ova potpuna, ova jača, je podskup od ove slabije.;0:10:02.160000 - 0:10:07.160000
+Dakle, onda nekako stvarno postoji nekakav zanimljiv interplay između njih dvije.;0:10:07.160000 - 0:10:12.160000
+Jer inače, naravno, da imate inkluziju s oprtom smjerom,;0:10:12.160000 - 0:10:14.660000
+da biste uvijek mogli, ne znam, za ovo uzeti prazen skup,;0:10:14.660000 - 0:10:18.160000
+a za ovo skup svih rečenica, to bi trebalo tako bio.;0:10:18.160000 - 0:10:22.160000
+Dakle, ovo je sad nekakav odnos među teorijama koji nije tako jednostavan;0:10:22.640000 - 0:10:27.140000
+i on onda stvarno ima kao posljedicu nekakvu vezu između njihovih modela.;0:10:27.140000 - 0:10:32.140000
+A veza između njihovih modela je ova.;0:10:32.640000 - 0:10:34.140000
+Dakle, nekako bih htjeli, htjeli bismo reći,;0:10:34.140000 - 0:10:37.140000
+za svaki M koji je model za T,;0:10:37.640000 - 0:10:46.140000
+postoji M crtica, zaokruženi su mi ovi neformalni kvantifikatori,;0:10:47.120000 - 0:10:54.120000
+naravno, ne govorim sad o logici prvog reda,;0:10:54.120000 - 0:10:56.120000
+nego sam pokrate za govor.;0:10:56.120000 - 0:11:00.120000
+Postoji M crtica model za T, tako da,;0:11:01.120000 - 0:11:07.120000
+htio bih reći da je M elementarni podmodel od M crtica.;0:11:09.620000 - 0:11:14.120000
+Dakle, svaki model za ovu potpunu teoriju se može elementarno proširiti;0:11:15.100000 - 0:11:22.100000
+do modela za ovu konsistentnu nad teoriju.;0:11:22.100000 - 0:11:27.100000
+Međutim, naravno, ovo je besmislit saj ovi nisu nad istom signaturom.;0:11:27.600000 - 0:11:31.100000
+Onda zapravo ovo želimo reći.;0:11:31.600000 - 0:11:34.100000
+Uopće, to je M crtica, jer u kontrolu se postoji...;0:11:35.100000 - 0:11:38.100000
+Da, točno, a...;0:11:38.100000 - 0:11:40.100000
+Dakle, to je Lema.;0:11:41.080000 - 0:11:44.080000
+Dobro, kak sa Lema dokaže metoda diagrama,;0:11:46.080000 - 0:11:49.080000
+dakle, promatramo jednu teoriju koja se dobije tak da uzmeš ovu veću teoriju;0:11:49.080000 - 0:11:56.080000
+i manji model, dakle, ali potpuni diagram.;0:11:57.080000 - 0:12:01.080000
+Znači, T crtica unija potpuni diagram od M.;0:12:01.080000 - 0:12:10.080000
+I sad kažem, želim dokazati da to ima model.;0:12:10.580000 - 0:12:13.580000
+Zašto mi je to korisno?;0:12:13.580000 - 0:12:15.080000
+Zato što, naravno, Lema u diagramu mi je bih nešto bila rekla o tome;0:12:15.080000 - 0:12:18.080000
+kad imaš ref u strukturu koja ti je model za D od M,;0:12:18.080000 - 0:12:21.580000
+onda M možeš elementarno uložiti u to.;0:12:21.580000 - 0:12:24.580000
+A još ćemo zahtjevat da to bude model za T crtica kako bismo mogli...;0:12:26.080000 - 0:12:30.580000
+Zahtjevat da ovo proširenje bude model za T crtica.;0:12:35.580000 - 0:12:39.080000
+Prirodno je gledat ovo.;0:12:39.560000 - 0:12:41.560000
+Ovo zbog ovog, a ovo zbog ovog.;0:12:42.560000 - 0:12:45.560000
+To je ono dvoje što zahtjevamo od M crtica.;0:12:46.060000 - 0:12:49.060000
+I sad kak dokazat da je ovo ispunjivo?;0:12:49.560000 - 0:12:52.060000
+Pa naravno, teorijem kompaktnosti, uzmeš proizvodni konačni podskup;0:12:52.060000 - 0:12:57.560000
+od T crtica unija diagram od M i predpostaviš da nema model.;0:12:57.560000 - 0:13:03.560000
+Predpostavimo S nije ispunjivo.;0:13:04.540000 - 0:13:09.040000
+Ok. E sad, S nije ispunjivo, naravno to znači da S se sad rastavlja na dva skupa.;0:13:11.540000 - 0:13:18.040000
+Možemo ih ovako zvati S bez D od M unija S pres je D od M.;0:13:19.040000 - 0:13:28.540000
+I oni su međusobno isjunkni.;0:13:29.540000 - 0:13:31.540000
+A ovdje je još dosta zgodno vidjeti da je ovaj tu skup zapravo podskup od T crtica.;0:13:34.040000 - 0:13:44.540000
+Naravno, S je podskup od T crtica unija D od M.;0:13:46.040000 - 0:13:49.040000
+A ovaj tu je naravno podskup od D od M.;0:13:49.540000 - 0:13:53.040000
+I konačan je.;0:13:56.040000 - 0:13:57.040000
+Mislim, i ovaj je konačan, ali to je manje bitno.;0:13:58.040000 - 0:14:00.040000
+Ovdje je bitno da imam konačan podskup potpunog diagrama od M.;0:14:00.520000 - 0:14:05.520000
+To čak nije sad bitno da je potpun, ali diagram, bilo je potpun, jednostavan,;0:14:06.020000 - 0:14:10.520000
+je uvijek zatvoren na konjunkciju.;0:14:11.020000 - 0:14:12.520000
+Zašto? Zato što, ako se sjećate, u diagramu su bile one formule koje nekako vrijede u strukturi,;0:14:13.020000 - 0:14:18.520000
+s tim da naravno treba malo paziti šta zapravo znači da formula vrijedi.;0:14:19.020000 - 0:14:23.020000
+Ona može imati još nekakve, biti interpretirana sa,;0:14:23.520000 - 0:14:26.520000
+ove variable mogu biti interpretirane nekim konkretnim elementima,;0:14:27.500000 - 0:14:30.500000
+pa moramo uvesti imena za te elemente i tako dalje, ali sve je to nebitno,;0:14:31 - 0:14:34
+jer operator konjunkcije je takav da jednostavno uzmeš dvije formule;0:14:34.500000 - 0:14:37.500000
+koje imaju takve neke konstantske simbola, opet, ovaj, mislim, konačan mnogo njih.;0:14:38 - 0:14:41
+Njihova konjunkcija će opet imati konačan mnogo takvih simbola;0:14:41.500000 - 0:14:44.500000
+i vrijedi će u onoj strukturi, konkretno u strukturi M,;0:14:45 - 0:14:49.500000
+ako i samo ako pojedine vrijede.;0:14:50 - 0:14:52
+Lako se vidi da je ovaj tu skup zatvoren na konjunkciju.;0:14:52.980000 - 0:14:57.480000
+Dobro, a šta to znači? To znači da ako imaš konačan mnogo formula;0:15:07.480000 - 0:15:09.980000
+onda možeš apreti konjunkciju svih njih.;0:15:10.480000 - 0:15:11.980000
+Tu ona zove kšta F.;0:15:12.480000 - 0:15:13.980000
+Dakle, kako bi to napisali?;0:15:14.480000 - 0:15:16.480000
+Konjunkcija svih A, gdje je A element,;0:15:16.980000 - 0:15:20.480000
+S pres je gdje, ok.;0:15:20.960000 - 0:15:23.460000
+To je nekakva formula F i pritom sa A1 potez do A1 potez;0:15:25.960000 - 0:15:31.460000
+označimo sve ove nuove koji se pojavljuju.;0:15:31.960000 - 0:15:35.960000
+Dakle, rekli smo, da bismo iskonstruirali dijagram,;0:15:36.460000 - 0:15:38.460000
+moramo prvo prošljiviti signaturu.;0:15:38.960000 - 0:15:40.460000
+Dakle, signaturu od M, dakle, to je nad T,;0:15:40.960000 - 0:15:45.460000
+dakle, nad sigma, ovaj M je sigma struktura.;0:15:45.960000 - 0:15:49.960000
+A ova M crtica koju tražimo će biti sigma crtica struktura.;0:15:51.460000 - 0:15:55.460000
+Dakle, sigma, znači, još moram proširiti;0:15:55.960000 - 0:16:00.460000
+sa ovim konstantskim simbolima za svaki,;0:16:01.460000 - 0:16:05.460000
+pojedan konstantski simbol za svaki element od M.;0:16:06.460000 - 0:16:09.460000
+Dakle, ovo je, kak smo to zvali, sigma pa dolje M formula.;0:16:09.960000 - 0:16:15.460000
+Dakle, ovdje sam baš popisao sve elemente,;0:16:16.440000 - 0:16:20.440000
+sve konstantske simbole koji su novo uvedeni,;0:16:20.940000 - 0:16:24.940000
+koji nisu bili već u sigma.;0:16:25.440000 - 0:16:27.440000
+Dobro, i kažem, ta formula je očito ovom,;0:16:28.440000 - 0:16:31.440000
+da tako će da se ovo ujednici, potpunog dijagrama.;0:16:31.940000 - 0:16:35.440000
+E sad, keže S nema modelu, dakle, ne postoji,;0:16:36.440000 - 0:16:42.440000
+ne postoji struktura, dakle, S je opet sad pričam,;0:16:43.420000 - 0:16:48.420000
+S je nad sigma crtica,;0:16:51.420000 - 0:16:56.420000
+odnosno i više je zapravo, S je nad sigma crtica i još M.;0:16:59.420000 - 0:17:05.420000
+Ubacio sam sve ove stvari koje mi trebaju;0:17:07.420000 - 0:17:09.420000
+da bih pričao o teoriji T crtica;0:17:10.400000 - 0:17:12.400000
+i još sam ubacio sve konstantske simbole,;0:17:12.900000 - 0:17:14.900000
+po jedan za svaki element izemlja.;0:17:15.400000 - 0:17:17.400000
+Dobro, što sam htio reći?;0:17:21.400000 - 0:17:24.400000
+Dakle, S nema modelu, to znači da za svaku sigma M crtica strukturu,;0:17:26.400000 - 0:17:34.400000
+nema sigma M crtica strukture na kojoj bi istovremeno vrijedio;0:17:35.380000 - 0:17:39.380000
+i ovaj skup i ovaj skup.;0:17:39.380000 - 0:17:41.380000
+Specijalno to znači da za svaku sigma M crtica strukturu;0:17:42.380000 - 0:17:45.380000
+na kojoj vrijedi T crtica, dakle, onda naravno vrijedi i ovaj tu skup,;0:17:45.380000 - 0:17:50.380000
+jer je podskup od T crtica, ne smije vrijediti ova tu formula F.;0:17:50.380000 - 0:17:56.380000
+Drugim rječima, s obzirom na to da je ova F rečenica,;0:17:58.380000 - 0:18:01.380000
+zapravo ne F je logička posljedica od T crtica.;0:18:05.380000 - 0:18:16.380000
+To točno to znači.;0:18:17.380000 - 0:18:19.380000
+Za svaku strukturu u signaturi od T crtica,;0:18:19.380000 - 0:18:23.380000
+na kojoj vrijedi T crtica, ne smije vrijediti ova tu.;0:18:23.380000 - 0:18:27.380000
+Dakle, S nije ispunjev, znači da T crtica ima za logičku posljedicu ne F.;0:18:28.360000 - 0:18:46.360000
+Međutim, to zapravo znači i više od toga.;0:18:50.360000 - 0:18:53.360000
+Znači, za svaku sigma M crtica strukturu, na kojoj vrijedi T crtica, nešto.;0:18:54.340000 - 0:19:04.340000
+Ali kad čovjek pažljivo pogleda ovaj kvantifikator,;0:19:05.340000 - 0:19:08.340000
+ovaj grozomorni kvantifikator za svaku sigma crtica M strukturu,;0:19:08.340000 - 0:19:13.340000
+to zapravo znači za svaki nosač, za svaku interpretaciju simbola iz sigma,;0:19:13.340000 - 0:19:18.340000
+za svaku interpretaciju ovih novih simbola u sigma crtica,;0:19:18.340000 - 0:19:21.340000
+za svaku interpretaciju ovih novih simbola konstantskih u sigma crtica M.;0:19:22.320000 - 0:19:26.320000
+Vrijedi nešto.;0:19:27.320000 - 0:19:28.320000
+Međutim, T crtica nema, ni u kojoj formuli iz T crtica se ne pojavljuju;0:19:29.320000 - 0:19:35.320000
+ovi novi konstantski simboli.;0:19:35.320000 - 0:19:37.320000
+Dakle, ako ja kažem da nešto mora vrijediti za svaki nosač,;0:19:39.320000 - 0:19:45.320000
+za svaku interpretaciju sigma crtica,;0:19:46.300000 - 0:19:54.300000
+za svaku interpretaciju ovih konstantskih simbola,;0:19:55.300000 - 0:20:02.300000
+bla, bla, bla, za sve to, ako u toj strukturi vrijedi T crtica,;0:20:03.280000 - 0:20:19.280000
+tada u njoj vrijedi F.;0:20:22.280000 - 0:20:29.280000
+Ne, F.;0:20:30.260000 - 0:20:32.260000
+Ali konkretno ovaj tu dio kvantifikacije ne utješe na ovo ovdje.;0:20:38.260000 - 0:20:44.260000
+Ovo je zapravo ovak, ali, kažem, ovo tu zapravo ne utješe na ovo,;0:20:46.260000 - 0:20:53.260000
+pa ga zapravo mogu izvući van.;0:20:53.260000 - 0:20:55.260000
+Za bilo koji, daj sad šta je to, premjernakstavna normalna forma,;0:20:56.240000 - 0:21:00.240000
+ne, zapravo nije, mislim, premjernakstavna normalna forma je bila,;0:21:00.240000 - 0:21:03.240000
+onda bi to postao egzidencijalni kvantifikator.;0:21:03.240000 - 0:21:05.240000
+Čekaj, kako to zapravo je?;0:21:05.240000 - 0:21:07.240000
+Daj se prišetimo, dobro, više ne treba.;0:21:07.240000 - 0:21:11.240000
+Kažem, dobro je tu konstrukciju nekako proučiti,;0:21:16.240000 - 0:21:19.240000
+dobro, jer će nam trebati na dosta mjesta.;0:21:19.240000 - 0:21:21.240000
+Ovo tu znači, daj ga, za svaki x, P kupa x.;0:21:22.220000 - 0:21:32.220000
+Dakle, to je isto što i P kupa x.;0:21:34.220000 - 0:21:43.220000
+Dobro?;0:21:44.220000 - 0:21:45.220000
+Dakle, mislim, je zapravo, jest premjernakstavna normalna forma,;0:21:46.220000 - 0:21:49.220000
+ali u suprotnom smjeru.;0:21:49.220000 - 0:21:50.220000
+Dobro, dakle, šta hoću reći?;0:21:51.200000 - 0:21:56.200000
+Ovaj tu dio, zapravo ja mogu staviti ovdje,;0:21:57.200000 - 0:22:01.200000
+i onda zapravo dobijem ovo.;0:22:01.200000 - 0:22:03.200000
+Za svaku sigma crtica strukturu, ovo ovdje,;0:22:03.200000 - 0:22:08.200000
+a ovdje sam sad kao dodao neke nove konstantinske simbole,;0:22:08.200000 - 0:22:13.200000
+mislim, oni su, sa obzirom na to da više nisu u sigma crtica,;0:22:13.200000 - 0:22:16.200000
+iz ove perspektive oni su jednostavno varijalni.;0:22:16.200000 - 0:22:19.200000
+Za bilo kakvu interpretaciju tih varijabli,;0:22:20.180000 - 0:22:22.180000
+tih novih simbola, što god,;0:22:22.180000 - 0:22:24.180000
+koje onda mogu prirodno zvati valuacijom,;0:22:24.180000 - 0:22:27.180000
+će vrijediti ovo ovdje.;0:22:27.180000 - 0:22:28.180000
+To zapravo znači da će te crtice imati za logičku posljedicu;0:22:28.180000 - 0:22:32.180000
+universalno kvantificiranu ovu formulu,;0:22:32.180000 - 0:22:36.180000
+gdje su ovi konstantinske simbole zamijenjeni varijablom.;0:22:36.180000 - 0:22:39.180000
+To je ovak' dosta zanimljiva akrobacija sa semantikom,;0:22:40.180000 - 0:22:44.180000
+a ovo je funkcionirao.;0:22:44.180000 - 0:22:46.180000
+Zapravo te crtice ima za logičku posljedicu;0:22:47.160000 - 0:22:53.160000
+za svaki v1, za svaki vn, ne f od vn.;0:22:54.160000 - 0:23:01.160000
+Mislim, to smo sad skroz formalno,;0:23:05.160000 - 0:23:07.160000
+mislim, nismo skroz formalno, naravno ovo tu bi trebalo formalnije napisati,;0:23:07.160000 - 0:23:11.660000
+ali baš da vidimo što se točno zbiva u metateoriji.;0:23:12.640000 - 0:23:16.640000
+Ali ovak' nekak' neformalno govoreći jasno je,;0:23:16.640000 - 0:23:19.640000
+te crtice ne zna ništa o tome što je v1 potes.;0:23:20.640000 - 0:23:24.640000
+Jedini način na koji one može dokazati da nekakva formula vrijedi;0:23:25.640000 - 0:23:28.640000
+baš za v1 potes je da zapravo dokaže da vrijedi za svaki objekt.;0:23:28.640000 - 0:23:32.640000
+To je valja, mislim, opet sad kažem,;0:23:35.640000 - 0:23:37.640000
+u dokaznim sustavima je to sasvim jasno,;0:23:37.640000 - 0:23:39.640000
+jer je to ona priča o dovoljno slobodnoj variabli.;0:23:39.640000 - 0:23:43.120000
+Znači, ako je neka variabla se ne spominje u pretpostavkama,;0:23:43.120000 - 0:23:47.620000
+odnosno kako je, kak' zapravo ide dokaz;0:23:48.620000 - 0:23:52.620000
+u Hilbertovskim sustavima za svaki x, a.;0:23:53.620000 - 0:23:57.620000
+Tako da uzmeš nekakav konstantski simbol;0:23:58.120000 - 0:24:00.620000
+i dokažeš da vrijedi c i dokažeš da vrijedi a od c,;0:24:01.620000 - 0:24:05.120000
+a da pritom na c nisi ništa duratno pretpostavio.;0:24:05.120000 - 0:24:07.620000
+To je praktički ovo.;0:24:08.600000 - 0:24:09.600000
+a1 potes je novi konstantski simbol iz perspektive t crtica;0:24:09.600000 - 0:24:13.600000
+o kojem t crtica ništa novo ne pretpostavlja,;0:24:13.600000 - 0:24:16.100000
+a dokazala je ne f od a1 potes,;0:24:16.100000 - 0:24:19.100000
+dakle zapravo je dokazala za svaki v ne f od v.;0:24:19.100000 - 0:24:23.100000
+Ali kažem, formalizacija tog pristupa bi zahtjevala nekakve dokazne sustave.;0:24:24.100000 - 0:24:28.600000
+Ovako to stvar izgleda, ista stvar kroz perspektivu teorije modela.;0:24:29.600000 - 0:24:34.600000
+I tak isto za ove ostale variable, znači zapravo to.;0:24:37.620000 - 0:24:40.600000
+To ćemo nazvati g.;0:24:41.100000 - 0:24:43.100000
+Naravno, to je rečenica opet.;0:24:44.600000 - 0:24:46.100000
+Jer sad sam uveo neke variable, ali sam pod njima odmah i kvantificirao,;0:24:48.100000 - 0:24:51.100000
+tako da je to ok.;0:24:51.100000 - 0:24:52.600000
+E, i sad imam ovakvu zanimljivu priču.;0:24:53.100000 - 0:24:55.600000
+Dakle, kaže t zapravo mora imat za logičku posljedicu g.;0:24:55.600000 - 0:25:07.600000
+Zašto?;0:25:08.100000 - 0:25:08.600000
+Jer kad ne bi bilo, pazite, t je potpuna.;0:25:15.600000 - 0:25:18.100000
+Jer u sutrotnom, t je potpuna.;0:25:21.100000 - 0:25:26.100000
+Sad treba opet malo pazit, dakle, zbog čega nam je uopće trebala ova priča?;0:25:28.100000 - 0:25:32.100000
+Potpunost teorije znači da, kao ona, sigurno ili ima za logičku posljedicu rečenicu,;0:25:32.580000 - 0:25:38.580000
+ili njenu negaciju, ali nad signaturom nad kojom ta teorija je.;0:25:38.580000 - 0:25:42.580000
+Evo.;0:25:47.580000 - 0:25:48.080000
+Sigma teorija je potpuna ako za svaku sigma rečenicu vrijedi ova.;0:25:50.080000 - 0:25:53.580000
+Dakle, morao sam negako, s obzirom na to da je t potpuna nad sigma,;0:25:53.580000 - 0:25:58.580000
+kao sigma teorija, morao sam napraviti ovu akrobaciju;0:25:59.560000 - 0:26:06.560000
+da bih zaista dobio sigma rečenicu.;0:26:06.560000 - 0:26:12.560000
+Ja sam sad iz ove sigma m formule, odnosno sigma m rečenice,;0:26:13.560000 - 0:26:20.560000
+dobio sigma rečenicu i sam eliminirao sve te nove konstantske simbole.;0:26:20.560000 - 0:26:25.560000
+T je potpuna, sigma teorija i g je sigma rečenica.;0:26:26.040000 - 0:26:36.040000
+Ok?;0:26:37.540000 - 0:26:38.040000
+Znači, u suprotnom, bi onda slijedilo da T ima za logičku posljedicu ne g.;0:26:38.040000 - 0:26:44.040000
+To je definicija potpunosti.;0:26:45.540000 - 0:26:47.040000
+Al' kažem, treba paziti, na primjer, na ovu formulu, na f,;0:26:47.040000 - 0:26:50.040000
+se to ne moglo primijeniti jer ona nije nad signaturom nad kojem je T.;0:26:50.040000 - 0:26:54.540000
+Znači, ovo mora biti jednako.;0:26:55.520000 - 0:26:59.520000
+Ok, i sad, naravno, ali T je podskup od T crtica,;0:27:00.520000 - 0:27:10.520000
+pa onda i T crtica bi za logičku posljedicu imala ne g,;0:27:10.520000 - 0:27:15.520000
+što je valjda kontradikcija sa konsistenošću.;0:27:16.520000 - 0:27:19.520000
+Onda T crtica bi morala imat neki model,;0:27:20.500000 - 0:27:24.500000
+a onda bi, naravno, na tom modelu morala vrijediti isto vremeno i g i ne g,;0:27:24.500000 - 0:27:33.500000
+što je nemoguće.;0:27:33.500000 - 0:27:34.500000
+Dobro.;0:27:40.500000 - 0:27:41.500000
+Ovo je više.;0:27:50.500000 - 0:27:51.500000
+Ok, dobro, ovo je više ne treba.;0:28:08.500000 - 0:28:10.500000
+Ok.;0:28:20.500000 - 0:28:21.500000
+Dobro.;0:28:27.500000 - 0:28:28.500000
+I sad, šta smo napravili?;0:28:29.500000 - 0:28:31.500000
+Dakle,;0:28:31.500000 - 0:28:32.500000
+aha, onaj f je bio,;0:28:34.500000 - 0:28:36.500000
+jako puno toga preskočeno, ali dobro.;0:28:43.500000 - 0:28:46.500000
+Dakle,;0:28:46.500000 - 0:28:47.500000
+m je model za teoriju T.;0:28:50.500000 - 0:28:59.500000
+To je, pismo, predpostavljamo da je m model za teoriju T,;0:28:59.500000 - 0:29:04.500000
+tražimo m crtice.;0:29:04.500000 - 0:29:05.500000
+Onaj f sa konstantskim simbolima je bio element potpunog dijagrama od m,;0:29:08.500000 - 0:29:17.500000
+to smo rekli, jednostavno, jer je konjunkcija pojedinih komada;0:29:17.500000 - 0:29:22.480000
+koji su bili iz D od m, konačno mnogo njih.;0:29:22.480000 - 0:29:25.480000
+Međutim, to po definiciji dijagrama znači da na m vrijedi f,;0:29:26.480000 - 0:29:34.480000
+kad se variable v1 do vn interpretiraju sa a1 do an.;0:29:36.480000 - 0:29:42.480000
+Dobro, i sad se natrag pričetim,;0:29:43.460000 - 0:29:47.460000
+aha, f je zapravo bila negakva konjunkcija,;0:29:47.460000 - 0:29:50.460000
+na m vrijedi T,;0:29:53.460000 - 0:29:55.460000
+aha, a T ima za logičku postavicu g.;0:29:56.460000 - 0:30:00.460000
+Šta to znači?;0:30:00.460000 - 0:30:01.460000
+Znači, za svaki model od T, na njemu vrijedi g.;0:30:01.460000 - 0:30:06.460000
+Pa, specijalno na m vrijedi g.;0:30:07.460000 - 0:30:12.460000
+Ok?;0:30:13.460000 - 0:30:14.460000
+I sad je to, valjda, kontradikcija, jer g kaže da kako got interpretiraš,;0:30:15.460000 - 0:30:22.460000
+kako got valuiraš variable v1 do vn, neće ti vrijedi f,;0:30:23.460000 - 0:30:28.460000
+a ovo kaže da ako ih baš interpretiraš, valuiraš sa a1 do an,;0:30:29.460000 - 0:30:33.460000
+onda će ti vrijedi f.;0:30:33.460000 - 0:30:35.460000
+Dobro?;0:30:35.460000 - 0:30:36.460000
+Kontradikcija, jasno, jeznica.;0:30:37.460000 - 0:30:40.460000
+Uf, dobro, to je bio dokaz prve leve,;0:30:43.460000 - 0:30:50.460000
+a, odnosno, ne, to je bio dokaz da je ova,;0:30:50.460000 - 0:30:53.460000
+da mogu primijeniti teorem kompaktnosti.;0:30:54.460000 - 0:30:56.460000
+Znači, predpostavili smo da je S nije ispunjiv i došli smo do kontradikcije.;0:31:00.460000 - 0:31:06.460000
+Dakle, S ispunjiv.;0:31:07.460000 - 0:31:09.460000
+Teorem kompaktnosti kaže,;0:31:10.440000 - 0:31:16.440000
+T crtica, postoji struktura koju ću nazvati, valjda, N crtica,;0:31:18.440000 - 0:31:27.440000
+ono, dakle, ovaj,;0:31:28.420000 - 0:31:30.420000
+onaj, nad signaturom sigma crtica M,;0:31:31.420000 - 0:31:40.420000
+na kojoj vrijedi T crtica i još čitav potpuni diagram od M.;0:31:44.420000 - 0:31:53.420000
+To slijedi isto vremen kompaktnosti.;0:31:54.400000 - 0:31:58.400000
+E sad, znači, N crtica je model za potpuni diagram od M.;0:32:00.400000 - 0:32:09.400000
+To Lema o diagramu kaže, je li to dovoljno ili još nešto treba?;0:32:11.400000 - 0:32:18.400000
+Aha, ona mora biti sigma M ekspanzija od neke strukture.;0:32:24.400000 - 0:32:32.400000
+Da, ali ona, to je sigurno, je sigma M crtica ekspanzija od N crtica minus.;0:32:37.400000 - 0:32:53.400000
+Dakle, ako samo srežem na sigmu ove stvari koje su,;0:32:54.400000 - 0:32:59.400000
+znači maknem stvari iz sigma crtica bez sigma, a ostavim ove konstantske,;0:32:59.400000 - 0:33:05.400000
+onda, dakle, dobit ću restriksiju, odnosno u suprotnom smjeru dobit ću ekspanziju.;0:33:05.400000 - 0:33:11.400000
+Znači, postoji sigma M crtica ekspanzija od ovakve strukture,;0:33:12.400000 - 0:33:21.400000
+koja je model za potpuni diagram od M.;0:33:21.880000 - 0:33:25.880000
+Polema o diagramu, ako i samo ako, znači,;0:33:26.880000 - 0:33:29.880000
+kaže, M se može, M se može, početku je potpuni diagram,;0:33:37.880000 - 0:33:45.380000
+M se može elementarno smjestiti, znači, postoji;0:33:45.380000 - 0:33:49.380000
+elementarno smještenje F M U N crtica minus.;0:33:52.380000 - 0:34:06.380000
+Ok?;0:34:09.380000 - 0:34:10.380000
+E sad, dobro.;0:34:11.380000 - 0:34:15.380000
+Jel' smo?;0:34:22.380000 - 0:34:24.380000
+A šta je meni trebalo?;0:34:32.380000 - 0:34:33.380000
+Meni je trebalo nekakav model za T crtica,;0:34:33.380000 - 0:34:36.380000
+takav da je M elementarni podmodel od njegovog ovog tu čuda.;0:34:37.380000 - 0:34:43.380000
+I sad, to je baš ova priča.;0:34:43.380000 - 0:34:46.380000
+Dakle, ovaj N crtica minus mi uopće nije bitan,;0:34:46.380000 - 0:34:50.380000
+ja ga želim shvatit nekako kao da je,;0:34:51.360000 - 0:34:55.360000
+znači, mogu sad gledat' sliku,;0:34:55.360000 - 0:34:57.360000
+M crtica minus,;0:34:59.360000 - 0:35:02.360000
+bez slike od F,;0:35:03.360000 - 0:35:06.360000
+pa disjunktna unija sa baš ovim M-om,;0:35:07.360000 - 0:35:10.360000
+i dobijem nešto što je opet;0:35:11.360000 - 0:35:13.360000
+oblika, mislim, to ću jednostavno nazvat' M crtica minus.;0:35:14.340000 - 0:35:21.340000
+Odnosno, precizno, ako to napravim bez ovog minusa,;0:35:22.340000 - 0:35:25.340000
+onda to nazovem sa M crtica,;0:35:25.340000 - 0:35:27.340000
+i sad, naravno, onda;0:35:28.340000 - 0:35:30.340000
+M crtica minus je izomorfan sa M crtica minus.;0:35:32.340000 - 0:35:41.340000
+A M je doista elementarni podmodel od M crtica minus,;0:35:42.320000 - 0:35:48.320000
+jer sam tak' naštukao.;0:35:48.320000 - 0:35:52.320000
+A kažem, dakle, to je sad more pisanja,;0:35:55.320000 - 0:35:58.320000
+to je ono što je prije pisalo na ovoj pločini.;0:35:58.320000 - 0:36:01.320000
+Dobro, jesam li gotov?;0:36:04.320000 - 0:36:07.320000
+Znači, našao sam M crtica,;0:36:07.320000 - 0:36:09.320000
+takav da je M elementarni podmodel od M crtica minus,;0:36:10.300000 - 0:36:16.300000
+i na M crtica sigurno vrijedi T crtica.;0:36:16.300000 - 0:36:22.300000
+Zašto? Jer na M crtica vrijedi T crtica.;0:36:22.300000 - 0:36:26.300000
+Znači, specijalno M crtica je bio model za T crtica.;0:36:27.280000 - 0:36:39.280000
+I sad, naravno, M crtica je zapravo model za ovo tu čudo,;0:36:40.280000 - 0:36:44.280000
+dakle, on još ima nekakve konstantske simbole u sebi,;0:36:44.280000 - 0:36:47.280000
+ali opet, još jedan put, T crtica je zapravo sigma crtica teorija.;0:36:47.280000 - 0:36:53.280000
+Pa, za to da neke formule vrijede ili ne vrijede unutra,;0:36:54.260000 - 0:36:59.260000
+ove interpretacije ovih konstantskih simbola uopće nisu bitne.;0:36:59.260000 - 0:37:03.260000
+Pa, odavdje slijedi da, kako bi sad to čovjek napisao?;0:37:03.260000 - 0:37:10.260000
+To sad nije minus, to je ovaj donji minus.;0:37:12.260000 - 0:37:16.260000
+Dakle, kad kao...;0:37:16.260000 - 0:37:18.260000
+A ne, čekaj, kako sad?;0:37:23.280000 - 0:37:25.280000
+Sad bih htio reći, onaj dio od N crtica, znači ona restrikcija,;0:37:30.280000 - 0:37:36.280000
+koja zadrži sigma crticu, ali izbaci ove konstantske simbole.;0:37:38.280000 - 0:37:46.280000
+Znači...;0:37:53.280000 - 0:37:55.280000
+Ja treba tu sad malo biti pažljivi s tim signaturama,;0:38:06.280000 - 0:38:11.280000
+ali u svakom slučaju moramo riječi, dakle,;0:38:11.280000 - 0:38:15.280000
+restrikcija od N crtica na sigma crtica,;0:38:15.280000 - 0:38:25.280000
+također ima za logičku posljedicu d crtica.;0:38:25.280000 - 0:38:33.280000
+A onda, naravno, to vrijedi i za ovaj M crtica,;0:38:33.280000 - 0:38:40.280000
+jer je M crtica izomorfan sa...;0:38:41.280000 - 0:38:48.280000
+Znači, od N crtice sam krenuo, sa N crtice.;0:38:48.280000 - 0:38:52.280000
+M crtice i N crtice su izomorfni kao sigma M crtice strukture,;0:38:53.280000 - 0:38:57.280000
+pa onda kad maknem te konstantske simbole s njih,;0:38:57.280000 - 0:39:00.280000
+oni su i dalje izomorfni, naravno, samo sam zaboravio;0:39:00.280000 - 0:39:03.280000
+interpretacije neštega, ali izomorfizam i dalje funkcionira.;0:39:03.280000 - 0:39:06.280000
+Pa su onda, znači to, pa su onda specialno i ovi minusi izomorfni.;0:39:07.280000 - 0:39:13.280000
+To je s jedne strane, a s druge strane na ovome tu čudu vrijedi T crtica,;0:39:13.280000 - 0:39:23.280000
+pa onda i na M crtica vrijedi T crtica, jer su izomorfni.;0:39:23.280000 - 0:39:28.280000
+Znači, dokazao sam ovo i dokazao sam ovo.;0:39:29.280000 - 0:39:33.280000
+Evo ga! Dakle, je strašno, strašno puno tehničkih detalja tu imam.;0:39:34.280000 - 0:39:40.280000
+Dobro, e sad, druga lema je samo mrvicu kompliciranija od prve leme,;0:39:43.280000 - 0:39:48.280000
+ali kažem, više manje slične su, sličani način razmišljanja,;0:39:48.280000 - 0:39:53.280000
+tako da nećemo sve raspisniti, samo ću sad ovaj reći.;0:39:53.280000 - 0:40:00.280000
+Pa ćemo odišt na pauzu.;0:40:04.280000 - 0:40:06.280000
+Znači, opet ova ista priča, sigma i sigma crtica su signature,;0:40:11.280000 - 0:40:16.280000
+sigma je podskup od sigma crtica, T je potpuna sigma teorija,;0:40:16.280000 - 0:40:21.280000
+T crtica je konzistentna sigma crtica teorija,;0:40:21.280000 - 0:40:25.280000
+i T je podskup od T crtica.;0:40:26.280000 - 0:40:28.280000
+Znači, sve isto kao i ovdje ćemo se zapravo reći.;0:40:28.280000 - 0:40:36.280000
+Globalne pretpostavke, prva lema je bila zapravo rekla ovo.;0:40:37.280000 - 0:40:43.280000
+Druga lema, pod tim istim svim pretpostavkama, kaže ovako,;0:40:46.280000 - 0:40:52.280000
+M je model za T, i N1 je model za T crtica,;0:40:53.280000 - 0:41:05.280000
+i N1 je kao elementarni podmodel od M, ali naravno to je besmisleno reći,;0:41:07.280000 - 0:41:13.280000
+jer su opet, ovo je na sigma crtica, ovo je na sigma,;0:41:13.280000 - 0:41:16.280000
+a ondakle ovako, sa minusom.;0:41:16.280000 - 0:41:18.280000
+E, tada se oni mogu proširiti do zajedničkog nadmodela.;0:41:19.280000 - 0:41:25.280000
+Postoji N2, model za T crtice,;0:41:28.280000 - 0:41:35.280000
+koji je istodobno elementarni nadmodel i od M,;0:41:37.280000 - 0:41:45.280000
+i od N1,;0:41:45.280000 - 0:41:47.280000
+s tim da naravno opet kad pričamo o M-u,;0:42:00.280000 - 0:42:02.280000
+onda ovo nema smisla na sigma crtica,;0:42:02.280000 - 0:42:05.280000
+nego gledamo samo dio nad sigma.;0:42:05.280000 - 0:42:08.280000
+Ali ono što je važno, ova T priča i nad sigma crtica,;0:42:08.280000 - 0:42:13.280000
+ova T priča je nad manjom signaturom, ali ovdje zahtijevam zapravo više.;0:42:13.280000 - 0:42:18.280000
+Jer naravno da hoću nad manjom signaturom,;0:42:18.280000 - 0:42:22.280000
+ta N2 bi zapravo bio M, trivijalno bi bio M.;0:42:22.280000 - 0:42:26.280000
+Ali ono što zapravo hoću reći je da ako nad ovom nižom signaturom,;0:42:26.280000 - 0:42:31.280000
+dakle ovom sigma, ja imam elementarni podmodel,;0:42:31.280000 - 0:42:35.280000
+onda zapravo, na neki našin ga imam i nad višom signaturom.;0:42:35.280000 - 0:42:40.280000
+Dakle, to je slično kao ona kirurgija koja je ovdje pisala,;0:42:43.280000 - 0:42:47.280000
+samo sad za proširenje signature.;0:42:47.280000 - 0:42:51.280000
+Dakle, prije je pisalo za proširenje modela.;0:42:51.280000 - 0:42:54.280000
+Znači, ja ovakim imam ovo, injektivno ubacim ovo,;0:42:54.280000 - 0:42:58.280000
+pa sad izbacim ovo, pa umjesto njega ubacim doslovno ovaj ovdje,;0:42:58.280000 - 0:43:03.280000
+drugačije je ovarban, onda mogu reći da sam na neki način imao,;0:43:03.280000 - 0:43:07.280000
+da sam sačuvao intitet ovog glijevog,;0:43:07.280000 - 0:43:10.280000
+ali sam ga proširio do ovog desnog.;0:43:10.280000 - 0:43:14.280000
+Znači, proširenje što se tiče nadmodela.;0:43:15.280000 - 0:43:17.280000
+A ovo je sad proširenje što se tiče ekstenzije.;0:43:17.280000 - 0:43:20.280000
+Dakle, povećavam signaturu.;0:43:20.280000 - 0:43:25.280000
+Dobro, jasno što Lema tvrdi.;0:43:27.280000 - 0:43:31.280000
+I, kažem, hrpa toga u dokazu je vrlo slična.;0:43:32.280000 - 0:43:38.280000
+Promatraćemo teoriju te...;0:43:39.280000 - 0:43:43.280000
+Dobro, naravno nije sad baš lijepo je nazvati je crtica.;0:43:46.280000 - 0:43:50.280000
+Uglavnom, ono što se zapravo želi,;0:43:50.280000 - 0:43:56.280000
+znači ta teorija, znači unija potpunih dijagrama od M i od N1.;0:43:56.280000 - 0:44:01.280000
+Dakle, na taj način čuvam, znači želim dobiti doslovno;0:44:01.280000 - 0:44:07.280000
+elementarni nadmodel jedne i druge, ali nad sigma crtica.;0:44:07.280000 - 0:44:12.280000
+Ali to ćemo nakon pauze.;0:44:12.280000 - 0:44:15.280000

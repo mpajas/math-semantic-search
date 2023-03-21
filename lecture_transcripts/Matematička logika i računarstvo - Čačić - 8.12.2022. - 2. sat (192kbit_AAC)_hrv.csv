@@ -1,0 +1,479 @@
+Speech;Timestamp
+To sigurno nije ovaj T crtica od osgora, ali;0:00:00 - 0:00:04
+dakle, imamo nekakav model za T, imamo nekakav model za T crtica;0:00:04 - 0:00:09
+i sad model za ovu, ajmo reći, veću teoriju nad bogatijom signaturom;0:00:09 - 0:00:18
+je elementarni podmodel od strukture za ovu siromašnju.;0:00:18 - 0:00:24
+Naravno, jednom kad ga osiromašnjimo, kad mu stavimo ovaj minus.;0:00:24 - 0:00:28
+Evo sad, onda ova lema kaže da to onda mogu,;0:00:28 - 0:00:32
+tu elementarnu podmodelnost mogu obogatiti.;0:00:32 - 0:00:35
+Znači mogu naći nekakav ovdje koji je bogatiji;0:00:35 - 0:00:40
+tako da čitav N1, nijedan minus, bude elementarni podmodel od tog N2.;0:00:42 - 0:00:47
+Sam ga tu nazvao.;0:00:47 - 0:00:49
+Dobro, dakle, kak se to dokaže, kažem, vrlo slično kao i prva lema.;0:00:50 - 0:00:55
+Znači promatram teoriju potpun diagram od M,;0:00:55 - 0:00:59
+punija potpun diagram od N1.;0:01:01 - 0:01:05
+I sad opet uzmem S, podskup, konačan.;0:01:06 - 0:01:13
+I pretpostavim da nije ispunjiv.;0:01:13 - 0:01:16
+Sada, šta bi to značilo?;0:01:17 - 0:01:23
+To bi značilo da, opet sad, taj S je zapravo S presjek D od M,;0:01:24 - 0:01:33
+unija S bez D od M.;0:01:34 - 0:01:40
+I sad, i jedan i drugi skup su konačni, naravno, ovo je podskup od D od M.;0:01:41 - 0:01:49
+Šta sam tu napisao? N1.;0:01:50 - 0:01:53
+I sad ide dolje.;0:01:54 - 0:01:56
+Dakle, na dva mjesta sad imamo onu priču od prošle leme,;0:02:02 - 0:02:07
+ali u svakom slučaju, diagrami su, bilo kakvi diagrami,;0:02:07 - 0:02:11
+pa i potpuni diagrami su zatvoreni na konjunkciju.;0:02:12 - 0:02:15
+Pa onda, koju formulu, sigma formulu F?;0:02:30 - 0:02:35
+Aha, N1.;0:02:38 - 0:02:41
+Da, možda je bolje onda ovako.;0:02:50 - 0:02:53
+A mislim, naravno, da je isto, ali...;0:02:59 - 0:03:02
+Sad će ovo biti tu, pa ovo će biti tu.;0:03:08 - 0:03:13
+I onda sad, kad ovdje kažem konjunkciju svih tih konačno mnogo formula...;0:03:14 - 0:03:19
+Aha, ne.;0:03:23 - 0:03:24
+Aha, da, jer je pisalo zdravostne skupove na operaciju.;0:03:29 - 0:03:33
+Da, ali, ne, pokušavam skužiti kak se dobije ovaj F.;0:03:33 - 0:03:36
+F se vjerojatno dobije tako da se svi stave unutra.;0:03:37 - 0:03:40
+Ali onda je pitanje kak mogu reći da je to u D od M.;0:03:41 - 0:03:44
+Pa šta, jednostavno, čekaj sam, ovo znači...;0:03:49 - 0:03:52
+Dobro, ono što sigurno sad to mogu reći je da, dakle, ovo...;0:03:56 - 0:04:01
+Ovo nema modela. Dakle...;0:04:04 - 0:04:07
+Da, ako bih išao kao u prvoj lembi, onda bih morao reći;0:04:10 - 0:04:13
+svaki model za D od N1, na njemu vrijedi negacija formule;0:04:14 - 0:04:23
+koja je dobivena konjunkcijom svih ovih.;0:04:23 - 0:04:28
+Međutim, da, naravno, onda nema nikakvog razloga,;0:04:28 - 0:04:33
+onda ta formula ne bi imala još ovih nekih...;0:04:34 - 0:04:37
+Znači, gledajte ovaj šta se zbijeva.;0:04:38 - 0:04:40
+Znači, ja zapravo... Dobro, onda budemo pješice.;0:04:40 - 0:04:43
+Misli sam da mogu možda brže, ali ne.;0:04:44 - 0:04:47
+Dakle...;0:04:49 - 0:04:51
+To je sve skupa negakav konakšan skup koji nije ispunjiv.;0:04:52 - 0:04:59
+Dakle, sa F od A1 potez do AN plus P potez označimo konjunkciju svih.;0:05:00 - 0:05:13
+Znači, svih elementa iz S.;0:05:15 - 0:05:17
+Svih elementa iz S.;0:05:17 - 0:05:19
+Ali, znači, u njoj se sad pojavljuju negakvi konstantski simboli.;0:05:19 - 0:05:24
+Neki od njih su došli iz strukture M, neki su došli iz strukture N1.;0:05:24 - 0:05:31
+Ne smiju biti isti. Zašto? Zato što jednostavno smo predpostavili;0:05:32 - 0:05:36
+kad god radimo ovo proširenje signature da uvijek dodajemo nove simbole.;0:05:36 - 0:05:41
+Znači, ovo tu je sad negako razcijepkano na nekom mjestu.;0:05:42 - 0:05:46
+Znači, imam A1 do AN koji su iz...;0:05:46 - 0:05:52
+Ili do A... Da, znamen.;0:05:53 - 0:05:55
+Iz ove, ovog nosača.;0:05:58 - 0:06:01
+A ovaj AN plus 1 do AN plus P.;0:06:04 - 0:06:10
+Znači, prvih N su iz N1, a sljedećih P su iz M.;0:06:11 - 0:06:17
+I kažem, znači, oni zapravo su disjunktni.;0:06:21 - 0:06:24
+Mislim, čak teoretski da...;0:06:24 - 0:06:27
+N1 i M mogu imati presjek u nosačima.;0:06:31 - 0:06:34
+Znači, konstantski simboli su disjunktni, ali ovi elementi ne moraju biti.;0:06:35 - 0:06:39
+Ali dobro, valjda to nije bitno.;0:06:39 - 0:06:41
+Ja sam za ove tu uzeo samo...;0:06:44 - 0:06:47
+Ove. Znači, učinim ih disjunktnima tako da obrišem...;0:06:53 - 0:06:58
+Tu se teoretski moglo dogoditi i nekakvih više konstantskih simbola,;0:06:59 - 0:07:04
+ali njih reinterpretiram natrag u N1 ako mogu.;0:07:04 - 0:07:08
+Znači, neke od njih su ujedno...;0:07:08 - 0:07:11
+Mogu zamisliti nekakav B koji je u presjeku i jednog i drugog nosača.;0:07:15 - 0:07:24
+Ali onda, naravno, konstantski B, ajmo reći ovako,;0:07:25 - 0:07:29
+znači, kad ga napravim prilikom proširivanja N1,;0:07:29 - 0:07:33
+je formalno različit od konstantskog B kojeg napravim prije proširivanja strukture M,;0:07:33 - 0:07:39
+ali ne želim to, odnosno želim ovaj natrag interpretirati kao ove.;0:07:39 - 0:07:45
+Znači, što je sasvim u redu jer i jedan i drugi se interpretiraju kao B.;0:07:45 - 0:07:50
+B i S doista zajednički element.;0:07:50 - 0:07:53
+Znači mogu nekako... Šta je to?;0:07:53 - 0:07:55
+Ako imam, općenito, nekako u logici,;0:07:55 - 0:07:57
+ako imam dva konstantska simbola čija interpretacija je ista,;0:07:57 - 0:08:01
+onda, naravno, za formulu nije bitno jel pišem jedan ili drugi u njoj.;0:08:01 - 0:08:04
+Znači mogu uvijek sve ovakve konstantske simbole zamijeniti sa ovakvima.;0:08:04 - 0:08:10
+I onda, znači, koliko ih preostane u ovoj drugoj grupi, to nazovem sa P.;0:08:10 - 0:08:16
+I onda zaista imamo ovu situaciju.;0:08:16 - 0:08:18
+Dakle, prvih N je iz nosača od N1,;0:08:18 - 0:08:21
+a sljedećih P je iz nosača od M, ali nije iz nosača od N1.;0:08:21 - 0:08:27
+Ok.;0:08:28 - 0:08:29
+Možeš da mi pričaš?;0:08:31 - 0:08:32
+Da.;0:08:32 - 0:08:33
+Malo sam se punio sad pod ovu...;0:08:34 - 0:08:36
+Ali šta nije da...;0:08:36 - 0:08:38
+Jednostavno, svi oni su iz Unije N1,;0:08:38 - 0:08:42
+dobro, da, iz Unije, kako je to?;0:08:42 - 0:08:44
+Jesu.;0:08:44 - 0:08:45
+I onda su neki iz N1, a neki su iz M, da, iz N1,;0:08:45 - 0:08:48
+i to je to šta...;0:08:48 - 0:08:50
+E, ali pitanje je šta su oni.;0:08:51 - 0:08:54
+Znači, prvo ja imam nekakvu formulu.;0:08:54 - 0:08:56
+Formulu dobijem kao konjunkciju konačno mnogo formula.;0:08:56 - 0:09:00
+Ta formula je nad ovako nekim čudnim objektom,;0:09:00 - 0:09:04
+dakle, sigma M N1.;0:09:04 - 0:09:11
+Znači, sigma kojeg...;0:09:12 - 0:09:14
+Ili zapravo sigma crtica, ček, samo malo.;0:09:14 - 0:09:17
+Dakle...;0:09:18 - 0:09:19
+Ne, to je baš sigma, dobro.;0:09:20 - 0:09:23
+Ali, svamo se čujem, dakle, proširim ga sa svim ovima;0:09:23 - 0:09:26
+i onda to nanovo proširim sa svim ovima.;0:09:26 - 0:09:29
+Teoretički je zamisljivo, prilikom nekakvog...;0:09:29 - 0:09:32
+Ako imate nekakav element koji je iz jednog i iz drugog,;0:09:33 - 0:09:36
+da će on zapravo pri ovoj konstrukciji dobiti dva konstantska simbola.;0:09:36 - 0:09:40
+Dakle, kad bih čisto sintaksno gledao,;0:09:41 - 0:09:44
+popišem sve konstantske simbole koji se pojavljuju u ovoj formuli F,;0:09:44 - 0:09:48
+onda bi se moglo dogoditi da mi bude i ovakav, i ovakav simbol.;0:09:48 - 0:09:52
+Kao različiti konstantski simboli.;0:09:52 - 0:09:55
+Ali onda ih srežem, dakle, napišem ekvivalentnu formulu;0:09:55 - 0:09:59
+koja sve ovakve zamijenjuje, ono, find-replace-om sa ovima;0:09:59 - 0:10:03
+i onda više nemam tu situaciju.;0:10:03 - 0:10:06
+I onda, kažem, ovo...;0:10:06 - 0:10:08
+Naravno da sam ja imao, aha, neka su a1 do an plus p;0:10:09 - 0:10:14
+svi elementi iz unije nosačeva,;0:10:14 - 0:10:18
+koji se na neki način pojavljuju u formuli,;0:10:18 - 0:10:22
+onda bi ovo što ste vjebrali bilo sasvim točno.;0:10:22 - 0:10:24
+Ali ja nemam elemente nosača koji se pojavljuju u formuli,;0:10:24 - 0:10:27
+ja imam konstantske simbole.;0:10:27 - 0:10:29
+Ali sad treba natrag dešifrirati odakle su oni došli.;0:10:29 - 0:10:33
+No, dobro. Dakle, to.;0:10:35 - 0:10:37
+E, to je sad bio lakši dio posla.;0:10:37 - 0:10:39
+Sad teži dio posla, zašto je taj F element;0:10:39 - 0:10:42
+od potpunog dijagrama od M?;0:10:42 - 0:10:46
+Aha, zato što je n1 minus elementarni podmodel od M.;0:10:46 - 0:10:52
+Kakve to veze ima?;0:10:53 - 0:10:55
+Dakle...;0:10:59 - 0:11:01
+Baš mi je čudno ovo.;0:11:10 - 0:11:12
+Mislim da je nešto krivo napisano,;0:11:13 - 0:11:15
+a sad mi je jako teško skužiti šta.;0:11:15 - 0:11:19
+Dobro, znači, ono što svakako vrijedi...;0:11:25 - 0:11:28
+Znači, šta znači elementarni podmodel?;0:11:29 - 0:11:31
+Znači, svaka formula, ne samo rečenica,;0:11:31 - 0:11:35
+nego svaka formula sa valuacijom,;0:11:35 - 0:11:40
+gdje se valuiraju u ovo manjem,;0:11:40 - 0:11:43
+mora jednako vrijediti u manjem kao i u većem.;0:11:43 - 0:11:47
+Ali to zapravo znači da...;0:11:49 - 0:11:51
+Opet sad ova priča, dijagram je zatvoren na konjunkciju.;0:11:55 - 0:12:00
+Da, ali unija dijagrama ne mora biti zatvorena na konjunkciju.;0:12:01 - 0:12:04
+Ali zapravo mora. To je ta fora.;0:12:11 - 0:12:13
+Znači, ajmo ovako.;0:12:13 - 0:12:15
+N1, jednom kad ga srežem,;0:12:16 - 0:12:20
+jest elementarni podmodel od M.;0:12:21 - 0:12:23
+To znači da kad ja ne gledam ove konstantske simbole,;0:12:23 - 0:12:27
+znači kad ih, na primjer, gledam kao variable,;0:12:27 - 0:12:30
+onda je N1 stvarno pravi elementarni podmodel od M.;0:12:32 - 0:12:37
+A onda je zapravo...;0:12:37 - 0:12:39
+Da, onda je potpun dijagram od N1;0:12:40 - 0:12:43
+podskup potpunog dijagrama od M.;0:12:43 - 0:12:46
+Doista ono, nekako sve formule koje vrijede,;0:12:47 - 0:12:50
+skupa sa valuacijama,;0:12:50 - 0:12:52
+ako se interpretiraju u ovo manjem,;0:12:52 - 0:12:55
+moraju vrijediti u ovo većem.;0:12:55 - 0:12:57
+To točno znači elementarni podmodel.;0:12:58 - 0:13:00
+E sad, naravno, kak ja mogu;0:13:00 - 0:13:02
+efektivno zanemariti te konstantske simbole,;0:13:03 - 0:13:08
+to me još malo muči.;0:13:08 - 0:13:10
+Ha, da, ne, sve ok.;0:13:12 - 0:13:14
+Opet, cijelo vrijeme razmišljam kako ću;0:13:14 - 0:13:16
+handle proširenje signature,;0:13:16 - 0:13:18
+ali govorim o dva različita proširenja signature.;0:13:18 - 0:13:20
+Dakle, ovo je proširenje signature;0:13:20 - 0:13:22
+s obzirom na sigma i sigma crtica.;0:13:22 - 0:13:24
+To nema nikakve veze sa ovim novim konstantskim simbolima.;0:13:24 - 0:13:28
+Dakle, oni su novo dodani i što se tiče sigma,;0:13:28 - 0:13:31
+i što se tiče sigma crtica.;0:13:31 - 0:13:33
+Dakle, da, kad maknem ovo tu,;0:13:34 - 0:13:38
+znači, to što ovdje pišem minus,;0:13:38 - 0:13:40
+nema nikakve veze.;0:13:40 - 0:13:42
+Dakle, potpun diagram od n1;0:13:42 - 0:13:44
+je doista podskup od potpunog diagrama od m,;0:13:44 - 0:13:51
+odnosno, kad to presjećam sa formulama;0:13:51 - 0:13:56
+samo nad onom signaturom koja ne koristi konstantske simbole.;0:13:56 - 0:14:00
+E, ali to ne piše, nego piše da je f;0:14:02 - 0:14:04
+sa konstantskim simbolima element diagrama od m.;0:14:04 - 0:14:07
+A to bih stvarno rekao da ne vrijedi.;0:14:07 - 0:14:09
+Dakle, recimo da piše ova formula,;0:14:20 - 0:14:23
+to bi bilo super.;0:14:23 - 0:14:25
+Jer to je ova priča,;0:14:31 - 0:14:33
+dakle, ajde, idemo vidjeti s te strane.;0:14:33 - 0:14:35
+Dakle, jel ja mogu zaključiti da;0:14:35 - 0:14:38
+u svakoj strukturi u kojoj vrijedi potpun diagram od n1;0:14:42 - 0:14:47
+ne vrijedi rečenica f;0:14:48 - 0:14:52
+sa tim konstantskim simbolima.;0:14:53 - 0:14:56
+Uraga.;0:15:02 - 0:15:04
+Ne, ne, mislim da ovo nema smisla.;0:15:07 - 0:15:10
+Mislim da treba ovej,;0:15:10 - 0:15:12
+možda je stvarno nešto zabrljeno sad.;0:15:14 - 0:15:17
+Da ne imamo ovdje tu knjigu;0:15:32 - 0:15:35
+u kojoj je vjerojatno rađeno.;0:15:36 - 0:15:39
+Dobro, idemo gledat Vukovića.;0:15:45 - 0:15:48
+Robin Zanovice, Rim, Konsistentnosti.;0:15:52 - 0:15:55
+Uvijek, uvijek.;0:16:01 - 0:16:03
+Piše, piše to isto.;0:16:20 - 0:16:23
+Uff.;0:16:24 - 0:16:26
+Pa kaj se sviđa s krozom.;0:16:29 - 0:16:32
+Dobro, dakle, zajedno.;0:16:54 - 0:16:57
+Za sad uzmemo ovo na vjeru.;0:17:02 - 0:17:04
+I šta onda možemo zaključiti?;0:17:04 - 0:17:06
+Dakle, danje je vrlo slična situacija;0:17:06 - 0:17:08
+koju smo već imali.;0:17:08 - 0:17:10
+Znači, s obzirom na to da su ovi;0:17:10 - 0:17:13
+a n plus 1 do a n plus p;0:17:13 - 0:17:16
+nisu iz nosača od n1,;0:17:17 - 0:17:20
+ti konstantski simboli se ne pojavljuju;0:17:21 - 0:17:24
+u potpunom dijagramu od n1.;0:17:24 - 0:17:27
+Dakle, da to označim sa te crtica,;0:17:27 - 0:17:29
+to je upravo ona priča od prije.;0:17:29 - 0:17:32
+Dakle, kao i prije mogu zaključiti;0:17:32 - 0:17:34
+da ta teorija, koju sad zovem;0:17:34 - 0:17:36
+potpun dijagram od n1,;0:17:36 - 0:17:38
+zapravo dokazuje univerzalno kvantificiranu formulu;0:17:38 - 0:17:41
+na primjer ovom tu.;0:17:41 - 0:17:43
+I potpuno isto za sve simbole;0:17:43 - 0:17:45
+koji se ne pojavljuju u dijagramu od n1.;0:17:45 - 0:17:49
+Dakle, za sve ove.;0:17:49 - 0:17:51
+Odavdje, kako se ovo dobije,;0:17:51 - 0:17:53
+to se dobije potpuno isto kao u prvoj lemmi.;0:17:53 - 0:17:56
+Dobro, a onda šta kaže,;0:17:58 - 0:18:02
+a naravno, šta znači ovo čisto semantika;0:18:02 - 0:18:06
+interpretacija ovih tu konstantskih simbola;0:18:06 - 0:18:09
+je fiksirana na odgovarajuća ove.;0:18:09 - 0:18:11
+To zapravo znači da jedine variable;0:18:11 - 0:18:15
+koje se zapravo pojavljuju su ove v1 do vp,;0:18:15 - 0:18:18
+dakle, na n1 vrijedi ova tu formula uz valuaciju ovih nekih,;0:18:18 - 0:18:26
+dobro, sad nekako čudno sve skupa nazvane variable,;0:18:26 - 0:18:30
+ali recimo na primjer da sam ove...;0:18:30 - 0:18:33
+Ove sam odlučio nazvat sa x1 do xn,;0:18:34 - 0:18:37
+a ove sam odlučio nazvat sa v1 do vp.;0:18:37 - 0:18:41
+I onda sad kažem, aha, po onoj istoj,;0:18:41 - 0:18:44
+istom razmišljenju kao u prethodnoj lemmi,;0:18:44 - 0:18:48
+v1 za svaki vp, a ne f, nego baš negacija ovdje.;0:18:49 - 0:18:55
+I onda sad kažem, aha, po onoj istoj,;0:18:55 - 0:18:57
+istom razmišljenju kao u prethodnoj lemmi,;0:18:57 - 0:19:00
+v1 vrijedi za svaki v1, za svaki vp, a ne f, nego baš negacija ovdje.;0:19:00 - 0:19:17
+Tako.;0:19:17 - 0:19:18
+A onda sad kažem, aha, ovo tu zapravo znači da sam valuirao...;0:19:28 - 0:19:38
+Da, ne mogu to baš tako pisati.;0:19:43 - 0:19:45
+Mislim da mogu samo ovaj.;0:19:48 - 0:19:50
+N1 vrijedi za svaki v1, za svaki vp,;0:19:52 - 0:19:59
+ne f od x1 do xn, v1 do vp,;0:20:00 - 0:20:08
+pri čemu se ovi x1 do x1 valuiraju sa a1 do a.;0:20:09 - 0:20:15
+Neko dvije hrpe variabli, ali je zapravo ok, jer ove su vezane,;0:20:16 - 0:20:21
+pa njih ne gledam, dakle, ova priča, ove uglate zagade,;0:20:21 - 0:20:25
+svi ih definiraju za slobodne variable,;0:20:25 - 0:20:27
+a slobodne variable ove formuli su samo ovih n.;0:20:27 - 0:20:30
+To je to.;0:20:32 - 0:20:33
+Ali veli na m u vrijedi, egzistencijalno pa devicirana formula, opet, zašto?;0:20:35 - 0:20:42
+Zato što to sad slijedi iz ovog prvog.;0:20:42 - 0:20:46
+Naravno da mogu reći...;0:20:48 - 0:20:50
+Postoje konkretni elementi u nosaču od m,;0:20:53 - 0:20:56
+to su upravo a1 plus 1 do a1 plus p,;0:20:57 - 0:21:01
+takvi da kad s njima valuiram variable v1 do vp,;0:21:04 - 0:21:08
+ovaj f vrijedi s obzirom na preostalu valuaciju,;0:21:09 - 0:21:13
+a preostala valuacija je ona koja x1 do xn valuira sa a1 do a1.;0:21:13 - 0:21:19
+Dakle, više manje ista priča kao i ovdje,;0:21:20 - 0:21:22
+samo sa zamijenjenim redosljedom valuacija.;0:21:22 - 0:21:26
+Tarskjeva semantika, što znači da egzistencijalna kvantifikacija vrijedi;0:21:32 - 0:21:36
+s obzirom na neku valuaciju, znači da imaš valuaciju koja se podudara s njome;0:21:36 - 0:21:41
+na svim ostalim variablama, to ti je točno ovo,;0:21:41 - 0:21:44
+tako da kad u njoj zamijenjiš valuaciju od v1 sa nekim konkretnim objektom,;0:21:45 - 0:21:52
+konkretno a1 plus 1, valuaciju od v2 sa a1 plus 2 itd.,;0:21:52 - 0:21:59
+valuaciju od vp sa a1 plus p, onda ti vrijedi nekvantificirana formula.;0:21:59 - 0:22:05
+To je točno ono što pišem ovdje.;0:22:06 - 0:22:10
+M vrijedi f od x, znači nx, pv ovdje, v1 do vp,;0:22:13 - 0:22:31
+i to je valuirana sa a1 do an i još an plus 1 do an plus n.;0:22:31 - 0:22:44
+I onda sad kažem jednostavno, aha, ovih tu, nekoliko,;0:22:44 - 0:22:54
+s obzirom na to da su oni sigurno u...;0:22:54 - 0:22:59
+Ovi ne more biti u m, još je to nešto bizarno.;0:22:59 - 0:23:10
+Ne mogu ja to ovdje baš pričati.;0:23:11 - 0:23:14
+A1 do an. Aha, ne, sve štima zato što je nosač od n1 je podskup nosača od n.;0:23:15 - 0:23:38
+Znači, to je u redu jer je elementarni podmog.;0:23:39 - 0:23:42
+Dakle, ovi tu su stvarno svi elementi nosača od n, to štima.;0:23:42 - 0:23:48
+Dobro, dakle, da, to vrijedi.;0:23:51 - 0:24:00
+Znači, to stvarno mogu tako valuirati sve marijable,;0:24:00 - 0:24:03
+ali onda mogu jednostavno parcijalno valuirati.;0:24:03 - 0:24:05
+Jednostavno reći, aha, ovo tu ću zamijeniti sa x decimalnim kvantifikatorima,;0:24:05 - 0:24:10
+a ove tu ću ostaviti.;0:24:10 - 0:24:11
+I onda je to direktna kontradikcija sa ovim gornjim,;0:24:11 - 0:24:14
+jer piše da je n1 minus, ali to je u redu jer sad sam maknuo sve stvari;0:24:14 - 0:24:25
+koje su bile s obzirom na ovu veću signatoru.;0:24:25 - 0:24:30
+Jednostavno, da na njemu vrijedi negacija od ove formule koja vrijedi dalje.;0:24:30 - 0:24:39
+To je nemoguće jer bi se oni na toj formuli trebali slagati.;0:24:39 - 0:24:43
+Da, dakle, dalje zapravo ide.;0:24:45 - 0:24:47
+Jedino što, kažem, nije mi uopće jasno odakle ovo i odakle ovo.;0:24:47 - 0:24:53
+Ne.;0:25:01 - 0:25:02
+Mislim, imam snažan osjećaj da se zapravo ovdje ne gleda konjunkcija svih elemenata izvjezi,;0:25:07 - 0:25:13
+nego se gleda konjunkcija samo nekih, možda samo ovih.;0:25:13 - 0:25:16
+Ali onda mi fakat nije jasno odkud ovi ostali.;0:25:16 - 0:25:21
+Aha, aha, aha, ne.;0:25:24 - 0:25:26
+E, to će biti, to će biti.;0:25:27 - 0:25:30
+Ajmo tako, mislim da je to stvar.;0:25:30 - 0:25:33
+Da, da, da, da, da, da, ok.;0:25:37 - 0:25:39
+Znači ovako, to ćemo nazvati S2,;0:25:41 - 0:25:48
+a ovo ćemo nazvati S1 i gledat ćemo konjunkciju svih elementa od S1.;0:25:48 - 0:25:54
+To će tada doista biti,;0:25:55 - 0:25:58
+ne treba mi nikakve ovakve sintaksne bravure,;0:26:04 - 0:26:08
+jer, mislim, to sam sad shvatio kad sam ovdje shvatio,;0:26:08 - 0:26:11
+dakle, neki od njih jesu u nosaču od N1,;0:26:11 - 0:26:16
+ali nosač od N1 je također podskup nosača od N,;0:26:16 - 0:26:20
+jer je elementarni podmodel je podmodel.;0:26:20 - 0:26:22
+Nosač od N1 je isti kao i nosač od N1 minus,;0:26:23 - 0:26:28
+jer N1 minus je, kažem, restrikcija signature,;0:26:28 - 0:26:32
+a ono nema nikakve veze sa smanjivanjem nosača.;0:26:32 - 0:26:37
+Dakle, nosač je isti s obzirom na operaciju minus,;0:26:37 - 0:26:40
+a to je podskup ovdje, jer jednostavno elementarni podmodel je podmodel.;0:26:42 - 0:26:47
+Ok, ne, sad stvari imaju puno više smisla.;0:26:47 - 0:26:50
+Dakle, ovo razdijelim na dva skupa, one koji jesu u D od N nazovem S1;0:26:50 - 0:26:55
+i konjunkciju svih njih nazovem jednostavno F.;0:26:55 - 0:27:01
+E, i sad je stvar u tome, naravno, svi ovi tu su u,;0:27:01 - 0:27:08
+dakle, više manje ovo što ste rekli, samo ne unija, nego jednostavno M.;0:27:08 - 0:27:14
+Dakle, A1 do An plus P su u nosaču od M,;0:27:14 - 0:27:22
+međutim, neki od njih su ujedno i u nosaču od N1.;0:27:22 - 0:27:27
+To jednostavno ih tako rearanžiram da to bude prvih N njih.;0:27:27 - 0:27:31
+Znači, prvih N u ovom tu, znači što je podskup od nosača od M,;0:27:31 - 0:27:41
+a ovaj, ostalih P izmanj.;0:27:42 - 0:27:48
+I sad je, da, sad je svašno jasno da je ovo u diagramu, jer ovaj tu konkretan,;0:27:57 - 0:28:03
+znači S1 je podskup od diagrama od N, a diagram je zatvoren na konjunkciju i stvar prođe.;0:28:03 - 0:28:15
+Zašto na D od N1 ne vrijedi ovo? Zato što S nije ispunjev,;0:28:18 - 0:28:29
+što znači da bilo kakva struktura koja je model za D od N1,;0:28:30 - 0:28:37
+znači, ključno je da je ova S2 podskup od D od N1,;0:28:38 - 0:28:42
+dakle, bilo koja je struktura koja je model za D od N1 bi specialno bila model za S2,;0:28:44 - 0:28:50
+pa ne može biti model za neku formulu odavde.;0:28:50 - 0:28:53
+Odnosno, za neku, za barem jednu formulu odavde nije model.;0:28:54 - 0:28:57
+Pa onda nije model za konjunkciju.;0:28:58 - 0:29:00
+Sve je to potpuno isto kao u predhvrljaju, ono što nije isto je da nekak nemam dvije strukture ovak,;0:29:02 - 0:29:08
+pa sad gledam jednu pa drugu, nego zapravo nemam dvije strukture jednu u drugoj,;0:29:08 - 0:29:13
+zapravo smo ovi svi odavde, ali su neki od njih još i u ovom podskupu.;0:29:13 - 0:29:18
+I onda zapravo sve dalje ide, mislim, ide potpuno ovaj kak smo rekli.;0:29:19 - 0:29:24
+Huh, dobro, da, trebam.;0:29:25 - 0:29:27
+Čovjek se jako, jako zabulji tu to.;0:29:29 - 0:29:31
+O, mislim, ono, najfascinantnije mi je sve ošto znam da sam to držao prošle godine i da mi sve bilo jasno.;0:29:31 - 0:29:37
+Gledam šta se promijenilo, trago, onda biće da sam godinu ja stariji.;0:29:38 - 0:29:42
+A daj, nije to bilo baš prošle godine, to je bilo prije puno godina,;0:29:47 - 0:29:51
+prije pandemije još.;0:29:52 - 0:29:54
+To je zeznuto s ovim doktorskim, što nekako čovjek se nauči taman držati stvari u glavi godinu dana;0:29:59 - 0:30:04
+i onda do sljedećeg predavanja i onda opet reciklira to znanje,;0:30:04 - 0:30:08
+a ovo nekako dođe svake tri ili četiri godine, pa se treba prisjećati.;0:30:08 - 0:30:13
+Ali dobro, mislim, to je onda u redu, onda imamo više razumijovanja za studente kojima se to dogodi.;0:30:14 - 0:30:19
+Uglavnom, Robinson u konzistenosti kaže ovako.;0:30:22 - 0:30:35
+Imam sigmu, imam sigma1, imam sigma2.;0:30:36 - 0:30:41
+Prije sam imao jedan sigma crtica, sad imam dvije različite sigma crtice,;0:30:42 - 0:30:47
+naravno neću ih zvat sigma crtica 1 i sigma crtica 2, nego jednostavno sigma1 i sigma2,;0:30:47 - 0:30:51
+ali kaj ne. U različitim trenutnicima u dokazu igraju ulogu sigma crtica;0:30:51 - 0:30:55
+i sigma je naravno podskup i od jedne i od druge, ali najveći mogući podskup i od jedne i od druge, dakle presjek.;0:30:55 - 0:31:01
+T1 i T2 su sad konsistentne sigma crtica, teorije je samo svakar nad svojom signaturom.;0:31:02 - 0:31:08
+Dakle, T1 je sigma1, teorija konsistentna.;0:31:08 - 0:31:18
+T2 je sigma2, teorija konsistentna.;0:31:21 - 0:31:26
+A T će biti, opet naravno sad mora biti podskup i od jedne i od druge, ali zapravo...;0:31:28 - 0:31:34
+Aha, da, za signaturu baš želimo da bude konkretno presjek, a ovdje samo želimo da bude podskup.;0:31:35 - 0:31:42
+I od T1 i od T2, što se kraće kaže da je podskup od presjeka.;0:31:44 - 0:31:48
+I ona je znači sigma teorija...;0:31:50 - 0:31:53
+Slijede da pajste, to ne treba ni reći. Dakle, činjenica da svaka formula u T;0:31:55 - 0:31:59
+je istodonna formula i u T1 i u T2 znači da ona ne smije koristiti nikakve druge simbole,;0:31:59 - 0:32:03
+osim onih koji su zajednički signaturama i sigma1 i sigma2.;0:32:04 - 0:32:07
+Ovo ne treba posebno naglašavati, ali korisno je shvatiti da je teorija i...;0:32:08 - 0:32:16
+Aha, to piše na početku.;0:32:21 - 0:32:23
+Situacija kao za ove leme, ali jedino što se ova T crtica razdvojila na dva dijela;0:32:29 - 0:32:34
+i njezina signatura se razdvojila na dva dijela.;0:32:35 - 0:32:37
+Neko će reći da je možda dodatni uvid to što je ovaj sigma baš jednak sigma1 presjek sigma2,;0:32:38 - 0:32:43
+ali zapravo nije, jer uvijek mogu nadebljati signaturom.;0:32:44 - 0:32:46
+Mislim, ako je T nad nekom signaturom koji je podskupio sigma1 i sigma2,;0:32:47 - 0:32:50
+onda je sigurno i nad signaturom koji je baš presjek.;0:32:51 - 0:32:53
+To nije ništa jače.;0:32:54 - 0:32:56
+E, i ono što zapravo kaže Robinsonov teorem, tada je T1 unija T2 konsistentna.;0:33:00 - 0:33:08
+Dakle, nekako, ako one...;0:33:11 - 0:33:12
+Naravno da unija dvije konsistentne teorije ne mora biti konsistentna,;0:33:13 - 0:33:17
+čak i ako imaju nekakav popriličan presjek.;0:33:18 - 0:33:20
+Ali, ako imaju potpun presjek, onda zapravo da.;0:33:21 - 0:33:24
+Ono što im je zajedničko je u potpunosti semantičko,;0:33:25 - 0:33:31
+dakle, zna točno što vrijedi, što ne vrijedi.;0:33:32 - 0:33:34
+Onda zapravo one ne mogu međusobno biti u kontradikciji.;0:33:35 - 0:33:38
+Odnosno, može svaka od njih biti kontradiktorna,;0:33:39 - 0:33:40
+ali ako je svaka od njih zasebno konsistentna,;0:33:41 - 0:33:42
+a tamo gdje se presjecaju je potpuno, onda je unija konsistentna.;0:33:43 - 0:33:48
+Nekako biće uvijek možda naivno mislio da vrijedi puno više.;0:33:49 - 0:33:51
+Da, ako su dvije teorije konsistentne i njihov presjek je konsistentan,;0:33:51 - 0:33:55
+da je onda i unija konsistentna, ali naravno to ne vrijedi.;0:33:55 - 0:33:57
+Jednu od njih proširite sa P, a drugu proširite sa ne P,;0:33:58 - 0:34:02
+a presjeku stavite nešto konsistentno i naravno da unija nije konsistentna.;0:34:03 - 0:34:06
+No, dobro. Dakle, kak se ovo dokaže?;0:34:10 - 0:34:13
+T1 je konsistentna, pa postoji model N1 na kojem vrijedi T1.;0:34:13 - 0:34:36
+I sad kažem ovako, ovo je nešto što ćemo uvijek iznova koristiti.;0:34:38 - 0:34:42
+Znači, T1 je nadskupod T, ali T je sigma teorija.;0:34:43 - 0:34:50
+T je teorija nad manjom signaturom, a sve formule iz T vrijede u N1.;0:34:52 - 0:34:59
+Dakle, naravno da onda vrijede i u N1 minus.;0:35:00 - 0:35:05
+Znači, ako imam siromašnju teoriju, u smislu siromašnje izražajnosti,;0:35:06 - 0:35:13
+koja vrijedi u bogatije izražajnoj strukturi, onda kad joj siromašnim tu strukturu teorija će i dalje vrijediti.;0:35:14 - 0:35:19
+U njoj se ne spominju nikakve ti dodatne simboli u sigma1 bez sigma.;0:35:20 - 0:35:24
+Ej sad, kaže prva lema, znači, prvu lemu koristim samo na početku,;0:35:25 - 0:35:30
+a drugu lemu koristim kasnije. Prva lema je kao nekakva baza,;0:35:31 - 0:35:33
+druga lema je kao nekakav korak, možemo reći, indukcije.;0:35:33 - 0:35:36
+Dakle, lema 1 kaže postoji N1 crtica, model za teoriju T2,;0:35:37 - 0:35:48
+koja je opet nackup od T, T je sigma teorija.;0:35:49 - 0:35:53
+Dakle, iz toga slijedi da N1 crtica minus također na njemu vrijedi T.;0:35:53 - 0:36:04
+Ali i više od toga, dakle, lema 1 je rekla, dakle, imaš model za T2,;0:36:05 - 0:36:09
+evo tu piše, koji je, kada ga osiromašiš, elementarni nadmodel od ovog početnog za T2,;0:36:10 - 0:36:19
+a početni za T2...;0:36:19 - 0:36:21
+N1 minus...;0:36:33 - 0:36:36
+Aha, ne, ne, takde je model za onu manju teoriju,;0:36:43 - 0:36:47
+a manja teorija je uvijek T. Dakle, i za T1 i za T2, ona niža teorija je T.;0:36:47 - 0:36:51
+Znači, zapravo uzmem isti ovaj N1.;0:36:51 - 0:36:54
+N1 crtica minus je elementarni podmodel od N1 minus.;0:36:56 - 0:37:03
+Dakle, ne, obanuto.;0:37:03 - 0:37:09
+A, ne, elementarni nadmodel, lema mi dade ovaj N1 crtica,;0:37:10 - 0:37:16
+takav da je ovaj tu, znači onaj koji je bio model za manju teoriju,;0:37:17 - 0:37:22
+je elementarni podmodel od minusa od onoga koji je model za veću teoriju,;0:37:22 - 0:37:28
+u kojoj je u ovom slučaju T2.;0:37:28 - 0:37:30
+Dobro. E, i sad, lema 2 kaže postoji N2 koji je model za T1.;0:37:31 - 0:37:44
+Znači sad, mislim, lema 2 kaže zapravo, evo sad mi je,;0:37:45 - 0:37:51
+T mi je uvijek ta niža teorija, a viša teorija mi je sad T1.;0:37:52 - 0:37:57
+Model za T1, takav da opet sad, ovo je potpuno isto,;0:38:01 - 0:38:05
+to je nadskup od T, T sigma teorija,;0:38:05 - 0:38:08
+dakle slijedi da N2 minus također vrijedi T, ali i više.;0:38:09 - 0:38:17
+Dakle, uzmem si ovaj tu kao onaj na kojem vrijedi manja teorija,;0:38:18 - 0:38:23
+pa od njega dobijem elementarni nadmodel.;0:38:24 - 0:38:27
+Dakle, N1 crtica minus je elementarni podmodel od N2 minus.;0:38:27 - 0:38:41
+Od ovog tu kojeg sam dobio osjiromašnjog.;0:38:42 - 0:38:45
+E, ali, lema 1 je rekla dvije stvari, lema 2 je rekla tri stvari.;0:38:45 - 0:38:50
+Znači, rekla je da još imaš što?;0:38:50 - 0:38:53
+Što? Ovo ga tu sam iskoristio, a ovo ga tu nisam iskoristio,;0:38:53 - 0:39:00
+znači N1 je, oni se baš tako zovu, N1 je također elementarni podmodel od N2.;0:39:00 - 0:39:08
+Dobro, i sad opet, na N2 minus ponovno primijenim lemu 2.;0:39:15 - 0:39:20
+Znači dobijem N2 crtica, koji je modo za teoriju T2, i tako dalje.;0:39:21 - 0:39:31
+I sad što zapravo, kad negako natrtam što sam tu napravio,;0:39:32 - 0:39:37
+možda bi bilo korisno imat na slajdu, ali,;0:39:37 - 0:39:41
+uglavnom imamo negakav niz, niz modela.;0:39:42 - 0:39:47
+I sad kažem da te leme više ne trebaju.;0:39:48 - 0:39:51
+Ovi sa crticama su modeli za T2, a ovi bez crtica su modeli za T1.;0:39:54 - 0:40:00
+To je nomenklatura.;0:40:00 - 0:40:02
+Dakle, N1, N2, N3, i tako dalje.;0:40:03 - 0:40:14
+N1 crtica, N2 crtica, N3 crtica, i tako dalje.;0:40:15 - 0:40:22
+Svaki NN je elementarni podmodel od NN plus 1, naravno.;0:40:24 - 0:40:30
+Znači svaki od ovih je, znači to je ona primjera leme 2 nam dala.;0:40:30 - 0:40:37
+Međutim, ne samo to, dobro, isto tako i za,;0:40:39 - 0:40:43
+dajmo reći, ne parnim primjerama leme 2 dobijem ovo,;0:40:45 - 0:40:49
+uparnim primjerama leme 2 dobijem ovo.;0:40:49 - 0:40:51
+Međutim, ne samo to, to je ono, lema 2 daje ovaj direktni niz elementarnih podmodela,;0:40:52 - 0:40:58
+ali daje ovaj unakarsni niz, jer svakako put kaže,;0:40:58 - 0:41:01
+on ti je zapravo podmodel ili ono drugo, ali naravno sa minusom,;0:41:01 - 0:41:04
+jer ne možeš, to više nije nad istom signaturom,;0:41:04 - 0:41:10
+ali kad gledaš nad signaturom sigma, onda vrijedi.;0:41:10 - 0:41:13
+Dakle, e sad, naravno, to nije simetrično jer od nekog smo krenuli.;0:41:13 - 0:41:18
+Dakle, valjda ovih horizontalni su bez crtica manji,;0:41:18 - 0:41:23
+a sa crticama veći.;0:41:23 - 0:41:25
+Možemo to ovak nekako znači, znači to je kao elementarni podmodel,;0:41:29 - 0:41:33
+ali s minusima na obje strane, dakle gledamo samo nad sigma.;0:41:33 - 0:41:36
+I, znači, to je opet svuda.;0:41:39 - 0:41:42
+I, I, I, N, N je sa crticom podmodel od onog sljedećeg, da,;0:41:48 - 0:41:56
+znači to je ova dijagonala ovak.;0:41:56 - 0:41:59
+I tako dalje. Znači, nekako, ova, ova minus proširenja idu ovako,;0:42:08 - 0:42:16
+znači sigma, gledamo samo nad sigma imam, imam ovako neku zmiju,;0:42:16 - 0:42:21
+gledamo nad sigma 1 imam ovu zmiju, gledamo nad sigma 2 imam ovu zmiju.;0:42:21 - 0:42:25
+Elementarnih podmodela.;0:42:25 - 0:42:27
+I sad, naravno, ovo tu označim uniju sa N,;0:42:27 - 0:42:36
+a ovu tu uniju označim sa N crtica,;0:42:36 - 0:42:40
+i onda mogu reći, naravno, da je ovo model za T1,;0:42:40 - 0:42:47
+ovo je model za T2, jesu svi ovi modeli za T1,;0:42:47 - 0:42:51
+ovo je model za T2, dovoljno da zapravo negdje imam,;0:42:51 - 0:42:55
+ovaj tu je model za T1, iz toga već zahvjučujem da je unija model za T1,;0:42:55 - 0:43:01
+jer je elementarni vanac, sve se čuva.;0:43:01 - 0:43:05
+I pritom je očito, naravno, sa minusima ovo.;0:43:06 - 0:43:13
+N minus je elementarni podmodel od N crtica minus.;0:43:14 - 0:43:19
+I to je to. To zapravo znači da ja mogu promatrat strukturu N unija,;0:43:22 - 0:43:28
+ja sad krivo reći sungna, ali dakle, slaže se unija N i N crtica.;0:43:28 - 0:43:35
+Jer jedino mjesto gdje se mogu klešati definicije,;0:43:35 - 0:43:40
+interpretacija, je nad sigma, a tamo se pododajaju.;0:43:41 - 0:43:46
+Dobro. I dakle, naravno, na njoj će vrijedi sve formule iz T1;0:43:47 - 0:43:52
+i vrijedi će sve formule iz T2. Dakle, to će biti model za uniju,;0:43:53 - 0:43:57
+odnosno unija je pozistentna.;0:43:57 - 0:44:01
+Huh! Dobro. To je to.;0:44:01 - 0:44:05
+Ima pitanje, možda online? Ne? Ok.;0:44:06 - 0:44:10
