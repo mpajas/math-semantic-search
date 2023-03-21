@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# model
+MathBERT_hr/
+mathbert_model.pkl
+
+# audio files
+lecture_audio_files/
