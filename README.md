@@ -3,7 +3,7 @@ Repository contains transcriptions of my PhD lectures in Mathematical Logic and 
 
 You can find the complete solution with 35+ hours of lectures in Mathematical Logic searchable by fine-tuned MathBERT model hosted on [HuggingFace Space](https://huggingface.co/spaces/TamedWicked/math-lectures-semantic-search), or here if you prefer a [direct url](https://tamedwicked-math-lectures-semantic-search.hf.space/).
 
-Each queries will result in top 5 results with relevant youtube links with exact timestamps where the speech happened during the lecture.
+Each query will result in top 5 results with relevant youtube links with exact timestamps where the speech happened during the lecture.
 
 It is a work in progress as Google Colab regularly blocks my runtimes due to me abusing their free service. :)
 Once completed it will contain 35+ full lectures of text, completely searchable through semantic similarity or by just plainly querying questions that come up during my study of the material.
